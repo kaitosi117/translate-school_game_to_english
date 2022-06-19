@@ -4792,6 +4792,7 @@ translate english ayano101_b8a345d8:
 translate english ayano101_4bd9b552:
 
     # glgg "Странные у тебя намеки... Изначально клуб - сборище людей по интересам, а не укромный уголочек для двух человек. Не забывай про это."
+    glgg "Your words are strange... A club is a gathering of people with similar interests and not a secluded corner for just two people. Don't forget that."
 
 # game/act.rpy:2052
 translate english ayano101_aa168fdf:
@@ -4911,7 +4912,7 @@ translate english ayano100_18de4c4f:
 translate english ayano100_a49f11e7:
 
     # glgg "Ну... Можешь потратить на микроволновую печь. Ты ее, вроде как, давно еще хотела купить, чтобы разогревать купленную в супермаркетах еду."
-    glgg "Well... you can spend it on a microwave oven. You've been wanting to buy it for a long time."
+    glgg "Well... you can spend it on a microwave oven. You've been wanting to buy one for a long time now."
 
 # game/act.rpy:2099
 translate english ayano100_4fd3330f:
