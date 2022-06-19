@@ -82,7 +82,7 @@ translate english occult_book_guide_fd586e60:
 translate english occult_book_guide_a06555b2:
 
     # ayanogg1 "Ох! Я поняла! Мы же играем в молчанку, верно?"
-    ayanogg1 "Oh ! I get it! We're playing silent, right?"
+    ayanogg1 "Oh! I get it! We're playing silent, right?"
 
 # game/act.rpy:114
 translate english occult_book_guide_fd586e60_1:
@@ -1828,7 +1828,7 @@ translate english ayano_TC_2a44c2a0:
 translate english ayano_TC_120926f8:
 
     # glgg "Да не особо... В конце-то концов не я упал, ударившись затылком. Тебе вообще повезло, что обошлось без травм."
-    glgg "Not really... It wasn't me who fell and hit the back of my head.  You're lucky there were no injuries at all."
+    glgg "Not really... It wasn't me who fell and hit the back of my head. You're lucky there were no injuries at all."
 
 # game/act.rpy:862
 translate english ayano_TC_aa168fdf:
@@ -4792,7 +4792,7 @@ translate english ayano101_b8a345d8:
 translate english ayano101_4bd9b552:
 
     # glgg "Странные у тебя намеки... Изначально клуб - сборище людей по интересам, а не укромный уголочек для двух человек. Не забывай про это."
-    glgg "Your words are strange... The club  a gathering of people with interests and not a secluded corner for just two people. Don't forget that."
+    glgg "Your words are strange... A club is a gathering of people with similar interests and not a secluded corner for just two people. Don't forget that."
 
 # game/act.rpy:2052
 translate english ayano101_aa168fdf:
@@ -4834,7 +4834,7 @@ translate english ayano100_bca2c29c:
 translate english ayano100_06b0a979:
 
     # ayanogg1 "Куда нам девать эти деньжища! Это же... Это же целая куча кредитов, а нас в клубе только два человека..."
-    ayanogg1 "Where do we put this money? It's a bunch of credits, and there are only two of us in the club..."
+    ayanogg1 "What are we going to do with all of this money? It's a bunch of credits, and there are only two of us in the club..."
 
 # game/act.rpy:2078
 translate english ayano100_04bc4059:
@@ -4906,13 +4906,13 @@ translate english ayano100_eab90507:
 translate english ayano100_18de4c4f:
 
     # ayanogg1 "КУДА НАМ ТРАТИТЬ ЭТИ ДЕНЬЖИЩА?!"
-    ayanogg1 "WHERE ARE WE GOING TO SPEND THIS MONEY NOW?!"
+    ayanogg1 "WHAT ARE WE GOING TO SPEND THIS MONEY ON?!"
 
 # game/act.rpy:2097
 translate english ayano100_a49f11e7:
 
     # glgg "Ну... Можешь потратить на микроволновую печь. Ты ее, вроде как, давно еще хотела купить, чтобы разогревать купленную в супермаркетах еду."
-    glgg "Well... you can spend it on a microwave oven. You've been wanting to buy it for a long time."
+    glgg "Well... you can spend it on a microwave oven. You've been wanting to buy one for a long time now."
 
 # game/act.rpy:2099
 translate english ayano100_4fd3330f:
@@ -4924,7 +4924,7 @@ translate english ayano100_4fd3330f:
 translate english ayano100_82f77e1d:
 
     # glgg "А разве мне нужны были причины, чтобы сделать тебе приятно?"
-    glgg "Did I need reasons to make you feel good?"
+    glgg "Did I need a reason to make you happy?"
 
 # game/act.rpy:2102
 translate english ayano100_cfb0b74f:
@@ -8692,7 +8692,7 @@ translate english perfomance_ayano_38db2cf9:
 translate english perfomance_ayano_33dd764e:
 
     # glgg "Видимо, в словаре те слова были на самом видном месте... Аяно, я понимаю, что тебе хочется думать так, как тебе удобно, но все же не задумывайся о подобном. Это чревато напряжение мозга."
-    glgg "Those words were probably in the most prominent place of your vocabulary...  Ayano, I understand that you want to think the way you feel comfortable, but still don't think about such a thing. This is fraught with brain strain."
+    glgg "Those words were probably in the most prominent place of your vocabulary... Ayano, I understand that you want to think the way you feel comfortable, but still don't think about such a thing. This is fraught with brain strain."
 
 # game/act.rpy:5390
 translate english perfomance_ayano_76653ae2:
@@ -13845,7 +13845,7 @@ translate english ayano_TC_2d480a1d:
 translate english ayano_TC_0fe18d30:
 
     # glgg "Да не особо... В конце-то концов не я упал, ударившись затылком. Тебе вообще повезло, что обошлось без травм."
-    glgg "Not really... It wasn't me who fell and hit the back of my head.  You're lucky there were no injuries at all."
+    glgg "Not really... It wasn't me who fell and hit the back of my head. You're lucky there were no injuries at all."
 
 # game/act.rpy:877
 translate english ayano_TC_2d79ace1:
@@ -16593,7 +16593,7 @@ translate english perfomance_ayano_215f5b7f:
 translate english perfomance_ayano_7cd9b5bf:
 
     # glgg "Видимо, в словаре те слова были на самом видном месте... Аяно, я понимаю, что тебе хочется думать так, как тебе удобно, но все же не задумывайся о подобном. Это чревато напряжение мозга."
-    glgg "Those words were in the most prominent place of your internal dictionary...  Ayano, I understand that you want to think the way you feel comfortable, but still don't think about such things. This is fraught with brain strain."
+    glgg "Those words were in the most prominent place of your internal dictionary... Ayano, I understand that you want to think the way you feel comfortable, but still don't think about such things. This is fraught with brain strain."
 
 # game/act.rpy:5955
 translate english perfomance_ayano_122051c4:
