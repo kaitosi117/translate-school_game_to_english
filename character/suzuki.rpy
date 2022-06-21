@@ -3989,7 +3989,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_3d61ebed:
 translate english suzuki_call_number_rep_rep_asa_axa_a349f4fb:
 
     # "Сняв всю одежду, но уже с вас, девушка трогала стоячий половой орган, водя своей ручкой и вверх, и вниз, пока из него не потекла куперова жидкость, ставшая для вашей партнерши неким сигналом для старта..."
-    "After taking off all her clothes, but already from you, the girl touched the erect penis, moving her hand up and down, until the Cowper's fluid flowed out of it, which became kind of a signal for your partner to start..."
+    "After both of you and your partner are completely naked, The girl grabbed the erect penis, moving her hand up and down, until the Cowper's fluid flowed out of it, which became kind of a signal for your partner to start..."
 
 # game/character/suzuki.rpy:670
 translate english suzuki_call_number_rep_rep_asa_axa_d9a40904:
@@ -4049,7 +4049,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_a6fe8571:
 translate english suzuki_call_number_rep_rep_asa_axa_ebf14a3c:
 
     # "Проснулись вы от лёгкого толчка ногой со стороны Сузуки, лежавшей и смотревшей на вас своими ярко-голубыми глазками."
-    "You woke up from a slight push by the foot from Suzuki, who was lying and looking at you with her bright blue eyes."
+    "You woke up from a slight push by Suzuki's foot, who was lying and looking at you with her bright blue eyes."
 
 # game/character/suzuki.rpy:726
 translate english suzuki_call_number_rep_rep_asa_axa_52d99e43:
