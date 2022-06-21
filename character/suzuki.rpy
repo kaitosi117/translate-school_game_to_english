@@ -3989,7 +3989,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_3d61ebed:
 translate english suzuki_call_number_rep_rep_asa_axa_a349f4fb:
 
     # "Сняв всю одежду, но уже с вас, девушка трогала стоячий половой орган, водя своей ручкой и вверх, и вниз, пока из него не потекла куперова жидкость, ставшая для вашей партнерши неким сигналом для старта..."
-    "After both of you and your partner are completely naked, The girl grabbed the erect penis, moving her hand up and down, until the Cowper's fluid flowed out of it, which became kind of a signal for your partner to start..."
+    "After both of you and your partner are completely naked, the girl grabbed the erect penis, moving her hand up and down, until the Cowper's fluid flowed out of it, which became kind of a signal for your partner to start..."
 
 # game/character/suzuki.rpy:670
 translate english suzuki_call_number_rep_rep_asa_axa_d9a40904:
