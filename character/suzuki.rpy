@@ -4730,7 +4730,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_ff378900:
 translate english suzuki_call_number_rep_rep_asa_axa_a06abd11:
 
     # suzuku "А я-то думала, что ты вновь скажешь что-то колкое..."
-    suzuku "And I thought you will say something sarcastic..."
+    suzuku "And I thought you would say something sarcastic..."
 
 # game/character/suzuki.rpy:731
 translate english suzuki_call_number_rep_rep_asa_axa_e142c1f5:
