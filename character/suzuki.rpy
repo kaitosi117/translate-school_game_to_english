@@ -1636,7 +1636,7 @@ translate english suzuki_call_number_3d61ebed:
 translate english suzuki_call_number_a349f4fb:
 
     # "Сняв всю одежду, но уже с вас, девушка трогала стоячий половой орган, водя своей ручкой и вверх, и вниз, пока из него не потекла куперова жидкость, ставшая для вашей партнерши неким сигналом для старта..."
-    "Removing all the clothes, but with you, girl touching erect penis, leading his knob and up and down until it does not drip kuperova liquid that became your partner's a kind of signal to start..."
+    "After taking off all her clothes, but already from you, the girl touched the erect penis, moving her hand up and down, until the Cowper's fluid flowed out of it, which became kind of a signal for your partner to start..."
 
 # game/character/suzuki.rpy:584
 translate english suzuki_call_number_d9a40904:
@@ -3989,7 +3989,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_3d61ebed:
 translate english suzuki_call_number_rep_rep_asa_axa_a349f4fb:
 
     # "Сняв всю одежду, но уже с вас, девушка трогала стоячий половой орган, водя своей ручкой и вверх, и вниз, пока из него не потекла куперова жидкость, ставшая для вашей партнерши неким сигналом для старта..."
-    "After taking off all her clothes, but already from you, the girl touched the erect sexual organ, moving her pen up and down, until the cooper's liquid flowed out of it, which became a kind of signal for your partner to start..."
+    "After both of you and your partner are completely naked, the girl grabbed the erect penis, moving her hand up and down, until the Cowper's fluid flowed out of it, which became kind of a signal for your partner to start..."
 
 # game/character/suzuki.rpy:670
 translate english suzuki_call_number_rep_rep_asa_axa_d9a40904:
@@ -4049,7 +4049,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_a6fe8571:
 translate english suzuki_call_number_rep_rep_asa_axa_ebf14a3c:
 
     # "Проснулись вы от лёгкого толчка ногой со стороны Сузуки, лежавшей и смотревшей на вас своими ярко-голубыми глазками."
-    "You woke up from a slight push with your foot from Suzuki, who was lying and looking at you with her bright blue eyes."
+    "You woke up from a slight push by Suzuki's foot, who was lying and looking at you with her bright blue eyes."
 
 # game/character/suzuki.rpy:726
 translate english suzuki_call_number_rep_rep_asa_axa_52d99e43:
@@ -4730,7 +4730,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_ff378900:
 translate english suzuki_call_number_rep_rep_asa_axa_a06abd11:
 
     # suzuku "А я-то думала, что ты вновь скажешь что-то колкое..."
-    suzuku "And I thought you will say something sarcastic..."
+    suzuku "And I thought you would say something sarcastic..."
 
 # game/character/suzuki.rpy:731
 translate english suzuki_call_number_rep_rep_asa_axa_e142c1f5:
