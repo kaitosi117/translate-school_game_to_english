@@ -1738,7 +1738,7 @@ translate english suzuki_call_number_be4b7b27:
 translate english suzuki_call_number_fa36315b:
 
     # suzuku "Точно дурак... Сейчас так и сделаю, но если вдруг я стану матерью, то спокойной жизни тебе не видать, будущий отец."
-    suzuku "Just a fool... Now I will, but if I'm a mother, that quiet life you can not see the future father."
+    suzuku "Just a fool... Now I will, but if I'm a mother, then you will not see a quiet life, future father."
 
 # game/character/suzuki.rpy:650
 translate english suzuki_call_number_ea389826:
@@ -1756,7 +1756,7 @@ translate english suzuki_call_number_35332b08:
 translate english suzuki_call_number_c9318fc8:
 
     # "Вновь плюхнувшись на кровать своей пятой точкой, вы начали дожидаться вашу гостью..."
-    "Once again flopping down on the bed with my butt, you start to wait for your guest..."
+    "Once again flopping down on the bed with your butt, you start to wait for your guest..."
 
 # game/character/suzuki.rpy:667
 translate english suzuki_call_number_0fd2ec7c:
@@ -1798,7 +1798,7 @@ translate english suzuki_call_number_854c9a21:
 translate english suzuki_call_number_36ee34dd:
 
     # suzuku "Не волнуйся ты так... Все будет хорошо, а сейчас мне нужно на работу. Позвони мне вновь, как будет время."
-    suzuku "Don't worry... Everything will be fine, and now I need to work. Call me again, as you have time."
+    suzuku "Don't worry... Everything will be fine, and now I need to work. Call me again, if you have time."
 
 # game/character/suzuki.rpy:690
 translate english suzuki_call_number_c79e2dad:
@@ -2254,7 +2254,7 @@ translate english suzuki_call_number123123_fa6c2343:
 translate english suzuki_call_number123123_27ded060:
 
     # "Упав своей пятой точкой на вашу постель, Сузуки смотрела на вас глазами, которые были полны действительного и неподдельного интереса к вашей персоне."
-    "Falling down with my butt on your bed, Suzuki looked at you with eyes that were filled with true and genuine interest in your person."
+    "Falling down with your butt on your bed, Suzuki looked at you with eyes that were filled with true and genuine interest in your person."
 
 # game/character/suzuki.rpy:1013
 translate english suzuki_call_number123123_0a9212ee:
@@ -4181,7 +4181,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_77a0f65a:
 translate english suzuki_call_number_rep_rep_asa_axa_58a92074:
 
     # suzuku "Ну ты и засранец..."
-    suzuku "What an asshole you are..."
+    suzuku "Asshole..."
 
 # game/character/suzuki.rpy:825
 translate english suzuki_call_number_rep_rep_asa_axa_a7f2cdc7:
@@ -4613,7 +4613,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_77a0f65a_1:
 translate english suzuki_call_number_rep_rep_asa_axa_58a92074_1:
 
     # suzuku "Ну ты и засранец..."
-    suzuku "What an asshole you are..."
+    suzuku "Asshole..."
 
 # game/character/suzuki.rpy:1097
 translate english suzuki_call_number_rep_rep_asa_axa_a7f2cdc7_1:
@@ -4742,13 +4742,13 @@ translate english suzuki_call_number_rep_rep_asa_axa_e142c1f5:
 translate english suzuki_call_number_rep_rep_asa_axa_828ddc56:
 
     # suzuku "Точно дурак... Сейчас так и сделаю, но если вдруг я стану матерью, то спокойной жизни тебе не видать, будущий отец."
-    suzuku "Just a fool... Now I will, but if I'm a mother, that quiet life you can not see the future father."
+    suzuku "Just a fool... Now I will, but if I'm a mother, then you will not see a quiet life, future father."
 
 # game/character/suzuki.rpy:736
 translate english suzuki_call_number_rep_rep_asa_axa_be6b531f:
 
     # "Вновь плюхнувшись на кровать своей пятой точкой, вы начали дожидаться вашу гостью..."
-    "Once again flopping down on the bed with my butt, you start to wait for your guest..."
+    "Once again flopping down on the bed with your butt, you start to wait for your guest..."
 
 # game/character/suzuki.rpy:776
 translate english suzuki_call_number_rep_rep_asa_axa_f6959ebe:
@@ -4772,7 +4772,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_fac89a6c:
 translate english suzuki_call_number_rep_rep_asa_axa_fc1ad4d1:
 
     # suzuku "Не волнуйся ты так... Все будет хорошо, а сейчас мне нужно на работу. Позвони мне вновь, как будет время."
-    suzuku "Don't worry... Everything will be fine, and now I need to work. Call me again, as you have time."
+    suzuku "Don't worry... Everything will be fine, and now I need to work. Call me again, if you have time."
 
 # game/character/suzuki.rpy:821
 translate english suzuki_call_number_rep_rep_asa_axa_9df2ba2c:
@@ -4790,7 +4790,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_9c3728c1:
 translate english suzuki_call_number_rep_rep_asa_axa_efa00ab3:
 
     # suzuku "Ну ты и засранец..."
-    suzuku "What an asshole you are..."
+    suzuku "Asshole..."
 
 # game/character/suzuki.rpy:837
 translate english suzuki_call_number_rep_rep_asa_axa_c0810be8:
@@ -4952,7 +4952,7 @@ translate english suzuki_call_number_rep_rep_asa_axa_9c3728c1_1:
 translate english suzuki_call_number_rep_rep_asa_axa_efa00ab3_1:
 
     # suzuku "Ну ты и засранец..."
-    suzuku "What an asshole you are..."
+    suzuku "Asshole..."
 # TODO: Translation updated at 2022-03-03 01:30
 
 # game/character/suzuki.rpy:668
