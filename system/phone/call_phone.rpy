@@ -10,7 +10,7 @@ translate english call_hover_346e8436:
 translate english call_hover_fac3aab7:
 
     # "Позвонив по знакомому номеру и прождав долгожданного ответа, в скором временем вы в действительности услышали голос вашего собеседника, который спросил вас о цели звонка..."
-    "After calling a familiar number and waiting for the long-awaited answer, soon you actually heard the voice of your interlocutor who asked you about the purpose of the call..."
+    "After calling a familiar number and waiting for it to be answered, soon you actually heard the voice of your interlocutor who asked you about the purpose of the call..."
 
 # game/system/phone/call_phone.rpy:56
 translate english call_hover_2e3eec3d:
