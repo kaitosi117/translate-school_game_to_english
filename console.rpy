@@ -4,7 +4,7 @@ translate english strings:
 
     # game/console.rpy:4
     old "Введите нужное вам значение."
-    new "Enter value you need."
+    new "Enter the value you need."
 
     # game/console.rpy:5
     old "{color=000000}Деньги"

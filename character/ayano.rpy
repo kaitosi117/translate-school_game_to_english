@@ -7082,3 +7082,595 @@ translate english ayano_home_e2_cfb1922c:
 
     # ayanogg1 "Но не при моментах, когда кроме небольших изменений, есть и очень значительные, к примеру, когда на них всего-то нижнее белье. "
     ayanogg1 "But not at moments when, in addition to small changes, there are also very significant ones, for example, when they are wearing only underwear."
+# TODO: Translation updated at 2022-06-25 16:38
+
+# game/character/ayano.rpy:3701
+translate english new_line_ayanp1_9d815253:
+
+    # "[player_name], пожалуйста, зайдите в кабинет студенческого совета."
+    "[player_name], please go to the student council office."
+
+# game/character/ayano.rpy:3702
+translate english new_line_ayanp1_4221cda7:
+
+    # "Внезапный голос из динамика близ вас немного… Выбил вас из колеи, заставив лишний раз обернуться в сторону нарушителя вашего спокойствия."
+    "A sudden voice from a speaker near you unsettled you a little, forcing you to once again turn towards the disturber of your peace."
+
+# game/character/ayano.rpy:3703
+translate english new_line_ayanp1_26546d5a:
+
+    # "Впрочем, то же самое сделали не только вы, но и все находящиеся в коридоре, кто ровно так же, как и вы, чуть не получили сердечный приступ от такой резкости."
+    "However, not only you did the same, but everyone in the corridor, who, just like you, almost got a heart attack from such harshness."
+
+# game/character/ayano.rpy:3704
+translate english new_line_ayanp1_b7430385:
+
+    # glgg "Опять?.."
+    glgg "Again?.."
+
+# game/character/ayano.rpy:3705
+translate english new_line_ayanp1_a84605fc:
+
+    # "Став уже слишком частым гостем в кабинете студенческого совета, вы долго гадали когда же закончатся эти постоянные призывы и приглашения, но что-то вам подсказывало, что ваша знакомая, Юки Оота, не отступится и не прервет этот порочный круг."
+    "Having already become too frequent a guest in the student council office, you wondered for a long time when these constant calls and invitations would end, but something told you that your friend, Yuki Oota, would not back down and break this vicious circle."
+
+# game/character/ayano.rpy:3706
+translate english new_line_ayanp1_c51ae270:
+
+    # "Ну, а если вы еще и будете игнорировать все ее резкие предложения – они продолжатся, но с новой силой, так еще и с ужасающими нервотрепками… Именно поэтому-то вы и решили не игнорировать все это."
+    "Well, if you also ignore all her harsh proposals, they will continue, but with renewed vigor, and also with terrifying hassle... That is why you decided not to ignore all this."
+
+# game/character/ayano.rpy:3708
+translate english new_line_ayanp1_b427df5f:
+
+    # "Уже стоя возле входной двери в кабинет студенческого совета, вы без лишних мыслей зашли туда и, прикрыв за собой дверь, присели прямо возле сидящей на своем привычном месте главе."
+    "Already standing near the front door to the student council office, you entered there without any extra thoughts and, closing the door behind you, sat down right next to the head sitting in his usual place."
+
+# game/character/ayano.rpy:3709
+translate english new_line_ayanp1_73a5431d:
+
+    # glgg "Итак… Кажется, ты уже привыкла меня вызывать таким образом. Разве у тебя нет моего номера телефона?"
+    glgg "So... It seems that you are used to calling me in this way. Don't you have my phone number?"
+
+# game/character/ayano.rpy:3710
+translate english new_line_ayanp1_09b3ca2c:
+
+    # yuki "Есть, но разве ты будешь отвечать на звонки? Знаешь ли, хоть студенческий совет и имеет номера всех учащихся здесь студентов, но отвечают на звонки из них единицы. Может, и того меньше. Да и ты уже частый гость здесь, о тебе каждый слышал, так что же ты стесняешься?"
+    yuki "Yes, but will you answer the phone? You know, even though the student council has the numbers of all the students here, only a few of them answer calls. Maybe even less. Yes, and you are already a frequent visitor here, everyone has heard about you, so why are you so shy?"
+
+# game/character/ayano.rpy:3711
+translate english new_line_ayanp1_8613e481:
+
+    # glgg "И множество раз проклинал… Упоминания моего имени в плохом свете значительно увеличиваются каждый раз, когда ты меня зовешь таким образом."
+    glgg "I also cursed you many times... Mentions of my name in a bad light increase significantly every time you call me in this way."
+
+# game/character/ayano.rpy:3712
+translate english new_line_ayanp1_ffdfcecb:
+
+    # yuki "Зато узнаваемость! Это многого стоит!"
+    yuki "But the recognition is high! It's worth a lot!"
+
+# game/character/ayano.rpy:3713
+translate english new_line_ayanp1_3c093aa0:
+
+    # glgg "Я бы предпочел не иметь такую узнаваемость вовсе…"
+    glgg "I'd rather not have that recognition at all..."
+
+# game/character/ayano.rpy:3714
+translate english new_line_ayanp1_eafd4448:
+
+    # yuki "Ну-с, в любом случае нам пора приступить к делу…"
+    yuki "Well, in any case, it's time for us to get down to business..."
+
+# game/character/ayano.rpy:3715
+translate english new_line_ayanp1_dc990eff:
+
+    # "Сказав это, та встала со своего места, подошла к своей сумке и достала оттуда бумаги. Сразу же после этого она отдала их вам в руки."
+    "Saying this, she got up from her seat, went to her bag and took out some papers. Immediately after that, she handed them over to you."
+
+# game/character/ayano.rpy:3716
+translate english new_line_ayanp1_84336027:
+
+    # yuki "Прочитай."
+    yuki "Read it."
+
+# game/character/ayano.rpy:3717
+translate english new_line_ayanp1_203d330c:
+
+    # "Посмотрев сначала на Юки, а после на бумажку, которую она дала, вы без задней мысли начали изучать выданные вами документы.\" \"Как оказалось, это был отчет финансирования школы спонсорами за период после выступления Аяно Ёшида и до сегодняшнего дня.\" \"Как ни странно, но он показывал крайне положительные тенденции, а также отличные итоги недавнего собрания директората школы с этими самыми инвесторами.\" \"Положив бумаги обратно на стол, вы перевели свой взгляд на Юки…"
+    "After looking first at Yuki and then at the paper she gave you, without a second thought, you began to study the documents you issued.\" \"As it turned out, this was a report of the sponsorship of the school from the period after Ayano Yoshida's performance until today.\" \"Oddly enough, but he showed extremely positive trends, as well as excellent results from the recent meeting of the school administration with these same investors.\" \"Putting the papers back on the table, you shifted your gaze to Yuki..."
+
+# game/character/ayano.rpy:3721
+translate english new_line_ayanp1_4230f503:
+
+    # yuki "Я уже разговаривал насчет этого с Аяно, она мне рассказывала про некоторые «задумки» в этом плане."
+    yuki "I already talked about this with Ayano, she told me about some «ideas» in this regard."
+
+# game/character/ayano.rpy:3722
+translate english new_line_ayanp1_0bea330a:
+
+    # glgg "Ох? Значит ли это, что мне не нужно будет вникать в подробности? Впрочем… Это не так уж и важно. Лучше скажи мне, что ты думаешь насчет этого. Как… Потенциальный кандидат в президенты студенческого совета."
+    glgg "Oh? Does this mean that I will not need to go into details? However... It's not that important. Better tell me what you think about it. As a... potential student council president candidate."
+
+# game/character/ayano.rpy:3729
+translate english exp_label_new_line_ayanp1_b7fae389:
+
+    # yuki "Итак… Похоже, что тебя не волнуют возможные последствия, если ты так легко соглашаешься с этим всем. Полагаю… У тебя есть какие-нибудь свои цели? Что-то вроде помочь Аяно или нашей академии?"
+    yuki "So... You don't seem to care about the possible consequences if you go along with it so easily. I guess... Do you have any goals of your own? Something like helping Ayano or our academy?"
+
+# game/character/ayano.rpy:3730
+translate english exp_label_new_line_ayanp1_647ea7dc:
+
+    # glgg "Может быть."
+    glgg "Maybe."
+
+# game/character/ayano.rpy:3731
+translate english exp_label_new_line_ayanp1_3503720d:
+
+    # yuki "Похоже, это тебе принесет в любом случае выгоду. Я о тебе многого не знала, но… Я буду рада изучить тебя поподробнее, [player_name]."
+    yuki "It looks like it will benefit you anyway. I didn't know much about you, but... I'd be happy to learn more about you, [player_name]."
+
+# game/character/ayano.rpy:3735
+translate english exp_label_new_line_ayanp1_7c49f3f7:
+
+    # yuki "В общем-то все неоднозначно, да? С одной стороны надо соглашаться, а с другой… Спокойная жизнь вдвоем в уже автоматизированном на работу клубе? Несомненно, будущее что твое, что Аяно уже выглядит намного лучше, но оно не идеально, ты так не думаешь?"
+    yuki "In general, everything is ambiguous, right? On the one hand, you have to agree, but on the other... A quiet life together in a club already automated for work? Sure, the future is yours, that Ayano already looks much better, but it's not perfect, don't you think?"
+
+# game/character/ayano.rpy:3736
+translate english exp_label_new_line_ayanp1_ec643903:
+
+    # glgg "И стоит ли получения более приемлемого будущего того? Это множество рисков и возможных проблем."
+    glgg "And is getting a more acceptable future worth it? There are many risks and potential problems."
+
+# game/character/ayano.rpy:3737
+translate english exp_label_new_line_ayanp1_dd3b616b:
+
+    # yuki "Не знаю, поэтому-то я и решила у тебя спросить об этом всем, верно? Однако… Я ожидала более точный ответ, а не простую констатацию фактов."
+    yuki "I don't know, that's why I decided to ask you all about it, right? However… I was expecting a more precise answer, not a simple statement of facts."
+
+# game/character/ayano.rpy:3741
+translate english exp_label_new_line_ayanp1_8f4eb390:
+
+    # yuki "Вот оно как? В принципе в некотором роде ты прав, но, раз уж об этом идет разговор на таком уровне, то инвесторы и директорат готовы к таким рискам."
+    yuki "Is that how it is? Theoretically, you are right in a certain way, but since this is being discussed at this level, investors and the directorate are ready for such risks."
+
+# game/character/ayano.rpy:3742
+translate english exp_label_new_line_ayanp1_a525f291:
+
+    # glgg "Не думаешь ли ты, что им просто все равно? Они будут делать ставки на то, что ты просто избавишься от этих рисков."
+    glgg "Don't you think they just don't care? They will bet that you will simply get rid of these risks."
+
+# game/character/ayano.rpy:3743
+translate english exp_label_new_line_ayanp1_c7bd14b5:
+
+    # yuki "Это вполне естественно. За теми возможностями, которые дает нам академия, это меньшая из возможных плат. На самом-то деле я бы даже сказала, что она самая наименьшая из."
+    yuki "This is quite natural. For the opportunities that the academy gives us, this is the smallest possible fee. In fact, I would even say that it is the smallest of."
+
+# game/character/ayano.rpy:3747
+translate english exp_label_new_line_ayanp1_833aa813:
+
+    # "С недоверием посмотрев на вас пару секунд, Юки тяжело вздохнула и недовольно помотала головой. Конечно, такая реакция была вам… Немного непонятна, но все же было очевидно, что она недовольна вашей забывчивостью."
+    "After looking at you in disbelief for a couple of seconds, Yuki sighed heavily and shook her head in displeasure. Of course, such a reaction was to you... A little incomprehensible, but still, it was obvious that she was unhappy with your forgetfulness."
+
+# game/character/ayano.rpy:3748
+translate english exp_label_new_line_ayanp1_63690488:
+
+    # yuki "Ты же, вроде как, говорил, что разговаривал с Аяно по этому поводу, а сейчас оказывается, что ты не помнишь ваш разговор? Хорошо, предположим…"
+    yuki "You kind of said you talked to Ayano about this, and now it turns out that you don't remember your conversation? Okay, let's assume..."
+
+# game/character/ayano.rpy:3749
+translate english exp_label_new_line_ayanp1_684d87ae:
+
+    # yuki "В общем, если быть краткой, то вы сделали то, что многие считали невозможным. С твоей стороны был показан достаточно неплохой менеджмент, а со стороны Аяно отличные вокальные навыки."
+    yuki "In general, to be brief, you have done what many considered impossible. You showed pretty good management, and Ayano showed excellent vocal skills."
+
+# game/character/ayano.rpy:3750
+translate english exp_label_new_line_ayanp1_2e2f840d:
+
+    # yuki "Их заметили, обдумали все в целом и пришли к выводу, что вас лучше всего будет разделить: тебе оставить клуб оккультизма, а для нее сделать… Клуб пения. Или вокала."
+    yuki "They were noticed, they thought everything over as a whole and came to the conclusion that it would be best to separate you: you leave the club of the occult, and for her to make... A singing club. Or vocals."
+
+# game/character/ayano.rpy:3751
+translate english exp_label_new_line_ayanp1_0f80e097:
+
+    # yuki "Конечно же, дав ей возможность для дальнейшего развития этих навыков: умелых менеджеров, тренеров и так далее."
+    yuki "Of course, giving her the opportunity to further develop these skills: skilled managers, coaches, and so on."
+
+# game/character/ayano.rpy:3752
+translate english exp_label_new_line_ayanp1_45b4d378:
+
+    # glgg "Другими словами, в этом случае наше постоянное общение может сойти на нет?"
+    glgg "In other words, in this case, our constant communication can come to naught?"
+
+# game/character/ayano.rpy:3753
+translate english exp_label_new_line_ayanp1_74d0d83f:
+
+    # yuki "Все зависит от вас двоих, но что будет точно… Слухи. Скорее всего ты станешь что-то по типу изгоев для особо чувствительной прослойки нашей академии. Они будут считать, что ты просто захватил власть в клубе. В то же время Аяно будет жертвой."
+    yuki "It all depends on the two of you, but what will be exactly... Rumors. Most likely, you will become something like an outcast for a particularly sensitive layer of our academy. They will think that you just took over the club. At the same time, Ayano will be the victim."
+
+# game/character/ayano.rpy:3754
+translate english exp_label_new_line_ayanp1_fd586e60:
+
+    # glgg "…"
+    glgg "..."
+
+# game/character/ayano.rpy:3755
+translate english exp_label_new_line_ayanp1_e6097edc:
+
+    # yuki "Звучит не очень, но по мнению присутствующих на том собрании ты без особых проблем сможешь восстановить свое положение и дать для Аяно хороший старт за счет такого «пиара». В общем-то… Думаю, что с этим все понятно. Что ты думаешь насчет этого всего?"
+    yuki "It doesn’t sound like much, but according to those present at that meeting, you can easily restore your position and give Ayano a good start through such «PR» without any problems. In general... I think that everything is clear with this. What do you think about all this?"
+
+# game/character/ayano.rpy:3758
+translate english exp_label_new_line_ayanp1_9b138fe3:
+
+    # yuki "В любом случае… Это не так уж и важно. На самом деле на «верхнем» уровне уже все давно решили. Им все равно на твое мнение. Постепенно вас будут готовить к такому резкому переходу в разные социальные слои и с этим, как ты понял, ничего не поделать…"
+    yuki "In any case... It's not that important. In fact, at the “top” level, everything has long been decided. They don't care about your opinion. Gradually, you will be prepared for such a sharp transition to different social strata and, as you understand, nothing can be done about it..."
+
+# game/character/ayano.rpy:3759
+translate english exp_label_new_line_ayanp1_5264a3fb:
+
+    # glgg "И ты мне решила это сообщить… Почему? Разве твоей задачей не было сохранять это все в тайне?"
+    glgg "And you decided to tell me this... Why? Wasn't it your job to keep it all a secret?"
+
+# game/character/ayano.rpy:3760
+translate english exp_label_new_line_ayanp1_e64ed892:
+
+    # yuki "Отчасти. В целом ты в любом случае прав. Мне нельзя было сообщать тебе эту новость заранее, но я понимаю, что ты далеко не тот человек, от которого нужно скрывать, что «все решено». Ты не впервые сталкиваешься с властью в этой школе, должен был все сам понять с самого начала."
+    yuki "Partly. In general, you are right anyway. I was not allowed to tell you this news in advance, but I understand that you are far from the person from whom you need to hide that «everything is decided». It's not the first time you've encountered authority in this school, you should have understood everything yourself from the very beginning."
+
+# game/character/ayano.rpy:3761
+translate english exp_label_new_line_ayanp1_4526c5d3:
+
+    # glgg "К примеру, что здесь всем все равно на твое мнение, однако, они готовы отдать все ресурсы, чтобы выдоить из тебя все возможное?"
+    glgg "For example, that here everyone doesn’t care about your opinion; however, they are ready to give all their resources to milk you for everything possible?"
+
+# game/character/ayano.rpy:3762
+translate english exp_label_new_line_ayanp1_618e8818:
+
+    # yuki "Верно. Из этого учебного заведения выпускалось множество людей как творческой, так и более… Технической наружности. Все они имели определенные успехи в своей стезе, но в конце концов многие из не смогли достигнуть ничего, кроме проблем со здоровьем. Причем закономерных."
+    yuki "Right. Many people of both creative and more… Technical appearance graduated from this educational institution. All of them had some success in their path, but eventually many of them could not achieve anything but health problems. And regular ones."
+
+# game/character/ayano.rpy:3763
+translate english exp_label_new_line_ayanp1_5d619da7:
+
+    # glgg "Похоже, ты хочешь, чтобы я этого избежал…"
+    glgg "Looks like you want me to avoid it..."
+
+# game/character/ayano.rpy:3764
+translate english exp_label_new_line_ayanp1_adf99325:
+
+    # yuki "По возможности. Очевидно, что ты… Менее уязвим к подобному, нежели Аяно."
+    yuki "If possible. It's obvious that you... are less vulnerable to this than Ayano."
+
+# game/character/ayano.rpy:3765
+translate english exp_label_new_line_ayanp1_7959934b:
+
+    # yuki "Ей можно навесить лапши на уши, что чем больше она будет стараться, тем больше у нее будет успехов. Несомненно, это так, но в конце концов она совсем забудет о себе, об отдыхе."
+    yuki "You can hang noodles on her ears that the more she tries, the more success she will have. Undoubtedly, this is so, but eventually, she will completely forget about herself, about rest."
+
+# game/character/ayano.rpy:3766
+translate english exp_label_new_line_ayanp1_2d806347:
+
+    # yuki "Это сложная тема, каждый проходит этот этап по-своему, но что-то мне подсказывает, что она может возыметь некоторые проблемы с этим всем."
+    yuki "This is a complex topic, everyone goes through this stage in their own way, but something tells me that it may have some problems with all this."
+
+# game/character/ayano.rpy:3767
+translate english exp_label_new_line_ayanp1_b2660907:
+
+    # glgg "Не слишком уж ты в нее и веришь."
+    glgg "You don't really believe in her."
+
+# game/character/ayano.rpy:3768
+translate english exp_label_new_line_ayanp1_c5a64008:
+
+    # yuki "Просто я понимаю, что ты и она – разные люди. Вы хорошо друг друга дополняете, и эту тенденцию нужно продолжать и дальше, несмотря на решение «главных». Ты же понимаешь, что это значит?"
+    yuki "I just understand that you, and she, are different people. You complement each other well, and this trend needs to continue, despite the decision of the «top». Do you understand what that means?"
+
+# game/character/ayano.rpy:3769
+translate english exp_label_new_line_ayanp1_afce1ade:
+
+    # glgg "Контроль? Очевидно, что я сделаю все, что в моих силах и возможностях. Но разве тебя должно волновать будущее Аяно?"
+    glgg "Control? Obviously, I will do everything in my power and ability. But should you care about Ayano's future?"
+
+# game/character/ayano.rpy:3770
+translate english exp_label_new_line_ayanp1_07eeee77:
+
+    # yuki "Даже если она и бывшая, но все же подруга. Наши отношения… Своеобразны. Несомненно, в них есть толика ненависти и презрения, но также есть желание и исправления. Я уже говорила тебе, что чувствуя себя виноватой перед ней."
+    yuki "Even if she's an ex, she's still a friend. Our relationship... Peculiar. Sure, there is a bit of hatred and contempt in them, but there is also desire and correction. I already told you that I felt guilty towards her."
+
+# game/character/ayano.rpy:3771
+translate english exp_label_new_line_ayanp1_fd586e60_1:
+
+    # glgg "…"
+    glgg "..."
+
+# game/character/ayano.rpy:3772
+translate english exp_label_new_line_ayanp1_c12fb783:
+
+    # yuki "И… Нет, я волнуюсь не только о ней. Я волнуюсь и о тебе. Потерять вас двоих было бы явно не то, чего я желаю."
+    yuki "And... No, I'm not just worried about her. I'm worried about you, too. Losing the two of you would clearly not be what I want."
+
+# game/character/ayano.rpy:3773
+translate english exp_label_new_line_ayanp1_89fc6f49:
+
+    # glgg "Это было признание в любви?"
+    glgg "Was it a declaration of love?"
+
+# game/character/ayano.rpy:3774
+translate english exp_label_new_line_ayanp1_7085ed0f:
+
+    # yuki "Может быть. Да, ты не самый лучший человек, впрочем, как и я, но твоя организация и склад ума дополняет некоторые мои решения, что в общем и в целом полезно."
+    yuki "May be. Yes, you are not the best person, however, and neither am I, but your organization and mindset complements some of my decisions, which is generally useful."
+
+# game/character/ayano.rpy:3775
+translate english exp_label_new_line_ayanp1_5b623f4e:
+
+    # glgg "Значит твоя любовь исчисляется в полезности? Очень грустно."
+    glgg "So, your love is calculated in usefulness? That's unfortunate."
+
+# game/character/ayano.rpy:3776
+translate english exp_label_new_line_ayanp1_868c4e84:
+
+    # yuki "Так говоришь, будто бы у тебя иначе. Мы – абсолютно не те люди, которые можем испытать любовь."
+    yuki "You say it like it's different for you. We are absolutely not the kind of people who can experience love."
+
+# game/character/ayano.rpy:3777
+translate english exp_label_new_line_ayanp1_8295a98e:
+
+    # yuki "На то влияет наше положение, социальный конструкт, сложившиеся жизненные факторы, а также достаточно долгая апатичность к происходящему. Другие не могут заниматься такие должности, как мы, без ряда этих особенностей."
+    yuki "This is influenced by our position, social construct, prevailing life factors, as well as a fairly long apathy to what is happening. Others cannot hold positions like us without some of these features."
+
+# game/character/ayano.rpy:3778
+translate english exp_label_new_line_ayanp1_fd586e60_2:
+
+    # glgg "…"
+    glgg "..."
+
+# game/character/ayano.rpy:3779
+translate english exp_label_new_line_ayanp1_8e11c4e1:
+
+    # yuki "Итак… Раз уж мы со всем разобрались, жди новостей. Неизвестно, когда все это будет происходить, но… Очевидно, что к этому все идет. Я постараюсь изменить их решение, но, как видишь, что бы я не делала – меня никто не слушает."
+    yuki "So... Since we've got everything sorted out, wait for the news. It is not known when all this will happen, but... It is obvious that everything is going to this. I will try to change their decision, but as you can see, no matter what I do, no one listens to me."
+
+# game/character/ayano.rpy:3780
+translate english exp_label_new_line_ayanp1_3c41ca6c:
+
+    # "Встав со своего уже насиженного места, вы благополучно вышли из кабинета студенческого совета. То, что вам сказали… Это требует тщательного анализа. Впрочем, сейчас же вам нужно думать, чем заняться дальше."
+    "Rising from your already familiar seat, you safely exited the student council office. What you have been told... This requires careful analysis. However, now you need to think about what to do next."
+
+# game/character/ayano.rpy:3785
+translate english new_line_ayanp2_929f2d8a:
+
+    # "Только зайдя в комнату клуба оккультизма, вы и подозревать не могли, что там вас будет ожидать уже знакомое вам лицо."
+    "Only when you entered the room of the occult club, you could not have suspected that a face already familiar to you would be waiting for you there."
+
+# game/character/ayano.rpy:3786
+translate english new_line_ayanp2_69656fcf:
+
+    # "Прямо на месте, где обычно сидела Аяно, прямо сейчас там сидела Юки Оота и копалась в своем телефоне, видимо, ожидая чего-то или кого-то… Ну, а присев прямо рядом с ней, вы оторвали ее от несомненно важного дела…"
+    "Right where Ayano used to sit, right now, Yuki Oota was sitting there, fiddling with her phone, apparently waiting for something or someone… Well, by sitting right next to her, you took her away from what was undoubtedly important…"
+
+# game/character/ayano.rpy:3787
+translate english new_line_ayanp2_f1281df6:
+
+    # yuki "Ох… Ты наконец-то пришел, да? Долго же я тебя ждала."
+    yuki "Oh… You finally came, huh? I have been waiting for you for a long time."
+
+# game/character/ayano.rpy:3788
+translate english new_line_ayanp2_1f83dc6c:
+
+    # glgg "Может, сразу приступишь к делу? Не думаю, что сюда ты пришла просто для того, чтобы вести светские беседы, учитывая, что за все время тут ты была всего два раза. Причем один раз для предупреждения, а второй… Как раз сейчас и хочу узнать."
+    glgg "Maybe you can get started right away? I don't think you came here just to make small talk, considering you've only been here twice in all your time. And once for a warning, and the second... Currently, I want to know."
+
+# game/character/ayano.rpy:3789
+translate english new_line_ayanp2_a423be7c:
+
+    # yuki "Ну, раз уж ты так хочешь…"
+    yuki "Well, if that's what you want..."
+
+# game/character/ayano.rpy:3790
+translate english new_line_ayanp2_c2683cd0:
+
+    # "Сказав это, она спрятала свой телефон в сумке и, поставив последнюю на пол, тяжело вздохнула…"
+    "Saying that, she hid her phone in her bag and, putting the latter on the floor, sighed heavily..."
+
+# game/character/ayano.rpy:3791
+translate english new_line_ayanp2_bf1b876f:
+
+    # yuki "Даже не знаю с чего начать… Думаю, ты помнишь наш недавний разговор насчет целей «верхушки» на вас с Аяно. Как видишь, я здесь, а Аяно нет."
+    yuki "I don't even know where to start... I think you remember our recent conversation about the goals of the «top» on you and Ayano. As you can see, I am here, but Ayano is not."
+
+# game/character/ayano.rpy:3792
+translate english new_line_ayanp2_9205b756:
+
+    # glgg "Ты хочешь сказать, что они уже все сделали и подготовили?"
+    glgg "Are you saying that they have already done everything and prepared?"
+
+# game/character/ayano.rpy:3793
+translate english new_line_ayanp2_9b9df971:
+
+    # yuki "Что-то вроде того. По крайней мере сейчас ты глава клуба оккультизма, а не Аяно Ёшида. Она… Сейчас выбирает себе комнату, где она будет вести свою деятельность, а ты продолжишь заниматься этим клубом."
+    yuki "Something like that. At least you're the head of the occult club now, not Ayano Yoshida. She… Now chooses a room for herself, where she will conduct her activities, and you will continue to deal with this club."
+
+# game/character/ayano.rpy:3794
+translate english new_line_ayanp2_cabc5c8b:
+
+    # glgg "И ты пришла сюда просто для того, чтобы сообщить мне, что теперь глава клуба – я?"
+    glgg "And you came here just to let me know that I'm the head of the club now?"
+
+# game/character/ayano.rpy:3795
+translate english new_line_ayanp2_5ebb1e99:
+
+    # yuki "Кто-то же должен был сообщить тебе эту новость, правда? Я сделала все, чтобы смягчить последствия слухов и всеобщую ненависть к тебе, но в определенных кругах она все равно будет."
+    yuki "Someone must have told you this news, right? I have done everything to mitigate the consequences of the rumors and the general hatred of you, but in certain circles it will still be."
+
+# game/character/ayano.rpy:3796
+translate english new_line_ayanp2_bda95e1c:
+
+    # yuki "К тому же теперь у Аяно есть собственный менеджер…"
+    yuki "Plus, Ayano now has her own manager..."
+
+# game/character/ayano.rpy:3797
+translate english new_line_ayanp2_3f883233:
+
+    # glgg "Ты хочешь, чтобы я следил за их успехами?"
+    glgg "Do you want me to follow their progress?"
+
+# game/character/ayano.rpy:3798
+translate english new_line_ayanp2_3642891c:
+
+    # yuki "Желательно. Просто… Я понимаю, что может произойти все, что угодно, а плохих исходов хотелось бы избежать. Несомненно, она достойна большего, чего имеет, но она наивна."
+    yuki "Preferably. It's just... I understand that anything can happen, and I would like to avoid bad outcomes. Undoubtedly, she deserves more than what she has, but she is naive."
+
+# game/character/ayano.rpy:3799
+translate english new_line_ayanp2_fd4f75e3:
+
+    # yuki "Если ей просто воспользуются – ничего хорошего из этого не выйдет. Шоу-бизнес – не то место, где можно верить всем безоговорочно. Выжмут все соки и забудут."
+    yuki "If they just use it, nothing good will come of it. Show business is not a place where you can trust everyone unconditionally. Squeeze out all the juices and forget."
+
+# game/character/ayano.rpy:3800
+translate english new_line_ayanp2_46d37e50:
+
+    # glgg "Предположим."
+    glgg "Let's assume."
+
+# game/character/ayano.rpy:3801
+translate english new_line_ayanp2_14e12211:
+
+    # yuki "Если тебе будет нужна помощь, обратись к ним…"
+    yuki "If you need help, contact them..."
+
+# game/character/ayano.rpy:3802
+translate english new_line_ayanp2_1d8c685f:
+
+    # "Сказав это, Юки достала листочек из своей сумки и передала его вам. Там был адрес заброшенного завода в вашем городе…"
+    "After saying that, Yuki took out a piece of paper from her bag and handed it to you. There was the address of an abandoned factory in your city..."
+
+# game/character/ayano.rpy:3803
+translate english new_line_ayanp2_dc568946:
+
+    # yuki "Там ты в случае чего сможешь заказать «услуги». Избиения, защита от хулиганов, все, что посчитаешь нужным – бери. Это может помочь тебе в слежке ровно в той же степени, что и клуб журналистики. Это… Хороший тандем. Ты так не думаешь?"
+    yuki "There you can order «services» if something happens. Beatings, protection from hooligans, whatever you see fit - take it. It can help you in surveillance in the same way as the journalism club. This is... a good tandem. Don't you think so?"
+
+# game/character/ayano.rpy:3804
+translate english new_line_ayanp2_76e984f7:
+
+    # glgg "Значит… Избивай, предлагай защиту нужным людям и делай абсолютно все в случае каких-либо проблем с менеджером Аяно?"
+    glgg "So... Beat up, offer protection to the right people, and do absolutely everything in case of any problems with Ayano's manager?"
+
+# game/character/ayano.rpy:3805
+translate english new_line_ayanp2_11e83090:
+
+    # yuki "Я знаю этого человека. Лично. И все на самом деле куда хуже, чем я изначально думала… Во-первых, он тот еще извращенец, во-вторых, крайне грубый."
+    yuki "I know this man. Personally. And everything is actually much worse than I initially thought... Firstly, he is a pervert, and secondly, he is extremely rude."
+
+# game/character/ayano.rpy:3806
+translate english new_line_ayanp2_8002f057:
+
+    # yuki "Его главная тактика в тренировках – подавление. Он подавляет все возможные недовольства, делает человека крайне покладистым. Не очень хорошая комбинация, правда?"
+    yuki "His main tactic in training is suppression. It suppresses all possible discontent, makes a person extremely docile. Not an excellent combination, right?"
+
+# game/character/ayano.rpy:3807
+translate english new_line_ayanp2_c3176dc2:
+
+    # yuki "К тому же были слухи, что он не брезгует рукоприкладством. В общем-то он кажется не самым лучшим менеджером, но это сын одного из крупных инвесторов и никто не мог отказаться…"
+    yuki "In addition, there were rumors that he did not disdain assault. In general, he does not seem to be the best manager, but he is the son of one of the major investors and no one could refuse..."
+
+# game/character/ayano.rpy:3808
+translate english new_line_ayanp2_938b3b2b:
+
+    # yuki "Я подозревала, что он им может стать, но все же надеялась на более приятных личностей. На тот момент кандидатов было достаточно, но выбрали они того, у кого кошелек потолще…"
+    yuki "I suspected that he might become one, but still hoped for more pleasant personalities. At that time, there were enough candidates, but they chose the one with a thicker wallet..."
+
+# game/character/ayano.rpy:3809
+translate english new_line_ayanp2_54885f20:
+
+    # glgg "Не думаешь ли ты, что такие методы, которые ты мне назвала, против «таких» людей – не самые эффективные?"
+    glgg "Don't you think that such methods, which you named to me, against «such» people are not the most effective?"
+
+# game/character/ayano.rpy:3810
+translate english new_line_ayanp2_c6403dc3:
+
+    # yuki "Твоя цель – защита Аяно в случае каких-либо проблем. У тебя есть для этого все ресурсы. Если будет нужно больше – я найду больше. Главное, чтобы в конце концов ее менеджером стал ты."
+    yuki "Your goal is to protect Ayano in case of any trouble. You have all the resources for this. If you need more, I'll find more. The main thing is that in the end you become her manager."
+
+# game/character/ayano.rpy:3811
+translate english new_line_ayanp2_18d8ec6e:
+
+    # glgg "Не думаю, что у меня много опыта в шоу-бизнесе."
+    glgg "I don't think I have much experience in show business."
+
+# game/character/ayano.rpy:3812
+translate english new_line_ayanp2_219357ec:
+
+    # yuki "Зато именно с тобой она будет чувствовать себя в безопасности и не будет ощущать дискомфорта. Кроме того, тот менеджер тоже не слишком опытен. Поэтому каких-либо проблем у тебя возникнуть не должно."
+    yuki "But it is with you that she will feel safe and will not feel discomfort. In addition, that manager is also not very experienced. Therefore, you shouldn't have any problems."
+
+# game/character/ayano.rpy:3813
+translate english new_line_ayanp2_fd586e60:
+
+    # glgg "…"
+    glgg "..."
+
+# game/character/ayano.rpy:3814
+translate english new_line_ayanp2_4a236fb5:
+
+    # yuki "Реши эту проблему."
+    yuki "Solve this problem."
+
+# game/character/ayano.rpy:3815
+translate english new_line_ayanp2_7a7cecf5:
+
+    # "Сказав это, она взяла из своей сумки 20.000 кредитов и передала их вам."
+    "After saying that, she took 20,000 credits from her bag and gave them to you."
+
+# game/character/ayano.rpy:3816
+translate english new_line_ayanp2_7b45e541:
+
+    # yuki "Это на «покупку услуг» и другие расходы. Я буду внимательно следить за твоими успехами. И… Если встретишь этого менеджера, не ведись на его показное дружелюбие."
+    yuki "This is for the «purchase of services» and other expenses. I will keep a close eye on your progress. And... If you meet this manager, don't be fooled by his ostentatious friendliness."
+
+# game/character/ayano.rpy:3817
+translate english new_line_ayanp2_724c810d:
+
+    # yuki "Он будет хуже нас двух вместе взятых. Тем более в отдельно взятых аспектах. В общем-то… Жди. Скорее всего скоро Аяно придет с тобой поговорить, там и ищи подход."
+    yuki "He will be worse than the two of us put together. Especially in certain aspects. In general… Wait. Most likely, Ayano will come to speak with you soon, and look for an approach there."
+
+# game/character/ayano.rpy:3818
+translate english new_line_ayanp2_e2bf656d:
+
+    # "Встав со своего места и взяв свою сумку, Юки Оота быстро вышла из кабинета оккультизма, оставив вас наедине со своими мыслями…"
+    "Standing up from her seat and taking her bag, Yuki Oota quickly left the occult room, leaving you alone with your thoughts..."
+
+translate english strings:
+
+    # game/character/ayano.rpy:3725
+    old "{color=#000000}Думаю, что это хорошая идея. Прямым образом разделить людей по их навыкам, дав возможность показать свои лучшие черты. Будь я президентом студенческого совета, я бы согласился с этим не задумываясь.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I think it's a good idea. Directly divide people according to their skills, giving the opportunity to show their best features. If I were the student council president, I would agree without hesitation.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/character/ayano.rpy:3725
+    old "{color=#000000}Это плохая идея. Клуб оккультизма изначально никак не был связан с деятельностью на бумаге, это все понимали. Он был сделан для прогулов занятий и любой другой самодеятельности. Певчая самодеятельность – такая же прерогатива, как и другие. Если студенческий совет сюда влезет, он потеряет легитимность.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}It is a bad idea. The club of the occult initially had nothing to do with activities on paper, everyone understood that. It was made for skipping classes and any other amateur performance. Singing amateur performance is the same prerogative as others. If the student council gets in here, it will lose its legitimacy.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/character/ayano.rpy:3725
+    old "{color=#000000}Извини, но… Не можешь ли ты мне напомнить в чем вопрос? Несомненно, я помню каждую подробность, но их настолько много, что у меня все запуталось в голове…\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I'm sorry, but... Can you remind me what the question is? Undoubtedly, I remember every detail, but there are so many of them that everything is confused in my head...\n{size=21}{i}0 energy{/i}{/size}{/color}"
+# TODO: Translation updated at 2022-06-26 14:09
+
+# game/character/ayano.rpy:3733
+translate english new_line_ayanp1_51b0fda4:
+
+    # glgg "Я уже разговаривал насчет этого с Аяно, она мне рассказывала про некоторые «задумки» в этом плане."
+    glgg "I have already talked about this with Ayano, she told me about some «ideasи» in this regard."
+
+# game/character/ayano.rpy:3736
+translate english new_line_ayanp1_fea02b2f:
+
+    # yuki "Ох? Значит ли это, что мне не нужно будет вникать в подробности? Впрочем… Это не так уж и важно. Лучше скажи мне, что ты думаешь насчет этого. Как… Потенциальный кандидат в президенты студенческого совета."
+    yuki "Oh? Does this mean that I won't need to delve into the details? However… It's not that important. Better tell me what you think about it. How… A potential candidate for student council president."
+
+translate english strings:
+
+    # game/character/ayano.rpy:3738
+    old "{color=#000000}Это хорошая идея, но… Даже так я против. Несомненно, наша академия получит с этого достаточно плюсов, но в то же время оставит и достаточно проблем на меня, Аяно и на наши плечи в общем.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}It's a good idea, but... even so, I'm against it. Undoubtedly, our academy will get enough advantages from this, but at the same time it will leave enough problems on me, Ayano and on our shoulders in general.\n{size=21}{i}0 energy{/i}{/size}{/color}"

@@ -1877,3 +1877,11 @@ translate english strings:
     # game/script.rpy:340
     old "{color=000000}Заменить рандомизированного НПС в сессии."
     new "{color=000000}Replace the randomized NPC in the session."
+
+    # game/script.rpy:340
+    old "{color=000000}Экспортировать академию."
+    new "{color=000000}Export the academy."
+
+    # game/script.rpy:340
+    old "{color=000000}Импортировать академию."
+    new "{color=000000}Import an academy."
