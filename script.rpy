@@ -63,7 +63,7 @@ translate english guide_4075860c:
 # game/script.rpy:427
 translate english guide_88339413:
 
-    # guide6 "Ну-с, для начала давай разберемся с начальным интерфейсом. Чтобы перейти на карту города/школы тебе всего-то нужно нажать на иконку телефона, а после вот на это - {image=phone/gps_idle.png}"
+    # guide6 "Ну-с, для начала давай разберемся с начальным интерфейсом. Чтобы перейти на карту города/академии тебе всего-то нужно нажать на иконку телефона, а после вот на это - {image=phone/gps_idle.png}"
     guide6 "Well, let's start with the travel interface. To go to the city/school map just click on the phone icon, and then click on this icon: {image=phone/gps_idle.png}"
 
 # game/script.rpy:429
@@ -105,8 +105,8 @@ translate english guide_9390e442:
 # game/script.rpy:441
 translate english guide_dba1d652:
 
-    # guide1 "Шучу! Цель игры проста и понятна: окончить школу и обеспечить приемлимым будущим своего персонажа: будешь ли ты хулиганьем, которое перерастет свой спермотоксикоз и станет достойной ячейкой общества"
-    guide1 "I was just kidding! The aim of the game is simple and clear: it is to graduate from school and provide acceptable future for your character: will you be a bully who will outgrow your spermotoxicosis and become a worthy cell of society."
+    # guide1 "Шучу! Цель игры проста и понятна: окончить академию и обеспечить приемлимым будущим своего персонажа: будешь ли ты хулиганьем, которое перерастет свой спермотоксикоз и станет достойной ячейкой общества"
+    guide1 "I was just kidding! The aim of the game is simple and clear: it is to graduate from academy and provide acceptable future for your character: will you be a bully who will outgrow your spermotoxicosis and become a worthy cell of society."
 
 # game/script.rpy:442
 translate english guide_641897d2:
@@ -177,8 +177,8 @@ translate english guide_4075860c_1:
 # game/script.rpy:480
 translate english guide_f3a1e497:
 
-    # guide6 "Ну-с, для начала давай разберемся с начальным интерфейсом. Чтобы перейти на карту города/школы тебе всего-то нужно нажать на иконку телефона, а после вот на эту иконочку: {image=phone/gps_idle.png}"
-    guide6 "Well, let's start with the initial interface. All you have to do to go to the city/ school map is click on the phone icon, and then click on this icon: {image=phone/gps_idle.png}"
+    # guide6 "Ну-с, для начала давай разберемся с начальным интерфейсом. Чтобы перейти на карту города/академии тебе всего-то нужно нажать на иконку телефона, а после вот на эту иконочку: {image=phone/gps_idle.png}"
+    guide6 "Well, let's start with the initial interface. All you have to do to go to the city/ academy map is click on the phone icon, and then click on this icon: {image=phone/gps_idle.png}"
 
 # game/script.rpy:481
 translate english guide_89679ab6:
@@ -189,7 +189,7 @@ translate english guide_89679ab6:
 # game/script.rpy:483
 translate english guide_0d45fe14:
 
-    # guide1 "Открыв карту города/школы ты можешь видеть разные локации, на которые можно перейти!"
+    # guide1 "Открыв карту города/академии ты можешь видеть разные локации, на которые можно перейти!"
     guide1 "When you open the city/school map, you can see the locations that you can access!"
 
 # game/script.rpy:484
@@ -201,8 +201,8 @@ translate english guide_a076aff9:
 # game/script.rpy:485
 translate english guide_179387f1:
 
-    # guide1 "Каждое твое действие дает персонажу что-то: деньги, атрибуты, перки. К примеру, учась в школе, ты будешь получать интеллект. Бегая по парку, выносливость и ловкость. Также, если заниматься дома с собственным весом, ты будешь качать силу."
-    guide1 "Every action you take gives your character something: money, trappings, perks. For example, when you go to school, you'll get intelligence. Running through the park, endurance and agility. Also, if you work at home with your own weight, you'll shake strength."
+    # guide1 "Каждое твое действие дает персонажу что-то: деньги, атрибуты, перки. К примеру, учась в академии, ты будешь получать интеллект. Бегая по парку, выносливость и ловкость. Также, если заниматься дома с собственным весом, ты будешь качать силу."
+    guide1 "Every action you take gives your character something: money, trappings, perks. For example, when you go to academy, you'll get intelligence. Running through the park, endurance and agility. Also, if you work at home with your own weight, you'll shake strength."
 
 # game/script.rpy:486
 translate english guide_6f8a8d1e:
@@ -249,8 +249,8 @@ translate english guide_9390e442_1:
 # game/script.rpy:494
 translate english guide_dba1d652_1:
 
-    # guide1 "Шучу! Цель игры проста и понятна: окончить школу и обеспечить приемлимым будущим своего персонажа: будешь ли ты хулиганьем, которое перерастет свой спермотоксикоз и станет достойной ячейкой общества"
-    guide1 "I was just kidding! The aim of the game is simple and clear: it is to graduate from school and provide acceptable future for your character: will you be a bully who will outgrow your spermotoxicosis and become a worthy cell of society."
+    # guide1 "Шучу! Цель игры проста и понятна: окончить академию и обеспечить приемлимым будущим своего персонажа: будешь ли ты хулиганьем, которое перерастет свой спермотоксикоз и станет достойной ячейкой общества"
+    guide1 "I was just kidding! The aim of the game is simple and clear: it is to graduate from academy and provide acceptable future for your character: will you be a bully who will outgrow your spermotoxicosis and become a worthy cell of society."
 
 # game/script.rpy:495
 translate english guide_641897d2_1:
@@ -435,14 +435,14 @@ translate english guide1_99214ef3:
 # game/script.rpy:592
 translate english guide1_1b520de1:
 
-    # "В школу можно зайти..."
-    "You can come into the school..."
+    # "В академию можно зайти..."
+    "You can come into the academy..."
 
 # game/script.rpy:593
 translate english guide1_13698253:
 
-    # guide12 "Точно! В школу можно зайти, если помнишь, через меню передвижение!"
-    guide12 "That's right! The school can be accessed, if you remember, through the mobility menu!"
+    # guide12 "Точно! В академию можно зайти, если помнишь, через меню передвижение!"
+    guide12 "That's right! The academy can be accessed, if you remember, through the mobility menu!"
 
 # game/script.rpy:594
 translate english guide1_a6c314e6:
@@ -585,8 +585,8 @@ translate english guide1_9221c94d:
 # game/script.rpy:627
 translate english guide1_3802a9ae:
 
-    # guide1 "В общем, открой анкету, когда решишься вступить в клуб! Она находится в рюкзаке. После нажми на нее, будучи у ворот в школу и все. Ты числишься в клубе!"
-    guide1 "Anyway, open a profile when you decide to join the club! It's in your backpack. Then click on it at the school gate and that's it. You're in the club!"
+    # guide1 "В общем, открой анкету, когда решишься вступить в клуб! Она находится в рюкзаке. После нажми на нее, будучи у ворот в академию и все. Ты числишься в клубе!"
+    guide1 "Anyway, open a profile when you decide to join the club! It's in your backpack. Then click on it at the academy gate and that's it. You're in the club!"
 
 # game/script.rpy:628
 translate english guide1_f566a4e4:
@@ -621,8 +621,8 @@ translate english guide1_a6148b7e:
 # game/script.rpy:636
 translate english guide1_e59c4d76:
 
-    # guide1 "Развивай клуб и достигни высот с людьми, что тебя окружают! Возможно это и будет обычным убиванием времени со стороны твоего персонажа, но это же круто! В конце концов ты сможешь окончить школу,"
-    guide1 "Develop a club and reach heights with the people around you! This may be the usual time killing for your character, but it's cool! Eventually, you'll be able to finish school,"
+    # guide1 "Развивай клуб и достигни высот с людьми, что тебя окружают! Возможно это и будет обычным убиванием времени со стороны твоего персонажа, но это же круто! В конце концов ты сможешь окончить академию,"
+    guide1 "Develop a club and reach heights with the people around you! This may be the usual time killing for your character, but it's cool! Eventually, you'll be able to finish academy,"
 
 # game/script.rpy:637
 translate english guide1_bd747a65:
@@ -633,8 +633,8 @@ translate english guide1_bd747a65:
 # game/script.rpy:638
 translate english guide1_adccab13:
 
-    # guide12 "А может ты и вовсе забьешь на все эти клубы, став президентом студ.совета и изменив школу навсегда в лучшую или же худшую сторону!"
-    guide12 "Or maybe you will forget about all these clubs, becoming the president of the student council and changing the school forever for the better or worse!"
+    # guide12 "А может ты и вовсе забьешь на все эти клубы, став президентом студ.совета и изменив академию навсегда в лучшую или же худшую сторону!"
+    guide12 "Or maybe you will forget about all these clubs, becoming the president of the student council and changing the academy forever for the better or worse!"
 
 # game/script.rpy:639
 translate english guide1_1791f3b1:
@@ -651,8 +651,8 @@ translate english guide1_9221c94d_1:
 # game/script.rpy:641
 translate english guide1_a4ef6809:
 
-    # guide11 "Чтобы попасть в клубную комнату, тебе нужно нажать на ПКМ и на кнопочку, которую ты сразу увидишь, но делать это нужно именно в школе! Дальше ты попадешь в клубную комнату и..."
-    guide11 "To get into the club room, you need to click on the PKM and the button, which you will immediately see, but it is necessary to do it at school! Then you go to the club room and..."
+    # guide11 "Чтобы попасть в клубную комнату, тебе нужно нажать на ПКМ и на кнопочку, которую ты сразу увидишь, но делать это нужно именно в академии! Дальше ты попадешь в клубную комнату и..."
+    guide11 "To get into the club room, you need to click on the PKM and the button, which you will immediately see, but it is necessary to do it at academy! Then you go to the club room and..."
 
 # game/script.rpy:642
 translate english guide1_53287255:
@@ -699,8 +699,8 @@ translate english guide1_2a7e90e4:
 # game/script.rpy:660
 translate english guide1_8a5d5710:
 
-    # guide5 "Тут даже есть чат! Ты сможешь переписываться со своими новыми друзьями со школы, а может и девушкой, если она у тебя появилась!"
-    guide5 "There's even a chat room! You can chat with your new friends from school, or maybe a girlfriend if you have one!"
+    # guide5 "Тут даже есть чат! Ты сможешь переписываться со своими новыми друзьями со академии, а может и девушкой, если она у тебя появилась!"
+    guide5 "There's even a chat room! You can chat with your new friends from academy, or maybe a girlfriend if you have one!"
 
 # game/script.rpy:662
 translate english guide1_4d49b468_1:
@@ -777,14 +777,14 @@ translate english guide1_99214ef3_1:
 # game/script.rpy:684
 translate english guide1_1b520de1_1:
 
-    # "В школу можно зайти..."
-    "You can come into the school..."
+    # "В академию можно зайти..."
+    "You can come into the academy..."
 
 # game/script.rpy:686
 translate english guide1_a851eedc:
 
-    # guide12 "Точно! В школу можно зайти, если нажать на дорожку, которая ведет к этой самой школе!"
-    guide12 "That's right! You can enter the school by clicking on the path that leads to this very school!"
+    # guide12 "Точно! В академию можно зайти, если нажать на дорожку, которая ведет к этой самой академии!"
+    guide12 "That's right! You can enter the academy by clicking on the path that leads to this very academy!"
 
 # game/script.rpy:688
 translate english guide1_a6c314e6_1:
@@ -927,8 +927,8 @@ translate english guide1_9221c94d_2:
 # game/script.rpy:737
 translate english guide1_ddd98ab1:
 
-    # guide1 "В общем, открой анкету, когда решишься вступить в клуб! Она находится в рюкзаке. После нажми на нее, будучи у ворот школы и все. Ты числишься в клубе!"
-    guide1 "Anyway, open a profile when you decide to join the club! It's in your backpack. Then click on it at the school gate and that's it. You're in the club!"
+    # guide1 "В общем, открой анкету, когда решишься вступить в клуб! Она находится в рюкзаке. После нажми на нее, будучи у ворот академии и все. Ты числишься в клубе!"
+    guide1 "Anyway, open a profile when you decide to join the club! It's in your backpack. Then click on it at the academy gate and that's it. You're in the club!"
 
 # game/script.rpy:738
 translate english guide1_f639e7df:
@@ -969,8 +969,8 @@ translate english guide1_a6148b7e_1:
 # game/script.rpy:751
 translate english guide1_e59c4d76_1:
 
-    # guide1 "Развивай клуб и достигни высот с людьми, что тебя окружают! Возможно это и будет обычным убиванием времени со стороны твоего персонажа, но это же круто! В конце концов ты сможешь окончить школу,"
-    guide1 "Develop a club and reach heights with the people around you! This may be the usual time killing for your character, but it's cool! Eventually, you'll be able to finish school,"
+    # guide1 "Развивай клуб и достигни высот с людьми, что тебя окружают! Возможно это и будет обычным убиванием времени со стороны твоего персонажа, но это же круто! В конце концов ты сможешь окончить академию,"
+    guide1 "Develop a club and reach heights with the people around you! This may be the usual time killing for your character, but it's cool! Eventually, you'll be able to finish academy,"
 
 # game/script.rpy:752
 translate english guide1_bd747a65_1:
@@ -981,8 +981,8 @@ translate english guide1_bd747a65_1:
 # game/script.rpy:754
 translate english guide1_adccab13_1:
 
-    # guide12 "А может ты и вовсе забьешь на все эти клубы, став президентом студ.совета и изменив школу навсегда в лучшую или же худшую сторону!"
-    guide12 "Or maybe you will forget about all these clubs, becoming the president of the student council and changing the school forever for the better or worse!"
+    # guide12 "А может ты и вовсе забьешь на все эти клубы, став президентом студ.совета и изменив академию навсегда в лучшую или же худшую сторону!"
+    guide12 "Or maybe you will forget about all these clubs, becoming the president of the student council and changing the academy forever for the better or worse!"
 
 # game/script.rpy:755
 translate english guide1_1791f3b1_1:
@@ -999,8 +999,8 @@ translate english guide1_9221c94d_3:
 # game/script.rpy:759
 translate english guide1_972a5e9a:
 
-    # guide11 "Чтобы попасть в клубную комнату, тебе нужно нажать на иконку и на кнопочку, которую ты сразу увидишь, но делать это нужно именно в школе! Дальше ты попадешь в клубную комнату и..."
-    guide11 "To get into the club room, you need to click on an icon and a button, which you will immediately see, but it is necessary to do it at school! Then you go to the club room and..."
+    # guide11 "Чтобы попасть в клубную комнату, тебе нужно нажать на иконку и на кнопочку, которую ты сразу увидишь, но делать это нужно именно в академии! Дальше ты попадешь в клубную комнату и..."
+    guide11 "To get into the club room, you need to click on an icon and a button, which you will immediately see, but it is necessary to do it at academy! Then you go to the club room and..."
 
 # game/script.rpy:761
 translate english guide1_9d531c8e:
@@ -1278,7 +1278,7 @@ translate english guide_25b4be0d:
 translate english guide1_82ba9417:
 
     # guide3 "Ух... Кажется, ты в беде, так? Я, конечно, знала, что драки - неотъемлимая часть в школьной жизнь любого ученика, тем не менее это произошло даже раньше, чем я думала..."
-    guide3 "Ooh... You seem to be in trouble, right? I knew, of course, that fighting is an integral part of any student's school life, but it happened even earlier than I thought..."
+    guide3 "Ooh... You seem to be in trouble, right? I knew, of course, that fighting is an integral part of any student's academy life, but it happened even earlier than I thought..."
 
 # game/script.rpy:1608
 translate english guide1_007fc89c:
@@ -1314,7 +1314,7 @@ translate english guide1_4fdb20b0:
 translate english guide1_78b3dae7:
 
     # guide4 "Первоначально у тебя есть 3 удара и 2 взаимодействия, с помощью которых ты можешь уронить противника на пятую точку. Эти 3 удара имеют свою статистику: урон, шанс попадания, шанс критический урон и шанс нокдауна."
-    guide4 "Initially, you have 3 strikes and 2 interactions, with which you can drop the enemy on the fifth point. These 3 hits have their own stats: damage, hit chance, critical damage chance, and knockdown chance."
+    guide4 "Initially, you have 3 strikes and 2 interactions, with which you can drop the enemy on the butt. These 3 hits have their own stats: damage, hit chance, critical damage chance, and knockdown chance."
 
 # game/script.rpy:1614
 translate english guide1_955b095f:
@@ -1326,7 +1326,7 @@ translate english guide1_955b095f:
 translate english guide1_0b456aab:
 
     # guide1 "Ну, а теперь к взаимодействиям. В общем и в целом с ними все просто - ты можешь уронить противника на пятую точку. Это то самое положение, в котором ты можешь избить своего противника, пиная его ногами или же сделав из его лица неприятное мессиво кулаками, сидя прямо на нем. И..."
-    guide1 "Well, now to the interactions. In General, everything is simple with them - you can drop the enemy on the fifth point. This is the position in which you can beat your opponent by kicking him or making an unpleasant mess of his face with your fists while sitting directly on top of him..."
+    guide1 "Well, now to the interactions. In General, everything is simple with them - you can drop the enemy on the butt. This is the position in which you can beat your opponent by kicking him or making an unpleasant mess of his face with your fists while sitting directly on top of him..."
 
 # game/script.rpy:1616
 translate english guide1_0b26c2f1:
@@ -1885,3 +1885,474 @@ translate english strings:
     # game/script.rpy:340
     old "{color=000000}Импортировать академию."
     new "{color=000000}Import an academy."
+# TODO: Translation updated at 2022-07-13 21:26
+
+# game/script.rpy:615
+translate english console_2bc0b1fd:
+
+    # "АКадемическая успеваемость была повышена."
+    "Academic performance has been improved."
+
+translate english strings:
+
+    # game/script.rpy:329
+    old "{color=000000}Повысить академическую успеваемость."
+    new "{color=000000}Improve academic performance."
+# TODO: Translation updated at 2022-07-27 10:07
+
+# game/script.rpy:623
+translate english console_9f054042:
+
+    # "Романтичность каждого персонажа в вашей сессии повышена на 20 единиц."
+    "The romance of each character in your session is increased by 20 units."
+
+# game/script.rpy:632
+translate english console_5e444286:
+
+    # "Разговорчивость каждого персонажа в вашей сессии повышена на 20 единиц."
+    "The talkativeness of each character in your session is increased by 20 units."
+
+# game/script.rpy:654
+translate english console_1879d0a7:
+
+    # "Значение переменной изменено."
+    "The value of the variable has been changed."
+
+translate english strings:
+
+    # game/script.rpy:329
+    old "{color=000000}Повысить романтичность всем рандомизированным НПС."
+    new "{color=000000}Increase the romance of all randomized NPCs."
+
+    # game/script.rpy:329
+    old "{color=000000}Повысить разговорчивость всем рандомизированным НПС."
+    new "{color=000000}Increase the talkativeness of all randomized NPCs."
+
+    # game/script.rpy:329
+    old "{color=000000}Изменить значение переменной."
+    new "{color=000000}Change the value of a variable."
+
+    # game/script.rpy:637
+    old "Введите название переменной."
+    new "Enter the name of the variable."
+
+    # game/script.rpy:642
+    old "Введите ее значение."
+    new "Enter here value."
+# TODO: Translation updated at 2022-08-04 12:32
+
+# game/script.rpy:641
+translate english console_60d3f8b0:
+
+    # "Пошлость каждого РНПС в вашей сессии повышена на 20 единиц."
+    "The vulgarity of each RNPS in your session has been increased by 20 units."
+
+# game/script.rpy:670
+translate english console_27164e7c:
+
+    # "Включено"
+    "Enable"
+
+# game/script.rpy:673
+translate english console_c596121a:
+
+    # "Отключено"
+    "Disable"
+
+# game/script.rpy:702
+translate english console_ec8e4606:
+
+    # "Все НПС теперь в клубе оккультизма."
+    "All NPCs are now in the occult club."
+
+# game/script.rpy:709
+translate english console_e7ccce8a:
+
+    # "В бюджет клуба оккультизма было добавлено 10.000 кредитов."
+    "10,000 credits were added to the Occult club's budget."
+
+translate english strings:
+
+    # game/script.rpy:295
+    old "{color=#000000}Этого достаточно.\n{size=21}{i}0 энергии{/i}{/size}"
+    new "{color=#000000}That's enough.\n{size=21}{i}0 energy{/i}{/size}"
+
+    # game/script.rpy:329
+    old "{color=000000}Повысить пошлость всем рандомизированным НПС."
+    new "{color=000000}Increase the vulgarity of all randomized NPCs."
+
+    # game/script.rpy:329
+    old "{color=000000}Включить NTR контент."
+    new "{color=000000}Enable NTR content."
+
+    # game/script.rpy:329
+    old "{color=000000}Все НПС в клубе оккультизма."
+    new "{color=000000}All NPCs in the Occult club."
+
+    # game/script.rpy:329
+    old "{color=000000}Добавить клубу оккультизма денег в бюджет."
+    new "{color=000000}Add money to the occult club in the budget."
+# TODO: Translation updated at 2022-10-04 21:30
+
+# game/script.rpy:676
+translate english console_1879d0a7_1:
+
+    # "Значение переменной изменено."
+    "The value of the variable has been changed."
+
+translate english strings:
+
+    # game/script.rpy:329
+    old "{color=000000}Перейти на метку."
+    new "{color=000000}Go to the label."
+
+    # game/script.rpy:668
+    old "Введите название метки."
+    new "Enter the name of the label."
+# TODO: Translation updated at 2022-10-12 23:02
+
+# game/script.rpy:694
+translate english console_f08fc31a_1:
+
+    # "Такого НПС в вашей игровой сессии не существует."
+    ""
+
+# game/script.rpy:712
+translate english console_46a803d5:
+
+    # "Изменено."
+    ""
+
+# game/script.rpy:753
+translate english console_aa6eefb1_2:
+
+    # "Готово"
+    ""
+
+translate english strings:
+
+    # game/script.rpy:329
+    old "{color=000000}Изменить уровень отношений с определенным рандомизированным НПС."
+    new ""
+
+    # game/script.rpy:329
+    old "{color=000000}Восстановить конечности."
+    new ""
+
+    # game/script.rpy:681
+    old "Введите идентификатор РНПС, с которым вы хотите улучшить свои отношения."
+    new ""
+
+    # game/script.rpy:697
+    old "Введите количество очков, которые хотите добавить к отношениям."
+    new ""
+
+# TODO: Translation updated at 2022-10-14 14:26
+
+translate english strings:
+
+    # game/script.rpy:146
+    old "ВЫБЕРИТЕ"
+    new "CHOICE"
+
+    # game/script.rpy:147
+    old "УРОВЕНЬ СЛОЖНОСТИ"
+    new "DIFFICULTY LEVEL"
+
+    # game/script.rpy:150
+    old "ВЫБРАТЬ"
+    new "SELECT"
+
+    # game/script.rpy:154
+    old "СЛОЖНАЯ"
+    new "       HARD"
+
+    # game/script.rpy:155
+    old "СРЕДНЯЯ"
+    new "MEDIUM"
+
+    # game/script.rpy:156
+    old "ЛЕГКАЯ"
+    new "    EASY"
+
+    # game/script.rpy:163
+    old "Легкий уровень сложности для\nначинающих. Отключены все\nусложняющие игру механики,\nневозможно проиграть.\n\n{size=27}- Все конечности имеют прочность,\nкоторая не опускается ниже 100.\n- При покупке новой квартиры не\nнужно платить ренту\n- Минимум энергии - 0\n- Отключена сытость\n- Вашего персонажа больше не могут\nисключить с академии за оценки\n- Опыт получается быстрее\n- Легче прокачиваются отношения с\nрандомизированными НПС\n- Рандомизированные НПС меньше\nустают от разговоров с вашим\nперсонажем\n- Повышенные шансы на разные\nвзаимодействия"
+    new "Easy difficulty level for beginners.\nAll the mechanics that complicate\nthe game are disabled, it is't\npossible to lose.\n\n{size=27}- All limbs have health, which does not fall\nbelow 100.\n- When buying a new apartment, you do\nnot have to pay rent \n- Minimum energy - 0\n- Satiety is disabled \n- Your character can no longer be\nexcluded from the academy for grades\n- The experience turns out faster\n- It is easier to improve relationships with \n randomized NPCs \n- Randomized NPCs are less affected by\ndialoge with your character \n- Increased chances of different\n interactions"
+
+    # game/script.rpy:165
+    old "Средний уровень\nсложности - прекрасная\nвозможность для тех, кто уже\nнемного познал игру и ее\nмеханики. Все еще отсутствуют\nнекоторые механики,\nусложняющие игру, но уже\nможно проиграть.\n\n{size=27}- Восстановление конечностей\nпроисходит гораздо быстрее, а\nурона им наносится меньше\n- Стандартная сложность, на которой\nраньше была игра. Есть возможность\nисключения со академии, сытость, энергия\nи другие показатели, за которыми\nнужно следить."
+    new "The medium level of complexity is\na great opportunity for those who\nhave already learned a lot about\nthe game and its mechanics.\nThere are still some mechanics\nmissing that complicate the game,\nbut it is already possible to lose.\n\n{size=27}- The recovery of limbs occurs much\nfaster, and is applied to them less \n- The standard difficulty on which the\ngame was earlier. There is a possibility\npisclusions from academy. There is satiety,\nenergy, and other indicators that \n should be monitored."
+
+    # game/script.rpy:167
+    old "Тяжелый уровень сложности\nдля любителей хардкора. Здесь\nдаже можно стать бездомным...\n\n{size=27}- В случае, если ваша энергия равна -40\nединицам, ваш персонаж может\nвыключиться на пару часов.\n- В случае, если ваша сытость ниже нуля,\nваши атрибуты могут снижаться.\n- Урон конечностям наносится в\nзадуманном размере, а их\nвосстанавливание занимает больше\nвремени.\n- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки"
+    new "Hard difficulty level for hardcore\nfans. Here you can even become\nhomeless...\n\n{size=27} - If your energy is -40 units, your\ncharacter can turn off for a couple of\nhours.\n- If your satiety is below zero, your\nattributes may decrease.\n- Damage to the limbs is inflicted in a\ndeliberate size, and their restoration\ntakes more time.\n- Relationships are more difficult to\nimprove with randomized NPCs \n- Reduced chances of different\n interactions \n- A significant chance of exclusion from\nacademy for absenteeism and poor\ngrades."
+# TODO: Translation updated at 2022-10-23 19:08
+
+# game/script.rpy:834
+translate english console_b069a15c:
+
+    # "[exception_line]"
+    "[exception_line]"
+
+translate english strings:
+
+    # game/script.rpy:388
+    old "{color=000000}Дебаггер."
+    new "{color=000000}Debagger."
+# TODO: Translation updated at 2022-10-27 15:15
+
+# game/script.rpy:633
+translate english console_31a09f96_1:
+
+    # "Локация открыта."
+    "Location is open."
+
+# game/script.rpy:851
+translate english console_aa6eefb1_3:
+
+    # "Готово"
+    "Done"
+
+# game/script.rpy:862
+translate english console_1199be8c:
+
+    # "Успешно."
+    "Successfully."
+
+translate english strings:
+
+    # game/script.rpy:388
+    old "{color=000000}Открыть доступ ко входу в заброшенный завод."
+    new "{color=000000}Open access to the entrance to the abandoned factory."
+
+    # game/script.rpy:388
+    old "{color=000000}Обнулить все цвета рандомизированных НПС."
+    new "{color=000000}Reset all colors of randomized NPCs."
+
+    # game/script.rpy:388
+    old "{color=000000}Перенестись в вашу квартиру."
+    new "{color=000000}Transfer to your apartment."
+
+    # game/script.rpy:388
+    old "{color=000000}Перезагрузить скрипт.\n{size=21}Очищает оперативную память устройства"
+    new "{color=000000}Reload the script.\n{size=21}Clears the device's RAM"
+# TODO: Translation updated at 2022-11-03 21:12
+
+# game/script.rpy:543
+translate english console_32862920:
+
+    # "Все сцены с Азуми Ёшида были открыты и теперь доступны в галерее на ПК!"
+    "All the scenes with Azumi Yoshida have been opened and are now available in the gallery on PC!"
+
+# game/script.rpy:641
+translate english console_b12de0ae_10:
+
+    # "Готово."
+    "Done"
+
+translate english strings:
+
+    # game/script.rpy:388
+    old "{color=000000}Открыть все доступные сцены с Азуми Ёшида"
+    new "{color=000000}Open all available scenes with Azumi Yoshida"
+
+    # game/script.rpy:388
+    old "{color=000000}Повысить себе один уровень"
+    new "{color=000000}Raise yourself one level"
+# TODO: Translation updated at 2022-12-28 00:41
+
+# game/script.rpy:131
+translate english guide_05baa1e8:
+
+    # guide3 "Хм... Странно тогда, что я тебя не запомнила. Ну, не обращай внимания, моя дурья голова забывает важные вещи!"
+    guide3 "Hm... It's strange then that I didn't remember you. Well, don't pay attention, my stupid head forgets important things!"
+
+# game/script.rpy:132
+translate english guide_acaf9f9e:
+
+    # guide4 "Удачной игры, игрок!"
+    guide4 "Have a good game, player!"
+
+translate english strings:
+
+    # game/script.rpy:50
+    old "{color=#000000}Я играл в эту игру раньше.{/color}"
+    new "{color=#000000}I've played this game before.{/color}"
+# TODO: Translation updated at 2023-02-14 10:41
+
+# game/script.rpy:908
+translate english console_8d1c24a8:
+
+    # "Готово. Кулинарный опыт равняется [cooking] единицам."
+    "Done. Culinary experience equals [cooking] units."
+
+translate english strings:
+
+    # game/script.rpy:403
+    old "{color=000000}Повысить кулинарный опыт"
+    new "{color=000000}Enhance the culinary experience"
+# TODO: Translation updated at 2023-10-13 23:05
+
+# game/script.rpy:536
+translate english console_6c733a97:
+
+    # "Все сцены с сюжетными персонажами были открыты и теперь доступны в галерее на ПК!"
+    "All the scenes with the plot characters have been opened and are now available in the gallery on PC!"
+
+translate english strings:
+
+    # game/script.rpy:371
+    old "{color=000000}Открыть все доступные сцены с сюжетными персонажами"
+    new "{color=000000}Open all available scenes with story characters"
+# TODO: Translation updated at 2023-11-27 14:45
+
+# game/script.rpy:20
+translate english guide_94ecd956:
+
+    # guide6 "Ну-с, для начала давай разберемся с начальным интерфейсом. Чтобы перейти на карту города/академии тебе всего-то нужно нажать на иконку телефона, а после вот на эту иконочку: {image=phone/gps_idle.png}"
+    guide6 "Well, let's start with the initial interface. All you have to do to go to the city/ academy map is click on the phone icon, and then click on this icon: {image=phone/gps_idle.png}"
+
+# game/script.rpy:23
+translate english guide_c5e421c0:
+
+    # guide1 "Открыв карту города/академии ты можешь видеть разные локации, на которые можно перейти!"
+    guide1 "When you open the city/school map, you can see the locations that you can access!"
+
+# game/script.rpy:25
+translate english guide_3d147ed2:
+
+    # guide1 "Каждое твое действие дает персонажу что-то: деньги, атрибуты, перки. К примеру, учась в академии, ты будешь получать интеллект. Бегая по парку, выносливость и ловкость. Также, если заниматься дома с собственным весом, ты будешь качать силу."
+    guide1 "Every action you take gives your character something: money, trappings, perks. For example, when you go to academy, you'll get intelligence. Running through the park, endurance and agility. Also, if you work at home with your own weight, you'll shake strength."
+
+# game/script.rpy:61
+translate english guide_b20e40d7:
+
+    # guide1 "Шучу! Цель игры проста и понятна: окончить академию и обеспечить приемлимым будущим своего персонажа: будешь ли ты хулиганьем, которое перерастет свой спермотоксикоз и станет достойной ячейкой общества"
+    guide1 "I was just kidding! The aim of the game is simple and clear: it is to graduate from academy and provide acceptable future for your character: will you be a bully who will outgrow your spermotoxicosis and become a worthy cell of society."
+
+# game/script.rpy:240
+translate english guide1_4afdd622:
+
+    # "В академию можно зайти..."
+    "The academy can be accessed..."
+
+# game/script.rpy:241
+translate english guide1_fbcf90fd:
+
+    # guide12 "Точно! В академию можно зайти, если помнишь, через меню передвижение!"
+    guide12 "That's right! The academy can be accessed, if you remember, through the mobility menu!"
+
+# game/script.rpy:256
+translate english guide1_eb36b2a6:
+
+    # guide1 "В общем, открой анкету, когда решишься вступить в клуб! Она находится в рюкзаке. После нажми на нее, будучи у ворот в академию и все. Ты числишься в клубе!"
+    guide1 "Anyway, open a profile when you decide to join the club! It's in your backpack. Then click on it at the academy gate and that's it. You're in the club!"
+
+# game/script.rpy:265
+translate english guide1_5fae5adf:
+
+    # guide1 "Развивай клуб и достигни высот с людьми, что тебя окружают! Возможно это и будет обычным убиванием времени со стороны твоего персонажа, но это же круто! В конце концов ты сможешь окончить академию,"
+    guide1 "Develop a club and reach heights with the people around you! This may be the usual time killing for your character, but it's cool! Eventually, you'll be able to finish academy,"
+
+# game/script.rpy:267
+translate english guide1_a7ba5ef6:
+
+    # guide12 "А может ты и вовсе забьешь на все эти клубы, став президентом студ.совета и изменив академию навсегда в лучшую или же худшую сторону!"
+    guide12 "Or maybe you will forget about all these clubs, becoming the president of the student council and changing the academy forever for the better or worse!"
+
+# game/script.rpy:270
+translate english guide1_0a3ddb4e:
+
+    # guide11 "Чтобы попасть в клубную комнату, тебе нужно нажать на ПКМ и на кнопочку, которую ты сразу увидишь, но делать это нужно именно в академии! Дальше ты попадешь в клубную комнату и..."
+    guide11 "To get into the club room, you need to click on an icon and a button, which you will immediately see, but it is necessary to do it at academy! Then you go to the club room and..."
+# TODO: Translation updated at 2023-12-14 02:30
+
+# game/script.rpy:205
+translate english guide1_ba8c447e:
+
+    # guide1 "Там есть множество интересных механик, которые значительно улучшат твой игровой опыт, впрочем, опять же, ты всегда ее можешь пропустить, если будет такое желание."
+    guide1 "There are a lot of interesting mechanics that will greatly improve your gaming experience, but again, you can always skip it if you so choose."
+
+# game/script.rpy:216
+translate english guide1_c9bf28a9:
+
+    # guide12 "А может ты и вовсе забьешь на все эти клубы, став президентом студенческого совета и изменив академию навсегда в лучшую или же худшую сторону!"
+    guide12 "Or maybe you’ll give up on all these clubs altogether, becoming the president of the student council and changing the academy forever, for the better or for the worse!"
+
+# game/script.rpy:217
+translate english guide1_c3ed3d65:
+
+    # guide1 "В общем-то именно с этого момента начинается основной сюжет игры, в котором ты будешь участвовать, как полноценная единица!"
+    guide1 "In general, it is from this moment that the main plot of the game begins, in which you will participate as a full-fledged unit!"
+
+# game/script.rpy:224
+translate english guide1_a6724085:
+
+    # guide3 "Ух... Кажется, ты в беде, так? Я, конечно, знала, что драки - неотъемлимая часть в жизни любого студента, тем не менее это произошло даже раньше, чем я думала..."
+    guide3 "Uh... Looks like you're in trouble, right? Of course, I knew that fights are an integral part of the life of any student, however, this happened even earlier than I thought..."
+# TODO: Translation updated at 2023-12-28 19:13
+
+# game/script.rpy:839
+translate english console_48dad27f:
+
+    # "Видеозапись была получена."
+    "Video footage has been received."
+
+translate english strings:
+
+    # game/script.rpy:319
+    old "{color=000000}Получить видеозапись с Мейко Тсукаса"
+    new "{color=000000}Get video recording with Meiko Tsukasa"
+
+# TODO: Translation updated at 2024-02-12 15:42
+
+translate english strings:
+
+    # game/script.rpy:281
+    old "{color=000000}Установить репутацию вашего персонажа в продуктовом магазине (для повышения/понижения)"
+    new "{color=000000}Set your character's reputation in the grocery store (for promotion/demotion)"
+
+    # game/script.rpy:800
+    old "Введите значение, которое хотите установить в качестве значения."
+    new "Enter the value you want to set as the value."
+# TODO: Translation updated at 2024-04-13 00:53
+
+# game/script.rpy:811
+translate english console_aa6eefb1_4:
+
+    # "Готово"
+    "Done"
+
+translate english strings:
+
+    # game/script.rpy:276
+    old "{color=000000}Добавить ко всем атрибутам вашего персонажа +100 единиц."
+    new "{color=000000}Add +100 units to all your character's attributes."
+# TODO: Translation updated at 2024-04-24 17:47
+
+# game/script.rpy:820
+translate english console_aa6eefb1_5:
+
+    # "Готово"
+    "Done"
+# TODO: Translation updated at 2024-06-04 15:34
+
+translate english strings:
+
+    # game/script.rpy:276
+    old "{color=000000}Сменить стандартизированную одежду рандомизированным НПС без взаимодействий с Юки"
+    new "{color=000000}Change standardized clothes to randomized NPCs without interacting with Yuki"
+
+# TODO: Translation updated at 2024-07-14 14:33
+
+# game/script.rpy:808
+translate english console_f99b2d0a:
+
+    # "Lite-Mod: [Lite_Mode]"
+    "Lite-Mod: [Lite_Mode]"
+
+translate english strings:
+
+    # game/script.rpy:276
+    old "{color=000000}Включить/отключить Lite-Mod."
+    new "{color=000000}Enable/disable Lite-Mod."

@@ -10,7 +10,7 @@ translate english occult_book_guide_c026fa64:
 translate english occult_book_guide_7eb78623:
 
     # "Подойдя чуть ближе, вы заприметили рядом располагающуюся записку, на которой было написано «Аяно, обязательно прочти это!», и трудно различимое название находки: «Базовое управление клубом»"
-    "Coming a little closer, you notice a note located close to it. The inscriptions on it read: «Ayano, be sure to read this!» and the faded, hard-to-read name of the book: «Basic Club Management.»"
+    "Coming a little closer, you notice a note located close to it. The inscriptions on it read: «Ayano, be sure to read this!» and the faded, hard-to-read name of the book: «Basic Club Management»"
 
 # game/act.rpy:82
 translate english occult_book_guide_d8075248:
@@ -196,7 +196,7 @@ translate english occult_book_guide_de7edcf4:
 translate english occult_book_guide_4d05972d:
 
     # "Несомненно, эта книга была бы полезна главе любого школьного клуба, но теперь она принадлежит вам, и вы можете пользоваться ей, как только пожелаете. Да и без слоя пыли, что покрыла ее спустя продолжительное время, она начала выглядеть хоть как-то презентабельно."
-    "Undoubtedly, this book would be useful to the head of any school club, but now it belongs to you, and you can use it any time you wish. And even without the layer of dust that covered it for such a long time, it began to look at least a little presentable."
+    "Undoubtedly, this book would be useful to the head of any academy club, but now it belongs to you, and you can use it any time you wish. And even without the layer of dust that covered it for such a long time, it began to look at least a little presentable."
 
 # game/act.rpy:151
 translate english occult_book_guide_279b79f5:
@@ -256,19 +256,19 @@ translate english occult_book_guide_a01fe535:
 translate english occult_book_guide_de7edcf4_1:
 
     # "Продолжив заниматься своими несомненно важными делами, Аяно отвернулась в противоположную сторону, оставив вас наедине с размышлениями о содержании этого руководства..."
-    "Continuing to do her undoubtedly <<important things>>, Ayano turned away in the opposite direction, leaving you alone with reflections on the contents of this guide..."
+    "Continuing to do her undoubtedly important things, Ayano turned away in the opposite direction, leaving you alone with reflections on the contents of this guide..."
 
 # game/act.rpy:176
 translate english occult_book_guide_4d05972d_1:
 
     # "Несомненно, эта книга была бы полезна главе любого школьного клуба, но теперь она принадлежит вам, и вы можете пользоваться ей, как только пожелаете. Да и без слоя пыли, что покрыла ее спустя продолжительное время, она начала выглядеть хоть как-то презентабельно."
-    "Undoubtedly, this book would be useful to the head of any school club, but now it belongs to you, and you can use it any time you wish. And even without the layer of dust that covered her after a long time, she began to look at least somehow presentable."
+    "Undoubtedly, this book would be useful to the head of any academy club, but now it belongs to you, and you can use it any time you wish. And even without the layer of dust that covered her after a long time, she began to look at least somehow presentable."
 
 # game/act.rpy:177
 translate english occult_book_guide_279b79f5_1:
 
     # "По крайней мере для вещицы, которую достают лишь иногда из школьного рюкзака..."
-    "At least for a thing that is taken out only sometimes from a school backpack..."
+    "At least for a thing that is taken out only sometimes from a academy backpack..."
 
 # game/act.rpy:223
 translate english ayano_storeroom_47488932:
@@ -1126,13 +1126,13 @@ translate english ivent_minet_ayano_e2_c2610188:
 translate english club_77382971:
 
     # "Вы не являетесь участником какого-либо школьного клуба."
-    "You are not a member of any school club."
+    "You are not a member of any academy club."
 
 # game/act.rpy:610
 translate english occult_club_act1_0805552e:
 
-    # "Приближаясь к воротам уже достаточно обыденной для вас школы, вы приметили достаточно странные телодвижения других школьников: они шли за школу, а не в сторону входа, как обычно."
-    "Approaching the gates of a school that is already quite ordinary for you, you noticed quite strange gestures of the other students: they were walking behind the school, and not towards the entrance, as usual."
+    # "Приближаясь к воротам уже достаточно обыденной для вас академии, вы приметили достаточно странные телодвижения других школьников: они шли за академию, а не в сторону входа, как обычно."
+    "Approaching the gates of a academy that is already quite ordinary for you, you noticed quite strange gestures of the other students: they were walking behind the academy, and not towards the entrance, as usual."
 
 # game/act.rpy:611
 translate english occult_club_act1_6701fad8:
@@ -1150,7 +1150,7 @@ translate english occult_club_act1_c885dc65:
 translate english occult_club_act1_84ea02f8:
 
     # glgg "Ну, теперь все проясняется. Фестивали, на которых полноценно добирают участников в школьные клубы, происходят каждый год, не считая некоторых других агитационных моментов. Конечно, сейчас начало учебного года, но все же я не думал, что это произойдет так скоро..."
-    glgg "Well, now everything is clear. Festivals, where participants are fully taken to school clubs, take place every year, not counting some other campaigning moments. Of course, it's the beginning of the school year, but still, you didn't think it would happen so soon..."
+    glgg "Well, now everything is clear. Festivals, where participants are fully taken to academy clubs, take place every year, not counting some other campaigning moments. Of course, it's the beginning of the academy year, but still, you didn't think it would happen so soon..."
 
 # game/act.rpy:620
 translate english occult_club_act1_a20cefa7:
@@ -1329,8 +1329,8 @@ translate english occult_club_act1_66d35c92:
 # game/act.rpy:679
 translate english occult_club_act1_4e6c44a3:
 
-    # glgg "Чтобы я с тобой мог нормально общаться, скажи мне: во-первых, зачем ты носишь эти две игрушки с собой, а во-вторых, почему ты одета не в форму этой школы? Кто ты вообще такая и что хочешь от меня?"
-    glgg "So that I can communicate with you ordinarily, tell me: firstly, why do you carry these two puppets with you, and secondly, why are you not dressed in the uniform of this school? Who are you anyway, and what do you want from me?"
+    # glgg "Чтобы я с тобой мог нормально общаться, скажи мне: во-первых, зачем ты носишь эти две игрушки с собой, а во-вторых, почему ты одета не в форму этой академии? Кто ты вообще такая и что хочешь от меня?"
+    glgg "So that I can communicate with you ordinarily, tell me: firstly, why do you carry these two puppets with you, and secondly, why are you not dressed in the uniform of this academy? Who are you anyway, and what do you want from me?"
 
 # game/act.rpy:680
 translate english occult_club_act1_49d34113:
@@ -1647,8 +1647,8 @@ translate english otv_5_in_new_ivent_we1_bc792415_1:
 # game/act.rpy:810
 translate english otv_5_in_new_ivent_we1_d8e92b47:
 
-    # "Тяжело вздохнув, вы направились ко входу в школу. Приключения на пятую точку можно найти всегда, а вот время на подобное..."
-    "With a heavy sigh, you headed for the entrance to the school. Adventures in the head can always be found, but it's time for this..."
+    # "Тяжело вздохнув, вы направились ко входу в академию. Приключения на пятую точку можно найти всегда, а вот время на подобное..."
+    "With a heavy sigh, you headed for the entrance to the academy. Adventures in the head can always be found, but it's time for this..."
 
 # game/act.rpy:820
 translate english ayano_TC_cb918080:
@@ -2254,7 +2254,7 @@ translate english ayano_TC_e4388c38:
 translate english ayano_TC_6ac03521:
 
     # "Тяжело вздохнув, вы сняли с себя обувь, одновременно вытирая мокрое от дождя лицо и волосы. Упав пятой точкой на первую попавшуюся пустую тумбочку у порога, вы продолжили «сушиться», мало на что обращая внимание."
-    "Sighing heavily, you took off your shoes while wiping your face and hair wet from the rain. Having fallen with the fifth point on the first empty bedside table at the threshold, you continued to «dry out», paying little attention to anything."
+    "Sighing heavily, you took off your shoes while wiping your face and hair wet from the rain. Having fallen with the butt on the first empty bedside table at the threshold, you continued to «dry out», paying little attention to anything."
 
 # game/act.rpy:985
 translate english ayano_TC_bbaa6b6a:
@@ -2499,8 +2499,8 @@ translate english ayano_TC_d36b3b27:
 # game/act.rpy:1090
 translate english ayano_TC_1e0e1a74:
 
-    # ayanogg1 "Извини, что на самом деле я не такая, какой я являюсь в школе... Но, думаю, что тебе лучше об этом знать. Рано или поздно."
-    ayanogg1 "I'm sorry that I'm not really what I am at school.... But I think you should know about it. Sooner or later."
+    # ayanogg1 "Извини, что на самом деле я не такая, какой я являюсь в академии... Но, думаю, что тебе лучше об этом знать. Рано или поздно."
+    ayanogg1 "I'm sorry that I'm not really what I am at academy.... But I think you should know about it. Sooner or later."
 
 # game/act.rpy:1091
 translate english ayano_TC_d43bf023:
@@ -3783,7 +3783,7 @@ translate english club_occult_6a142c4f:
 # game/act.rpy:1687
 translate english club_occult_552cef45:
 
-    # ayanogg1 "Как ты знаешь, в нашей школе есть правило: ученику по клубу. Исключений не бывает, а вот данный клуб является избежанием бесполезных занятий в других клубах."
+    # ayanogg1 "Как ты знаешь, в нашей академии есть правило: ученику по клубу. Исключений не бывает, а вот данный клуб является избежанием бесполезных занятий в других клубах."
     ayanogg1 "As you know, there is a rule in our school: each student has to be part of a club. There are no exceptions, but this club is to avoid useless classes in other clubs."
 
 # game/act.rpy:1688
@@ -3838,7 +3838,7 @@ translate english club_occult_693c5839:
 translate english club_occult_497f2386:
 
     # "Сказав это, вы упали своей пятой точкой на стул, последовав примеру вашей новоиспеченной подруги."
-    "Having said that, you fell with your fifth point on a chair, following the example of your new friend."
+    "Having said that, you fell with your butt on a chair, following the example of your new friend."
 
 # game/act.rpy:1706
 translate english club_occult_48ce4c2f:
@@ -4000,7 +4000,7 @@ translate english club_occult_d90f5760_1:
 translate english club_occult_ba6ca8f7:
 
     # "Поняв, что дальнейший диалог никуда не приведет, вы сменили тему на школьную тематику."
-    "Realizing that further dialogue will not lead anywhere, you changed the topic to school topics."
+    "Realizing that further dialogue will not lead anywhere, you changed the topic to academy topics."
 
 # game/act.rpy:1768
 translate english club_occult_46546398:
@@ -4083,7 +4083,7 @@ translate english club_occult_0b51be33:
 # game/act.rpy:1815
 translate english club_occult_bc4e1cf9:
 
-    # glgg "Нет, просто не думаю, что это является нормой. По крайней мере если смотреть на это со стороны школы. Ты явно прогуливаешь уроки в этой комнате и чуть ли не живешь в ней, что является прямым нарушением. Кроме того, судя по множеству пустых банок в клубной комнате, ты здесь настолько редко убираешься, что все эти разы можно по пальцам пересчитать."
+    # glgg "Нет, просто не думаю, что это является нормой. По крайней мере если смотреть на это со стороны академии. Ты явно прогуливаешь уроки в этой комнате и чуть ли не живешь в ней, что является прямым нарушением. Кроме того, судя по множеству пустых банок в клубной комнате, ты здесь настолько редко убираешься, что все эти разы можно по пальцам пересчитать."
     glgg "No, I just don't think this is the norm. At least if you look at it from the school's side. You're skipping classes in this room and almost living in it, which is a direct violation. In addition, judging by the many empty cans in the club room, you so rarely clean up here that you can count all such ocassions on your fingers."
 
 # game/act.rpy:1817
@@ -4156,7 +4156,7 @@ translate english club_occult_bb11dcce:
 translate english club_occult_70eff7d4:
 
     # "Решив, что лучшим решением в данной ситуации - спросить про цели клуба, вы расположились близ девушки и пододвинули стул под свою пятую точку, упав на оный."
-    "Having decided that the best solution in this situation is to ask about the goals of the club, you settled down near the girl and pulled a chair under your fifth point, falling on it."
+    "Having decided that the best solution in this situation is to ask about the goals of the club, you settled down near the girl and pulled a chair under your butt, falling on it."
 
 # game/act.rpy:1841
 translate english club_occult_1c98acb2:
@@ -4227,8 +4227,8 @@ translate english ayano103_b34fa916:
 # game/act.rpy:1869
 translate english ayano103_7b797f6a:
 
-    # ayanogg1 "Бууу, ты злой... В общем, я хотела тебя похвалить еще раз, но внезапно передумала! И вообще, что ты думаешь о повышении авторитета клуба в пределах и за пределами школы?"
-    ayanogg1 "Boo, you're cruel... I wanted to praise you again, but suddenly changed my mind! So... what do you think about raising the profile of the club within and outside the school?"
+    # ayanogg1 "Бууу, ты злой... В общем, я хотела тебя похвалить еще раз, но внезапно передумала! И вообще, что ты думаешь о повышении авторитета клуба в пределах и за пределами академии?"
+    ayanogg1 "Boo, you're cruel... I wanted to praise you again, but suddenly changed my mind! So... what do you think about raising the profile of the club within and outside the academy?"
 
 # game/act.rpy:1870
 translate english ayano103_cfa6db1b:
@@ -4437,8 +4437,8 @@ translate english ayano102_1ae53ee8:
 # game/act.rpy:1937
 translate english ayano102_6b26b47b:
 
-    # ayanogg1 "В любом случае ответь мне на один вопрос... Ты сможешь поднять клуб с низов и сделать его достойным помещением в стенах школы?"
-    ayanogg1 "In any case, answer me one question... Will you be able to raise the club from the bottom and make it a worthy place within the walls of the school?"
+    # ayanogg1 "В любом случае ответь мне на один вопрос... Ты сможешь поднять клуб с низов и сделать его достойным помещением в стенах академии?"
+    ayanogg1 "In any case, answer me one question... Will you be able to raise the club from the bottom and make it a worthy place within the walls of the academy?"
 
 # game/act.rpy:1938
 translate english ayano102_de45ad7f:
@@ -4761,8 +4761,8 @@ translate english ayano101_78288807:
 # game/act.rpy:2045
 translate english ayano101_0f2a6b30:
 
-    # ayanogg1 "Ну... Сейчас это наш укромный уголок, где мы можем делать то, что захотим, в пределах школы, а если здесь будет кто-нибудь еще, то... То..."
-    ayanogg1 "Well... now it's our nook where we can do what we want within the school, and if there's anyone else here, then... then..."
+    # ayanogg1 "Ну... Сейчас это наш укромный уголок, где мы можем делать то, что захотим, в пределах академии, а если здесь будет кто-нибудь еще, то... То..."
+    ayanogg1 "Well... now it's our nook where we can do what we want within the academy, and if there's anyone else here, then... then..."
 
 # game/act.rpy:2046
 translate english ayano101_f096badb:
@@ -5452,7 +5452,7 @@ translate english ayano2_0408dc6f:
 translate english ayano2_3d047337:
 
     # "Решив, что лучшее времяпрепровождение - общение с вашей новоиспеченной подругой, вы сели близ нее, упав своей пятой точкой на стул, и начали диалог о насущном. Вскоре, через тридцать минут, вы окончили разговор, начав заниматься каждый своими делами."
-    "Having decided that the best pastime is communication with your newly-made girlfriend, you sat down next to her, falling with your fifth point on a chair, and began a dialogue about the urgent. Soon, after thirty minutes, you ended the conversation, starting to go about your own business."
+    "Having decided that the best pastime is communication with your newly-made girlfriend, you sat down next to her, falling with your butt on a chair, and began a dialogue about the urgent. Soon, after thirty minutes, you ended the conversation, starting to go about your own business."
 
 # game/act.rpy:4069
 translate english ayano2_34273e3e:
@@ -5487,8 +5487,8 @@ translate english ayano2_602e13b1:
 # game/act.rpy:4085
 translate english ayano2_a92af888:
 
-    # "Решив, что лучшая тема для разговора с Аяно - школьная тематика, вы начали ей рассказывать о разных нововведениях в школах со стороны МО и других вещах, что попросту не интересны многим."
-    "Having decided that the best topic for a conversation with Ayano is school topics, you began to tell her about various innovations in schools from the Ministry of Defense and other things that are simply not interesting to many."
+    # "Решив, что лучшая тема для разговора с Аяно - школьная тематика, вы начали ей рассказывать о разных нововведениях в академиях со стороны МО и других вещах, что попросту не интересны многим."
+    "Having decided that the best topic for a conversation with Ayano is academy topics, you began to tell her about various innovations in schools from the Ministry of Defense and other things that are simply not interesting to many."
 
 # game/act.rpy:4092
 translate english ayano2_49c83d57:
@@ -5517,8 +5517,8 @@ translate english ayano2_d20ab819:
 # game/act.rpy:4102
 translate english ayano2_46a94537:
 
-    # "Казалось, что ее милое выражение лица не изменит ничего, но, как только вы открыли свой рот насчет школы, в вас полетел пластиковый стаканчик, явно наполненный чем-то до этого броска."
-    "It seemed that her sweet expression wouldn't change anything, but as soon as you opened your mouth about the school, a plastic cup filled with something flew at you."
+    # "Казалось, что ее милое выражение лица не изменит ничего, но, как только вы открыли свой рот насчет академии, в вас полетел пластиковый стаканчик, явно наполненный чем-то до этого броска."
+    "It seemed that her sweet expression wouldn't change anything, but as soon as you opened your mouth about the academy, a plastic cup filled with something flew at you."
 
 # game/act.rpy:4104
 translate english ayano2_037ffecf:
@@ -5812,7 +5812,7 @@ translate english ayano2_0c517148:
 translate english ayano2_5e2583d4:
 
     # "Проигнорировав ваше последнее предложение, девушка начала собирать свою школьную сумку, но после, видно, устала, поэтому попросту забила на это дело, кинув ее куда-то в угол."
-    "Ignoring your last statement, the girl began to pack her school bag, but after that, she was tired, so she gave up on this matter, throwing it somewhere in the corner."
+    "Ignoring your last statement, the girl began to pack her academy bag, but after that, she was tired, so she gave up on this matter, throwing it somewhere in the corner."
 
 # game/act.rpy:4247
 translate english ayano2_547ed4a9:
@@ -5848,7 +5848,7 @@ translate english ayano2_89ffa1c3:
 translate english ayano2_5b0662f9:
 
     # glgg "Насквозь не вижу, но зато наблюдаю вещи, по которым можно судить о твоих успехах в школьных делах."
-    glgg "I don't see through it, but I do observe things by which you can judge your success in school affairs."
+    glgg "I don't see through it, but I do observe things by which you can judge your success in academy affairs."
 
 # game/act.rpy:4255
 translate english ayano2_822905f0:
@@ -5878,7 +5878,7 @@ translate english ayano2_6967cc40:
 translate english ayano2_48104964:
 
     # "Как бы то ни было, уже через пару десятков минут Аяно совсем выдохлась и села на лавочку, все же дав простор и для вашей пятой точки. Видно, что она еще не полностью забыла про вас."
-    "Anyway, after a couple dozen minutes had passed, Ayano was completely exhausted and sat down on a bench, still giving room for your fifth point. She has not completely forgotten about you yet."
+    "Anyway, after a couple dozen minutes had passed, Ayano was completely exhausted and sat down on a bench, still giving room for your butt. She has not completely forgotten about you yet."
 
 # game/act.rpy:4267
 translate english ayano2_89edfea0:
@@ -6052,7 +6052,7 @@ translate english ayano2_1f75c925:
 translate english ayano2_0a2f3279:
 
     # "Расположившись своей пятой точкой на стуле, возле Аяно, вы глянули на девушку, которая, как всегда, двигала своими ножками и вверх, и вниз, постоянно чередуя и меняя, как казалось, учредившийся и стандартизированный порядок, но все это было лишь на первый взгляд."
-    "Sitting with your fifth point on a chair near Ayano, you looked at the girl, who, as always, moved her legs up and down, constantly alternating and changing, as it seemed, the established and standardized order, but all this was only at first glance."
+    "Sitting with your butt on a chair near Ayano, you looked at the girl, who, as always, moved her legs up and down, constantly alternating and changing, as it seemed, the established and standardized order, but all this was only at first glance."
 
 # game/act.rpy:4327
 translate english ayano2_ee84791c:
@@ -6873,8 +6873,8 @@ translate english ayano_dialoge_at_yuki1_54f96707:
 # game/act.rpy:4704
 translate english ayano_dialoge_at_yuki1_b3e77fb5:
 
-    # ayanogg1 "Скоро будет фестиваль. Да-да, наша школа их проводит очень много и без этого, тем не менее это тот фестиваль, что может нам сильно помочь даже в плане бюджета. С помощью него мы сможем вырваться на первые места по популярности клубов."
-    ayanogg1 "There will be a festival soon. Yes, our school conducts a lot of them. Nevertheless, this festival in particular can help us a lot, even in terms of budget. By utilising this opportunity well, we will be able to break into the first place in terms of the popularity of clubs."
+    # ayanogg1 "Скоро будет фестиваль. Да-да, наша академия их проводит очень много и без этого, тем не менее это тот фестиваль, что может нам сильно помочь даже в плане бюджета. С помощью него мы сможем вырваться на первые места по популярности клубов."
+    ayanogg1 "There will be a festival soon. Yes, our academy conducts a lot of them. Nevertheless, this festival in particular can help us a lot, even in terms of budget. By utilising this opportunity well, we will be able to break into the first place in terms of the popularity of clubs."
 
 # game/act.rpy:4705
 translate english ayano_dialoge_at_yuki1_d8256054:
@@ -6885,8 +6885,8 @@ translate english ayano_dialoge_at_yuki1_d8256054:
 # game/act.rpy:4707
 translate english ayano_dialoge_at_yuki1_39adcad2:
 
-    # ayanogg1 "Как ты знаешь, раз в неделю мы проводим фестивали, но они по сути школьные и ничего не значат. Просто ненужная активность. Этот же фестиваль проводят раз в год, и он является городским. Ученики с разных школ будут приходить к нам, чтобы его посетить, да и не только они..."
-    ayanogg1 "As you know, once a week we hold some festival or the other, but they are typical for school and mean nothing. Just unnecessary activity. The festival I'm talking about is held once a year, and it is a city festival. Students from different schools will come to visit us, and not just them..."
+    # ayanogg1 "Как ты знаешь, раз в неделю мы проводим фестивали, но они по сути школьные и ничего не значат. Просто ненужная активность. Этот же фестиваль проводят раз в год, и он является городским. Ученики с разных академийбудут приходить к нам, чтобы его посетить, да и не только они..."
+    ayanogg1 "As you know, once a week we hold some festival or the other, but they are typical for academy and mean nothing. Just unnecessary activity. The festival I'm talking about is held once a year, and it is a city festival. Students from different schools will come to visit us, and not just them..."
 
 # game/act.rpy:4708
 translate english ayano_dialoge_at_yuki1_6c98a4f9:
@@ -6898,7 +6898,7 @@ translate english ayano_dialoge_at_yuki1_6c98a4f9:
 translate english ayano_dialoge_at_yuki1_2625a27b:
 
     # ayanogg1 "Я знаю это, поэтому и придумала альтернативный вариант – песня. Сейчас музыка интересует всех и вся и..."
-    ayanogg1 "I know this, and that's why I came up with an alternative version - a song. Nowadays, music interests everyone and everything and..."
+    ayanogg1 "I know this, and that's why I came up with an alternative version - a song. now a days, music interests everyone and everything and..."
 
 # game/act.rpy:4711
 translate english ayano_dialoge_at_yuki1_bfe2135e:
@@ -6994,7 +6994,7 @@ translate english ayano_dialoge_at_yuki1_2ec036c3:
 translate english ayano_dialoge_at_yuki1_d15695c4:
 
     # ayanogg1 "Ты должен действовать максимально отчужденно от меня. Ни Юки, ни студенческий совет не должны знать, что на самом деле глава клуба – ты, а не я. Это даст тебе простор для любых действий и, даже если они и будут запрещены школьными правилами, подобное не навредит клубу."
-    ayanogg1 "You must act as aloof from me as possible. Neither Yuki nor the student council should know that you are the actual head of the club, not me. This will give you room for any actions you take and, even if they are prohibited by school rules, this will not harm the club."
+    ayanogg1 "You must act as aloof from me as possible. Neither Yuki nor the student council should know that you are the actual head of the club, not me. This will give you room for any actions you take and, even if they are prohibited by academy rules, this will not harm the club."
 
 # game/act.rpy:4734
 translate english ayano_dialoge_at_yuki1_6919a9c0:
@@ -7023,8 +7023,8 @@ translate english ayano_dialoge_at_yuki1_9bf0dcc0:
 # game/act.rpy:4740
 translate english ayano_dialoge_at_yuki1_982a61be:
 
-    # ayanogg1 "Ладно... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей школе."
-    ayanogg1 "Okay... All you have to do is get a room from Yuki in which I can perform and... I want to tell you, the main requirement for a partner – he or she should not be a student at our school."
+    # ayanogg1 "Ладно... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей академии."
+    ayanogg1 "Okay... All you have to do is get a room from Yuki in which I can perform and... I want to tell you, the main requirement for a partner – he or she should not be a student at our academy."
 
 # game/act.rpy:4741
 translate english ayano_dialoge_at_yuki1_26b919cd:
@@ -7035,8 +7035,8 @@ translate english ayano_dialoge_at_yuki1_26b919cd:
 # game/act.rpy:4743
 translate english ayano_dialoge_at_yuki1_0e1007f2:
 
-    # ayanogg1 "Если кратко – Юки. Я боюсь, что она может подговорить моего напарника. Если он будет учиться в нашей школе, будет легко надавить на него с помощью оценок, слухов и подобного..."
-    ayanogg1 "In short, Yuki. I'm afraid she might talk my partner out of it. If they study at our school, it will be easy to put pressure on them with bad grades, rumors, and the like..."
+    # ayanogg1 "Если кратко – Юки. Я боюсь, что она может подговорить моего напарника. Если он будет учиться в нашей академии, будет легко надавить на него с помощью оценок, слухов и подобного..."
+    ayanogg1 "In short, Yuki. I'm afraid she might talk my partner out of it. If they study at our academy, it will be easy to put pressure on them with bad grades, rumors, and the like..."
 
 # game/act.rpy:4744
 translate english ayano_dialoge_at_yuki1_b4c3be25:
@@ -7047,8 +7047,8 @@ translate english ayano_dialoge_at_yuki1_b4c3be25:
 # game/act.rpy:4746
 translate english ayano_dialoge_at_yuki1_c245d061:
 
-    # ayanogg1 "Паранойя или нет, но мне комфортнее будет выступать с надежным человеком не из нашей школы. Сам понимаешь, что этого никак не изменить ни тебе, ни мне..."
-    ayanogg1 "Paranoid or not, it will be more comfortable for me to perform with a reliable person who is not from our school. You understand yourself that there is no way to change this..."
+    # ayanogg1 "Паранойя или нет, но мне комфортнее будет выступать с надежным человеком не из нашей академии. Сам понимаешь, что этого никак не изменить ни тебе, ни мне..."
+    ayanogg1 "Paranoid or not, it will be more comfortable for me to perform with a reliable person who is not from our academy. You understand yourself that there is no way to change this..."
 
 # game/act.rpy:4747
 translate english ayano_dialoge_at_yuki1_b193db38:
@@ -7059,8 +7059,8 @@ translate english ayano_dialoge_at_yuki1_b193db38:
 # game/act.rpy:4749
 translate english ayano_dialoge_at_yuki1_3cb47015:
 
-    # ayanogg1 "Насчет этого... Я уверена, что если ты мне поможешь, у нас все получится! Просто приведи ко мне любого своего возможного знакомого не из школы, желательно девушку и... Будь уверен, я взорву сцену. Вместе с твоим знакомым."
-    ayanogg1 "About that... I am sure that if you help me, we will succeed! Just bring me any of your possible acquaintances not from school, preferably a girl, and... you can be sure, I'll blow up the scene. Together with your friend."
+    # ayanogg1 "Насчет этого... Я уверена, что если ты мне поможешь, у нас все получится! Просто приведи ко мне любого своего возможного знакомого не из академии, желательно девушку и... Будь уверен, я взорву сцену. Вместе с твоим знакомым."
+    ayanogg1 "About that... I am sure that if you help me, we will succeed! Just bring me any of your possible acquaintances not from academy, preferably a girl, and... you can be sure, I'll blow up the scene. Together with your friend."
 
 # game/act.rpy:4750
 translate english ayano_dialoge_at_yuki1_760adff9:
@@ -7209,8 +7209,8 @@ translate english ayano_dialoge_suzuki_help_4bcdea21:
 # game/act.rpy:4848
 translate english ayano_dialoge_suzuki_help_34ece2c2:
 
-    # glgg "Ну, полагаю, нам нужно встретиться пока что вне школы, а так – дело всецело твое. Если хочешь, я позову ее прямо сюда, но не думаю, что ее пропустят, хотя кто знает..."
-    glgg "Well, I guess we need to meet outside of school for now, but as it is, it's entirely up to you. If you want, I'll call her right here, but I don't think she'll be missed, although who knows..."
+    # glgg "Ну, полагаю, нам нужно встретиться пока что вне академии, а так – дело всецело твое. Если хочешь, я позову ее прямо сюда, но не думаю, что ее пропустят, хотя кто знает..."
+    glgg "Well, I guess we need to meet outside of academy for now, but as it is, it's entirely up to you. If you want, I'll call her right here, but I don't think she'll be missed, although who knows..."
 
 # game/act.rpy:4850
 translate english ayano_dialoge_suzuki_help_71f074c2:
@@ -7251,8 +7251,8 @@ translate english ayano_dialoge_suzuki_help_c98d96cb:
 # game/act.rpy:4858
 translate english ayano_dialoge_suzuki_help_c57db252:
 
-    # ayanogg1 "Ох... Давай вечером, когда школа будет закрыта? Приблизительно в 20:00 – 21:00. Я тебе оставлю адрес, ты подойдешь, и мы позовем ее. Думаю, ты сможешь ее подготовить к такому графику."
-    ayanogg1 "Oh... how about tonight, after the school will be be closed? Approximately between 20:00 - 21:00. I'll leave you the address, you come over, and we'll call her. I think you can prepare her for such a schedule."
+    # ayanogg1 "Ох... Давай вечером, когда академия будет закрыта? Приблизительно в 20:00 – 21:00. Я тебе оставлю адрес, ты подойдешь, и мы позовем ее. Думаю, ты сможешь ее подготовить к такому графику."
+    ayanogg1 "Oh... how about tonight, after the academy will be be closed? Approximately between 20:00 - 21:00. I'll leave you the address, you come over, and we'll call her. I think you can prepare her for such a schedule."
 
 # game/act.rpy:4859
 translate english ayano_dialoge_suzuki_help_1f70cb73:
@@ -7929,8 +7929,8 @@ translate english diloge_v_r_e1_da9632f9:
 # game/act.rpy:5115
 translate english diloge_v_r_e1_e0d7b623:
 
-    # ayanogg1 "Ну и ладно! Как бы то ни было, я видела листовки на территории школы... Это ты сделал?"
-    ayanogg1 "Well, that's fine! Anyway, I saw the flyers on the school grounds... Did you do that?"
+    # ayanogg1 "Ну и ладно! Как бы то ни было, я видела листовки на территории академии... Это ты сделал?"
+    ayanogg1 "Well, that's fine! Anyway, I saw the flyers on the academy grounds... Did you do that?"
 
 # game/act.rpy:5116
 translate english diloge_v_r_e1_1212f3cc:
@@ -7947,8 +7947,8 @@ translate english diloge_v_r_e1_6e8d4430:
 # game/act.rpy:5119
 translate english diloge_v_r_e1_66e74430:
 
-    # ayanogg1 "Я не ожидала, что она выдаст нам помещения, даже с учетом ваших партнерско-дружеских отношений, а она мало того, что сделала это, так еще и сделала наше выступление главным событием от лица школы. Как там говорилось... Двух зайцев одним выстрелом?"
-    ayanogg1 "I did not expect that she would give us the premises, even taking into account your partner-friendly relations, and not only did she do this, but she also made our performance the main event on behalf of the school. What did they say... two birds with one stone?"
+    # ayanogg1 "Я не ожидала, что она выдаст нам помещения, даже с учетом ваших партнерско-дружеских отношений, а она мало того, что сделала это, так еще и сделала наше выступление главным событием от лица академии. Как там говорилось... Двух зайцев одним выстрелом?"
+    ayanogg1 "I did not expect that she would give us the premises, even taking into account your partner-friendly relations, and not only did she do this, but she also made our performance the main event on behalf of the academy. What did they say... two birds with one stone?"
 
 # game/act.rpy:5120
 translate english diloge_v_r_e1_8f28e320:
@@ -8211,14 +8211,14 @@ translate english perfomance_ayano_c4c89af5:
 # game/act.rpy:5248
 translate english perfomance_ayano_5eccd7cd:
 
-    # "Быстро одевшись, проведя немного времени в уборной и перекусив первым, что попало вам под руку, вы открыли входную дверь и, выйдя из помещения, сразу же направились в школу."
-    "After getting dressed quickly, spending some time in the bathroom, and having a snack with the first thing that came to your hand, you opened the front door and, leaving the appartment, immediately headed to school."
+    # "Быстро одевшись, проведя немного времени в уборной и перекусив первым, что попало вам под руку, вы открыли входную дверь и, выйдя из помещения, сразу же направились в академию."
+    "After getting dressed quickly, spending some time in the bathroom, and having a snack with the first thing that came to your hand, you opened the front door and, leaving the appartment, immediately headed to academy."
 
 # game/act.rpy:5250
 translate english perfomance_ayano_47a80f67:
 
-    # "Благо, что путь был не таким длинным, и уже вскоре ваш взор упал на полную посетителями, прогуливающимися по двору, школу."
-    "Fortunately, the path was not so long, and soon your eyes fell on the school full of visitors strolling around the yard."
+    # "Благо, что путь был не таким длинным, и уже вскоре ваш взор упал на полную посетителями, прогуливающимися по двору, академию."
+    "Fortunately, the path was not so long, and soon your eyes fell on the academy full of visitors strolling around the yard."
 
 # game/act.rpy:5251
 translate english perfomance_ayano_68cdd587:
@@ -8230,7 +8230,7 @@ translate english perfomance_ayano_68cdd587:
 translate english perfomance_ayano_1d03197d:
 
     # "Но, как совершенно не ожидалось, с последними у вас не возникло никаких проблем. Сзади была Аяно, которая, взяв вашу руку, понесла вас вперед по толпе, в самый ад – школьные коридоры, сквозь которые можно было попасть в клубную комнату."
-    "But, as was completely unexpected, you didn't have any problems with the latter. Behind you was Ayano, who, taking your hand, carried you forward through the crowd, into that very hell - the crowded and jam-packed school corridors through which you could get to the club room."
+    "But, as was completely unexpected, you didn't have any problems with the latter. Behind you was Ayano, who, taking your hand, carried you forward through the crowd, into that very hell - the crowded and jam-packed academy corridors through which you could get to the club room."
 
 # game/act.rpy:5256
 translate english perfomance_ayano_537cc839:
@@ -8368,7 +8368,7 @@ translate english perfomance_ayano_63f42743:
 translate english perfomance_ayano_df72a5be:
 
     # "Глянув на источник звука, вы заприметили только-только зашедшую в клубную комнату довольную Юки, которая, подойдя поближе, села на ближайший к вам стул пятой точкой и начала безмолвно пялить, ожидая ответа с вашей стороны."
-    "Looking at the source of that voice, you noticed a satisfied Yuki who had just entered the club room, who, coming closer, sat down on the chair closest to you with her fifth point and began to stare at you silently, waiting for an answer from your side."
+    "Looking at the source of that voice, you noticed a satisfied Yuki who had just entered the club room, who, coming closer, sat down on the chair closest to you with her butt and began to stare at you silently, waiting for an answer from your side."
 
 # game/act.rpy:5295
 translate english perfomance_ayano_5ce9ebdf:
@@ -8445,8 +8445,8 @@ translate english perfomance_ayano_47266bac:
 # game/act.rpy:5313
 translate english perfomance_ayano_855adbe3:
 
-    # yuki "Наша школа будет вести стрим этого концерта. Ах... И да, полностью забить время вашим выступлением у меня не получилось."
-    yuki "Our school will stream this concert. Ah... and yes, I didn't manage to completely score time with your performance."
+    # yuki "Наша академия будет вести стрим этого концерта. Ах... И да, полностью забить время вашим выступлением у меня не получилось."
+    yuki "Our academy will stream this concert. Ah... and yes, I didn't manage to completely score time with your performance."
 
 # game/act.rpy:5314
 translate english perfomance_ayano_7c53e77c:
@@ -9039,7 +9039,7 @@ translate english strings:
     new "{color=#000000}Find out what Ayano does in her free time\n{size=21}{i}0 energy{/i}{/size}\n{size=21}{i}[stats_cunning_gg_info]/30 ingenuity{/i}{/size}{/color}"
 
     # game/act.rpy:1734
-    old "{color=#000000}Перевести разговор в обсуждение школы\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    old "{color=#000000}Перевести разговор в обсуждение академии\n{size=21}{i}0 энергии{/i}{/size}{/color}"
     new "{color=#000000}Turn the conversation into a discussion of the school\n{size=21}{i}0 energy{/i}{/size}{/color}"
 
     # game/act.rpy:1762
@@ -9496,7 +9496,7 @@ translate english strings:
 
     # game/act.rpy:3050
     old "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Готовится к фестивалю{/size}{/color}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Preparing for the festival{/size}{/color}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Preparing to festival{/size}{/color}{/font}"
 
     # game/act.rpy:3052
     old "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Работает над проектом{/size}{/color}{/font}"
@@ -10724,8 +10724,8 @@ translate english ayano103_911c4bad:
 # game/act.rpy:1942
 translate english ayano103_2d169299:
 
-    # ayanogg1 "А сейчас... Просто скажи, что ты думаешь о повышении авторитета и популярности за пределами школы?"
-    ayanogg1 "And now... Just tell me, what do you think about increasing the authority and popularity of the club outside of school?"
+    # ayanogg1 "А сейчас... Просто скажи, что ты думаешь о повышении авторитета и популярности за пределами академии?"
+    ayanogg1 "And now... Just tell me, what do you think about increasing the authority and popularity of the club outside of academy?"
 
 # game/act.rpy:1943
 translate english ayano103_8ecc61fd:
@@ -10748,8 +10748,8 @@ translate english ayano103_fd586e60:
 # game/act.rpy:1946
 translate english ayano103_53f404bd:
 
-    # ayanogg1 "Ах... Точно! Что ты думаешь о вечеринках, подобных тому, что делает клуб косплея... Это тоже кружок по интересам, но, несмотря на это, их популярность за пределами школы крайне высока!"
-    ayanogg1 "Ah... exactly! What do you think about parties like what the cosplay club does... That is a small circle of interest too, but despite this, their popularity outside the school is extremely high!"
+    # ayanogg1 "Ах... Точно! Что ты думаешь о вечеринках, подобных тому, что делает клуб косплея... Это тоже кружок по интересам, но, несмотря на это, их популярность за пределами академии крайне высока!"
+    ayanogg1 "Ah... exactly! What do you think about parties like what the cosplay club does... That is a small circle of interest too, but despite this, their popularity outside the academy is extremely high!"
 
 # game/act.rpy:1947
 translate english ayano103_9cf4ffb9:
@@ -10850,8 +10850,8 @@ translate english ayano103_f9b70f6d:
 # game/act.rpy:1969
 translate english ayano103_e4c40b8e:
 
-    # ayanogg1 "Да... Я много думала об этом и пришла к такому решению... Что ты думаешь о том, чтобы повышать авторитет и популярность школы за пределами школы?"
-    ayanogg1 "Yes... I thought about it a lot and came to this decision... What do you think about increasing the authority and popularity of the school outside of school?"
+    # ayanogg1 "Да... Я много думала об этом и пришла к такому решению... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I thought about it a lot and came to this decision... What do you think about increasing the authority and popularity of the academy outside of academy?"
 
 # game/act.rpy:1970
 translate english ayano103_8ecc61fd_1:
@@ -10862,8 +10862,8 @@ translate english ayano103_8ecc61fd_1:
 # game/act.rpy:1971
 translate english ayano103_529157af:
 
-    # ayanogg1 "Ну... Хе-хе, я некоторое время следила за клубом косплея и заметила, что тот достаточно популярен. То есть... Как бы это сказать... Несмотря на то, что у них по сути кружок по интересам, они достаточно популярны вне школы."
-    ayanogg1 "Well... he-he, I've been following the cosplay club for a while and noticed that it's quite popular. That is... How should I put it... Even though they essentially have a small circle of interests, they are quite popular outside of school."
+    # ayanogg1 "Ну... Хе-хе, я некоторое время следила за клубом косплея и заметила, что тот достаточно популярен. То есть... Как бы это сказать... Несмотря на то, что у них по сути кружок по интересам, они достаточно популярны вне академии."
+    ayanogg1 "Well... he-he, I've been following the cosplay club for a while and noticed that it's quite popular. That is... How should I put it... Even though they essentially have a small circle of interests, they are quite popular outside of academy."
 
 # game/act.rpy:1972
 translate english ayano103_8f45c279:
@@ -10976,8 +10976,8 @@ translate english ayano103_170e05b1:
 # game/act.rpy:1993
 translate english ayano103_70d227ce:
 
-    # ayanogg1 "Да... Я долго обдумывала это, но сейчас немного остановилась на вопросе, решение к которому я не могу выбрать... Что ты думаешь о том, чтобы повышать авторитет и популярность школы за пределами школы?"
-    ayanogg1 "Yes... I've been thinking about it for a long time, but now I've stopped a little on a question that I can't choose a solution to... What do you think about increasing the authority and popularity of the school outside of school?"
+    # ayanogg1 "Да... Я долго обдумывала это, но сейчас немного остановилась на вопросе, решение к которому я не могу выбрать... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I've been thinking about it for a long time, but now I've stopped a little on a question that I can't choose a solution to... What do you think about increasing the authority and popularity of the academy outside of academy?"
 
 # game/act.rpy:1994
 translate english ayano103_8ecc61fd_2:
@@ -10988,8 +10988,8 @@ translate english ayano103_8ecc61fd_2:
 # game/act.rpy:1995
 translate english ayano103_e08757d0:
 
-    # ayanogg1 "Клуб косплея... Думаю, пример его управления нам подходит. Несмотря на то, что этот клуб такой же кружок по интересам, как и мы, он популярен вне школы. На уровне спортивных и творческих клубов..."
-    ayanogg1 "The cosplay club... I think the example of its management suits us. Even though this club is the same circle of interests as we are, it is popular outside of school. At the level of sports and creative clubs..."
+    # ayanogg1 "Клуб косплея... Думаю, пример его управления нам подходит. Несмотря на то, что этот клуб такой же кружок по интересам, как и мы, он популярен вне академии. На уровне спортивных и творческих клубов..."
+    ayanogg1 "The cosplay club... I think the example of its management suits us. Even though this club is the same circle of interests as we are, it is popular outside of academy. At the level of sports and creative clubs..."
 
 # game/act.rpy:1996
 translate english ayano103_8f45c279_1:
@@ -11378,8 +11378,8 @@ translate english ayano102_2438f0ee:
 # game/act.rpy:2134
 translate english ayano102_8e809c89:
 
-    # ayanogg1 "Хе-хе! Именно! Теперь можешь перед всеми хвастаться, что принадлежишь элите этой школы!"
-    ayanogg1 "He-he! Exactly! Now you can brag to everyone that you belong to the elite of this school!"
+    # ayanogg1 "Хе-хе! Именно! Теперь можешь перед всеми хвастаться, что принадлежишь элите этой академии!"
+    ayanogg1 "He-he! Exactly! Now you can brag to everyone that you belong to the elite of this academy!"
 
 # game/act.rpy:2138
 translate english ayano102_a4cbbe27:
@@ -11630,14 +11630,14 @@ translate english ayano102_18a8457b:
 # game/act.rpy:2236
 translate english ayano102_38198282:
 
-    # ayanogg1 "Так и знала! Твоя уверенность в себе – настоящая кладезь... Э... Дальше не знаю... В общем, я тоже уверена в тебе, поэтому вместе с тобой мы наверняка сделаем клуб оккультизма – лучшим школьным клубом не только в этой школе, но и во всем городе! Нет, во всей стране!"
-    ayanogg1 "I knew it! Your self-confidence is a real storehouse of... uh... I don't know further... In general, I am also confident in you, so together with you, we will surely make the occult club - the best school club not only in this school but in the whole city! No, in the entire country!"
+    # ayanogg1 "Так и знала! Твоя уверенность в себе – настоящая кладезь... Э... Дальше не знаю... В общем, я тоже уверена в тебе, поэтому вместе с тобой мы наверняка сделаем клуб оккультизма – лучшим школьным клубом не только в этой академии, но и во всем городе! Нет, во всей стране!"
+    ayanogg1 "I knew it! Your self-confidence is a real storehouse of... uh... I don't know further... In general, I am also confident in you, so together with you, we will surely make the occult club - the best academy club not only in this academy but in the whole city! No, in the entire country!"
 
 # game/act.rpy:2240
 translate english ayano102_ba343f50:
 
-    # ayanogg1 "А я вот уверена в обратном! Несмотря на то, что мы с тобой не так уж и долго знакомы, я уверена в тебе и твоих навыках! Я уверена в том, что мы сделаем клуб оккультизма – лучшим школьным клубом не только в этой школе, но и во всем городе! Нет, во всей стране!"
-    ayanogg1 "But I'm sure of the opposite! Despite the fact that we haven't known each other for so long, I'm confident in you and your skills! I am confident in you, so together with you, we will surely make the occult club - the best school club not only in this school but in the whole city! No, in the entire country!"
+    # ayanogg1 "А я вот уверена в обратном! Несмотря на то, что мы с тобой не так уж и долго знакомы, я уверена в тебе и твоих навыках! Я уверена в том, что мы сделаем клуб оккультизма – лучшим школьным клубом не только в этой академии, но и во всем городе! Нет, во всей стране!"
+    ayanogg1 "But I'm sure of the opposite! Despite the fact that we haven't known each other for so long, I'm confident in you and your skills! I am confident in you, so together with you, we will surely make the occult club - the best academy club not only in this academy but in the whole city! No, in the entire country!"
 
 # game/act.rpy:2244
 translate english ayano102_a84c47bc:
@@ -11690,8 +11690,8 @@ translate english ayano102_66886f55:
 # game/act.rpy:2266
 translate english ayano102_9fc6c160:
 
-    # glgg "Вот это мы и узнаем... В любом случае, раз уж я могу пригласить кого-то и не получить за это лещей, то почему бы не сделать это в свободное время? Тем более в школе учеников достаточно много..."
-    glgg "That's what we'll find out... Since I can invite someone and not get breams for it, then why not do it in my free time? Moreover, there are quite a lot of students in the school..."
+    # glgg "Вот это мы и узнаем... В любом случае, раз уж я могу пригласить кого-то и не получить за это лещей, то почему бы не сделать это в свободное время? Тем более в академии учеников достаточно много..."
+    glgg "That's what we'll find out... Since I can invite someone and not get breams for it, then why not do it in my free time? Moreover, there are quite a lot of students in the academy..."
 
 # game/act.rpy:2272
 translate english ayano102_d52b5e44:
@@ -12067,8 +12067,8 @@ translate english ayano103123qewd_911c4bad:
 # game/act.rpy:1958
 translate english ayano103123qewd_2d169299:
 
-    # ayanogg1 "А сейчас... Просто скажи, что ты думаешь о повышении авторитета и популярности за пределами школы?"
-    ayanogg1 "And now... Just tell me, what do you think about increasing authority and popularity outside of school?"
+    # ayanogg1 "А сейчас... Просто скажи, что ты думаешь о повышении авторитета и популярности за пределами академии?"
+    ayanogg1 "And now... Just tell me, what do you think about increasing authority and popularity outside of academy?"
 
 # game/act.rpy:1959
 translate english ayano103123qewd_8ecc61fd:
@@ -12091,8 +12091,8 @@ translate english ayano103123qewd_fd586e60:
 # game/act.rpy:1964
 translate english ayano103123qewd_53f404bd:
 
-    # ayanogg1 "Ах... Точно! Что ты думаешь о вечеринках, подобных тому, что делает клуб косплея... Это тоже кружок по интересам, но, несмотря на это, их популярность за пределами школы крайне высока!"
-    ayanogg1 "Ah... exactly! What do you think about parties like what the cosplay club does... This is a circle of interests too, but despite this, their popularity outside the school is extremely high!"
+    # ayanogg1 "Ах... Точно! Что ты думаешь о вечеринках, подобных тому, что делает клуб косплея... Это тоже кружок по интересам, но, несмотря на это, их популярность за пределами академии крайне высока!"
+    ayanogg1 "Ah... exactly! What do you think about parties like what the cosplay club does... This is a circle of interests too, but despite this, their popularity outside the academy is extremely high!"
 
 # game/act.rpy:1965
 translate english ayano103123qewd_9cf4ffb9:
@@ -12193,8 +12193,8 @@ translate english ayano103123qewd_f9b70f6d:
 # game/act.rpy:1998
 translate english ayano103123qewd_e4c40b8e:
 
-    # ayanogg1 "Да... Я много думала об этом и пришла к такому решению... Что ты думаешь о том, чтобы повышать авторитет и популярность школы за пределами школы?"
-    ayanogg1 "Yes... I thought about it a lot and came to this decision... What do you think about increasing the authority and popularity of the school outside of school?"
+    # ayanogg1 "Да... Я много думала об этом и пришла к такому решению... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I thought about it a lot and came to this decision... What do you think about increasing the authority and popularity of the academy outside of academy?"
 
 # game/act.rpy:1999
 translate english ayano103123qewd_8ecc61fd_1:
@@ -12205,8 +12205,8 @@ translate english ayano103123qewd_8ecc61fd_1:
 # game/act.rpy:2001
 translate english ayano103123qewd_529157af:
 
-    # ayanogg1 "Ну... Хе-хе, я некоторое время следила за клубом косплея и заметила, что тот достаточно популярен. То есть... Как бы это сказать... Несмотря на то, что у них по сути кружок по интересам, они достаточно популярны вне школы."
-    ayanogg1 "Well... he-he, I've been following the cosplay club for a while and noticed that it's quite popular. That is... How should I put it... Even though they essentially have a circle of interests, they are quite popular outside of school."
+    # ayanogg1 "Ну... Хе-хе, я некоторое время следила за клубом косплея и заметила, что тот достаточно популярен. То есть... Как бы это сказать... Несмотря на то, что у них по сути кружок по интересам, они достаточно популярны вне академии."
+    ayanogg1 "Well... he-he, I've been following the cosplay club for a while and noticed that it's quite popular. That is... How should I put it... Even though they essentially have a circle of interests, they are quite popular outside of academy."
 
 # game/act.rpy:2002
 translate english ayano103123qewd_8f45c279:
@@ -12319,8 +12319,8 @@ translate english ayano103123qewd_170e05b1:
 # game/act.rpy:2033
 translate english ayano103123qewd_70d227ce:
 
-    # ayanogg1 "Да... Я долго обдумывала это, но сейчас немного остановилась на вопросе, решение к которому я не могу выбрать... Что ты думаешь о том, чтобы повышать авторитет и популярность школы за пределами школы?"
-    ayanogg1 "Yes... I've been thinking about it for a long time, but now I've stopped a little on a question that I can't choose a solution to... What do you think about increasing the authority and popularity of the school outside of school?"
+    # ayanogg1 "Да... Я долго обдумывала это, но сейчас немного остановилась на вопросе, решение к которому я не могу выбрать... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I've been thinking about it for a long time, but now I've stopped a little on a question that I can't choose a solution to... What do you think about increasing the authority and popularity of the academy outside of academy?"
 
 # game/act.rpy:2034
 translate english ayano103123qewd_8ecc61fd_2:
@@ -12331,8 +12331,8 @@ translate english ayano103123qewd_8ecc61fd_2:
 # game/act.rpy:2036
 translate english ayano103123qewd_e08757d0:
 
-    # ayanogg1 "Клуб косплея... Думаю, пример его управления нам подходит. Несмотря на то, что этот клуб такой же кружок по интересам, как и мы, он популярен вне школы. На уровне спортивных и творческих клубов..."
-    ayanogg1 "The cosplay club... I think the example of its management suits us. Even though this club is the same circle of interests as we are, it is popular outside of school. At the level of sports and creative clubs..."
+    # ayanogg1 "Клуб косплея... Думаю, пример его управления нам подходит. Несмотря на то, что этот клуб такой же кружок по интересам, как и мы, он популярен вне академии. На уровне спортивных и творческих клубов..."
+    ayanogg1 "The cosplay club... I think the example of its management suits us. Even though this club is the same circle of interests as we are, it is popular outside of academy. At the level of sports and creative clubs..."
 
 # game/act.rpy:2037
 translate english ayano103123qewd_8f45c279_1:
@@ -12367,8 +12367,8 @@ translate english ayano103123qewd_b34fa916:
 # game/act.rpy:2048
 translate english ayano103123qewd_7b797f6a:
 
-    # ayanogg1 "Бууу, ты злой... В общем, я хотела тебя похвалить еще раз, но внезапно передумала! И вообще, что ты думаешь о повышении авторитета клуба в пределах и за пределами школы? "
-    ayanogg1 "Boo, you're cruel... I wanted to praise you again, but suddenly changed my mind! So... what do you think about raising the profile of the club within and outside the school?"
+    # ayanogg1 "Бууу, ты злой... В общем, я хотела тебя похвалить еще раз, но внезапно передумала! И вообще, что ты думаешь о повышении авторитета клуба в пределах и за пределами академии? "
+    ayanogg1 "Boo, you're cruel... I wanted to praise you again, but suddenly changed my mind! So... what do you think about raising the profile of the club within and outside the academy?"
 
 # game/act.rpy:2049
 translate english ayano103123qewd_cfa6db1b:
@@ -12583,8 +12583,8 @@ translate english ayano102123eeqdq_2438f0ee:
 # game/act.rpy:2205
 translate english ayano102123eeqdq_8e809c89:
 
-    # ayanogg1 "Хе-хе! Именно! Теперь можешь перед всеми хвастаться, что принадлежишь элите этой школы!"
-    ayanogg1 "He-he! Exactly! Now you can brag to everyone that you belong to the elite of this school!"
+    # ayanogg1 "Хе-хе! Именно! Теперь можешь перед всеми хвастаться, что принадлежишь элите этой академии!"
+    ayanogg1 "He-he! Exactly! Now you can brag to everyone that you belong to the elite of this academy!"
 
 # game/act.rpy:2209
 translate english ayano102123eeqdq_a4cbbe27:
@@ -12913,14 +12913,14 @@ translate english ayano102123eeqdq_18a8457b:
 # game/act.rpy:2340
 translate english ayano102123eeqdq_38198282:
 
-    # ayanogg1 "Так и знала! Твоя уверенность в себе – настоящая кладезь... Э... Дальше не знаю... В общем, я тоже уверена в тебе, поэтому вместе с тобой мы наверняка сделаем клуб оккультизма – лучшим школьным клубом не только в этой школе, но и во всем городе! Нет, во всей стране!"
-    ayanogg1 "I knew it! Your self-confidence is a real storehouse of... uh... I don't know further... In general, I am also confident in you, so together with you, we will surely make the occult club - the best school club not only in this school but in the whole city! No, in the entire country!"
+    # ayanogg1 "Так и знала! Твоя уверенность в себе – настоящая кладезь... Э... Дальше не знаю... В общем, я тоже уверена в тебе, поэтому вместе с тобой мы наверняка сделаем клуб оккультизма – лучшим школьным клубом не только в этой академии, но и во всем городе! Нет, во всей стране!"
+    ayanogg1 "I knew it! Your self-confidence is a real storehouse of... uh... I don't know further... In general, I am also confident in you, so together with you, we will surely make the occult club - the best academy club not only in this academy but in the whole city! No, in the entire country!"
 
 # game/act.rpy:2345
 translate english ayano102123eeqdq_ba343f50:
 
-    # ayanogg1 "А я вот уверена в обратном! Несмотря на то, что мы с тобой не так уж и долго знакомы, я уверена в тебе и твоих навыках! Я уверена в том, что мы сделаем клуб оккультизма – лучшим школьным клубом не только в этой школе, но и во всем городе! Нет, во всей стране!"
-    ayanogg1 "But I'm sure of the opposite! Despite the fact that we haven't known each other for so long, I'm confident in you and your skills! I am confident in you, so together with you, we will surely make the occult club - the best school club not only in this school but in the whole city! No, in the entire country!"
+    # ayanogg1 "А я вот уверена в обратном! Несмотря на то, что мы с тобой не так уж и долго знакомы, я уверена в тебе и твоих навыках! Я уверена в том, что мы сделаем клуб оккультизма – лучшим школьным клубом не только в этой академии, но и во всем городе! Нет, во всей стране!"
+    ayanogg1 "But I'm sure of the opposite! Despite the fact that we haven't known each other for so long, I'm confident in you and your skills! I am confident in you, so together with you, we will surely make the occult club - the best academy club not only in this academy but in the whole city! No, in the entire country!"
 
 # game/act.rpy:2350
 translate english ayano102123eeqdq_a84c47bc:
@@ -12997,8 +12997,8 @@ translate english ayano102123eeqdq_66886f55:
 # game/act.rpy:2373
 translate english ayano102123eeqdq_9fc6c160:
 
-    # glgg "Вот это мы и узнаем... В любом случае, раз уж я могу пригласить кого-то и не получить за это лещей, то почему бы не сделать это в свободное время? Тем более в школе учеников достаточно много..."
-    glgg "That's what we'll find out... Since I can invite someone and not get breams for it, then why not do it in my free time? Moreover, there are quite a lot of students in the school..."
+    # glgg "Вот это мы и узнаем... В любом случае, раз уж я могу пригласить кого-то и не получить за это лещей, то почему бы не сделать это в свободное время? Тем более в академии учеников достаточно много..."
+    glgg "That's what we'll find out... Since I can invite someone and not get breams for it, then why not do it in my free time? Moreover, there are quite a lot of students in the academy..."
 
 # game/act.rpy:2375
 translate english ayano102123eeqdq_de299680:
@@ -13113,7 +13113,7 @@ translate english occult_book_guide_bc43b87b:
 translate english occult_book_guide_534bf0ed:
 
     # "По крайней мере для вещицы, которую достают лишь иногда из школьного рюкзака..."
-    "At least for a thing that is taken out only sometimes from a school backpack..."
+    "At least for a thing that is taken out only sometimes from a academy backpack..."
 
 # game/act.rpy:160
 translate english occult_book_guide_187e913b:
@@ -13143,7 +13143,7 @@ translate english occult_book_guide_bc43b87b_1:
 translate english occult_book_guide_534bf0ed_1:
 
     # "По крайней мере для вещицы, которую достают лишь иногда из школьного рюкзака..."
-    "At least for a thing that is taken out only sometimes from a school backpack..."
+    "At least for a thing that is taken out only sometimes from a academy backpack..."
 
 # game/act.rpy:223
 translate english ayano_storeroom_2d523855:
@@ -13671,7 +13671,7 @@ translate english ivent_minet_ayano_e2_94c1d1e2:
 translate english occult_club_act1_5124bb3f:
 
     # glgg "Ну, теперь все проясняется. Фестивали, на которых полноценно добирают участников в школьные клубы, происходят каждый год, не считая некоторых других агитационных моментов. Конечно, сейчас начало учебного года, но все же я не думал, что это произойдет так скоро..."
-    glgg "Well, now everything is clear. Festivals, where participants are fully taken to school clubs, take place every year, not counting some other campaigning moments. Of course, it's the beginning of the school year, but still, I didn't think it would happen so soon..."
+    glgg "Well, now everything is clear. Festivals, where participants are fully taken to academy clubs, take place every year, not counting some other campaigning moments. Of course, it's the beginning of the academy year, but still, I didn't think it would happen so soon..."
 
 # game/act.rpy:624
 translate english occult_club_act1_ac78e835:
@@ -14072,8 +14072,8 @@ translate english ayano_TC_618fe942:
 # game/act.rpy:1090
 translate english ayano_TC_d77cf933:
 
-    # ayanogg1 "Извини, что на самом деле я не такая, какой я являюсь в школе... Но, думаю, что тебе лучше об этом знать. Рано или поздно."
-    ayanogg1 "I'm sorry that I'm not really what I am at school.... But I think you should know about it. Sooner or later."
+    # ayanogg1 "Извини, что на самом деле я не такая, какой я являюсь в академии... Но, думаю, что тебе лучше об этом знать. Рано или поздно."
+    ayanogg1 "I'm sorry that I'm not really what I am at academy.... But I think you should know about it. Sooner or later."
 
 # game/act.rpy:1107
 translate english ayano_TC_d16cc7ec:
@@ -14522,8 +14522,8 @@ translate english ayano103123qewd_800753b4:
 # game/act.rpy:1967
 translate english ayano103123qewd_91d269b5:
 
-    # ayanogg1 "А сейчас... Просто скажи, что ты думаешь о повышении авторитета и популярности за пределами школы?"
-    ayanogg1 "And now... Just tell me, what do you think about increasing authority and popularity outside of school?"
+    # ayanogg1 "А сейчас... Просто скажи, что ты думаешь о повышении авторитета и популярности за пределами академии?"
+    ayanogg1 "And now... Just tell me, what do you think about increasing authority and popularity outside of academy?"
 
 # game/act.rpy:1968
 translate english ayano103123qewd_bf24d956:
@@ -14546,8 +14546,8 @@ translate english ayano103123qewd_99b63e40:
 # game/act.rpy:1973
 translate english ayano103123qewd_641906d2:
 
-    # ayanogg1 "Ах... Точно! Что ты думаешь о вечеринках, подобных тому, что делает клуб косплея... Это тоже кружок по интересам, но, несмотря на это, их популярность за пределами школы крайне высока!"
-    ayanogg1 "Ah... exactly! What do you think about parties like what the cosplay club does... This is a circle of interests too, but despite this, their popularity outside the school is extremely high!"
+    # ayanogg1 "Ах... Точно! Что ты думаешь о вечеринках, подобных тому, что делает клуб косплея... Это тоже кружок по интересам, но, несмотря на это, их популярность за пределами академии крайне высока!"
+    ayanogg1 "Ah... exactly! What do you think about parties like what the cosplay club does... This is a circle of interests too, but despite this, their popularity outside the academy is extremely high!"
 
 # game/act.rpy:1974
 translate english ayano103123qewd_e145031f:
@@ -14630,8 +14630,8 @@ translate english ayano103123qewd_7c1bdb08:
 # game/act.rpy:2013
 translate english ayano103123qewd_5d8d62be:
 
-    # ayanogg1 "Да... Я много думала об этом и пришла к такому решению... Что ты думаешь о том, чтобы повышать авторитет и популярность школы за пределами школы?"
-    ayanogg1 "Yes... I thought about it a lot and came to this decision... What do you think about increasing the authority and popularity of the school outside of school?"
+    # ayanogg1 "Да... Я много думала об этом и пришла к такому решению... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I thought about it a lot and came to this decision... What do you think about increasing the authority and popularity of the academy outside of academy?"
 
 # game/act.rpy:2014
 translate english ayano103123qewd_bf24d956_1:
@@ -14642,8 +14642,8 @@ translate english ayano103123qewd_bf24d956_1:
 # game/act.rpy:2016
 translate english ayano103123qewd_0c47027f:
 
-    # ayanogg1 "Ну... Хе-хе, я некоторое время следила за клубом косплея и заметила, что тот достаточно популярен. То есть... Как бы это сказать... Несмотря на то, что у них по сути кружок по интересам, они достаточно популярны вне школы."
-    ayanogg1 "Well... he-he, I've been following the cosplay club for a while and noticed that it's quite popular. That is... How should I put it... Even though they essentially have a circle of interests, they are quite popular outside of school."
+    # ayanogg1 "Ну... Хе-хе, я некоторое время следила за клубом косплея и заметила, что тот достаточно популярен. То есть... Как бы это сказать... Несмотря на то, что у них по сути кружок по интересам, они достаточно популярны вне академии."
+    ayanogg1 "Well... he-he, I've been following the cosplay club for a while and noticed that it's quite popular. That is... How should I put it... Even though they essentially have a circle of interests, they are quite popular outside of academy."
 
 # game/act.rpy:2019
 translate english ayano103123qewd_e2fd4fb2:
@@ -14714,8 +14714,8 @@ translate english ayano103123qewd_d563e125:
 # game/act.rpy:2048
 translate english ayano103123qewd_03b6fb90:
 
-    # ayanogg1 "Да... Я долго обдумывала это, но сейчас немного остановилась на вопросе, решение к которому я не могу выбрать... Что ты думаешь о том, чтобы повышать авторитет и популярность школы за пределами школы?"
-    ayanogg1 "Yes... I've been thinking about it for a long time, but now I've stopped a little on a question that I can't choose a solution to... What do you think about increasing the authority and popularity of the school outside of school?"
+    # ayanogg1 "Да... Я долго обдумывала это, но сейчас немного остановилась на вопросе, решение к которому я не могу выбрать... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I've been thinking about it for a long time, but now I've stopped a little on a question that I can't choose a solution to... What do you think about increasing the authority and popularity of the academy outside of academy?"
 
 # game/act.rpy:2049
 translate english ayano103123qewd_bf24d956_2:
@@ -14726,8 +14726,8 @@ translate english ayano103123qewd_bf24d956_2:
 # game/act.rpy:2051
 translate english ayano103123qewd_369a67da:
 
-    # ayanogg1 "Клуб косплея... Думаю, пример его управления нам подходит. Несмотря на то, что этот клуб такой же кружок по интересам, как и мы, он популярен вне школы. На уровне спортивных и творческих клубов..."
-    ayanogg1 "The cosplay club... I think the example of its management suits us. Even though this club is the same circle of interests as we are, it is popular outside of school. At the level of sports and creative clubs..."
+    # ayanogg1 "Клуб косплея... Думаю, пример его управления нам подходит. Несмотря на то, что этот клуб такой же кружок по интересам, как и мы, он популярен вне академии. На уровне спортивных и творческих клубов..."
+    ayanogg1 "The cosplay club... I think the example of its management suits us. Even though this club is the same circle of interests as we are, it is popular outside of academy. At the level of sports and creative clubs..."
 
 # game/act.rpy:2054
 translate english ayano103123qewd_5146f12d:
@@ -14750,8 +14750,8 @@ translate english ayano103123qewd_4b3c7376:
 # game/act.rpy:2066
 translate english ayano103123qewd_dd4b54bd:
 
-    # ayanogg1 "Бууу, ты злой... В общем, я хотела тебя похвалить еще раз, но внезапно передумала! И вообще, что ты думаешь о повышении авторитета клуба в пределах и за пределами школы? "
-    ayanogg1 "Boo, you're cruel... I wanted to praise you again, but suddenly changed my mind! So... what do you think about raising the profile of the club within and outside the school?"
+    # ayanogg1 "Бууу, ты злой... В общем, я хотела тебя похвалить еще раз, но внезапно передумала! И вообще, что ты думаешь о повышении авторитета клуба в пределах и за пределами академии? "
+    ayanogg1 "Boo, you're cruel... I wanted to praise you again, but suddenly changed my mind! So... what do you think about raising the profile of the club within and outside the academy?"
 
 # game/act.rpy:2067
 translate english ayano103123qewd_fe7e55c7:
@@ -15182,8 +15182,8 @@ translate english ayano102123eeqdq_c78dea6a:
 # game/act.rpy:2370
 translate english ayano102123eeqdq_1e406d0b:
 
-    # ayanogg1 "Так и знала! Твоя уверенность в себе – настоящая кладезь... Э... Дальше не знаю... В общем, я тоже уверена в тебе, поэтому вместе с тобой мы наверняка сделаем клуб оккультизма – лучшим школьным клубом не только в этой школе, но и во всем городе! Нет, во всей стране!"
-    ayanogg1 "I knew it! Your self-confidence is a real storehouse of... uh... I don't know further... In general, I am also confident in you, so together with you, we will surely make the occult club - the best school club not only in this school but in the whole city! No, in the entire country!"
+    # ayanogg1 "Так и знала! Твоя уверенность в себе – настоящая кладезь... Э... Дальше не знаю... В общем, я тоже уверена в тебе, поэтому вместе с тобой мы наверняка сделаем клуб оккультизма – лучшим школьным клубом не только в этой академии, но и во всем городе! Нет, во всей стране!"
+    ayanogg1 "I knew it! Your self-confidence is a real storehouse of... uh... I don't know further... In general, I am also confident in you, so together with you, we will surely make the occult club - the best academy club not only in this academy but in the whole city! No, in the entire country!"
 
 # game/act.rpy:2380
 translate english ayano102123eeqdq_76616c3e:
@@ -15236,8 +15236,8 @@ translate english ayano102123eeqdq_7473817e:
 # game/act.rpy:2403
 translate english ayano102123eeqdq_245d7acd:
 
-    # glgg "Вот это мы и узнаем... В любом случае, раз уж я могу пригласить кого-то и не получить за это лещей, то почему бы не сделать это в свободное время? Тем более в школе учеников достаточно много..."
-    glgg "That's what we'll find out... Since I can invite someone and not get breams for it, then why not do it in my free time? Moreover, there are quite a lot of students in the school..."
+    # glgg "Вот это мы и узнаем... В любом случае, раз уж я могу пригласить кого-то и не получить за это лещей, то почему бы не сделать это в свободное время? Тем более в академии учеников достаточно много..."
+    glgg "That's what we'll find out... Since I can invite someone and not get breams for it, then why not do it in my free time? Moreover, there are quite a lot of students in the academy..."
 
 # game/act.rpy:2405
 translate english ayano102123eeqdq_e0380010:
@@ -15368,8 +15368,8 @@ translate english ayano101_0aa90f91:
 # game/act.rpy:2555
 translate english ayano101_0f249976:
 
-    # ayanogg1 "Ну... Сейчас это наш укромный уголок, где мы можем делать то, что захотим, в пределах школы, а если здесь будет кто-нибудь еще, то... То..."
-    ayanogg1 "Well... now it's our nook where we can do what we want within the school, and if there's anyone else here, then... then..."
+    # ayanogg1 "Ну... Сейчас это наш укромный уголок, где мы можем делать то, что захотим, в пределах академии, а если здесь будет кто-нибудь еще, то... То..."
+    ayanogg1 "Well... now it's our nook where we can do what we want within the academy, and if there's anyone else here, then... then..."
 
 # game/act.rpy:2558
 translate english ayano101_210c2a8c:
@@ -15932,14 +15932,14 @@ translate english ayano_dialoge_at_yuki1_b43b633d:
 # game/act.rpy:5269
 translate english ayano_dialoge_at_yuki1_58bcaa60:
 
-    # ayanogg1 "Как ты знаешь, раз в неделю мы проводим фестивали, но они по сути школьные и ничего не значат. Просто ненужная активность. Этот же фестиваль проводят раз в год, и он является городским. Ученики с разных школ будут приходить к нам, чтобы его посетить, да и не только они..."
-    ayanogg1 "As you know, once a week we hold festivals, but they are school and mean nothing. Just unnecessary activity. The same festival is held once a year, and it is a city festival. Students from different schools will come to visit us, and not only them..."
+    # ayanogg1 "Как ты знаешь, раз в неделю мы проводим фестивали, но они по сути школьные и ничего не значат. Просто ненужная активность. Этот же фестиваль проводят раз в год, и он является городским. Ученики с разных академийбудут приходить к нам, чтобы его посетить, да и не только они..."
+    ayanogg1 "As you know, once a week we hold festivals, but they are academy and mean nothing. Just unnecessary activity. The same festival is held once a year, and it is a city festival. Students from different schools will come to visit us, and not only them..."
 
 # game/act.rpy:5272
 translate english ayano_dialoge_at_yuki1_66e69b08:
 
     # ayanogg1 "Я знаю это, поэтому и придумала альтернативный вариант – песня. Сейчас музыка интересует всех и вся и..."
-    ayanogg1 "I know this, and that's why I came up with an alternative version - a song. Nowadays, music interests everyone and everything and..."
+    ayanogg1 "I know this, and that's why I came up with an alternative version - a song. now a days, music interests everyone and everything and..."
 
 # game/act.rpy:5273
 translate english ayano_dialoge_at_yuki1_097c739e:
@@ -16004,8 +16004,8 @@ translate english ayano_dialoge_at_yuki1_017a3791:
 # game/act.rpy:5302
 translate english ayano_dialoge_at_yuki1_7aa3af74:
 
-    # ayanogg1 "Ладно... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей школе."
-    ayanogg1 "Okay... All you have to do is get a room from Yuki in which I can perform and... I want to tell you the main requirement for a partner – she should not be a student at our school."
+    # ayanogg1 "Ладно... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей академии."
+    ayanogg1 "Okay... All you have to do is get a room from Yuki in which I can perform and... I want to tell you the main requirement for a partner – she should not be a student at our academy."
 
 # game/act.rpy:5303
 translate english ayano_dialoge_at_yuki1_4fd1d16c:
@@ -16016,20 +16016,20 @@ translate english ayano_dialoge_at_yuki1_4fd1d16c:
 # game/act.rpy:5305
 translate english ayano_dialoge_at_yuki1_46b9d692:
 
-    # ayanogg1 "Если кратко – Юки. Я боюсь, что она может подговорить моего напарника. Если он будет учиться в нашей школе, будет легко надавить на него с помощью оценок, слухов и подобного..."
-    ayanogg1 "In short, Yuki. I'm afraid she might talk my partner into it. If she studies at our school, it will be easy to put pressure on her with grades, rumors, and the like..."
+    # ayanogg1 "Если кратко – Юки. Я боюсь, что она может подговорить моего напарника. Если он будет учиться в нашей академии, будет легко надавить на него с помощью оценок, слухов и подобного..."
+    ayanogg1 "In short, Yuki. I'm afraid she might talk my partner into it. If she studies at our academy, it will be easy to put pressure on her with grades, rumors, and the like..."
 
 # game/act.rpy:5308
 translate english ayano_dialoge_at_yuki1_0b5f727c:
 
-    # ayanogg1 "Паранойя или нет, но мне комфортнее будет выступать с надежным человеком не из нашей школы. Сам понимаешь, что этого никак не изменить ни тебе, ни мне..."
-    ayanogg1 "Paranoia or not, it will be more comfortable for me to perform with a reliable person, who is not from our school. You understand yourself that there is no way to change this, neither you nor me can..."
+    # ayanogg1 "Паранойя или нет, но мне комфортнее будет выступать с надежным человеком не из нашей академии. Сам понимаешь, что этого никак не изменить ни тебе, ни мне..."
+    ayanogg1 "Paranoia or not, it will be more comfortable for me to perform with a reliable person, who is not from our academy. You understand yourself that there is no way to change this, neither you nor me can..."
 
 # game/act.rpy:5311
 translate english ayano_dialoge_at_yuki1_15d1f4cc:
 
-    # ayanogg1 "Насчет этого... Я уверена, что если ты мне поможешь, у нас все получится! Просто приведи ко мне любого своего возможного знакомого не из школы, желательно девушку и... Будь уверен, я взорву сцену. Вместе с твоим знакомым."
-    ayanogg1 "About that... I am sure that if you help me, we will succeed! Just bring me any of your possible acquaintances who is not from school, preferably a girl, and... be sure, I'll blow up the scene. Together with your friend."
+    # ayanogg1 "Насчет этого... Я уверена, что если ты мне поможешь, у нас все получится! Просто приведи ко мне любого своего возможного знакомого не из академии, желательно девушку и... Будь уверен, я взорву сцену. Вместе с твоим знакомым."
+    ayanogg1 "About that... I am sure that if you help me, we will succeed! Just bring me any of your possible acquaintances who is not from academy, preferably a girl, and... be sure, I'll blow up the scene. Together with your friend."
 
 # game/act.rpy:5314
 translate english ayano_dialoge_at_yuki1_55b1f33c:
@@ -16130,8 +16130,8 @@ translate english ayano_dialoge_suzuki_help_15865021:
 # game/act.rpy:5410
 translate english ayano_dialoge_suzuki_help_9dea402c:
 
-    # glgg "Ну, полагаю, нам нужно встретиться пока что вне школы, а так – дело всецело твое. Если хочешь, я позову ее прямо сюда, но не думаю, что ее пропустят, хотя кто знает..."
-    glgg "Well, I guess we need to meet outside of school for now, but as it is, it's entirely up to you. If you want, I'll call her right here, but I don't think she'll be missed, although who knows..."
+    # glgg "Ну, полагаю, нам нужно встретиться пока что вне академии, а так – дело всецело твое. Если хочешь, я позову ее прямо сюда, но не думаю, что ее пропустят, хотя кто знает..."
+    glgg "Well, I guess we need to meet outside of academy for now, but as it is, it's entirely up to you. If you want, I'll call her right here, but I don't think she'll be missed, although who knows..."
 
 # game/act.rpy:5412
 translate english ayano_dialoge_suzuki_help_f806f82e:
@@ -16154,8 +16154,8 @@ translate english ayano_dialoge_suzuki_help_a5dae70d:
 # game/act.rpy:5420
 translate english ayano_dialoge_suzuki_help_91f0454e:
 
-    # ayanogg1 "Ох... Давай вечером, когда школа будет закрыта? Приблизительно в 20:00 – 21:00. Я тебе оставлю адрес, ты подойдешь, и мы позовем ее. Думаю, ты сможешь ее подготовить к такому графику."
-    ayanogg1 "Oh... come on tonight, when will the school be closed? Approximately at 20:00 - 21:00. I'll leave you the address, you come over, and we'll call her. I think you can prepare her for such a schedule."
+    # ayanogg1 "Ох... Давай вечером, когда академия будет закрыта? Приблизительно в 20:00 – 21:00. Я тебе оставлю адрес, ты подойдешь, и мы позовем ее. Думаю, ты сможешь ее подготовить к такому графику."
+    ayanogg1 "Oh... come on tonight, when will the academy be closed? Approximately at 20:00 - 21:00. I'll leave you the address, you come over, and we'll call her. I think you can prepare her for such a schedule."
 
 # game/act.rpy:5445
 translate english home_ayano_ivent_9fdb2cb0:
@@ -16412,14 +16412,14 @@ translate english diloge_v_r_e1_e47fcce5:
 # game/act.rpy:5677
 translate english diloge_v_r_e1_e46a098a:
 
-    # ayanogg1 "Ну и ладно! Как бы то ни было, я видела листовки на территории школы... Это ты сделал?"
-    ayanogg1 "Well, that's fine! By the way, I saw the flyers on the school grounds... Did you arrange for that?"
+    # ayanogg1 "Ну и ладно! Как бы то ни было, я видела листовки на территории академии... Это ты сделал?"
+    ayanogg1 "Well, that's fine! By the way, I saw the flyers on the academy grounds... Did you arrange for that?"
 
 # game/act.rpy:5681
 translate english diloge_v_r_e1_423bdbcf:
 
-    # ayanogg1 "Я не ожидала, что она выдаст нам помещения, даже с учетом ваших партнерско-дружеских отношений, а она мало того, что сделала это, так еще и сделала наше выступление главным событием от лица школы. Как там говорилось... Двух зайцев одним выстрелом?"
-    ayanogg1 "I did not expect that she would give us the premises, even taking into account your partner-friendly relations, and not only did she do this, but she also made our performance the main event on behalf of the school. What did they say... two birds with one stone?"
+    # ayanogg1 "Я не ожидала, что она выдаст нам помещения, даже с учетом ваших партнерско-дружеских отношений, а она мало того, что сделала это, так еще и сделала наше выступление главным событием от лица академии. Как там говорилось... Двух зайцев одним выстрелом?"
+    ayanogg1 "I did not expect that she would give us the premises, even taking into account your partner-friendly relations, and not only did she do this, but she also made our performance the main event on behalf of the academy. What did they say... two birds with one stone?"
 
 # game/act.rpy:5682
 translate english diloge_v_r_e1_e75703c4:
@@ -16538,8 +16538,8 @@ translate english perfomance_ayano_e0ba7a94:
 # game/act.rpy:5875
 translate english perfomance_ayano_26fe3f92:
 
-    # yuki "Наша школа будет вести стрим этого концерта. Ах... И да, полностью забить время вашим выступлением у меня не получилось."
-    yuki "Our school will stream this concert. Ah... and yes, I didn't manage to completely sync the time with your performance."
+    # yuki "Наша академия будет вести стрим этого концерта. Ах... И да, полностью забить время вашим выступлением у меня не получилось."
+    yuki "Our academy will stream this concert. Ah... and yes, I didn't manage to completely sync the time with your performance."
 
 # game/act.rpy:5882
 translate english perfomance_ayano_fa175b66:
@@ -16799,3 +16799,3372 @@ translate english strings:
     # game/act.rpy:3177
     old "{u}{font=gui/fonts/comicsans.ttf}{size=33}{color=#282828}Перестанем жить вместе?{/color}{/size}{/font}{/u}"
     new "{u}{font=gui/fonts/comicsans.ttf}{size=33}{color=#282828}Let's stop living together?{/color}{/size}{/font}{/u}"
+# TODO: Translation updated at 2022-07-13 21:26
+
+# game/act.rpy:4746
+translate english ayano2_ec6f4a94:
+
+    # "Для выбора этого варианты вы должны сожительствовать с Аяно Ёшида."
+    "To choose this option, you must cohabit with Ayano Yoshida."
+# TODO: Translation updated at 2023-02-14 10:41
+
+# game/act.rpy:7374
+translate english donate_in_club_mclg_b141478b:
+
+    # "Деньги были пожертвованы! Общее число пожертвованных средств за все время: [donate_in_school_club_mc] кредитов."
+    "The money was donated! The total number of donated funds for all time: [donate_in_school_club_mc] credits."
+
+translate english strings:
+
+    # game/act.rpy:4935
+    old "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Пожертвовано: [donate_in_school_club_mc] кредитов."
+    new "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Donated: [donate_in_school_club_mc] credits."
+# TODO: Translation updated at 2023-02-24 11:29
+
+# game/act.rpy:5774
+translate english ayano2_448bd93c:
+
+    # "На свидания можно приглашать только после 16:00."
+    "Dates can only be invited after 16:00."
+
+# game/act.rpy:5785
+translate english ayano2_f2ced323:
+
+    # glgg "Думаю, что это очевидно. Разве не так?"
+    glgg "I think it's obvious, isn't it?"
+
+# game/act.rpy:5788
+translate english ayano2_96e8d7d5:
+
+    # glgg "Не думаю, что мое предложение можно посчитать за уговоры..."
+    glgg "I don't think my offer can be counted as persuasion..."
+
+# game/act.rpy:5789
+translate english ayano2_bc3c9934:
+
+    # "Проигнорировав ваше последнее предложение, девушка начала собирать свою сумку, но после, видно, устала, поэтому совсем скоро злопочный зачинщик лишних телодвижений улетел куда-то в угол."
+    "Ignoring your last suggestion, the girl began to collect her bag, but after that, she was tired, and the vicious instigator of unnecessary gestures flew off somewhere into a corner."
+
+# game/act.rpy:5794
+translate english ayano2_08446169:
+
+    # ayanogg1 "А чего это я должна заботиться о том, что мне не пригодится? По крайней мере прямо сейчас..."
+    ayanogg1 "And why should I care about something that is not useful to me? At least right now..."
+
+# game/act.rpy:5795
+translate english ayano2_1aa58fca:
+
+    # glgg "И правда... Но все же не думаю, что стоит так обращаться к тому, что хотя бы иногда, но может тебе пригодиться."
+    glgg "And it's true... But still, I don't think it's worth addressing something that, at least sometimes, can be useful to you."
+
+# game/act.rpy:5797
+translate english ayano2_18078718:
+
+    # ayanogg1 "Да?.. Да не обращай ты внимания, он все равно пустой, а от того, что собрал немного пыли с пола, ничего с ним не случится. Максимум станет чуть-чуть грязным."
+    ayanogg1 "Huh?.. Don't pay attention, it's empty, and picking up some dust from the floor won't do anything to it. It will become a little dirty at most."
+
+# game/act.rpy:5798
+translate english ayano2_b7e1f6b5:
+
+    # glgg "Но даже это может принести тебе небольшие неудобства в дальнейшем, ты так не думаешь?"
+    glgg "But even that might bring you a little inconvenience later on, don't you think?"
+
+# game/act.rpy:5800
+translate english ayano2_19240f45:
+
+    # ayanogg1 "Господи... Иногда ты так нудишь, что тебя даже слушать не хочется. Пошли уже на свидание!"
+    ayanogg1 "God... Sometimes you're so boring that you don't even want to listen. Let's go on a date!"
+
+# game/act.rpy:5801
+translate english ayano2_f7140a88:
+
+    # "Схватив вас за руку, та резко поняла, что и понятия не имеет, что за свидание ее ждет, именно поэтому совсем скоро она повернулась в вашу сторону."
+    "Grasping your hand, she suddenly realized that she had no idea what kind of date awaits her, which is why she turned in your direction."
+
+# game/act.rpy:5803
+translate english ayano2_39b51ac1:
+
+    # ayanogg1 "Ээ... А куда мы там идем?"
+    ayanogg1 "Uh... Where are we going?"
+
+# game/act.rpy:5815
+translate english ayano2_c84c7a40:
+
+    # glgg "В принципе, судя по всему, это действительно так... В конце концов будь иначе, навряд ли бы ты была в таком приподнятом настроении."
+    glgg "That's true, I guess... After all, if it were otherwise, you would hardly be in such high spirits."
+
+# game/act.rpy:5817
+translate english ayano2_650556d6:
+
+    # ayanogg1 "Я просто не вижу какого-либо смысла ходить грустной! Сейчас хороший день, мы вместе, так чего грустить попусту?"
+    ayanogg1 "I just don't see any point in being sad! It's a good day we're together, so why should I be sad?"
+
+# game/act.rpy:5818
+translate english ayano2_1beaeec0:
+
+    # glgg "Тебе приносит радость только тот факт, что я рядом с тобой?.."
+    glgg "Does the fact that I'm next to you bring joy to you?.."
+
+# game/act.rpy:5820
+translate english ayano2_b2cad0ee:
+
+    # ayanogg1 "Это звучало так?.."
+    ayanogg1 "Did it sound like this?"
+
+# game/act.rpy:5821
+translate english ayano2_1a608504:
+
+    # glgg "Сложно сказать, но по большей степени да. Именно так и звучало."
+    glgg "It's hard to say, but for the most part yes. That's exactly what it sounded like."
+
+# game/act.rpy:5823
+translate english ayano2_27123d37:
+
+    # ayanogg1 "Хм... Ну, я в целом не особая любительница одиночества. У меня с этим связаны не самые плохие воспоминания."
+    ayanogg1 "Hmm... Well, I'm generally not a big fan of loneliness. I don't have bad memories of it."
+
+# game/act.rpy:5824
+translate english ayano2_51cb0682:
+
+    # glgg "С одной стороны твой ответ разочаровывает, а с другой... Заставляет немного задуматься."
+    glgg "On the one hand, your answer is disappointing, but on the other... It makes you think a little."
+
+# game/act.rpy:5826
+translate english ayano2_5144b180:
+
+    # ayanogg1 "Не обращай внимания. Иногда я могу сказать то, что может разочаровать людей, но, знаешь, будь вместо тебя рядом со мной кто-то другой..."
+    ayanogg1 "Do not pay attention. Sometimes I can say things that can disappoint people, but, you know, if someone else is next to me instead of you..."
+
+# game/act.rpy:5828
+translate english ayano2_fc72cb38:
+
+    # ayanogg1 "Не думаю, что я была бы так рада."
+    ayanogg1 "I don't think I would be so happy."
+
+# game/act.rpy:5829
+translate english ayano2_9e90a113:
+
+    # "Как ни странно, но после этих слов вы немного призадумались. Почему-то в тот момент вы даже не замечали, что рядом с вами крутится все та же девушка."
+    "Oddly enough, but after these words, you thought a little. For some reason, at that moment, you didn’t even notice that the same girl was spinning next to you."
+
+# game/act.rpy:5830
+translate english ayano2_9b7dadcf:
+
+    # "Ее ответ и слова немного выбили вас из колеи, но совсем скоро вас привели в чувства. Причем ваша же спутница, схватившая вас за щеки на пару секунд и подняв ваше лицо повыше, чтобы вы обратили на нее свое внимание."
+    "Her words and answer unsettled you, but soon you were brought back to your senses. Moreover, your companion grabbed your cheeks for a couple of seconds and raised your face higher so that you turned your attention to her."
+
+# game/act.rpy:5832
+translate english ayano2_90f36a82:
+
+    # ayanogg1 "Не будь такой букой! Прямо сейчас ты рядом со мной, поэтому ты должен отбросить все плохие мысли вон!"
+    ayanogg1 "Don't be such a bum! We are here together right now, so you must throw all the bad thoughts out!"
+
+# game/act.rpy:5833
+translate english ayano2_3d2f71b5:
+
+    # glgg "Чего?.."
+    glgg "What?.."
+
+# game/act.rpy:5839
+translate english ayano2_597db0b0:
+
+    # "Последовав примеру вашей собеседницы, вы начали наблюдать за прохожими, что действительно вызывало минимальный интерес."
+    "Following the example of your interlocutor, you began to observe passers-by, which aroused minimal interest."
+
+# game/act.rpy:5843
+translate english ayano2_9dfc6a70:
+
+    # "Указав пальцем на маленького щенка, девушка чуть ли не каталась по лавочке от радости, но когда же ее цель для наблюдения скрылась за горизонт, она сразу же погрустнела."
+    "Pointing her finger at a small puppy, the girl almost rolled on the bench for joy, but when her target for observation disappeared beyond the horizon, she immediately became sad."
+
+# game/act.rpy:5844
+translate english ayano2_17068b88:
+
+    # glgg "Сама же говорила, что нет проку грустить, тем более когда рядом с тобой я. Ну, а щенка ты всегда можешь увидеть. Как минимум, в зеркале."
+    glgg "You said that there is no use in being sad, especially when I am next to you. And you can always see a puppy. At least in the mirror."
+
+# game/act.rpy:5845
+translate english ayano2_ca22cee9:
+
+    # "Не поняв сначала, что вы имели в виду, девушка резко призадумалась, а после, как до нее дошло озарение, она немного обрадовалась, несмотря на то, что ваши слова звучали, как оскорбление."
+    "Not understanding at first what you meant, the girl thought sharply, and after, as an insight came to her, she was a little delighted, although your words sounded like an insult."
+
+# game/act.rpy:5848
+translate english ayano2_6eff707d:
+
+    # glgg "Да. Ты такая же пушистая и постоянно виляешь хвостом."
+    glgg "Yes. You're just as fluffy and wagging your tail all the time."
+
+# game/act.rpy:5858
+translate english ayano2_e96dcd1f:
+
+    # glgg "Не думаю, что за что-то такое стоит благодарить."
+    glgg "I don't think there's anything to be thankful for."
+
+# game/act.rpy:5860
+translate english ayano2_54cb9010:
+
+    # ayanogg1 "Не обращай внимания. Другие считают меня немного странной, отчего возникают некоторые проблемы, но... Этот раз с тобой был действительно запоминающимся."
+    ayanogg1 "Do not pay attention. Others think I'm a little strange, which causes some problems, but... This time with you was memorable."
+
+# game/act.rpy:5863
+translate english ayano2_aadcdeae:
+
+    # "Многозначительно глянув, девушка помахала вам рукой и направилась прочь из парка, оставив вас в одиночестве сидеть на лавочке."
+    "Glancing meaningfully, the girl waved her hand at you and headed out of the park, leaving you alone to sit on a bench."
+
+# game/act.rpy:5864
+translate english ayano2_71bd1ab6:
+
+    # "В любом же случае это свидание можно назвать вполне себе удачным. И вы, и девушка отлично провели время, так к тому же и неплохо так сблизились."
+    "In any case, this date can be called quite successful. Both you and the girl had a great time, and besides, you became close."
+
+# game/act.rpy:5982
+translate english ayano2_e1c020fd:
+
+    # glgg "Я сейчас занят. Давай потом поговорим?"
+    glgg "I am busy right now. Let's talk later?"
+
+# game/act.rpy:6033
+translate english ayano2_b7b0377d:
+
+    # glgg "Чего?"
+    glgg "What?"
+
+# game/act.rpy:6102
+translate english ayano2_d296c9f4:
+
+    # "Быстро чмокнув вас по-детски в губы, девушка смущенно отвернулась от вашего лица и начала пялить в потолок."
+    "Quickly kissing you childishly on the lips, the girl turned away from your face in embarrassment and began to stare at the ceiling."
+# TODO: Translation updated at 2023-03-16 20:49
+
+# game/act.rpy:3367
+translate english ayano100_cd787c6d:
+
+    # glgg "Не понимаю о чем ты..."
+    glgg "Do not understand what you're talking about..."
+
+# game/act.rpy:3377
+translate english ayano100_5e185660:
+
+    # glgg "Я помог ей, а она помогла мне. Все было в меру наших возможностей."
+    glgg "I helped her and she helped me. Everything was within our capabilities."
+
+# game/act.rpy:3385
+translate english ayano100_6cd5a926:
+
+    # glgg "Ну... Можешь потратить на микроволновую печь. Ты ее давно еще хотела купить."
+    glgg "Well... You can spend it on a microwave oven. You've been wanting to buy it for a long time."
+
+# game/act.rpy:3398
+translate english ayano100_201b13b8:
+
+    # ayanogg1 "Знаешь, твое поведение заставляет меня усомниться в себе. В конце концов ты действительно постался, когда же я... Не важно."
+    ayanogg1 "You know, your behavior makes me doubt myself. In the end, you really stayed, and I..."
+
+# game/act.rpy:3400
+translate english ayano100_b3672da7:
+
+    # ayanogg1 "В любом случае спасибо за то, что ты тратишь столько времени на то, что мне важно."
+    ayanogg1 "In any case, thank you for spending so much time on what is important to me."
+
+# game/act.rpy:3401
+translate english ayano100_82e4ceae:
+
+    # glgg "Ты не думаешь, что грустные мысли сейчас стоит отбросить? Все же хорошо."
+    glgg "Don't you think that sad thoughts should be discarded now? Everything is fine."
+
+# game/act.rpy:3403
+translate english ayano100_5c22f20c:
+
+    # ayanogg1 "Не задумывайся об этом. В любом случае, раз уж ты так постарался, может, ты что-то хочешь получить от меня?"
+    ayanogg1 "Don't think about it. In any case, since you've tried so hard, maybe you want something from me?"
+
+# game/act.rpy:3406
+translate english ayano100_f002ef5f:
+
+    # ayanogg1 "Честно говоря, это даже звучит не очень..."
+    ayanogg1 "To be honest, it doesn't even sound good..."
+
+# game/act.rpy:3408
+translate english ayano100_5f3f8553:
+
+    # ayanogg1 "Но, раз уж твои желания принесли нам с тобой некоторые... Плюсы - так даже лучше, верно?"
+    ayanogg1 "But, since your desires have brought us some... Pluses - it's even better, right?"
+
+# game/act.rpy:3411
+translate english ayano100_c68ea70a:
+
+    # ayanogg1 "Какой ты холодный... Ну ладно. Может, твои желания хотят что-то лично от меня?"
+    ayanogg1 "How cold you are... All right. Maybe your desires want something personally from me?"
+
+# game/act.rpy:3414
+translate english ayano100_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:3415
+translate english ayano100_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:3416
+translate english ayano100_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:3417
+translate english ayano100_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:3418
+translate english ayano100_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:3419
+translate english ayano100_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:3421
+translate english ayano100_8637b0f1:
+
+    # ayanogg1 "Когда тебя спрашивают о чем-то, обычно следует ответ. Ты же знаешь об этом?"
+    ayanogg1 "When you are asked about something, there is usually an answer. Do you know about it?"
+
+# game/act.rpy:3422
+translate english ayano100_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:3424
+translate english ayano100_804d34fa:
+
+    # ayanogg1 "Ладно-ладно... Я поняла, что ты не хочешь разговаривать об этом."
+    ayanogg1 "Okay, okay... I understand that you don't want to talk about it."
+
+# game/act.rpy:3425
+translate english ayano100_d9b1ad70:
+
+    # ayanogg1 "Итак, может, тебе хочется чего-то лично от меня?"
+    ayanogg1 "So, maybe you want something personally from me?"
+
+# game/act.rpy:3430
+translate english ayano100_0bd41007:
+
+    # ayanogg1 "Хе-хе... Ты же понимаешь, кому говоришь это?.. У меня совсем нет денег."
+    ayanogg1 "He-he... Do you understand who you're saying this to?.. I don't have any money at all."
+
+# game/act.rpy:3431
+translate english ayano100_659e538b:
+
+    # glgg "Ну тогда зачем спрашивать о том, что я желаю?"
+    glgg "Well then why ask about what I want?"
+
+# game/act.rpy:3433
+translate english ayano100_514a3d1d:
+
+    # ayanogg1 "Вообще-то я надеялась на нечто... Более романтичное."
+    ayanogg1 "Actually, I was hoping for something... More romantic."
+
+# game/act.rpy:3434
+translate english ayano100_0c40dda1:
+
+    # glgg "Ну, за свою работу я прошу деньги, извини уж, но таковы капитастические системы общества."
+    glgg "Well, I ask for money for my work, I'm sorry, but we have a capitalist system of society."
+
+# game/act.rpy:3436
+translate english ayano100_3d6a32eb:
+
+    # ayanogg1 "Мне они не особо нравятся. В любом случае, если хочешь денег..."
+    ayanogg1 "I do not like them. Anyway, if you want money..."
+
+# game/act.rpy:3438
+translate english ayano100_40b68d68:
+
+    # "Сказав это, девушка резко достала банку газировку и дала ее вам."
+    "After saying that, the girl abruptly took out a can of soda and gave it to you."
+
+# game/act.rpy:3440
+translate english ayano100_48b7ece4:
+
+    # ayanogg1 "Это вместо денег!"
+    ayanogg1 "This is instead of money!"
+
+# game/act.rpy:3441
+translate english ayano100_29595864:
+
+    # glgg "Выглядит больше, как издевательство."
+    glgg "Looks more like a mockery."
+
+# game/act.rpy:3443
+translate english ayano100_5598a8f4:
+
+    # ayanogg1 "Как издевательство выглядит твое поведение! Между прочим, я ждала чего-то более... Придурок ты!"
+    ayanogg1 "What a mockery your behavior looks like! By the way, I was expecting something more... You jerk!"
+
+# game/act.rpy:3445
+translate english ayano100_bcf97957:
+
+    # "Сказав это, она резким движением ударила вас по голени, после чего отошла от вас с гордо поднятой головой."
+    "Having said this, she hit you on the shin with a sharp movement, after which she moved away from you with her head held high."
+
+# game/act.rpy:3544
+translate english ayano100_25dc25b9_1:
+
+    # glgg "Возможно."
+    glgg "Maybe."
+
+translate english strings:
+
+    # game/act.rpy:3388
+    old "{color=#000000}А разве мне нужны были причины, чтобы сделать тебе приятно?\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Did I need reasons to please you?\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:3388
+    old "{color=#000000}Я такой же член клуба, как и ты, который должен развивать его и предпринимать все попытки по его улучшению.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I am a member of the club, just like you, who must develop it and make every effort to improve it.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:3388
+    old "{color=#000000}Мне просто захотелось.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I just wanted to.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:3426
+    old "{color=#000000}Я хочу денег.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I want money.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+# TODO: Translation updated at 2023-05-24 14:12
+
+translate english strings:
+
+    # game/act.rpy:6986
+    old "Введите количество средств, которые хотите пожертвовать во благо академии."
+    new "Enter the amount of funds you want to donate for the benefit of the academy."
+# TODO: Translation updated at 2023-06-14 12:02
+
+translate english strings:
+
+    # game/act.rpy:4166
+    old "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=26}[number_npc] ([popularity_club_occult_poc2]){/size}{size=23} оп{/size}{/color}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=26}[number_npc] ([popularity_club_occult_poc2]){/size}{size=23} exp{/size}{/color}{/font}"
+# TODO: Translation updated at 2023-08-13 10:08
+
+translate english strings:
+
+    # game/act.rpy:4524
+    old "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Мейко Тсукаса{/size}{/color}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{color=#282828}{size=24}Meiko Tsukasa{/size}{/color}{/font}"
+# TODO: Translation updated at 2023-08-29 10:38
+
+# game/act.rpy:6991
+translate english donate_in_club_mclg_563f0673:
+
+    # "Вам не хватает денег, чтобы пожертвовать их вашему клубу."
+    "You have not enought money, to donate it in your club."
+
+translate english strings:
+
+    # game/act.rpy:6981
+    old "Введите количество средств, которые хотите пожертвовать во благо клуба."
+    new "Enter count money, to you want donate it in your club."
+# TODO: Translation updated at 2023-11-27 14:46
+
+# game/act.rpy:602
+translate english occult_club_act1_f8e17210:
+
+    # "Приближаясь к воротам уже достаточно обыденной для вас академии, вы приметили достаточно странные телодвижение других школьников: они шли за академию, а не в сторону входа, как обычно."
+    "Approaching the gates of the already quite ordinary academy for you, you noticed rather strange body movements of other schoolchildren: they were walking behind the academy, and not towards the entrance, as usual."
+
+# game/act.rpy:673
+translate english occult_club_act1_dd025af5:
+
+    # glgg "Чтобы я с тобой мог нормально общаться, скажи мне: во-первых, зачем ты носишь эти две игрушки с собой, а во-вторых, почему ты одета не в форму этой академии? Кто ты вообще такая и что хочешь от меня?"
+    glgg "So that I can communicate with you normally, tell me: firstly, why are you carrying these two toys with you, and secondly, why are you not wearing the uniform of this academy? Who are you anyway and what do you want from me?"
+
+# game/act.rpy:802
+translate english otv_5_in_new_ivent_we1_32c46beb:
+
+    # "Тяжело вздохнув, вы направились ко входу в академию. Приключения на пятую точку можно найти всегда, а вот время на подобное..."
+    "With a heavy sigh, you headed for the entrance to the academy. Adventures in the head can always be found, but it's time for this..."
+
+# game/act.rpy:1096
+translate english ayano_TC_eb031fd2:
+
+    # ayanogg1 "Извини, что на самом деле я не такая, какой я являюсь в академии... Но, думаю, что тебе лучше об этом знать. Рано или поздно."
+    ayanogg1 "I'm sorry that I'm not really what I am at academy.... But I think you should know about it. Sooner or later."
+
+# game/act.rpy:2172
+translate english club_occult_fd1a40e5:
+
+    # ayanogg1 "Как ты знаешь, в нашей академии есть правило: ученику по клубу. Исключений не бывает, а вот данный клуб является избежанием бесполезных занятий в других клубах."
+    ayanogg1 "As you know, there is a rule in our school: each student has to be part of a club. There are no exceptions, but this club is to avoid useless classes in other clubs."
+
+# game/act.rpy:2300
+translate english club_occult_92f106be:
+
+    # glgg "Нет, просто не думаю, что это является нормой. По крайней мере если смотреть на это со стороны академии. Ты явно прогуливаешь уроки в этой комнате и чуть ли не живешь в ней, что является прямым нарушением. Кроме того, судя по множеству пустых банок в клубной комнате, ты здесь настолько редко убираешься, что все эти разы можно по пальцам пересчитать."
+    glgg "No, I just don't think this is the norm. At least if you look at it from the school's side. You're skipping classes in this room and almost living in it, which is a direct violation. In addition, judging by the many empty cans in the club room, you so rarely clean up here that you can count all such ocassions on your fingers."
+
+# game/act.rpy:2407
+translate english ayano103123qewd_24c663bb:
+
+    # ayanogg1 "А сейчас... Просто скажи, что ты думаешь о повышении авторитета и популярности за пределами академии?"
+    ayanogg1 "And now... Just tell me, what do you think about increasing authority and popularity outside of academy?"
+
+# game/act.rpy:2413
+translate english ayano103123qewd_7da68c64:
+
+    # ayanogg1 "Ах... Точно! Что ты думаешь о вечеринках, подобных тому, что делает клуб косплея... Это тоже кружок по интересам, но, несмотря на это, их популярность за пределами академии крайне высока!"
+    ayanogg1 "Ah... exactly! What do you think about parties like what the cosplay club does... That is a small circle of interest too, but despite this, their popularity outside the academy is extremely high!"
+
+# game/act.rpy:2453
+translate english ayano103123qewd_25a909e0:
+
+    # ayanogg1 "Да... Я много думала об этом и пришла к такому решению... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I thought about it a lot and came to this decision... What do you think about increasing the authority and popularity of the academy outside of academy?"
+
+# game/act.rpy:2456
+translate english ayano103123qewd_5c01f781:
+
+    # ayanogg1 "Ну... Хе-хе, я некоторое время следила за клубом косплея и заметила, что тот достаточно популярен. То есть... Как бы это сказать... Несмотря на то, что у них по сути кружок по интересам, они достаточно популярны вне академии."
+    ayanogg1 "Well... he-he, I've been following the cosplay club for a while and noticed that it's quite popular. That is... How should I put it... Even though they essentially have a small circle of interests, they are quite popular outside of academy."
+
+# game/act.rpy:2488
+translate english ayano103123qewd_ce0a6fe7:
+
+    # ayanogg1 "Да... Я долго обдумывала это, но сейчас немного остановилась на вопросе, решение к которому я не могу выбрать... Что ты думаешь о том, чтобы повышать авторитет и популярность академии за пределами академии?"
+    ayanogg1 "Yes... I've been thinking about it for a long time, but now I've stopped a little on a question that I can't choose a solution to... What do you think about increasing the authority and popularity of the academy outside of academy?"
+
+# game/act.rpy:2491
+translate english ayano103123qewd_d461832b:
+
+    # ayanogg1 "Клуб косплея... Думаю, пример его управления нам подходит. Несмотря на то, что этот клуб такой же кружок по интересам, как и мы, он популярен вне академии. На уровне спортивных и творческих клубов..."
+    ayanogg1 "The cosplay club... I think the example of its management suits us. Even though this club is the same circle of interests as we are, it is popular outside of academy. At the level of sports and creative clubs..."
+
+# game/act.rpy:2506
+translate english ayano103123qewd_58479bc6:
+
+    # ayanogg1 "Бууу, ты злой... В общем, я хотела тебя похвалить еще раз, но внезапно передумала! И вообще, что ты думаешь о повышении авторитета клуба в пределах и за пределами академии? "
+    ayanogg1 "Boo, you're cruel... I wanted to praise you again, but suddenly changed my mind! So... what do you think about raising the profile of the club within and outside the academy?"
+
+# game/act.rpy:2704
+translate english ayano102123eeqdq_fb9ddaaa:
+
+    # ayanogg1 "Хе-хе! Именно! Теперь можешь перед всеми хвастаться, что принадлежишь элите этой академии!"
+    ayanogg1 "He-he! Exactly! Now you can brag to everyone that you belong to the elite of this academy!"
+
+# game/act.rpy:3020
+translate english ayano102123eeqdq_4b85a1bb:
+
+    # ayanogg1 "Так и знала! Твоя уверенность в себе – настоящая кладезь... Э... Дальше не знаю... В общем, я тоже уверена в тебе, поэтому вместе с тобой мы наверняка сделаем клуб оккультизма – лучшим школьным клубом не только в этой академии, но и во всем городе! Нет, во всей стране!"
+    ayanogg1 "I knew it! Your self-confidence is a real storehouse of... uh... I don't know further... In general, I am also confident in you, so together with you, we will surely make the occult club - the best academy club not only in this academy but in the whole city! No, in the entire country!"
+
+# game/act.rpy:3025
+translate english ayano102123eeqdq_74976e2f:
+
+    # ayanogg1 "А я вот уверена в обратном! Несмотря на то, что мы с тобой не так уж и долго знакомы, я уверена в тебе и твоих навыках! Я уверена в том, что мы сделаем клуб оккультизма – лучшим школьным клубом не только в этой академии, но и во всем городе! Нет, во всей стране!"
+    ayanogg1 "But I'm sure of the opposite! Despite the fact that we haven't known each other for so long, I'm confident in you and your skills! I am confident in you, so together with you, we will surely make the occult club - the best academy club not only in this academy but in the whole city! No, in the entire country!"
+
+# game/act.rpy:3053
+translate english ayano102123eeqdq_f6e1232b:
+
+    # glgg "Вот это мы и узнаем... В любом случае, раз уж я могу пригласить кого-то и не получить за это лещей, то почему бы не сделать это в свободное время? Тем более в академии учеников достаточно много..."
+    glgg "That's what we'll find out... Since I can invite someone and not get breams for it, then why not do it in my free time? Moreover, there are quite a lot of students in the academy..."
+
+# game/act.rpy:3240
+translate english ayano101_407fe34e:
+
+    # ayanogg1 "Ну... Сейчас это наш укромный уголок, где мы можем делать то, что захотим, в пределах академии, а если здесь будет кто-нибудь еще, то... То..."
+    ayanogg1 "Well... now it's our nook where we can do what we want within the academy, and if there's anyone else here, then... then..."
+
+# game/act.rpy:5190
+translate english ayano2_4038740d:
+
+    # "Решив, что лучшая тема для разговора с Аяно - школьная тематика, вы начали ей рассказывать о разных нововведениях в академиях со стороны МО и других вещах, что попросту не интересны многим."
+    "Having decided that the best topic for a conversation with Ayano is academy topics, you began to tell her about various innovations in schools from the Ministry of Defense and other things that are simply not interesting to many."
+
+# game/act.rpy:5206
+translate english ayano2_f4c3983f:
+
+    # "Казалось, что ее милое выражение лица не изменит ничего, но, как только вы открыли свой рот насчет академии, в вас полетел пластиковый стаканчик, явно наполненный чем-то до этого броска."
+    "It seemed that her sweet expression wouldn't change anything, but as soon as you opened your mouth about the academy, a plastic cup filled with something flew at you."
+
+# game/act.rpy:6033
+translate english ayano_dialoge_at_yuki1_127f173b:
+
+    # ayanogg1 "Скоро будет фестиваль. Да-да, наша академия их проводит очень много и без этого, тем не менее это тот фестиваль, что может нам сильно помочь даже в плане бюджета. С помощью него мы сможем вырваться на первые места по популярности клубов."
+    ayanogg1 "There will be a festival soon. Yes, our academy conducts a lot of them. Nevertheless, this festival in particular can help us a lot, even in terms of budget. By utilising this opportunity well, we will be able to break into the first place in terms of the populari"
+
+# game/act.rpy:6036
+translate english ayano_dialoge_at_yuki1_ec2e6fb2:
+
+    # ayanogg1 "Как ты знаешь, раз в неделю мы проводим фестивали, но они по сути школьные и ничего не значат. Просто ненужная активность. Этот же фестиваль проводят раз в год, и он является городским. Ученики с разных академийбудут приходить к нам, чтобы его посетить, да и не только они..."
+    ayanogg1 "As you know, once a week we hold festivals, but they are academy and mean nothing. Just unnecessary activity. The same festival is held once a year, and it is a city festival. Students from different schools will come to visit us, and not only them..."
+
+# game/act.rpy:6069
+translate english ayano_dialoge_at_yuki1_3acd6a27:
+
+    # ayanogg1 "Ладно... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей академии."
+    ayanogg1 "Okay... All you have to do is get a room from Yuki in which I can perform and... I want to tell you the main requirement for a partner – she should not be a student at our academy."
+
+# game/act.rpy:6072
+translate english ayano_dialoge_at_yuki1_d874895b:
+
+    # ayanogg1 "Если кратко – Юки. Я боюсь, что она может подговорить моего напарника. Если он будет учиться в нашей академии, будет легко надавить на него с помощью оценок, слухов и подобного..."
+    ayanogg1 "In short, Yuki. I'm afraid she might talk my partner out of it. If they study at our academy, it will be easy to put pressure on them with bad grades, rumors, and the like..."
+
+# game/act.rpy:6075
+translate english ayano_dialoge_at_yuki1_42155dda:
+
+    # ayanogg1 "Паранойя или нет, но мне комфортнее будет выступать с надежным человеком не из нашей академии. Сам понимаешь, что этого никак не изменить ни тебе, ни мне..."
+    ayanogg1 "Paranoia or not, it will be more comfortable for me to perform with a reliable person, who is not from our academy. You understand yourself that there is no way to change this, neither you nor me can..."
+
+# game/act.rpy:6078
+translate english ayano_dialoge_at_yuki1_e498c2a2:
+
+    # ayanogg1 "Насчет этого... Я уверена, что если ты мне поможешь, у нас все получится! Просто приведи ко мне любого своего возможного знакомого не из академии, желательно девушку и... Будь уверен, я взорву сцену. Вместе с твоим знакомым."
+    ayanogg1 "About that... I am sure that if you help me, we will succeed! Just bring me any of your possible acquaintances who is not from academy, preferably a girl, and... be sure, I'll blow up the scene. Together with your friend."
+
+# game/act.rpy:6212
+translate english ayano_dialoge_suzuki_help_bd89202c:
+
+    # glgg "Ну, полагаю, нам нужно встретиться пока что вне академии, а так – дело всецело твое. Если хочешь, я позову ее прямо сюда, но не думаю, что ее пропустят, хотя кто знает..."
+    glgg "Well, I guess we need to meet outside of academy for now, but as it is, it's entirely up to you. If you want, I'll call her right here, but I don't think she'll be missed, although who knows..."
+
+# game/act.rpy:6222
+translate english ayano_dialoge_suzuki_help_a3185ba0:
+
+    # ayanogg1 "Ох... Давай вечером, когда академия будет закрыта? Приблизительно в 20:00 – 21:00. Я тебе оставлю адрес, ты подойдешь, и мы позовем ее. Думаю, ты сможешь ее подготовить к такому графику."
+    ayanogg1 "Oh... come on tonight, when will the academy be closed? Approximately at 20:00 - 21:00. I'll leave you the address, you come over, and we'll call her. I think you can prepare her for such a schedule."
+
+# game/act.rpy:6528
+translate english diloge_v_r_e1_4f32a575:
+
+    # ayanogg1 "Ну и ладно! Как бы то ни было, я видела листовки на территории академии... Это ты сделал?"
+    ayanogg1 "Well, that's fine! By the way, I saw the flyers on the academy grounds... Did you arrange for that?"
+
+# game/act.rpy:6532
+translate english diloge_v_r_e1_f10295ea:
+
+    # ayanogg1 "Я не ожидала, что она выдаст нам помещения, даже с учетом ваших партнерско-дружеских отношений, а она мало того, что сделала это, так еще и сделала наше выступление главным событием от лица академии. Как там говорилось... Двух зайцев одним выстрелом?"
+    ayanogg1 "I did not expect that she would give us the premises, even taking into account your partner-friendly relations, and not only did she do this, but she also made our performance the main event on behalf of the academy. What did they say... two birds with one stone?"
+
+# game/act.rpy:6710
+translate english perfomance_ayano_9d57c998:
+
+    # "Быстро одевшись, проведя немного времени в уборной и перекусив первым, что попало вам под руку, вы открыли входную дверь и, выйдя из помещения, сразу же направились в академию."
+    "After getting dressed quickly, spending some time in the bathroom, and having a snack with the first thing that came to your hand, you opened the front door and, leaving the appartment, immediately headed to academy."
+
+# game/act.rpy:6712
+translate english perfomance_ayano_635dc7fd:
+
+    # "Благо, что путь был не таким длинным, и уже вскоре ваш взор упал на полную посетителями, прогуливающимися по двору, академию."
+    "Fortunately, the path was not so long, and soon your eyes fell on the academy full of visitors strolling around the yard."
+
+# game/act.rpy:6798
+translate english perfomance_ayano_501ec003:
+
+    # yuki "Наша академия будет вести стрим этого концерта. Ах... И да, полностью забить время вашим выступлением у меня не получилось."
+    yuki "Our academy will stream this concert. Ah... and yes, I didn't manage to completely score time with your performance."
+# TODO: Translation updated at 2024-02-12 15:42
+
+translate english strings:
+
+    # game/act.rpy:3826
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Отношения:{/color}{color=#282828} знакомый {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Relationship:{/color}{color=#282828} acquaintance {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+
+    # game/act.rpy:3828
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Отношения:{/color}{color=#b0cc62} друг {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Relationship:{/color}{color=#b0cc62} friend {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+
+    # game/act.rpy:3830
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Отношения:{/color}{color=#89ad27} лучший друг {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Relationship:{/color}{color=#89ad27} best friend {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+
+    # game/act.rpy:3832
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Отношения:{/color}{color=#ff8cb4} тебя любят! {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Relationship:{/color}{color=#ff8cb4} you are loved! {/color}{color=#282828}([ayano_contact]){/color}{/size}{/font}"
+
+    # game/act.rpy:3834
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Доверие:{/color}{color=#282828} низкое {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Trust:{/color}{color=#282828} low {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+
+    # game/act.rpy:3836
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Доверие:{/color}{color=#b0cc62} среднее {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Trust:{/color}{color=#b0cc62} average {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+
+    # game/act.rpy:3838
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Доверие:{/color}{color=#89ad27} высокое {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Trust:{/color}{color=#89ad27} high {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+
+    # game/act.rpy:3840
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Доверие:{/color}{color=#ff8cb4} очень высокое {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Trust:{/color}{color=#ff8cb4} very high {/color}{color=#282828}([ayano_trust]){/color}{/size}{/font}"
+
+    # game/act.rpy:3842
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Пошлость:{/color}{color=#282828} фригидность {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Depravity:{/color}{color=#282828} frigidity {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+
+    # game/act.rpy:3844
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Пошлость:{/color}{color=#b0cc62} монашка {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Depravity:{/color}{color=#b0cc62} nun {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+
+    # game/act.rpy:3846
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Пошлость:{/color}{color=#89ad27} редкие мысли о сексе... {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Depravity:{/color}{color=#89ad27} rare thoughts about sex... {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+
+    # game/act.rpy:3848
+    old "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Пошлость:{/color}{color=#ff8cb4} настоящая пошлячка {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+    new "{font=gui/fonts/comicsans.ttf}{size=22}{color=#282828}Depravity:{/color}{color=#ff8cb4} really vulgar {/color}{color=#282828}([depravity_ayano]){/color}{/size}{/font}"
+# TODO: Translation updated at 2024-04-25 17:38
+
+# game/act.rpy:6698
+translate english ayano_us_74ba83db_1:
+
+    # ayanogg1 "Да, ты действительно не умеешь успокаивать... В любом случае спасибо. Как бы то ни было, твоя вера в меня поможет, наверное..."
+    ayanogg1 "Yes, you really don't know how to calm down... Thanks anyway. Be that as it may, your faith in me will probably help..."
+
+# game/act.rpy:6703
+translate english ayano_us_74ba83db_2:
+
+    # ayanogg1 "Да, ты действительно не умеешь успокаивать... В любом случае спасибо. Как бы то ни было, твоя вера в меня поможет, наверное..."
+    ayanogg1 "Yes, you really don't know how to calm down... Thanks anyway. Be that as it may, your faith in me will probably help..."
+
+# game/act.rpy:6708
+translate english ayano_us_0608d982:
+
+    # ayanogg1 "Какие странные слова поддержки... В любом случае спасибо. Как бы то ни было, твоя вера в меня поможет, наверное..."
+    ayanogg1 "What strange words of encouragement... Thanks anyway. Be that as it may, your faith in me will probably help..."
+
+# game/act.rpy:6713
+translate english ayano_us_74ba83db_3:
+
+    # ayanogg1 "Да, ты действительно не умеешь успокаивать... В любом случае спасибо. Как бы то ни было, твоя вера в меня поможет, наверное..."
+    ayanogg1 "Yes, you really don't know how to calm down... Thanks anyway. Be that as it may, your faith in me will probably help..."
+
+# game/act.rpy:6718
+translate english ayano_us_74ba83db_4:
+
+    # ayanogg1 "Да, ты действительно не умеешь успокаивать... В любом случае спасибо. Как бы то ни было, твоя вера в меня поможет, наверное..."
+    ayanogg1 "Yes, you really don't know how to calm down... Thanks anyway. Be that as it may, your faith in me will probably help..."
+
+# game/act.rpy:6729
+translate english ayano_us_a2665c84:
+
+    # glgg "Тем не менее большего я сделать не могу."
+    glgg "However, I can't do more."
+
+# game/act.rpy:6742
+translate english ayano_us_e1_0a633dba:
+
+    # ayanogg1 "Спасибо..."
+    ayanogg1 "Thanks..."
+
+# game/act.rpy:6744
+translate english ayano_us_e1_6ce13648:
+
+    # "Мило улыбнувшись вам, девушка обняла вас, но через секунду отпустила и побежала делать свои дела, оставив вас с мыслями о грядущем выступлении."
+    "Smiling sweetly at you, the girl hugged you, but after a second she let go and ran off to do her business, leaving you with thoughts about the upcoming performance."
+
+# game/act.rpy:6748
+translate english ayano_us_e1_080a5871:
+
+    # ayanogg1 "Звучит не очень убедительно."
+    ayanogg1 "Doesn't sound very convincing."
+
+# game/act.rpy:6749
+translate english ayano_us_e1_2f0d3c87:
+
+    # glgg "Большего сказать я, опять же, не могу. Успех или провал - на самом деле это не так важно. Главное то, каким ты запомнишь этот период."
+    glgg "Again, I can’t say more. Success or failure is not really that important. The main thing is how you remember this period."
+
+# game/act.rpy:6754
+translate english ayano_us_e1_85c7722c:
+
+    # ayanogg1 "Звучит очень убедительно."
+    ayanogg1 "Sounds very convincing."
+
+# game/act.rpy:6755
+translate english ayano_us_e1_22631138:
+
+    # glgg "Ну, как есть. Победа или поражения - мне абсолютно все равно. Вне зависимости от результата ничего попросту не изменится."
+    glgg "Well, as it is. Victory or defeat - I don't care at all. Regardless of the outcome, nothing will simply change."
+
+# game/act.rpy:6756
+translate english ayano_us_e1_d09b672f:
+
+    # ayanogg1 "То есть... Винить ты меня не будешь?"
+    ayanogg1 "That is... You won't blame me?"
+
+# game/act.rpy:6757
+translate english ayano_us_e1_243d58af:
+
+    # glgg "Не буду."
+    glgg "I won't."
+
+# game/act.rpy:6762
+translate english ayano_us_e1_db794a2b:
+
+    # ayanogg1 "Звучит, как мотивационная цитата с социальной сети."
+    ayanogg1 "Sounds like a motivational quote from a social network."
+
+# game/act.rpy:6763
+translate english ayano_us_e1_cf23c352:
+
+    # glgg "Это факт."
+    glgg "It is a fact."
+
+# game/act.rpy:6769
+translate english ayano_us_e1_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6770
+translate english ayano_us_e1_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6772
+translate english ayano_us_e1_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 ""
+
+# game/act.rpy:6773
+translate english ayano_us_e1_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6775
+translate english ayano_us_e1_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6776
+translate english ayano_us_e1_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6778
+translate english ayano_us_e1_09d57cea:
+
+    # ayanogg1 "Видимо, ты убьешь меня в случае провала..."
+    ayanogg1 "Apparently you will kill me if I fail..."
+
+# game/act.rpy:6779
+translate english ayano_us_e1_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6781
+translate english ayano_us_e1_5f04ce9f:
+
+    # ayanogg1 "Я сделаю все, что в моих силах!"
+    ayanogg1 "I will do my best!"
+
+# game/act.rpy:6782
+translate english ayano_us_e1_6310686a:
+
+    # "Кинув на вас последний свой взгляд, девушка побежала делать свои дела, оставив вас с мыслями о грядущем выступлении."
+    "Taking one last look at you, the girl ran off to do her business, leaving you with thoughts about the upcoming performance."
+
+# game/act.rpy:6847
+translate english perfomance_ayano_e9f4a230:
+
+    # ayanogg1 "Знаешь... Не знай я тебя, я бы восприняла это с некоторым..."
+    ayanogg1 "You know... If I didn't know you, I would have taken this with some..."
+
+# game/act.rpy:6848
+translate english perfomance_ayano_2a497530:
+
+    # glgg "Непонимаем и смущением?"
+    glgg "Misunderstanding and embarrassment?"
+
+# game/act.rpy:6850
+translate english perfomance_ayano_2a392b85:
+
+    # ayanogg1 "Да. Но я знаю тебя и знаю, как ты любишь издеваться. В любом случае... Хорошо, что ты здесь. "
+    ayanogg1 "Yes. But I know you and I know how much you love to mock. Anyway... It's good to have you here."
+
+# game/act.rpy:6851
+translate english perfomance_ayano_ab248c91:
+
+    # glgg "Ну, судя по твоей реакции, ты явно этого не ожидала."
+    glgg "Well, judging by your reaction, you clearly didn't expect this."
+
+# game/act.rpy:6853
+translate english perfomance_ayano_1d875a7d:
+
+    # ayanogg1 "Естественно. Однако, раз уж ты здесь - спасибо."
+    ayanogg1 "Naturally. However, since you're here, thank you."
+
+# game/act.rpy:6854
+translate english perfomance_ayano_91ebe2e6:
+
+    # ayanogg1 "Как бы то ни было, мне пора. Можешь посидеть и подождать, если хочешь. В клубную комнату сейчас никто не зайдет, кроме Сузуки, которую, кстати, я должна встретить."
+    ayanogg1 "Anyway, I have to go. You can sit and wait if you want. No one will come into the club room now except Suzuki, who, by the way, I have to meet."
+
+# game/act.rpy:6860
+translate english perfomance_ayano_e1_f77f53e3:
+
+    # ayanogg1 "Ну, ты достаточно популярный парень, поэтому я не особо удивлена в том, что у тебя есть дела."
+    ayanogg1 "Well, you're a pretty popular guy, so I'm not too surprised that you're having an affair."
+
+# game/act.rpy:6861
+translate english perfomance_ayano_e1_3d64fbb8:
+
+    # ayanogg1 "Да и я подозреваю, что меня они, как обычно, не касаются, да?"
+    ayanogg1 "And I suspect that, as usual, they don’t concern me, right?"
+
+# game/act.rpy:6862
+translate english perfomance_ayano_e1_91ebe2e6:
+
+    # ayanogg1 "Как бы то ни было, мне пора. Можешь посидеть и подождать, если хочешь. В клубную комнату сейчас никто не зайдет, кроме Сузуки, которую, кстати, я должна встретить."
+    ayanogg1 "Anyway, I have to go. You can sit and wait if you want. No one will come into the club room now except Suzuki, who, by the way, I have to meet."
+
+# game/act.rpy:6867
+translate english perfomance_ayano_e1_b9915f33:
+
+    # "Явно удивившись вашей реакции, девушка просто хлопала глазами, не зная, как реагировать на вашу достаточно жесткую реакцию."
+    "Clearly surprised by your reaction, the girl simply blinked her eyes, not knowing how to react to your rather harsh reaction."
+
+# game/act.rpy:6868
+translate english perfomance_ayano_e1_935bb0b8:
+
+    # "Впрочем, совсем скоро она вам ответила, причем со значительной своей дружелюбностью."
+    "However, very soon she answered you, and with considerable friendliness."
+
+# game/act.rpy:6874
+translate english perfomance_ayano_e1_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6875
+translate english perfomance_ayano_e1_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6877
+translate english perfomance_ayano_e1_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6878
+translate english perfomance_ayano_e1_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6880
+translate english perfomance_ayano_e1_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6881
+translate english perfomance_ayano_e1_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6883
+translate english perfomance_ayano_e1_5f639516:
+
+    # ayanogg1 "Прием? Алло? Вызываю диспетчера."
+    ayanogg1 "Hey? Hello? Calling the dispatcher."
+
+# game/act.rpy:6884
+translate english perfomance_ayano_e1_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6886
+translate english perfomance_ayano_e1_e690592f:
+
+    # ayanogg1 "Ужас. Какой молчаливый. Ладно, я поняла - у тебя здесь свои дела..."
+    ayanogg1 "Damn. How silent. Okay, I understand - you have your own business here..."
+
+# game/act.rpy:6890
+translate english perfomance_ayano_e1_d30e35be:
+
+    # "Только-только сказав это, девушка улыбнулась вам, после чего вышла из помещения, оставив вас наедине со своими мыслями."
+    "Having just said this, the girl smiled at you, after which she left the room, leaving you alone with your thoughts."
+
+# game/act.rpy:6891
+translate english perfomance_ayano_e1_1a5b4b67:
+
+    # "Понимая, что она еще не скоро вернется, вы достали из своего кармана мобильный телефон и начали втыкать в какую-то игрушку, дабы победить злополучную скуку."
+    "Realizing that she would not return soon, you took out your mobile phone from your pocket and began to stick it into some kind of toy in order to overcome the ill-fated boredom."
+
+# game/act.rpy:6892
+translate english perfomance_ayano_e1_3acf9253:
+
+    # "Час. Второй. Казалось, что этих двоих поглотила толпа, и больше они не вернутся, но ваши волнение перебила открывшаяся дверь, через которую зашли две запыхавшихся и растрепанных знакомых."
+    "Час. Второй. Казалось, что этих двоих поглотила толпа, и больше они не вернутся, но ваши волнение перебила открывшаяся дверь, через которую зашли две запыхавшихся и растрепанных знакомых."
+
+# game/act.rpy:6895
+translate english perfomance_ayano_e1_584ac621:
+
+    # suzuku "Это... Это что-то с чем-то... Ходить сквозь толпу – ужас. Никому бы этого не пожелала."
+    suzuku "This... This is something... Walking through a crowd is terrifying. I wouldn't wish this on anyone."
+
+# game/act.rpy:6898
+translate english perfomance_ayano_e1_be7bbca0:
+
+    # ayanogg1 "Еще бы. Думаю, скоро все это рассосется, ближе к обеду, а уже вечером людей станет еще больше."
+    ayanogg1 "Yeah. I think that soon all this will resolve itself, closer to lunch, and in the evening there will be even more people."
+
+# game/act.rpy:6901
+translate english perfomance_ayano_e1_520c40a5:
+
+    # suzuku "Возможно. Как бы то ни было, не хотелось бы проходить через это все еще раз..."
+    suzuku "Maybe. Anyway, I wouldn't want to go through this all over again..."
+
+# game/act.rpy:6903
+translate english perfomance_ayano_e1_3fc33a4b:
+
+    # "Устало упав на стоявший рядом с ней стул, Сузуки только-только заметила вас краем глаза и дружелюбно помахала."
+    "Wearily falling onto the chair next to her, Suzuki just noticed you out of the corner of her eye and waved in a friendly manner."
+
+# game/act.rpy:6905
+translate english perfomance_ayano_e1_fdea7a65:
+
+    # ayanogg1 "Ладно, раз уж мы в сборе, пора повторить все, чему ты научилась."
+    ayanogg1 "Okay, now that we're here, it's time to review everything you've learned."
+
+# game/act.rpy:6908
+translate english perfomance_ayano_e1_d677fd70:
+
+    # "Кинув довольный взгляд на Сузуки, Аяно дала ей листок и, упав пятой точкой на стул близ, тоже начала что-то про себя повторять, не обращая внимание на кого-либо вокруг."
+    "Casting a satisfied glance at Suzuki, Ayano gave her the piece of paper and, falling backwards onto a chair nearby, also began to repeat something to herself, not paying attention to anyone around."
+
+# game/act.rpy:6909
+translate english perfomance_ayano_e1_26ab77e0:
+
+    # "Так и прошло еще пару часов, за которые, казалось, вы умрете от скуки. Девушки на вас не обращали никакого внимания и занимались подготовкой к выступлению, а вам же в это время приходилось втыкать в телефон, наблюдать за ними, а также грустно смотреть в окно."
+    "So another couple of hours passed, during which it seemed you would die of boredom. The girls didn’t pay any attention to you and were busy preparing for the performance, and at the same time you had to plug into your phone, watch them, and also sadly look out the window."
+
+# game/act.rpy:6911
+translate english perfomance_ayano_e1_2b27ec01:
+
+    # "Вскоре, уже в последний раз посмотрев в окно, вы заметили, что наступил вечер и, глянув на двух заряженных девушек и пожелав им удачи, проводили тех взглядом, когда те выходили из комнаты."
+    "Soon, looking out the window for the last time, you noticed that evening had come and, looking at the two charged girls and wishing them good luck, you watched them leave the room."
+
+# game/act.rpy:6912
+translate english perfomance_ayano_e1_922281f8:
+
+    # "Тяжко вздохнув и вновь осмотрев комнату на наличие чего-либо интересного, вы несколько расстроились, понимая, что еще, как минимум, час вам придется впустую потратить, просиживая штаны."
+    "Sighing heavily and again looking around the room for anything interesting, you became somewhat upset, realizing that you would have to waste at least another hour sitting in your pants."
+
+# game/act.rpy:6913
+translate english perfomance_ayano_e1_b2cf6350:
+
+    # "Тем не менее это можно было назвать некоторой необходимостью: как бы то ни было, вы должны были проконтролировать Аяно и Сузуки, проконтролировать их волнение, чтобы быть уверенным в успешности общей задумки, но, несмотря на все, вы понимали, что постоянно следить за ними не сможете."
+    "Nevertheless, it could be called a certain necessity: anyway, you had to monitor Ayano and Suzuki, control their excitement in order to be sure of the success of the overall idea, but despite everything, you understood that it was necessary to constantly monitor them you can't."
+
+# game/act.rpy:6914
+translate english perfomance_ayano_e1_5db56b8e:
+
+    # "Этот момент наступил прямо сейчас. Ваши объекты наблюдения ушли в то место, куда вас навряд ли пропустят, и вам пришлось попросту ждать. Ждать начало концерта и надеяться на его успешность."
+    "This moment is now. Your objects of observation went to a place where they were unlikely to let you through, and you simply had to wait. Wait for the concert to start and hope for its success."
+
+# game/act.rpy:6916
+translate english perfomance_ayano_e1_63f42743:
+
+    # yuki "Так и думала, что ты тут, [player_name]."
+    yuki "I thought you were here, [player_name]."
+
+# game/act.rpy:6917
+translate english perfomance_ayano_e1_df72a5be:
+
+    # "Глянув на источник звука, вы заприметили только-только зашедшую в клубную комнату довольную Юки, которая, подойдя поближе, села на ближайший к вам стул пятой точкой и начала безмолвно пялить, ожидая ответа с вашей стороны."
+    "Looking at the source of the sound, you noticed a happy Yuki who had just entered the club room, who, coming closer, sat down on the chair closest to you and began silently staring, waiting for an answer from you."
+
+# game/act.rpy:6918
+translate english perfomance_ayano_e1_5ce9ebdf:
+
+    # glgg "Ну и чего ты пришла? Разве ты не должна следить за порядком проведения городского фестиваля?"
+    glgg "So why did you come? Shouldn't you be keeping an eye on the festival?"
+
+# game/act.rpy:6920
+translate english perfomance_ayano_e1_a5634d71:
+
+    # yuki "Должна. Тем не менее как я могу бросить в беде уже брошенного котенка?"
+    yuki "Yes, I should. However, how can I abandon an already abandoned kitten in trouble?"
+
+# game/act.rpy:6921
+translate english perfomance_ayano_e1_b8f93d93:
+
+    # glgg "Ты меня ассоциируешь с брошенным котенком?"
+    glgg "Do you associate me with an abandoned kitten?"
+
+# game/act.rpy:6923
+translate english perfomance_ayano_e1_e1de7274:
+
+    # yuki "Как видишь."
+    yuki "I do."
+
+# game/act.rpy:6925
+translate english perfomance_ayano_e1_e999d1e5:
+
+    # "Тяжко вздохнув, вы вновь глянули в окно. Толпа, ходящая без какой-либо модели поведения, будто бы в разнобой, внезапно стало сгущаться в одном месте – концертном зале."
+    "Sighing heavily, you looked out the window again. The crowd, walking without any pattern of behavior, as if in discord, suddenly began to thicken in one place - the concert hall."
+
+# game/act.rpy:6926
+translate english perfomance_ayano_e1_4d8b83ca:
+
+    # glgg "Твоя работа?"
+    glgg "Your job?"
+
+# game/act.rpy:6927
+translate english perfomance_ayano_e1_d07975ac:
+
+    # yuki "Говорила же, что сделаю все, чтобы выполнить свою часть договора."
+    yuki "I told you that I would do everything to fulfill my part of the agreement."
+
+# game/act.rpy:6928
+translate english perfomance_ayano_e1_a3a4d573:
+
+    # glgg "Поздравляю, у тебя получилось."
+    glgg "Congratulations, you did it great."
+
+# game/act.rpy:6930
+translate english perfomance_ayano_e1_e0ba7a94:
+
+    # yuki "Знаю-знаю. Кстати, насчет концерта... Ты пойдешь его смотреть лично или сделаешь более умно?"
+    yuki "I know, I know. By the way, about the concert... Will you go to see it in person or will you do it more cleverly?"
+
+# game/act.rpy:6931
+translate english perfomance_ayano_e1_22483a4d:
+
+    # glgg "Умно?"
+    glgg "Cleverly?"
+
+# game/act.rpy:6933
+translate english perfomance_ayano_e1_cda96ace:
+
+    # yuki "Не думаю, что ты хочешь вариться в этой всей толпе."
+    yuki "I don't think you want to stew in this whole crowd."
+
+# game/act.rpy:6934
+translate english perfomance_ayano_e1_47266bac:
+
+    # glgg "Сразу к делу."
+    glgg "Straight to the point."
+
+# game/act.rpy:6936
+translate english perfomance_ayano_e1_501ec003:
+
+    # yuki "Наша академия будет вести стрим этого концерта. Ах... И да, полностью забить время вашим выступлением у меня не получилось."
+    yuki "Our academy will stream this concert. Ah... And yes, I didn’t manage to completely fill the time with your performance."
+
+# game/act.rpy:6937
+translate english perfomance_ayano_e1_7c53e77c:
+
+    # yuki "Кроме вас будет выступать несколько иных клубов, но там уже не песни, а самое смешное в этом всем – комбинированная сцена. Там оборудование и для театральных выступлений, и для песен, да для чего только нет. Директор постарался, дабы удовлетворить требования всех."
+    yuki "Besides you, several other clubs will perform, but there are no songs there, and the funniest thing in all of this is the combined stage. There is equipment for theatrical performances, and for songs, and for everything else. The director tried to satisfy everyone's requirements."
+
+# game/act.rpy:6938
+translate english perfomance_ayano_e1_5d8e5580:
+
+    # glgg "Это что-то меняет для клуба оккультизма?"
+    glgg "Does this change anything for the occult club?"
+
+# game/act.rpy:6940
+translate english perfomance_ayano_e1_b7c4686c:
+
+    # yuki "Нет, кроме того факта, что если ваше выступление запомнится, мы сразу это поймем по реакции находящихся там. Ну, по крайней мере если они не разойдутся раньше."
+    yuki "No, except for the fact that if your performance is memorable, we will immediately understand it by the reaction of those there. Well, at least if they don't leave first."
+
+# game/act.rpy:6941
+translate english perfomance_ayano_e1_2b2a8272:
+
+    # glgg "Ты сделала наше выступление последним?"
+    glgg "Did you make our performance last?"
+
+# game/act.rpy:6943
+translate english perfomance_ayano_e1_fa175b66:
+
+    # yuki "Ну, не совсем я... Это решал даже не студенческий совет, а совет учителей. Более перспективным для них показался клуб драмы и комедии."
+    yuki "Well, not really me... This was decided not even by the student council, but by the council of teachers. The drama and comedy club seemed more promising for them."
+
+# game/act.rpy:6944
+translate english perfomance_ayano_e1_01334d06:
+
+    # yuki "Соответственно, клуб оккультизма менее перспективный и выступает в самом конце. Я подала идею – они ее реализовали по-своему, как бы то ни было прискорбно."
+    yuki "Accordingly, the occult club is less promising and appears at the very end. I submitted an idea - they implemented it in their own way, no matter how regrettable it was."
+
+# game/act.rpy:6945
+translate english perfomance_ayano_e1_115a6e54:
+
+    # glgg "Это все?"
+    glgg "Is that all?"
+
+# game/act.rpy:6947
+translate english perfomance_ayano_e1_ecd89487:
+
+    # yuki "По идее."
+    yuki "I guess."
+
+# game/act.rpy:6948
+translate english perfomance_ayano_e1_44b7c542:
+
+    # glgg "Значит вот почему ты рассказа про стрим... Не хотела, чтобы я впустую потратил еще больше времени?"
+    glgg "So that's why you're talking about the stream... You didn't want me to waste even more time?"
+
+# game/act.rpy:6950
+translate english perfomance_ayano_e1_5e826856:
+
+    # yuki "Да нет, мне просто скучно одной будет."
+    yuki "No, I’ll just be bored alone."
+
+# game/act.rpy:6951
+translate english perfomance_ayano_e1_6850c7da:
+
+    # glgg "Эгоистично."
+    glgg "Selfish."
+
+# game/act.rpy:6953
+translate english perfomance_ayano_e1_8f54064a:
+
+    # yuki "Тем не менее это правда. Итак, Господин Заместитель главы клуба оккультизма, ты не против, если я побуду с тобой во время концерта?"
+    yuki "But true. So, Mr. Deputy Head of the Occult Club, do you mind if I stay with you during the concert?"
+
+# game/act.rpy:6954
+translate english perfomance_ayano_e1_c49999a0:
+
+    # glgg "Даже если я и откажу – тебе будет все равно."
+    glgg "Even if I refuse, you won’t care."
+
+# game/act.rpy:6956
+translate english perfomance_ayano_e1_673b9a24:
+
+    # yuki "Верно!"
+    yuki "Yep!"
+
+# game/act.rpy:6960
+translate english perfomance_ayano_e1_27063f54:
+
+    # "Пододвинув поближе свой стул к вам, буквально-таки вплотную, девушка достала свой мобильный телефон и открыла сайт, на котором уже велся стрим концерта."
+    "Moving her chair closer to you, literally right next to you, the girl took out her mobile phone and opened a website where the concert was already being streamed."
+
+# game/act.rpy:6961
+translate english perfomance_ayano_e1_08a748f2:
+
+    # "Как она и сказала, в это время выступал клуб драмы и комедии со скучной театральной сценкой. Безмолвно смотря за полным скукой стримом, вы то и дело зевали вместе с вашей напарницей."
+    "As she said, at that time the drama and comedy club was performing with a boring theater skit. Silently watching the stream full of boredom, you yawned every now and then along with your partner."
+
+# game/act.rpy:6962
+translate english perfomance_ayano_e1_9db214fd:
+
+    # "Это длилось еще часа полтора, после чего вы наконец-то заметили знакомые лица: с некой стесненностью в своих действиях Аяно и Сузуки начали выходить на сцену, держа микрофоны в своих руках."
+    "This lasted another hour and a half, after which you finally noticed familiar faces: with some constraint in their actions, Ayano and Suzuki began to enter the stage, holding microphones in their hands."
+
+# game/act.rpy:6963
+translate english perfomance_ayano_e1_441d7a52:
+
+    # "Их задача была сложна – встряхнуть уже скучающую публику, которая заметно подустала от этого всего фестиваля, но, как бы это ни было странно, казалось, что ни одна из девушек не волнуется."
+    "Their task was difficult - to shake up the already bored audience, which was noticeably tired from this whole festival, but, no matter how strange it was, it seemed that none of the girls was worried."
+
+# game/act.rpy:6964
+translate english perfomance_ayano_e1_06851ed5:
+
+    # "Подойдя к центру сцены, Сузуки начала рассказывать что-то невнятное, заставляя толпу скучать еще больше, но длилось это недолго: хитро ухмыльнувшись, Аяно подняла свою руку вверх, тем самым дав знак в закулисье."
+    "Approaching the center of the stage, Suzuki began to say something incomprehensible, making the crowd even more bored, but this did not last long: with a sly grin, Ayano raised her hand up, thereby giving a sign to the backstage."
+
+# game/act.rpy:6972
+translate english perfomance_ayano_e1_2612bcbe:
+
+    # "Нежданно-негаданно, а уж тем более для сидевшей ничего непонимающей публики, фестиваль заиграл новыми красками – свет, заигравший уже знакомый вам минус, а после и вовсе несколько сломанная, но тем не менее приятная хореография."
+    "Unexpectedly, and even more so for the audience who sat and did not understand anything, the festival began to sparkle with new colors - the light began to play the already familiar minus, and then a somewhat broken, but nevertheless pleasant choreography."
+
+# game/act.rpy:6975
+translate english perfomance_ayano_e1_4af48976:
+
+    # "И, возможно, уже на контрасте со всеми предыдущими выступлениями, люди, смотревшие на это все, сильно взбодрились и начали с глубоким затишьем прислушиваться к каждому слову и ноте песни"
+    "And, perhaps in contrast to all the previous performances, the people who watched it all became greatly invigorated and began to listen with deep calm to every word and note of the song."
+
+# game/act.rpy:6978
+translate english perfomance_ayano_e1_33b4d1b2:
+
+    # "Наблюдая за этим всем еще под десяток минут и прослушав уже три песни во многом с отличающимся жанром: то софт-рок, то альтернатива, а то и вовсе псевдопанк, вы поняли одно – ваше выступление успешно."
+    "Watching all this for another ten minutes and having already listened to three songs with largely different genres: soft rock, alternative, or even pseudo-punk, you understood one thing - your performance was successful."
+
+# game/act.rpy:6979
+translate english perfomance_ayano_e1_27861a4c:
+
+    # "Публика довольна и активно поддерживала исполнителей, просмотры на стриме поднялись в разы, а в зале то и дело раздавались громкие овации, которые были слышны даже вам в комнате клуба оккультизма."
+    "The audience was happy and actively supported the performers, views on the stream increased significantly, and loud applause was heard in the hall every now and then, which could be heard even by you in the room of the occult club."
+
+# game/act.rpy:6980
+translate english perfomance_ayano_e1_24712495:
+
+    # "Но, как бы то ни было, последняя, четвертая песня, окончила триумф Аяно, Сузуки и клуба оккультизма в целом. После нее две девушки спокойно покинули сцену под все те же довольные овации публики."
+    "But in any case, the last, fourth song ended the triumph of Ayano, Suzuki and the occult club as a whole. After her, the two girls calmly left the stage to the same satisfied ovation from the audience."
+
+# game/act.rpy:6984
+translate english perfomance_ayano_e1_316bd2c7:
+
+    # yuki "Это... Это было неплохо. Вполне себе неплохо."
+    yuki "It... It wasn't bad. Not bad at all."
+
+# game/act.rpy:6991
+translate english perfomance_ayano_e1_5f5fe5e6:
+
+    # yuki "Это ты их натаскал? Не думала, что ты не только хороший продюсер, но и..."
+    yuki "Did you train them? I didn’t think that you were not only a good producer, but also..."
+
+# game/act.rpy:6992
+translate english perfomance_ayano_e1_fa0d8c5a:
+
+    # glgg "Нет. Реализация выступления была от начала и до конца идеей Аяно."
+    glgg "No. The execution of the performance was Ayano's idea from start to finish."
+
+# game/act.rpy:6994
+translate english perfomance_ayano_e1_40cf864b:
+
+    # yuki "Вот оно как... Получается, что она владела неплохим вокалом? Ладно, сейчас это не так уж и важно. Нужно потихоньку закрывать фестиваль. Ах... И насчет нашего договора. Я стану куратором клуба оккультизма, как мы и договаривались."
+    yuki "Here it is... It turns out that she had good vocals? Okay, it's not that important now. We need to slowly close the festival. Ah... And about our agreement. I will become the curator of the occult club, as we agreed."
+
+# game/act.rpy:6995
+translate english perfomance_ayano_e1_4c46bd99:
+
+    # glgg "Быстро же ты сделала свои выводы."
+    glgg "You quickly drew your conclusions."
+
+# game/act.rpy:6997
+translate english perfomance_ayano_e1_271de58f:
+
+    # yuki "Тут их по сути и делать не нужно, посмотри на результат. Он слишком очевиден для анализа."
+    yuki "There is essentially no need to do them here, look at the result. It's too obvious to analyze."
+
+# game/act.rpy:7002
+translate english perfomance_ayano_e1_f0a82c28:
+
+    # yuki "Честно говоря... Ты достаточно критичен."
+    yuki "Honestly... You're quite critical."
+
+# game/act.rpy:7003
+translate english perfomance_ayano_e1_946a59c8:
+
+    # glgg "Я просто говорю свое мнение."
+    glgg "I'm just speaking my mind."
+
+# game/act.rpy:7005
+translate english perfomance_ayano_e1_c8e3d1e7:
+
+    # yuki "В любом случае из вчерашнего лентяя ты сделал фактически айдола. Это хороший прогресс."
+    yuki "In any case, you actually made an idol out of yesterday’s lazy person. This is good progress."
+
+# game/act.rpy:7010
+translate english perfomance_ayano_e1_dac7680a:
+
+    # yuki "Ты думаешь слишком наперед. Наслаждайся своей победой, пока есть возможность."
+    yuki "You're thinking too ahead. Enjoy your victory while you can."
+
+# game/act.rpy:7015
+translate english perfomance_ayano_e1_ec74e92d:
+
+    # yuki "Нечего сказать, да?"
+    yuki "Nothing to say, right?"
+
+# game/act.rpy:7017
+translate english perfomance_ayano_e1_6d4c7f8d:
+
+    # yuki "В любом случае... Не похоже, что тебя прямо-таки удивило их выступление. Впрочем, это неудивительно. Учитывая, что ты из себя представляешь..."
+    yuki "Anyway... It doesn't seem like you were really surprised by their performance. However, this is not surprising. Considering what you are..."
+
+# game/act.rpy:7019
+translate english perfomance_ayano_e1_16bfaa5b:
+
+    # yuki "Впрочем, не важно. Наслаждайся своей победой, пока есть возможность."
+    yuki "It doesn't matter, though. Enjoy your victory while you can."
+
+# game/act.rpy:7025
+translate english perfomance_ayano_e1_7ffb1004:
+
+    # "Встав со стула и подойдя к входной двери, Юки в последний раз посмотрела на вас и, мило улыбнувшись, покинула помещения, пока же вы, будучи довольным общим результатом, вновь начали пялиться в окно."
+    "Rising from her chair and approaching the front door, Yuki looked at you one last time and, smiling sweetly, left the premises, while you, being pleased with the overall result, began to stare out the window again."
+
+# game/act.rpy:7026
+translate english perfomance_ayano_e1_019b5c6b:
+
+    # "Наблюдая за постепенно уходящим за горизонт солнцем под десяток минут и думая о своем, неожиданно для вас вас послышалось, как входная дверь открывается."
+    "Watching the sun gradually go below the horizon for about ten minutes and thinking about your own, unexpectedly you heard the front door opening."
+
+# game/act.rpy:7027
+translate english perfomance_ayano_e1_bccbc78a:
+
+    # "Глянув в ту сторону, вы заметили вполне себе знакомую девушку, которая ступила еще на один шаг вперед и, поняв, что ее увидели, наконец-то заговорила."
+    "Looking in that direction, you noticed a girl you knew quite well, who took another step forward and, realizing that she had been seen, finally spoke."
+
+# game/act.rpy:7030
+translate english perfomance_ayano_e1_11563c64:
+
+    # ayanogg1 "Хе-хе, хотела сделать тебе сюрприз, но, видимо, не получилось. Ну, как бы то ни было... Как тебе выступление?"
+    ayanogg1 "Hehe, I wanted to surprise you, but apparently it didn’t work out. Well, anyway... How did you like the performance?"
+
+# game/act.rpy:7038
+translate english perfomance_ayano_e2_6d2776c6:
+
+    # ayanogg1 "Эээ? Не будь таким эксцентричным!"
+    ayanogg1 "Uh? Don't be so eccentric!"
+
+# game/act.rpy:7039
+translate english perfomance_ayano_e2_5fff75a9:
+
+    # glgg "Приму во внимание, спасибо."
+    glgg "I'll take it into account, thank you."
+
+# game/act.rpy:7041
+translate english perfomance_ayano_e2_215f5b7f:
+
+    # ayanogg1 "Господи... Твое отношения ко всему удивляет. Со стороны ты холоден, а внутри готов пойти на многое, чтобы помочь своему другу, даже если то будет иметь риски для тебя."
+    ayanogg1 "Lord... Your attitude towards everything is amazing. On the outside you are cold, but on the inside you are ready to go to great lengths to help your friend, even if it has risks for you."
+
+# game/act.rpy:7042
+translate english perfomance_ayano_e2_38db2cf9:
+
+    # ayanogg1 "Встретив тебя тогда, еще на том фестивале, я и понятия не имела, что ты за человек. Изначально даже я тебя немного побаивалась, но, знаешь, узнав тебя немного получше, до меня все же дошло, что то, что ты делаешь – носишь постоянно на себе маску эксцентричности и меркантильности!"
+    ayanogg1 "Having met you then, back at that festival, I had no idea what kind of person you were. Initially, even I was a little afraid of you, but, you know, having gotten to know you a little better, it finally dawned on me that what you are doing is constantly wearing a mask of eccentricity and commercialism!"
+
+# game/act.rpy:7043
+translate english perfomance_ayano_e2_7cd9b5bf:
+
+    # glgg "Видимо, в словаре те слова были на самом видном месте... Аяно, я понимаю, что тебе хочется думать так, как тебе удобно, но все же не задумывайся о подобном. Это чревато напряжение мозга."
+    glgg "Apparently, those words were in the most prominent place in the dictionary... Ayano, I understand that you want to think in a way that suits you, but still don’t think about that. This is fraught with brain tension."
+
+# game/act.rpy:7045
+translate english perfomance_ayano_e2_76653ae2:
+
+    # ayanogg1 "Не думай, что я глупая!"
+    ayanogg1 "Don't think I'm stupid!"
+
+# game/act.rpy:7046
+translate english perfomance_ayano_e2_1d995cf9:
+
+    # glgg "Ни в коем случае. Каждый хорош в том, что ему дано. Тебе – пение, а мне совершенно иное."
+    glgg "In no case. Everyone is good at what they are given. For you it’s singing, but for me it’s completely different."
+
+# game/act.rpy:7048
+translate english perfomance_ayano_e2_122051c4:
+
+    # ayanogg1 "И опять... В общем, я действительно благодарна тебе и хочу сказать, что ты можешь меня попросить о том, чего только пожелаешь, как мы и договаривались изначально..."
+    ayanogg1 "And again... In general, I am really grateful to you and I want to say that you can ask me for whatever you want, as we agreed initially..."
+
+# game/act.rpy:7049
+translate english perfomance_ayano_e2_18c65d90:
+
+    # glgg "Буду знать."
+    glgg "I'll take it into account."
+
+# game/act.rpy:7055
+translate english perfomance_ayano_e2_fa1e4786:
+
+    # ayanogg1 "Эээ? Ты точно [player_name]? Он бы обычно сказал что-то вроде... Пойдет."
+    ayanogg1 "Uh? Are you really [player_name]? He would usually say something like... It'll do."
+
+# game/act.rpy:7056
+translate english perfomance_ayano_e2_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:7058
+translate english perfomance_ayano_e2_16f0f773:
+
+    # ayanogg1 "Господи... Твое отношения ко всему удивляет. Со стороны ты был холоден, сейчас делаешь комплименты, а внутри готов пойти на многое, чтобы помочь своему другу, даже если то будет иметь риски для тебя."
+    ayanogg1 "Lord... Your attitude towards everything is amazing. From the outside you were cold, now you give compliments, but inside you are ready to go to great lengths to help your friend, even if it has risks for you."
+
+# game/act.rpy:7059
+translate english perfomance_ayano_e2_38db2cf9_1:
+
+    # ayanogg1 "Встретив тебя тогда, еще на том фестивале, я и понятия не имела, что ты за человек. Изначально даже я тебя немного побаивалась, но, знаешь, узнав тебя немного получше, до меня все же дошло, что то, что ты делаешь – носишь постоянно на себе маску эксцентричности и меркантильности!"
+    ayanogg1 "Having met you then, back at that festival, I had no idea what kind of person you were. Initially, even I was a little afraid of you, but, you know, having gotten to know you a little better, it finally dawned on me that what you are doing is constantly wearing a mask of eccentricity and commercialism!"
+
+# game/act.rpy:7060
+translate english perfomance_ayano_e2_08e2960a:
+
+    # glgg "В любом случае - ты хорошо выступила. И это не комплимент."
+    glgg "In any case, you did well. And this is not a compliment."
+
+# game/act.rpy:7062
+translate english perfomance_ayano_e2_122051c4_1:
+
+    # ayanogg1 "И опять... В общем, я действительно благодарна тебе и хочу сказать, что ты можешь меня попросить о том, чего только пожелаешь, как мы и договаривались изначально..."
+    ayanogg1 "And again... In general, I am really grateful to you and I want to say that you can ask me for whatever you want, as we agreed initially..."
+
+# game/act.rpy:7063
+translate english perfomance_ayano_e2_18c65d90_1:
+
+    # glgg "Буду знать."
+    glgg "I'll take it into account."
+
+# game/act.rpy:7068
+translate english perfomance_ayano_e2_eb442a51:
+
+    # ayanogg1 "Как ты критичен! Это мой первый раз!"
+    ayanogg1 "How critical you are! This is my first time!"
+
+# game/act.rpy:7069
+translate english perfomance_ayano_e2_f1059c5c:
+
+    # glgg "Это лишь факт."
+    glgg "This is just a fact."
+
+# game/act.rpy:7071
+translate english perfomance_ayano_e2_0d09ff9a:
+
+    # ayanogg1 "А другим понравилось!"
+    ayanogg1 "And others liked it!"
+
+# game/act.rpy:7072
+translate english perfomance_ayano_e2_39e92a6f:
+
+    # glgg "Это другие люди..."
+    glgg "These are other people..."
+
+# game/act.rpy:7078
+translate english perfomance_ayano_e2_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:7079
+translate english perfomance_ayano_e2_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:7081
+translate english perfomance_ayano_e2_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:7082
+translate english perfomance_ayano_e2_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:7084
+translate english perfomance_ayano_e2_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:7085
+translate english perfomance_ayano_e2_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:7087
+translate english perfomance_ayano_e2_66de914b:
+
+    # ayanogg1 "Тебе не понравилось?"
+    ayanogg1 "Did you not like it?"
+
+# game/act.rpy:7088
+translate english perfomance_ayano_e2_99b63e40_4:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:7090
+translate english perfomance_ayano_e2_5963d02d:
+
+    # ayanogg1 "Значит понравилось?"
+    ayanogg1 "So you liked it?"
+
+# game/act.rpy:7091
+translate english perfomance_ayano_e2_99b63e40_5:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:7093
+translate english perfomance_ayano_e2_c077aa73:
+
+    # ayanogg1 "Господи... Тебя в действительности не понять. Впрочем, в любом случае я тебе благодарна."
+    ayanogg1 "Lord... I really can't understand you. However, in any case, I am grateful to you."
+
+# game/act.rpy:7095
+translate english perfomance_ayano_e2_38db2cf9_2:
+
+    # ayanogg1 "Встретив тебя тогда, еще на том фестивале, я и понятия не имела, что ты за человек. Изначально даже я тебя немного побаивалась, но, знаешь, узнав тебя немного получше, до меня все же дошло, что то, что ты делаешь – носишь постоянно на себе маску эксцентричности и меркантильности!"
+    ayanogg1 "Having met you then, back at that festival, I had no idea what kind of person you were. Initially, even I was a little afraid of you, but, you know, having gotten to know you a little better, it finally dawned on me that what you are doing is constantly wearing a mask of eccentricity and commercialism!"
+
+# game/act.rpy:7096
+translate english perfomance_ayano_e2_99b63e40_6:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:7098
+translate english perfomance_ayano_e2_c2a726da:
+
+    # ayanogg1 "Спасибо тебе, [player_name]. Спасибо..."
+    ayanogg1 "Thank you, [player_name]. Thank you..."
+
+# game/act.rpy:7100
+translate english perfomance_ayano_e2_a2b77637:
+
+    # "В очереденой раз одарив вас своей улыбкой, Аяно развернулась и вышла из комнаты клуба оккультизма, оставив вас наедине со своими мыслями, и вы, подождав еще под один десяток минут, последовали ее примеру, направившись к себе домой."
+    "Once again giving you her smile, Ayano turned around and left the room of the occult club, leaving you alone with your thoughts, and you, after waiting another ten minutes, followed her example, heading to your home."
+
+translate english strings:
+
+    # game/act.rpy:6688
+    old "{color=#000000}Понял... Я не могу сказать многого, скорее всего не смогу тебя успокоить, но... Знаешь, я в тебя верю, наверное.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I understand... I can’t say much, most likely I won’t be able to calm you down, but... You know, I believe in you, I guess.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6688
+    old "{color=#000000}Сожалею. Тяжело наверное.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Regret. It must be hard.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6688
+    old "{color=#000000}У тебя все получится!\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}You will succeed!\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6688
+    old "{color=#000000}Не думай об этом. Все это мелочи - провал или успех. В любом случае... Просто попытайся получить удовольствие.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Do not think about it. All these are little things - failure or success. Anyway... Just try to have fun.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6688
+    old "{color=#000000}Честно - твои проблемы. Меня они как-то слабо касаются.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Honestly, it's your problem. They somehow barely touch me.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6733
+    old "{color=#000000}Ну, насчет последнего я не уверен...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Well, I'm not sure about the last one...\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6733
+    old "{color=#000000}Мне все равно на результат. Просто попытайся получить удовольствие от этого всего.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I don't care about the result. Just try to enjoy it all.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6733
+    old "{color=#000000}Ну, откровенно говоря результаты твоего выступления меня не заботит.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Well, frankly speaking, I don’t care about the results of your performance.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6733
+    old "{color=#000000}Ты не провалишься. У тебя все получится. \n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}You won't fail. You will succeed. \n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6831
+    old "{color=#000000}Спасибо, что помогла с этой толпой....\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Thanks for helping with this crowd....\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6831
+    old "{color=#000000}Я хоть и не люблю такие многолюдные места, но я не мог пропустить твое выступление.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Although I don’t like such crowded places, I couldn’t miss your performance.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6831
+    old "{color=#000000}У меня есть здесь свои дела.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I have my own business here.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6831
+    old "{color=#000000}Могу сказать с уверенностью - мое присутствие здесь тебя не касается.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I can say with confidence that my presence here does not concern you.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6986
+    old "{color=#000000}Значит, что я не один так думаю...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}So I'm not the only one who thinks so...\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6986
+    old "{color=#000000}Они меня подвели. Это было ужасно.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}They let me down. It was terrible.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6986
+    old "{color=#000000}Главное, чтобы их выступление не привлекло слишком много внимания.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}The main thing is that their performance does not attract too much attention.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:7032
+    old "{color=#000000}Неплохо. Как для новичка уж точно.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Not bad. For a beginner, for sure.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:7032
+    old "{color=#000000}Отлично. Я думаю, что это было отлично.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Great. I think it was great.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:7032
+    old "{color=#000000}Твоя часть подкачала.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Your part let us down.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+# TODO: Translation updated at 2024-05-03 21:37
+
+# game/act.rpy:6053
+translate english ayano_dialoge_at_yuki1_02320550:
+
+    # ayanogg1 "Эээ... С чего ты взял?"
+    ayanogg1 "Uh... Where did you get this idea from?"
+
+# game/act.rpy:6054
+translate english ayano_dialoge_at_yuki1_d942e698:
+
+    # glgg "Просто говори уже. Не делай из меня дурака."
+    glgg "Just talk already. Don't make a fool of me."
+
+# game/act.rpy:6056
+translate english ayano_dialoge_at_yuki1_b43b633d_1:
+
+    # ayanogg1 "Бу... Ну и ладно! Все равно ты угадал! В общем, мне нужна твоя помощь."
+    ayanogg1 "Boo... Fine! You guessed it anyway! Basically, I need your help."
+
+# game/act.rpy:6062
+translate english ayano_dialoge_at_yuki1_e1_52ff7dde:
+
+    # ayanogg1 "Хе... Эм? Ну..."
+    ayanogg1 "Heh... Um? Well..."
+
+# game/act.rpy:6063
+translate english ayano_dialoge_at_yuki1_e1_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6064
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6065
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6067
+translate english ayano_dialoge_at_yuki1_e1_ecd5d756:
+
+    # ayanogg1 "В общем, мне нужна твоя помощь..."
+    ayanogg1 ""
+
+# game/act.rpy:6072
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6073
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6074
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6075
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6079
+translate english ayano_dialoge_at_yuki1_e1_127f173b:
+
+    # ayanogg1 "Скоро будет фестиваль. Да-да, наша академия их проводит очень много и без этого, тем не менее это тот фестиваль, что может нам сильно помочь даже в плане бюджета. С помощью него мы сможем вырваться на первые места по популярности клубов."
+    ayanogg1 "There will be a festival soon. Yes, yes, our academy holds a lot of them even without this, nevertheless, this is the festival that can greatly help us even in terms of budget. With its help, we will be able to break into first place in the popularity of clubs."
+
+# game/act.rpy:6080
+translate english ayano_dialoge_at_yuki1_e1_d8256054:
+
+    # glgg "Продолжай."
+    glgg "Go on."
+
+# game/act.rpy:6082
+translate english ayano_dialoge_at_yuki1_e1_ec2e6fb2:
+
+    # ayanogg1 "Как ты знаешь, раз в неделю мы проводим фестивали, но они по сути школьные и ничего не значат. Просто ненужная активность. Этот же фестиваль проводят раз в год, и он является городским. Ученики с разных академийбудут приходить к нам, чтобы его посетить, да и не только они..."
+    ayanogg1 "As you know, we hold festivals once a week, but they are essentially school festivals and mean nothing. Just unnecessary activity. This same festival is held once a year, and it is a city festival. Students from different academies will come to us to visit it, and not only them..."
+
+# game/act.rpy:6083
+translate english ayano_dialoge_at_yuki1_e1_6c98a4f9:
+
+    # glgg "Это, конечно, просто отлично, но нам-то с этого что? Мы – клуб оккультизма. Оккультизм мало кого интересует без интересной подачи, а скептиков, которых сейчас подавляющее большинство, и вовсе даже интересной подачей не заинтересуешь."
+    glgg "This, of course, is just great, but what does that matter to us? We are an occult club. Few people are interested in the occult without an interesting presentation, and skeptics, who are now the overwhelming majority, cannot even be interested in an interesting presentation."
+
+# game/act.rpy:6085
+translate english ayano_dialoge_at_yuki1_e1_66e69b08:
+
+    # ayanogg1 "Я знаю это, поэтому и придумала альтернативный вариант – песня. Сейчас музыка интересует всех и вся и..."
+    ayanogg1 "I know this, and that's why I came up with an alternative version - a song. now a days, music interests everyone and everything and..."
+
+# game/act.rpy:6086
+translate english ayano_dialoge_at_yuki1_e1_097c739e:
+
+    # glgg "Поэтому-то ты решила сделать песню про какого-нибудь каспера или йети... Отличная идея."
+    glgg "That's why you decided to make a song about some Casper or Yeti... Great idea."
+
+# game/act.rpy:6088
+translate english ayano_dialoge_at_yuki1_e1_f484b88c:
+
+    # ayanogg1 "Не утрируй и дай хотя бы шанс моей идее. Я более чем уверена, что если я это сделаю, наш клуб по популярности обгонит любой другой..."
+    ayanogg1 "Don't exaggerate! At least give my idea a chance. I am more than sure that if I do this, our club will overtake any other in popularity..."
+
+# game/act.rpy:6089
+translate english ayano_dialoge_at_yuki1_e1_eb5c5a93:
+
+    # glgg "Вот оно как... Ты достаточно замотивирована, но что это меняет или точнее... Что тебе нужно от меня?"
+    glgg "So that's how it is... You are quite motivated, but what does it change, or more precisely... What do you need from me?"
+
+# game/act.rpy:6091
+translate english ayano_dialoge_at_yuki1_e1_67e18624:
+
+    # ayanogg1 "Я хочу, чтобы ты нашел мне напарницу... Или по крайней мере напарника. Не думаю, что им сможешь быть ты."
+    ayanogg1 "I want you to find me a partner... Or at least a partner. I don't think you can be him."
+
+# game/act.rpy:6092
+translate english ayano_dialoge_at_yuki1_e1_38a841fa:
+
+    # glgg "Во-первых, для чего тебе это нужно, во-вторых, почему я не подойду под твои нужды"
+    glgg "Firstly, why do you need this, and secondly, why am I not suitable for your needs."
+
+# game/act.rpy:6094
+translate english ayano_dialoge_at_yuki1_e1_4a8d0fb1:
+
+    # ayanogg1 "Это... Это сложно признать, но я навряд ли смогу выступать одна... Когда все смотрят на тебя, буквально таращатся и думают о каждом твоем шаге... Думаю, если я буду с кем-то на сцене, мы разделим это все внимание, да и в конце концов с кем-то заниматься подобным куда веселее, чем одному..."
+    ayanogg1 "This... It's hard to admit, but I can hardly perform alone... When everyone is looking at you, literally staring and thinking about your every move... I think if I'm on stage with someone, we'll share it all attention, and in the end, doing something like this with someone is much more fun than alone..."
+
+# game/act.rpy:6095
+translate english ayano_dialoge_at_yuki1_e1_61bcc5a9:
+
+    # glgg "Вот оно как..."
+    glgg "So that's how it is..."
+
+# game/act.rpy:6097
+translate english ayano_dialoge_at_yuki1_e1_233e78a5:
+
+    # ayanogg1 "Послушай, я действительно понимаю, что подобное не подходит тематике нашего клуба, но... Я готова рискнуть всем, чтобы быть полезной тебе. Чтобы просто помочь и не быть мертвым грузом и, даже если я в конце концов облажаюсь, только я от этого пострадаю... Даже в случае провала клуб получит свою долю популярности..."
+    ayanogg1 "Look, I really understand that something like this doesn't fit the theme of our club, but... I'm willing to risk everything to be useful to you. To just help and not be a dead weight and even if I screw up in the end, I'm the only one who will suffer from it... Even if it fails, the club will get its share of popularity..."
+
+# game/act.rpy:6098
+translate english ayano_dialoge_at_yuki1_e1_c6f8c276:
+
+    # glgg "Под тематику нашего клуба не подходит уже вся наша деятельность, кроме некоторых моментов..."
+    glgg "All of our activities no longer fit the theme of our club, except for some points..."
+
+# game/act.rpy:6099
+translate english ayano_dialoge_at_yuki1_e1_47d0ea0c:
+
+    # glgg "Это очень странное предложение, хоть и перспективное. Наши ровесники помешаны на этом всем, несомненно, твой образ, как айдола, может запомниться, но есть множество проблем, связанных с этим, и я даже не о тематике клуба, это меньшее из зол. Помещение, маломальская раскрутка, да даже твой напарник..."
+    glgg "This is a very strange proposal, although promising. Our peers are obsessed with all this, undoubtedly, your image as an idol can be remembered, but there are many problems associated with this, and I’m not even talking about the theme of the club, this is the lesser of evils. The premises, a little promotion, and even your partner..."
+
+# game/act.rpy:6101
+translate english ayano_dialoge_at_yuki1_e1_e4a0f83d:
+
+    # ayanogg1 "Хе-хе, прямо сейчас ты говоришь, как Юки, но, знаешь, даже без твоей поддержки я сделаю это, чего бы мне не стоило. Это, наверное, единственное, что я могу сделать на данный момент для клуба, который, как ты сам отмечал, не может иметь лидирующую роль на городском фестивале из-за ограниченности направления"
+    ayanogg1 "Hehe, right now you sound like Yuki, but you know, even without your support, I will do it no matter what the cost. This is probably the only thing I can do at the moment for the club, which, as you yourself noted, cannot have a leading role at the city festival due to limited direction."
+
+# game/act.rpy:6102
+translate english ayano_dialoge_at_yuki1_e1_017a3791:
+
+    # ayanogg1 "Тем не менее я все равно очень надеюсь на твою поддержку... Даже если моя идея слишком глупая, люди учатся на ошибках, верно?"
+    ayanogg1 "Nevertheless, I still really hope for your support... Even if my idea is too stupid, people learn from mistakes, right?"
+
+# game/act.rpy:6103
+translate english ayano_dialoge_at_yuki1_e1_7873d68c:
+
+    # glgg "Как бы то ни было, ты не ответила мне на второй пункт. Мне стало очень любопытно, почему я не подхожу в роли твоего напарника."
+    glgg "Anyway, you haven't answered my second point. I have become very curious about why I'm not suitable as your partner."
+
+# game/act.rpy:6105
+translate english ayano_dialoge_at_yuki1_e1_e960f4c7:
+
+    # ayanogg1 "Я уже говорила об этом: ты змеюка куда хуже, чем Юки."
+    ayanogg1 "I've already talked about it: You're a much worse snake than Yuki."
+
+# game/act.rpy:6106
+translate english ayano_dialoge_at_yuki1_e1_2ec036c3:
+
+    # glgg "Это лишь отчасти отвечает на вопрос, очень поверхностно."
+    glgg "This only partially answers the question, very superficially."
+
+# game/act.rpy:6108
+translate english ayano_dialoge_at_yuki1_e1_d15695c4:
+
+    # ayanogg1 "Ты должен действовать максимально отчужденно от меня. Ни Юки, ни студенческий совет не должны знать, что на самом деле глава клуба – ты, а не я. Это даст тебе простор для любых действий и, даже если они и будут запрещены школьными правилами, подобное не навредит клубу."
+    ayanogg1 "You must act as aloof from me as possible. Neither Yuki nor the student council should know that you are the actual head of the club, not me. This will give you room for any actions you take and, even if they are prohibited by academy rules, this will not harm the club."
+
+# game/act.rpy:6109
+translate english ayano_dialoge_at_yuki1_e1_6919a9c0:
+
+    # ayanogg1 "А если мы будем выступать вместе, то слухи о тебе будут распространять с еще большей силой."
+    ayanogg1 "And if we perform together, then rumors about you will spread with even greater force."
+
+# game/act.rpy:6130
+translate english ayano_dialoge_at_yuki1_e1_16181bfa:
+
+    # ayanogg1 "Ты согласен мне помочь?"
+    ayanogg1 "Are you willing to help me?"
+
+# game/act.rpy:6136
+translate english ayano_dialoge_at_yuki1_e1_3acd6a27:
+
+    # ayanogg1 "Ладно... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей академии."
+    ayanogg1 "Okay... All you need to do is get Yuki a room in which you can perform and... In general, I want to tell you the main requirement for a partner - he should not study at our academy."
+
+# game/act.rpy:6141
+translate english ayano_dialoge_at_yuki1_e1_ddc0e2fe:
+
+    # ayanogg1 "Спасибо! Спасибо тебе!"
+    ayanogg1 "Thank you! Thank you!"
+
+# game/act.rpy:6142
+translate english ayano_dialoge_at_yuki1_e1_5483c857:
+
+    # ayanogg1 "В общем... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... Хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей академии."
+    ayanogg1 "In general... All you need to do is get Yuki a room in which you can perform and... I want to tell you the main requirement for a partner - he should not study at our academy."
+
+# game/act.rpy:6147
+translate english ayano_dialoge_at_yuki1_e1_b0e3ea49:
+
+    # ayanogg1 "Прошу тебя! Умоляю! Ну сделай это для меня!"
+    ayanogg1 "Please! I beg you! Do it for me!"
+
+# game/act.rpy:6148
+translate english ayano_dialoge_at_yuki1_e1_adb46b98:
+
+    # ayanogg1 "Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей академии."
+    ayanogg1 "All you need to do is get Yuki a room in which you can perform and... In general, I want to tell you the main requirement for a partner - he should not study at our academy."
+
+# game/act.rpy:6153
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_3:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6154
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_4:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6155
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_4:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6156
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_5:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6158
+translate english ayano_dialoge_at_yuki1_e1_3acd6a27_1:
+
+    # ayanogg1 "Ладно... Все, что тебе нужно сделать, добиться от Юки помещения, в котором можно будет выступать и... В общем, хочу сказать тебе главное требование насчет напарника – он не должен учиться в нашей академии."
+    ayanogg1 "Okay... All you need to do is get Yuki a room in which you can perform and... In general, I want to tell you the main requirement for a partner - he should not study at our academy."
+
+# game/act.rpy:6160
+translate english ayano_dialoge_at_yuki1_e1_4fd1d16c:
+
+    # glgg "Если насчет первого я еще понял, то вот насчет второго..."
+    glgg "I still understand about the first one, but about the second one..."
+
+# game/act.rpy:6162
+translate english ayano_dialoge_at_yuki1_e1_d874895b:
+
+    # ayanogg1 "Если кратко – Юки. Я боюсь, что она может подговорить моего напарника. Если он будет учиться в нашей академии, будет легко надавить на него с помощью оценок, слухов и подобного..."
+    ayanogg1 "In short - Yuki. I'm afraid she might talk my partner into it. If he studies at our academy, it will be easy to put pressure on him through grades, rumors and other..."
+
+# game/act.rpy:6163
+translate english ayano_dialoge_at_yuki1_e1_b4c3be25:
+
+    # glgg "Это уже больше походит на паранойю."
+    glgg "It's more like you're paranoid."
+
+# game/act.rpy:6165
+translate english ayano_dialoge_at_yuki1_e1_42155dda:
+
+    # ayanogg1 "Паранойя или нет, но мне комфортнее будет выступать с надежным человеком не из нашей академии. Сам понимаешь, что этого никак не изменить ни тебе, ни мне..."
+    ayanogg1 "Paranoia or not, it will be more comfortable for me to perform with a reliable person, who is not from our academy. You too understand that there is no way to change this, neither you nor me can..."
+
+# game/act.rpy:6166
+translate english ayano_dialoge_at_yuki1_e1_b193db38:
+
+    # glgg "Это уже больше походит на невыполнимые задания из компьютерных РПГ игр. Воможно, у меня и есть подходящие люди на примете, но они не обладают нужными навыками для твоих целей. По крайней мере я так думаю."
+    glgg "This is more like the impossible tasks one gets from computer RPG games. I may have the right people in mind, but they don't have the right skills for your purposes. At least that's what I think."
+
+# game/act.rpy:6168
+translate english ayano_dialoge_at_yuki1_e1_e498c2a2:
+
+    # ayanogg1 "Насчет этого... Я уверена, что если ты мне поможешь, у нас все получится! Просто приведи ко мне любого своего возможного знакомого не из академии, желательно девушку и... Будь уверен, я взорву сцену. Вместе с твоим знакомым."
+    ayanogg1 "About that... I am sure that if you help me, we will succeed! Just bring me any of your possible acquaintances who is not from academy, preferably a girl, and... be sure, I'll blow up the scene. Together with your friend."
+
+# game/act.rpy:6169
+translate english ayano_dialoge_at_yuki1_e1_760adff9:
+
+    # glgg "Я понимаю твои мотивы, но и ты пойми меня – все не так просто, как у тебя представлено в голове. То, что ты хочешь быть полезной и хочешь доказать всем это, не поменяет невозмозность поставленных задач."
+    glgg "I understand your motives, but you must also understand me - everything is not as simple as you imagine in your head. The fact that you want to be useful and want to prove it to everyone will not change the impossibility of the tasks set."
+
+# game/act.rpy:6171
+translate english ayano_dialoge_at_yuki1_e1_55b1f33c:
+
+    # ayanogg1 "Послушай меня еще раз, [player_name]... Я уверена, что у нас с тобой все получится. Просто доверься мне, и ты получишь все, что пожелаешь... Будь то деньги или какие-то слова..."
+    ayanogg1 "Listen to me again, [player_name]... I'm sure that you and I will succeed. Just trust me, and you'll get whatever you want... whether it's money or some words you desire to hear..."
+
+# game/act.rpy:6173
+translate english ayano_dialoge_at_yuki1_e1_44f4a7e0:
+
+    # ayanogg1 "Кроме того, твоя задача, как главы клуба, заметно станет проще, если все выйдет, а если не выйдет... Пусть. Ты ничего не потеряешь, клуб ничего не потеряет."
+    ayanogg1 "In addition, your task, as the head of the club, will become noticeably easier if everything works out, and if it doesn't... Let it be so. You won't lose anything, the club won't lose anything."
+
+# game/act.rpy:6179
+translate english ayano_dialoge_at_yuki1_e1_2402e50a:
+
+    # ayanogg1 "Пожалуйста – все, что тебе вздумается. Это малая цена за твои услуги."
+    ayanogg1 "Please - whatever you want. It's a small price to pay for your services."
+
+# game/act.rpy:6180
+translate english ayano_dialoge_at_yuki1_e1_a2063e93:
+
+    # glgg "Это уж как посмореть... В любом случае я постараюсь все сделать, чтобы предоставить тебе все условия для концерта."
+    glgg "It depends on how you look at it... In any case, I will try to do everything to provide you with all the conditions for the concert."
+
+# game/act.rpy:6182
+translate english ayano_dialoge_at_yuki1_e1_d4112503:
+
+    # ayanogg1 "Спасибо тебе..."
+    ayanogg1 "Thank you..."
+
+# game/act.rpy:6191
+translate english ayano_dialoge_at_yuki1_e1_cdbcf7dd:
+
+    # ayanogg1 "Я... Я поняла тебя... Спасибо..."
+    ayanogg1 "I... I understand you... Thank you..."
+
+# game/act.rpy:6200
+translate english ayano_dialoge_at_yuki1_e1_cdbcf7dd_1:
+
+    # ayanogg1 "Я... Я поняла тебя... Спасибо..."
+    ayanogg1 "I... I understand you... Thank you..."
+
+# game/act.rpy:6209
+translate english ayano_dialoge_at_yuki1_e1_61e9513b:
+
+    # ayanogg1 "Вот оно как... В любом случае я тебе благодарна даже за то, что ты выслушал меня..."
+    ayanogg1 "Here it is... In any case, I am grateful to you for even listening to me..."
+
+# game/act.rpy:6214
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_5:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6215
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_6:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6216
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_6:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6217
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_7:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6219
+translate english ayano_dialoge_at_yuki1_e1_7086dcd3:
+
+    # ayanogg1 "Прошу тебя! Ну сделай это для меня!"
+    ayanogg1 "Please! Do it for me!"
+
+# game/act.rpy:6220
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_8:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6222
+translate english ayano_dialoge_at_yuki1_e1_61e9513b_1:
+
+    # ayanogg1 "Вот оно как... В любом случае я тебе благодарна даже за то, что ты выслушал меня..."
+    ayanogg1 "So that's how it is... In any case, I am grateful to you for even listening to me..."
+
+# game/act.rpy:6227
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_7:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6228
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_9:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6229
+translate english ayano_dialoge_at_yuki1_e1_aa168fdf_8:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6230
+translate english ayano_dialoge_at_yuki1_e1_99b63e40_10:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6232
+translate english ayano_dialoge_at_yuki1_e1_61e9513b_2:
+
+    # ayanogg1 "Вот оно как... В любом случае я тебе благодарна даже за то, что ты выслушал меня..."
+    ayanogg1 "So that's how it is... In any case, I am grateful to you for even listening to me..."
+
+# game/act.rpy:6330
+translate english ayano_dialoge_suzuki_help_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6331
+translate english ayano_dialoge_suzuki_help_b7b0377d_1:
+
+    # glgg "Чего?"
+    glgg "What?"
+
+# game/act.rpy:6333
+translate english ayano_dialoge_suzuki_help_3d312541:
+
+    # ayanogg1 "Не оскорбляй нас так, хорошо?"
+    ayanogg1 "Don't insult us like that, okay?"
+
+# game/act.rpy:6334
+translate english ayano_dialoge_suzuki_help_f8ce6211:
+
+    # glgg "Ладно."
+    glgg "Fine."
+
+# game/act.rpy:6339
+translate english ayano_dialoge_suzuki_help_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6340
+translate english ayano_dialoge_suzuki_help_b7b0377d_2:
+
+    # glgg "Чего?"
+    glgg "What?"
+
+# game/act.rpy:6342
+translate english ayano_dialoge_suzuki_help_665c6051:
+
+    # ayanogg1 "Твои описания - явно не самые лучшие..."
+    ayanogg1 "Your descriptions are clearly not the best..."
+
+# game/act.rpy:6347
+translate english ayano_dialoge_suzuki_help_f1b46dc7:
+
+    # ayanogg1 "Чего?"
+    ayanogg1 "What?"
+
+# game/act.rpy:6352
+translate english ayano_dialoge_suzuki_help_aa168fdf_3:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6353
+translate english ayano_dialoge_suzuki_help_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6354
+translate english ayano_dialoge_suzuki_help_aa168fdf_4:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6355
+translate english ayano_dialoge_suzuki_help_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6356
+translate english ayano_dialoge_suzuki_help_aa168fdf_5:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6357
+translate english ayano_dialoge_suzuki_help_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6359
+translate english ayano_dialoge_suzuki_help_54da09c4:
+
+    # ayanogg1 "Ты явно не очень хорош в плане... Описаний."
+    ayanogg1 "You're clearly not very good at... Describing things."
+
+# game/act.rpy:6449
+translate english home_ayano_ivent_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6450
+translate english home_ayano_ivent_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6451
+translate english home_ayano_ivent_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6452
+translate english home_ayano_ivent_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6453
+translate english home_ayano_ivent_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6454
+translate english home_ayano_ivent_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6457
+translate english home_ayano_ivent_e1_bb5e73ba:
+
+    # ayanogg1 "Придурок..."
+    ayanogg1 "Idiot..."
+
+# game/act.rpy:6460
+translate english home_ayano_ivent_e2_d1d8ac35:
+
+    # ayanogg1 "Лучше скажи мне, где мой потенциальный напарник. Я думала, что он придет с тобой."
+    ayanogg1 "Better tell me where my potential partner is. I thought they would come with you."
+
+# game/act.rpy:6461
+translate english home_ayano_ivent_e2_e6cc9d26:
+
+    # glgg "Зря ты так думала. Как по мне, лучше нам встретить ее вдвоем."
+    glgg "You shouldn't have thought so. As for me, it’s better for us to meet her together."
+
+# game/act.rpy:6466
+translate english home_ayano_ivent_e2_eed8d72a:
+
+    # ayanogg1 "Где???"
+    ayanogg1 "Where???"
+
+# game/act.rpy:6467
+translate english home_ayano_ivent_e2_557df5fa:
+
+    # glgg "В свинарнике."
+    glgg "In the pigsty."
+
+# game/act.rpy:6469
+translate english home_ayano_ivent_e2_13f88c16:
+
+    # ayanogg1 "Вообще-то я всю свою комнату выдраила. Не выдумывай."
+    ayanogg1 "Actually, I scrubbed my entire room. Don't make things up."
+
+# game/act.rpy:6470
+translate english home_ayano_ivent_e2_994cb688:
+
+    # glgg "Свинарник."
+    glgg "Pigsty."
+
+# game/act.rpy:6476
+translate english home_ayano_ivent_e2_3b9563df:
+
+    # ayanogg1 "Как и твою грубость в ответ."
+    ayanogg1 "As is your rudeness in response."
+
+# game/act.rpy:6477
+translate english home_ayano_ivent_e2_612d63f9:
+
+    # glgg "Ну, значит мы оба предсказуемые."
+    glgg "Well, that means we're both predictable."
+
+# game/act.rpy:6483
+translate english home_ayano_ivent_e2_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6484
+translate english home_ayano_ivent_e2_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6485
+translate english home_ayano_ivent_e2_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6486
+translate english home_ayano_ivent_e2_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6487
+translate english home_ayano_ivent_e2_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6488
+translate english home_ayano_ivent_e2_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6490
+translate english home_ayano_ivent_e2_4bdce3cb:
+
+    # ayanogg1 "Как многозначительно..."
+    ayanogg1 "How meaningful..."
+
+# game/act.rpy:6494
+translate english home_ayano_ivent_e2_f15f45d6:
+
+    # ayanogg1 "И это вдвоем ты решил устроить у меня в доме?"
+    ayanogg1 "And you decided to arrange this together in my house?"
+
+# game/act.rpy:6495
+translate english home_ayano_ivent_e2_ecf722d0:
+
+    # glgg "Ты сама так решила, отклонив варианты с парком, да и не только с ним."
+    glgg "You yourself decided so, rejecting options with the park, and not only with it."
+
+# game/act.rpy:6497
+translate english home_ayano_ivent_e2_855b0d06:
+
+    # ayanogg1 "Ладно-ладно, звони ей сейчас. Я пока подготовлю все, что может нам пригодиться на время тренировок к выступлению."
+    ayanogg1 "Okay, okay, call her now. For now, I will prepare everything that may be useful to us during training for the performance."
+
+# game/act.rpy:6498
+translate english home_ayano_ivent_e2_b5f711a1:
+
+    # glgg "Судя по тому, как ты говоришь, ты знаешь достаточно о том, что нужно поп артисту для выступлений. Это... Это несколько удивляет, я думал..."
+    glgg "Judging by the way you speak, you know a lot about what a pop artist needs to perform. This... This is somewhat surprising, I thought..."
+
+# game/act.rpy:6500
+translate english home_ayano_ivent_e2_604b89c0:
+
+    # ayanogg1 "Что я предложила это на эмоциях, потому что слишком импульсивна?"
+    ayanogg1 "That I suggested this out of emotion because I too impulsive?"
+
+# game/act.rpy:6501
+translate english home_ayano_ivent_e2_7eab3648:
+
+    # glgg "Именно, но сейчас то, что я вижу, вызывает неприятный осадок того, что мои выводы могут быть неверными."
+    glgg "Exactly, but now what I see gives me the unpleasant feeling that my conclusions may be incorrect."
+
+# game/act.rpy:6504
+translate english home_ayano_ivent_e2_fe61d548:
+
+    # "Тяжело вздохнув, девушка посмотрела в отдаленный угол комнаты, после вновь переведя взгляд на вас. Казалось, что есть что-то, что разочаровывает ее в ваших словах, тем не менее этот болезненый вид моментально сменился на обычный."
+    "Sighing heavily, the girl looked into a distant corner of the room, then turned her gaze back to you. It seemed that there was something that disappointed her in your words, however, this painful look instantly changed to normal."
+
+# game/act.rpy:6507
+translate english home_ayano_ivent_e2_9f623cbd:
+
+    # ayanogg1 "Даже такие, как ты, могут быть неправыми... Это удивляет..."
+    ayanogg1 "Even people like you can be wrong... It's surprising..."
+
+# game/act.rpy:6508
+translate english home_ayano_ivent_e2_aa3affc7:
+
+    # glgg "Ну, это еще как посмотреть."
+    glgg "Well, it depends on how you look at it."
+
+# game/act.rpy:6510
+translate english home_ayano_ivent_e2_c928facd:
+
+    # ayanogg1 "Все же ты правда удивительный человек..."
+    ayanogg1 "Still, you are truly an amazing person..."
+
+# game/act.rpy:6511
+translate english home_ayano_ivent_e2_9630ebc7:
+
+    # glgg "К чему это?"
+    glgg "Why?"
+
+# game/act.rpy:6513
+translate english home_ayano_ivent_e2_1611dbb3:
+
+    # ayanogg1 "Просто думая обо всем, что ты сделал... Лидерские качества, проницательность, да даже твои коммуникативные навыки – это все делает тебя удивительным человеком, который способен на многое, но... Не важно... Просто... Я так близко к тебе, но с другой стороны так далеко..."
+    ayanogg1 "Just thinking about everything you've done... Leadership skills, insight, even your communication skills - it all makes you an amazing person who is capable of many things, but... No matter... Just... I'm so close to you, but on the other hand so far..."
+
+# game/act.rpy:6514
+translate english home_ayano_ivent_e2_6c1b88da:
+
+    # glgg "Начали за здравие, а закончили за упокой, да? Меньше думай о подобном бреде."
+    glgg "We started for health, and ended for peace. Think less about such nonsense."
+
+# game/act.rpy:6516
+translate english home_ayano_ivent_e2_6bd234b4:
+
+    # ayanogg1 "Наверное, ты прав..."
+    ayanogg1 "You're probably right..."
+
+# game/act.rpy:6520
+translate english home_ayano_ivent_e2_2e125ade:
+
+    # "Достав мобильный телефон, вы отправили местоположение дома Аяно Сузуки, после чего кинули его на край кровати и благополучно легли на нее, будучи усталым от всех произошедших за сегодня событий."
+    "Taking out your mobile phone, you sent Suzuki the location of Ayano's house, after which you threw it on the edge of the bed and safely laid down on it, being tired of all the events that happened today."
+
+# game/act.rpy:6521
+translate english home_ayano_ivent_e2_942f28ca:
+
+    # "В это же время Аяно благополучно копалась в коробках и подключала обородувание к стоящему на небольшом столике ноутбуку. Что вас удивило – она перестала на вас обращать какое-либо внимание, впрочем, как и вы чуть опосля, как только поняли, что можете спокойно дать отдохнуть своему разуму от всего."
+    "Simultaneously, Ayano was safely digging through the boxes and connecting the equipment to a laptop standing on a small table. What surprised you - she stopped paying any attention to you. However, as you did a little later, you soon realized that you could calmly give your mind a rest from everything."
+
+# game/act.rpy:6522
+translate english home_ayano_ivent_e2_836a3d7e:
+
+    # "Минута. Вторая. Потихоньку, уже привыкая к обыденному для вас шуму, ваши глаза слипались в ожидании уже постоянной черной сонной пелены, которая окутывала сознание все с большей силой."
+    "A minute. Two. Slowly, already getting used to the noise common to you, your eyes were closing in anticipation of the already constant black, sleepy shroud that enveloped your consciousness with increasing force."
+
+# game/act.rpy:6524
+translate english home_ayano_ivent_e2_ab1be77e:
+
+    # ayanogg1 "Все, готово!" with vpunch
+    ayanogg1 "Done!" with vpunch
+
+# game/act.rpy:6526
+translate english home_ayano_ivent_e2_f78f41fb:
+
+    # "Резкий выкрик девушки в ту же секунду заставил ваше тело подскочить от неожиданности."
+    "The sharp voice of the girl at the same second made your body jump in surprise."
+
+# game/act.rpy:6527
+translate english home_ayano_ivent_e2_df132d11:
+
+    # "Протерев глаза от еще недавно бушующего в вашем сознании сна, вы осмотрели комнату, которая, как ни странно, обросла некоторыми проводами, подключенными к ноутбуку, но больше всего вас удивило то, что прямо возле него стоял металлический огромный агрегат, который, видимо, был микрофоном."
+    "After rubbing your eyes from a dream that was raging in your mind quite recently, you looked around the room, which, oddly enough, was astrew with some wires connected to a laptop, but most of all you were surprised that there was a huge metal unit right next to it, which, was a microphone with a stand."
+
+# game/act.rpy:6530
+translate english home_ayano_ivent_e2_b6925833:
+
+    # ayanogg1 "Неплохая штука, да? Думаю, ты уже понял, что это конденсаторный микрофон. Если интересно, рядом с ним находится источник фантомного питания..."
+    ayanogg1 "Not a bad thing, huh? I think you've already realized that this is a condenser microphone. If you are interested, there is a phantom power source next to it..."
+
+# game/act.rpy:6531
+translate english home_ayano_ivent_e2_17911531:
+
+    # glgg "Буду знать столь важную информацию для меня в данный момент."
+    glgg "I need not be exposed to such important information at the moment."
+
+# game/act.rpy:6533
+translate english home_ayano_ivent_e2_d9419dbf:
+
+    # ayanogg1 "Хе-хе, я просто подумала, что ты посмотрел на него с некоторым любопытством..."
+    ayanogg1 "Hehe, I just thought you looked at him with some curiosity..."
+
+# game/act.rpy:6534
+translate english home_ayano_ivent_e2_4cb67847:
+
+    # glgg "Нет, мне все равно на этот фаллического вида предмет. Больше всего удивило то, что он у тебя вообще есть дома, и я очень надеюсь, что ты пользовалась им по назначению."
+    glgg "No, I don't care about this phallic-looking object. Most of all, I was surprised that you even have it at home, and I hope that you use it for its intended purpose."
+
+# game/act.rpy:6536
+translate english home_ayano_ivent_e2_6e0a5631:
+
+    # ayanogg1 "Эээ... Ты злишься от того, что я разбудила тебя?"
+    ayanogg1 "Uh... are you mad that I woke you up?"
+
+# game/act.rpy:6543
+translate english home_ayano_ivent_e2_44f96d22:
+
+    # ayanogg1 "Ну, есть небольшая предрасположенность. До этого я достаточно часто тусовалась во всяких подростковых рок тусовках... Сам понимаешь, это не совсем то, чем стоит гордиться."
+    ayanogg1 "Well, there is a slight predisposition to it. Previously, I used to hang out quite often at all sorts of teenage rock parties... You know, it's not something to be proud of."
+
+# game/act.rpy:6544
+translate english home_ayano_ivent_e2_951cfcf2:
+
+    # glgg "Как вообще связано это с умением петь?"
+    glgg "What does this have to do with the ability to sing?"
+
+# game/act.rpy:6546
+translate english home_ayano_ivent_e2_f55fc9c1:
+
+    # ayanogg1 "Ну... Как сказать, там было много людей, увлекающихся вокалом... Общаясь с ними, я немного поднимала свои теоретические знания, а иногда они даже помогали мне в практике..."
+    ayanogg1 "Well... how should I say, there were a lot of people who were fond of vocals... Communicating with them, I raised my theoretical knowledge a little, and sometimes they even helped me in practice..."
+
+# game/act.rpy:6547
+translate english home_ayano_ivent_e2_86f1c311:
+
+    # glgg "Как я и думал, никакой уверенности в навыках. Это несколько удручает, потому что в случае провала твоего плана ты будешь не просто бесполезной, ты будешь паразитом."
+    glgg "As I thought, no confidence in skills. This is somewhat sad because if your plan fails, you will not just be useless... You will be a parasite that kills its host and itself, by extension."
+
+# game/act.rpy:6549
+translate english home_ayano_ivent_e2_b74d6144:
+
+    # ayanogg1 "Хе-хе... Не нужно быть скептиком. Просто верь в меня."
+    ayanogg1 "He-he... No need to be skeptical. Just believe in me."
+
+# game/act.rpy:6550
+translate english home_ayano_ivent_e2_8ba059d2:
+
+    # glgg "Бесполезная вера - себе дороже, но, думаю, в твоих словах есть нечто полезное: лучше не думать об удручающих вещах, тем более когда для их успеха были уже приложены силы."
+    glgg "Useless faith is dearer to yourself, but I think there is something useful in your words. It is better not to think about sad things, especially when efforts have already been made for their potential success."
+
+# game/act.rpy:6552
+translate english home_ayano_ivent_e2_431d792f:
+
+    # ayanogg1 "В этом весь ты."
+    ayanogg1 "That's what you're all about."
+
+# game/act.rpy:6557
+translate english home_ayano_ivent_e2_63ef541c:
+
+    # ayanogg1 "Да?.. Ладно, без проблем."
+    ayanogg1 "Huh?.. Okay, no problem."
+
+# game/act.rpy:6562
+translate english home_ayano_ivent_e2_1794bbe8:
+
+    # ayanogg1 "Я просто старалась поддержать разговор..."
+    ayanogg1 "I was just trying to keep the conversation going..."
+
+# game/act.rpy:6563
+translate english home_ayano_ivent_e2_fb516f9d:
+
+    # glgg "Не придавай этому значение. Делай свое дело и все."
+    glgg "Don't give it any importance. Just do your job."
+
+# game/act.rpy:6568
+translate english home_ayano_ivent_e2_c3825eea:
+
+    # ayanogg1 "Да?.. Тогда без проблем. Надеюсь, в следующий раз тебе приснится что-то поприятнее."
+    ayanogg1 "Yes?.. Then no problem. I hope next time you dream something nicer."
+
+# game/act.rpy:6573
+translate english home_ayano_ivent_e2_aa168fdf_3:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6574
+translate english home_ayano_ivent_e2_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6575
+translate english home_ayano_ivent_e2_aa168fdf_4:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6576
+translate english home_ayano_ivent_e2_99b63e40_4:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6577
+translate english home_ayano_ivent_e2_aa168fdf_5:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6578
+translate english home_ayano_ivent_e2_99b63e40_5:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6580
+translate english home_ayano_ivent_e2_e6bea842:
+
+    # ayanogg1 "В общем, не важно! Отдыхай и не злись!"
+    ayanogg1 "Anyway! Rest and don't get angry!"
+
+# game/act.rpy:6584
+translate english home_ayano_ivent_e2_e3af4304:
+
+    # "Мило улыбнувшись вам, девушка села за свой ноутбук и, поднеся микрофон поближе к себе, начала проверять работоспособность всего оборудования, что-то проговаривая и напевая. Понаблюдав за этим некоторое время и поняв, что это не так уж и интересно, как показалось на первый взгляд, вы взяли свой мобильник в руки и начали попросту убивать время."
+    "Smiling sweetly at you, the girl sat down at her laptop and, bringing the microphone closer to her, began to check the performance of all the equipment, saying something and singing bits and phrases at different scales. After watching this for a while and realizing that it wasn't as interesting as it seemed at first glance, you picked up your mobile phone and tried killing time."
+
+# game/act.rpy:6585
+translate english home_ayano_ivent_e2_8556b25b:
+
+    # "Минута за минутой, секунда за секундой – казалось, что ваше ожидание уже длится долгую и непроглядную вечность. За прошедшее время Аяно успела настроить все оборудование и уже благополучно играла в какую-то компьютерную игру, а вам же в это время приходилось довольствоваться злополучной скукой."
+    "Minute by minute, second by second - it seemed that your waiting was already lasting a long and impossible eternity. Over time, Ayano managed to set up all the equipment and was already safely playing some kind of computer game, and at that time, you had to be content with your ill-fated boredom."
+
+# game/act.rpy:6586
+translate english home_ayano_ivent_e2_059a1992:
+
+    # "Тяжело вздохнув, вы услышали достаточно громкий звонок в дверь, на который хозяйка дома сразу же вскочила и уже через минуту две ваших знакомых стояли близ друг друга и что-то обсуждали."
+    "Sighing heavily, you heard a loud enough ringing of the doorbell, to which the hostess of the house immediately jumped up, and a minute later the two of your friends were standing next to each other and discussing something."
+
+# game/act.rpy:6589
+translate english home_ayano_ivent_e2_45355686:
+
+    # ayanogg1 "Так, раз уж все в сборе, давайте обговорим пару деталей..."
+    ayanogg1 "So, since all the people are gathered, let's discuss a couple of details..."
+
+# game/act.rpy:6592
+translate english home_ayano_ivent_e2_50918c8f:
+
+    # suzuku "Ну, я была бы явно не против подробностей, потому что я совершенно ничего не смыслю в той затее, куда вы меня позвали..."
+    suzuku "Well, I would not mind the details, because I don't understand anything at all about why you invited me..."
+
+# game/act.rpy:6595
+translate english home_ayano_ivent_e2_ccf6a4fd:
+
+    # ayanogg1 "Хорошо, смотри..."
+    ayanogg1 "Okay, lets start with..."
+
+# game/act.rpy:6598
+translate english home_ayano_ivent_e2_f34a5791:
+
+    # "Заметив вас боковым зрением, Сузуки одарила вас милой улыбкой, пока в это же время Аяно безостановочно рассказывала обо всем, что знает и что может пригодиться ее незнающей напарнице."
+    "Noticing you out of the corner of her eye, Suzuki gave you a sweet smile, while at the same time Ayano talked non-stop about everything she knew and what might be useful to her ignorant partner."
+
+# game/act.rpy:6599
+translate english home_ayano_ivent_e2_15efb1c0:
+
+    # "Как ни странно, она была в этом чрезвычайно ужасна, вызывая даже у вас скуку, не говоря уже о ее бедной слушательнице: не было никакой структуры в подробностях, красноречия, не говоря уже о словах паразитах. Понимая, что это может продолжаться вечность с ее уст, вы перебили Аяно и встали с кровати."
+    "Strangely enough, she was extremely terrible at this, causing even your boredom, not to mention that of her poor listener: there was no structure in the details, eloquence, not to mention the words of what sounded like literature parasites. Realizing that this could go on forever from her lips, you interrupted Ayano and got out of bed."
+
+# game/act.rpy:6601
+translate english home_ayano_ivent_e2_686c25bb:
+
+    # glgg "В общем, Сузуки, все, что тебе нужно – быть массовкой. Аяно имеет больше опыта, она должна привлекать к себе больше внимание, да и знание мелочей об этой стезе у нее куда выше, хоть и все эти знания неструктурированные."
+    glgg "In general, Suzuki, all you need is to be an extra. Ayano has more experience, she should attract more attention to herself, and her knowledge of the little things about this undertaking is much greater, although all of this knowledge is quite unstructured."
+
+# game/act.rpy:6603
+translate english home_ayano_ivent_e2_4e5276cd:
+
+    # ayanogg1 "Ты как-то слишком обобщил мои слова..."
+    ayanogg1 "You've generalized my words far too much..."
+
+# game/act.rpy:6606
+translate english home_ayano_ivent_e2_da73b9e0:
+
+    # suzuku "Ну, это-то понятно, но как вы собираетесь компенсировать мой недостаток опыта и знаний?"
+    suzuku "Well, that's understandable, but how are you going to compensate for my lack of experience and knowledge?"
+
+# game/act.rpy:6607
+translate english home_ayano_ivent_e2_f80ffe1e:
+
+    # glgg "Полагаю, фонограммой. Мы сведем твой голос с минусом таким образом, чтобы незнающим людям казалось, что у тебя есть умения. Это единственное, что мне приходит в голову."
+    glgg "With a soundtrack, I suppose. We will reduce your voice with a minus in such a way that it seems to ignorant to people that you have the necesarry vocal skills. That's the only thing that comes to my mind."
+
+# game/act.rpy:6609
+translate english home_ayano_ivent_e2_806146cd:
+
+    # suzuku "Ээ... А разве это не слишком заметно?"
+    suzuku "Uh... isn't it too noticeable?"
+
+# game/act.rpy:6612
+translate english home_ayano_ivent_e2_1a3b59ce:
+
+    # ayanogg1 "Не волнуйся насчет этого. Как и сказал [player_name], это могут заметить лишь знающие люди."
+    ayanogg1 "Don't worry about it. As [player_name] said, only those with sound, technical knowledge can notice this."
+
+# game/act.rpy:6615
+translate english home_ayano_ivent_e2_abb8590b:
+
+    # suzuku "Хорошо, я не против присоединиться к вам... Это достаточно интересная затея, иногда нужно развеиваться."
+    suzuku "OK, I don't mind joining you... This is quite an interesting idea, and I guess sometimes you just need to unwind."
+
+# game/act.rpy:6618
+translate english home_ayano_ivent_e2_05a098a0:
+
+    # "Только-только услышав слова принятия вашего предложения, Аяно сразу же понеслась к ноутбуку, потащив ничего не понимающую Сузуки за руку к своему ноутбуку и приговаривая что-то невнятное."
+    "Having just heard the words of acceptance to her offer, Ayano immediately rushed to the laptop, dragging the confused Suzuki by the hand to her laptop and saying something unintelligible."
+
+# game/act.rpy:6619
+translate english home_ayano_ivent_e2_72babebc:
+
+    # "Понимая, что больше между этой парочкой не будет ничего интересного для вас, вы тяжело вздохнули и снова устало прилегли на кровать, начав мельком наблюдать за теми двоими и думать о своем."
+    "Realizing that there would be nothing more interesting for you between this couple, you sighed heavily and again laid down wearily on the bed, starting to catch a glimpse of the two and thinking about your own concerns."
+
+# game/act.rpy:6620
+translate english home_ayano_ivent_e2_bff67cbc:
+
+    # "Самое интересное для вашего внимания началось через десяток минут, когда Аяно наконец-то начала показывать то, на что способна: мягкий, нежный и высокий голос вкупе с небольшими умениями делали свое дело, постепенно убирая все ваши волнения прочь."
+    "The most interesting thing of attention to you began after a dozen minutes passed when Ayano finally began to show what she was capable of: a soft, gentle, and high-pitched voice, coupled with minimal skills, did its job, gradually removing all your worries."
+
+# game/act.rpy:6621
+translate english home_ayano_ivent_e2_b9f1f4de:
+
+    # "Но вокал – не единственное, чем музыка вашей знакомой привлекала внимание. То, что вы действительно не ожидали от такой импульсивной девушки – звучание, похожее на старый и добрый софт-рок, ставший для многих уже таким обыденным и даже раздражающим."
+    "But vocals are not the only thing that attracted the attention of your friend's music. What you didn't expect from such an impulsive girl is a sound similar to the good old soft rock, which has become so commonplace and even annoying for many."
+
+# game/act.rpy:6622
+translate english home_ayano_ivent_e2_156adcee:
+
+    # "Тем не менее эта песня имела что-то индивидуальное и притягивающее, даже не смотря на общую популярность подобного жанра. Возможно, из-за общей взятой концепции софт-рока с полностью измененной инструментальной частью с большим преобладанием электроники, возможно, из-за достаточно эпотажных движений во время пения."
+    "Nevertheless, this song had something individual and attractive to it, despite the general popularity of this genre. Perhaps because of the general concept of soft rock with a completely changed instrumental part with a large pre-dominance of the electronic, or perhaps because of the honestly quite epic motions and gestures made while singing."
+
+# game/act.rpy:6623
+translate english home_ayano_ivent_e2_eb3fe08f:
+
+    # "Как бы то ни было, для вас было очевидно, что на городском фестивале выступление клуба оккультизма будет удачным, если не произойдет никаких неожиданных казусов."
+    "Anyway, it was obvious to you that the performance of the occult club at the city festival would be successful if there were no unexpected incidents."
+
+# game/act.rpy:6626
+translate english home_ayano_ivent_e2_a607421e:
+
+    # ayanogg1 "Ну... Как вам?"
+    ayanogg1 "So... What do you think?"
+
+# game/act.rpy:6629
+translate english home_ayano_ivent_e2_c7c1f177:
+
+    # suzuku "Ты отлично поешь! Как ты такому научилась?!"
+    suzuku "You sing great! How did you learn that?!"
+
+# game/act.rpy:6632
+translate english home_ayano_ivent_e2_fd51235c:
+
+    # ayanogg1 "Ну... Были знакомые, которые немного тренировали меня, тем не менее это не главная причина..."
+    ayanogg1 "Well... Some people trained me a little. However, this is not the main reason..."
+
+# game/act.rpy:6635
+translate english home_ayano_ivent_e2_6bc13a28:
+
+    # suzuku "В любом случае, кажется, что я тебе не особо буду полезна... Так зачем?"
+    suzuku "In any case, it seems that I won't be very useful to you... Why do you need me anyway?"
+
+# game/act.rpy:6638
+translate english home_ayano_ivent_e2_41262eaa:
+
+    # ayanogg1 "Просто спокойнее... [player_name], а тебе как?.."
+    ayanogg1 "It just makes me feel calmer... [player_name], what do you think?.."
+
+# game/act.rpy:6645
+translate english home_ayano_ivent_e2_46935b17:
+
+    # ayanogg1 "Не будь таким критичным!"
+    ayanogg1 "Don't be so critical!"
+
+# game/act.rpy:6646
+translate english home_ayano_ivent_e2_3e2309a5:
+
+    # glgg "Как скажешь."
+    glgg "Whatever you say."
+
+# game/act.rpy:6651
+translate english home_ayano_ivent_e2_b2264cf9:
+
+    # ayanogg1 "Не думала, что когда-нибудь услышу от тебя похвалу!"
+    ayanogg1 "I didn’t think I’d ever hear praise from you!"
+
+# game/act.rpy:6656
+translate english home_ayano_ivent_e2_46935b17_1:
+
+    # ayanogg1 "Не будь таким критичным!"
+    ayanogg1 "Don't be so critical!"
+
+# game/act.rpy:6657
+translate english home_ayano_ivent_e2_3e2309a5_1:
+
+    # glgg "Как скажешь."
+    glgg "Whatever you say."
+
+# game/act.rpy:6662
+translate english home_ayano_ivent_e2_ed160f14:
+
+    # ayanogg1 "Не будь таким критичным! Тем более вышло все не так уж и плохо!"
+    ayanogg1 "Don't be so critical! Everything turned out not so bad!"
+
+# game/act.rpy:6663
+translate english home_ayano_ivent_e2_b8f9a629:
+
+    # glgg "Как для человека без слуха, может быть, это и было бы правдой..."
+    glgg "As a person without hearing, maybe this would be true..."
+
+# game/act.rpy:6668
+translate english home_ayano_ivent_e2_46935b17_2:
+
+    # ayanogg1 "Не будь таким критичным!"
+    ayanogg1 "Don't be so critical!"
+
+# game/act.rpy:6669
+translate english home_ayano_ivent_e2_3e2309a5_2:
+
+    # glgg "Как скажешь."
+    glgg "Whatever you say."
+
+# game/act.rpy:6672
+translate english home_ayano_ivent_e2_381602f3:
+
+    # ayanogg1 "Ладно... Давай посмотрим на то, что ты можешь, Сузуки?"
+    ayanogg1 "Okay... Let's see what you can do, Suzuki."
+
+# game/act.rpy:6675
+translate english home_ayano_ivent_e2_177bbe60:
+
+    # suzuku "Ну... Не думаю, что я буду хоть сколько-то удачным исполнителем, как ты, но попробую..."
+    suzuku "Well... I don't think I'll be as successful a performer as you, but I'll try..."
+
+# game/act.rpy:6678
+translate english home_ayano_ivent_e2_1172f7b4:
+
+    # "Мило улыбнувшись своей новоиспеченной подопечной, Аяно начала прослушивание, что для вас означало уже привычное и скучное времяпрепровождение, состоящее из наблюдения и анализа того, что происходит."
+    "Smiling sweetly at her newly minted ward, Ayano began listening to Suzuki, which for you meant an already familiar and boring pastime consisting of observing and analyzing what was happening."
+
+# game/act.rpy:6679
+translate english home_ayano_ivent_e2_cc8618e2:
+
+    # "И ваша задача выполнялась как нельзя лучше: поскольку вы не имели особенных знаний в вокале, большая часть ноши легла прямиком на Аяно, которая максимально старалась, обучая Сузуки более менее приемлимым уровнем, а вы же в это время смиренно оценивали в своей голове все это дело, не отвлекаясь на иные детали."
+    "And your task was performed as well as possible: since you did not have special knowledge in vocals, most of the burden fell directly on Ayano, who tried her best, teaching Suzuki to a more or less acceptable level, and at that time you humbly evaluated the whole thing in your head, without being distracted by other details."
+
+# game/act.rpy:6680
+translate english home_ayano_ivent_e2_f8f19113:
+
+    # "Так и прошло часа два – глянув на время, обе девушки охнули от удивления и поняли, что их первое знакомство сильно затянулось."
+    "And so two hours passed. Looking at the time, both girls gasped in surprise and realized that their first acquaintance was much delayed."
+
+# game/act.rpy:6683
+translate english home_ayano_ivent_e2_9bf2fa33:
+
+    # ayanogg1 "Хе-хе... Кажется, что мы немного переборщили с первым уроком..."
+    ayanogg1 "He-he... It seems that we went a little overboard with the first lesson..."
+
+# game/act.rpy:6686
+translate english home_ayano_ivent_e2_a48baec9:
+
+    # suzuku "В любом случае я рада и даже благодарна тебе. Как оказалось, узнавать что-то новое – действительно весело, а если это делать с друзьями... Как бы то ни было, когда будет следующая репетиция."
+    suzuku "In any case, I am glad and even grateful to you. As it turned out, learning something new is fun, and if you do it with friends... Anyway, when is the next rehearsal?"
+
+# game/act.rpy:6689
+translate english home_ayano_ivent_e2_60fb4d38:
+
+    # ayanogg1 "Приходи в то же самое время, можешь даже пораньше."
+    ayanogg1 "Come at the same time, or even earlier."
+
+# game/act.rpy:6692
+translate english home_ayano_ivent_e2_8dfedea2:
+
+    # "Утвердительно помахав головой, Сузуки начала собираться и уже через минуту стояла у порога, где вы провожали ее вместе с Аяно. Попрощавшись, та вышла из дома и оставила вас наедине, предварительно странно подмигнув вам."
+    "Nodding her head in the affirmative, Suzuki began to get ready and a minute later she was standing at the threshold where you saw her off with Ayano. After saying goodbye, she left the house and left you alone with Ayano, after giving you a strange wink."
+
+# game/act.rpy:6695
+translate english home_ayano_ivent_e2_7b603289:
+
+    # ayanogg1 "Ну... И что ты думаешь о нашем дуэте?"
+    ayanogg1 "So... what do you think about our duet?"
+
+# game/act.rpy:6702
+translate english home_ayano_ivent_e2_a587f83a:
+
+    # ayanogg1 "Ну, я не особо удивлена... Ты выглядишь, как человек, слушающий более тяжелую музыку."
+    ayanogg1 "Well, I'm not really surprised... You look like someone who listens to heavier music."
+
+# game/act.rpy:6703
+translate english home_ayano_ivent_e2_5b328059:
+
+    # glgg "Может да, а может и нет..."
+    glgg "Maybe yes, maybe not..."
+
+# game/act.rpy:6708
+translate english home_ayano_ivent_e2_2a436f24:
+
+    # ayanogg1 "Похвала? Надеюсь, что ты действительно так думаешь... Я действительно старалась."
+    ayanogg1 "Praise? I hope you really think so... I really tried."
+
+# game/act.rpy:6709
+translate english home_ayano_ivent_e2_d7d5e7d3:
+
+    # glgg "Я видел. И могу сказать, что у тебя отлично получилось."
+    glgg "I have seen. And I can say that you did a great job."
+
+# game/act.rpy:6711
+translate english home_ayano_ivent_e2_77a9166b:
+
+    # ayanogg1 "Спасибо!"
+    ayanogg1 "Thank you!"
+
+# game/act.rpy:6712
+translate english home_ayano_ivent_e2_99b63e40_6:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6717
+translate english home_ayano_ivent_e2_19a54eac:
+
+    # ayanogg1 "Хе-хе, как поп артисты?"
+    ayanogg1 "He-he, just like pop artists?"
+
+# game/act.rpy:6718
+translate english home_ayano_ivent_e2_aefb403c:
+
+    # glgg "По крайней мере большинство из них. Тем не менее вам нельзя расслабляться, вы не в том положении. Совершенно не в том."
+    glgg "At least most of them. Nevertheless, you cannot relax, the situation does not allow it. At all."
+
+# game/act.rpy:6720
+translate english home_ayano_ivent_e2_c8317d4b:
+
+    # ayanogg1 "Значит ты тоже пришел к этому выводу... Я думала, что будет куда проще, но, как оказалось, все в разы сложнее. Раньше мне казалось, что мой голос звучал куда лучше, а сейчас у меня ощущение, будто я ужасна... В любом случае, думаю, это с непривычки."
+    ayanogg1 "So you've come to that conclusion too... I thought it would be much easier, but, as it turned out, everything is much more complicated. I used to think my voice sounded much better, but now I feel like I'm terrible... In any case, I think it's out of habit."
+
+# game/act.rpy:6721
+translate english home_ayano_ivent_e2_64e5945c:
+
+    # glgg "Как бы то ни было, сейчас это не важно. Главное, чтобы вы подготовились к выступлению, а уж какими методами, усилиями и превозмоганиями – дело последнее. Как ты, так и Сузуки имеют мотивацию, а этот фактор во многом важнее таланта."
+    glgg "Anyway, that doesn't matter now. The main thing is that you prepare for the performance, and what methods, efforts, and vocals you use are the last things. Both you and Suzuki have motivation, and this factor is much more important than talent."
+
+# game/act.rpy:6723
+translate english home_ayano_ivent_e2_fbf35fc6:
+
+    # ayanogg1 "Угу..."
+    ayanogg1 "Yeah..."
+
+# game/act.rpy:6728
+translate english home_ayano_ivent_e2_c21ea16b:
+
+    # ayanogg1 "Критичность явно твой конёк..."
+    ayanogg1 "Criticality is clearly your strong point..."
+
+# game/act.rpy:6729
+translate english home_ayano_ivent_e2_31f145d7:
+
+    # glgg "Ну, я достаточно честный человек, когда дело касается критико. Объективно - кусок говна."
+    glgg "Well, I'm a pretty honest person when it comes to criticism. Objectively - a piece of shit."
+
+# game/act.rpy:6731
+translate english home_ayano_ivent_e2_298ffaa2:
+
+    # ayanogg1 "Но я старалась..."
+    ayanogg1 "But I tried..."
+
+# game/act.rpy:6732
+translate english home_ayano_ivent_e2_8dd24624:
+
+    # glgg "Извини, но не каждому дается что-то такое."
+    glgg "Sorry, but not everyone is given something like this."
+
+# game/act.rpy:6734
+translate english home_ayano_ivent_e2_aa168fdf_6:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6739
+translate english home_ayano_ivent_e2_aa168fdf_7:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6740
+translate english home_ayano_ivent_e2_99b63e40_7:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6741
+translate english home_ayano_ivent_e2_aa168fdf_8:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6742
+translate english home_ayano_ivent_e2_99b63e40_8:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6743
+translate english home_ayano_ivent_e2_aa168fdf_9:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6744
+translate english home_ayano_ivent_e2_99b63e40_9:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6746
+translate english home_ayano_ivent_e2_c1fd64e8:
+
+    # ayanogg1 "Как многозначительно... Буду думать, что тебе понравилось!"
+    ayanogg1 "How meaningful... I'll think you liked it!"
+
+# game/act.rpy:6748
+translate english home_ayano_ivent_e2_11a5054f:
+
+    # glgg "Ладно, кажется, я тоже немного задержался. Мне..."
+    glgg "Okay, looks like I'm a little late too. I..."
+
+# game/act.rpy:6750
+translate english home_ayano_ivent_e2_45187609:
+
+    # ayanogg1 "Послушай, можешь заходить ко мне почаще? Мне хотелось бы, чтобы после нашего выступления ты пришел ко мне в то же время..."
+    ayanogg1 "Listen, can you come by my place more often? I would like you to come to me at the same time after our performance..."
+
+# game/act.rpy:6751
+translate english home_ayano_ivent_e2_b3c40c7d:
+
+    # glgg "Будет время – обязательно посещу."
+    glgg "If I have time, I will definitely visit you."
+
+# game/act.rpy:6753
+translate english home_ayano_ivent_e2_065df9e3:
+
+    # ayanogg1 "И все же ты куда лучше, чем кажешься на первый взгляд."
+    ayanogg1 "And yet, you are much better than you seem at first glance."
+
+# game/act.rpy:6754
+translate english home_ayano_ivent_e2_b5745d52:
+
+    # glgg "Возможно оно и так..."
+    glgg "Maybe I am..."
+
+# game/act.rpy:6757
+translate english home_ayano_ivent_e2_143d681c:
+
+    # "Решив более не задерживаться в этом доме, вы покинули его и направились к себе, где были уже спустя минут двадцать."
+    "Having decided not to stay in this house any longer, you left it and went to your appartment, where you were already twenty minutes later than usual."
+
+# game/act.rpy:6905
+translate english home_ayano_r_e1_e4103c02:
+
+    # ayanogg1 "Ээ? Разве в этом есть смысл?"
+    ayanogg1 "Eh? Does that even make sense?"
+
+# game/act.rpy:6906
+translate english home_ayano_r_e1_25dc25b9:
+
+    # glgg "Возможно."
+    glgg "Perhaps."
+
+# game/act.rpy:6908
+translate english home_ayano_r_e1_f112ba54:
+
+    # ayanogg1 "Тебе же просто нечем заняться, так?"
+    ayanogg1 "You just have nothing better to do, huh?"
+
+# game/act.rpy:6909
+translate english home_ayano_r_e1_647ea7dc:
+
+    # glgg "Может быть."
+    glgg "Maybe."
+
+# game/act.rpy:6910
+translate english home_ayano_r_e1_b707ee64:
+
+    # ayanogg1 "Ладно, проходи в мою комнату, Сузуки сейчас там же."
+    ayanogg1 "Okay, come to my room, Suzuki is already there."
+
+# game/act.rpy:6915
+translate english home_ayano_r_e1_e4103c02_1:
+
+    # ayanogg1 "Ээ? Разве в этом есть смысл?"
+    ayanogg1 "Eh? Does that even make sense?"
+
+# game/act.rpy:6916
+translate english home_ayano_r_e1_25dc25b9_1:
+
+    # glgg "Возможно."
+    glgg "Perhaps."
+
+# game/act.rpy:6918
+translate english home_ayano_r_e1_b707ee64_1:
+
+    # ayanogg1 "Ладно, проходи в мою комнату, Сузуки сейчас там же."
+    ayanogg1 "Okay, come to my room, Suzuki is already there."
+
+# game/act.rpy:6927
+translate english home_ayano_r_e1_3ab2c604:
+
+    # ayanogg1 "Ты опять звучишь, как тупой мачо из испанских фильмов..."
+    ayanogg1 "You sound like the stupid macho guy from Spanish movies again..."
+
+# game/act.rpy:6930
+translate english home_ayano_r_e2_571fb095:
+
+    # ayanogg1 "Впрочем, раз уж ты здесь, то почему бы тебе не посмотреть на нашу репетицию?"
+    ayanogg1 "However, since you're here, why don't you watch our rehearsal?"
+
+# game/act.rpy:6932
+translate english home_ayano_r_e2_16662796:
+
+    # ayanogg1 "Короче, проходи!"
+    ayanogg1 "Just come on in!"
+
+# game/act.rpy:6936
+translate english home_ayano_r_e2_aa168fdf:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6937
+translate english home_ayano_r_e2_99b63e40:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6938
+translate english home_ayano_r_e2_aa168fdf_1:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6939
+translate english home_ayano_r_e2_99b63e40_1:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6940
+translate english home_ayano_r_e2_aa168fdf_2:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6941
+translate english home_ayano_r_e2_99b63e40_2:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6942
+translate english home_ayano_r_e2_aa168fdf_3:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6943
+translate english home_ayano_r_e2_99b63e40_3:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6944
+translate english home_ayano_r_e2_aa168fdf_4:
+
+    # ayanogg1 "..."
+    ayanogg1 "..."
+
+# game/act.rpy:6945
+translate english home_ayano_r_e2_99b63e40_4:
+
+    # glgg "..."
+    glgg "..."
+
+# game/act.rpy:6947
+translate english home_ayano_r_e2_4bdce3cb:
+
+    # ayanogg1 "Как многозначительно..."
+    ayanogg1 "How meaningful..."
+
+# game/act.rpy:6956
+translate english home_ayano_r_e2_b0c799e2:
+
+    # "Тяжело вздохнув, Аяно пропустила вас в свою комнату, пока сама же ненадолго отошла. Сев на край кровати девушки, вы обратили внимание на изучающую что-то Сузуки, которая, как казалось, даже не заметила ваше присутствие в помещение."
+    "With a heavy sigh, Ayano let you into her room which she left for a while. Sitting on the edge of the girl's bed, you noticed Suzuki studying something, who, as it seemed, did not even notice your presence in the room."
+
+# game/act.rpy:6957
+translate english home_ayano_r_e2_4a5cdadc:
+
+    # "Минута. Вторая. Уже решив от угнетающей скуки окликнуть Сузуки, в комнату зашла Аяно, которая развеяла эти глупые мысли, опосля передав вам заваренный чай."
+    "One minute. Two. Having already decided to call Suzuki out of your oppressive boredom, Ayano came into the room, who dispelled these stupid thoughts by passing you the brewed tea."
+
+# game/act.rpy:6958
+translate english home_ayano_r_e2_4ee5fa12:
+
+    # "Сев рядом с вами, та победоносно ухмыльнулась, глянув на свою партнершу по пению, и начала рассказывать вам об общих успехах всех этих репетиций. Как оказалось, все просто отлично, хоть сначала и были проблемы коммуникативного характера."
+    "Sitting next to you, she grinned triumphantly, glancing at her singing partner, and began to tell you about the overall success of all these rehearsals. Despite the problems of her communicative nature, everything soon seemed to be fine."
+
+# game/act.rpy:6959
+translate english home_ayano_r_e2_ecb78516:
+
+    # "Девушки отлично ладили, им нравилось то, чем они занимались, даже привязанной просьбой Сузуки, а все большее улучшение навыков вокала, казалось, обеспечит стопроцентный успех на концерте. Это-то вам и продемонстрировала Аяно, которая по ощущениям начала петь раза в три лучше."
+    "The girls got along great, they liked what they were doing, even Suzuki's tried request and her increasing improvement at vocal skills seemed to ensure one hundred percent success at the concert. This is what Ayano demonstrated to you, who you feel started singing three times better than before."
+
+# game/act.rpy:6960
+translate english home_ayano_r_e2_742f3a27:
+
+    # "Тем не менее не только она улучшила навыки. Даже Сузуки стала петь заметно лучше, но, как бы то ни было, она все так же не дотягивала. Одобрительно вздохнув, вы продолжили следить за всей репетицией, которая казалась вам некой отдушиной от повседневных проблем."
+    "However, she wasn't the only one who improved at her skills. Suzuki sang better than before, but she still did not reach Ayano's skills. Sighing approvingly, you continued to follow the entire rehearsal, which seemed to you a kind of outlet from everyday problems."
+
+# game/act.rpy:6961
+translate english home_ayano_r_e2_990e7a75:
+
+    # "Две поющие миловидные девушки, как оказалось, владеют вполне себе хорошим успокаивающим свойством, но вскоре их репетиция закончилась, как и ваш не такой уж и долгий отдых. Попрощавшись с друг другом, вы покинули дом девушки и направились к себе."
+    "As it turned out, two pretty girls singing together possess quite a good calming property, but soon their rehearsal ended, as did your not-so-long rest. After saying goodbye to each other, you left the Ayano's house and went home."
+
+translate english strings:
+
+    # game/act.rpy:6034
+    old "{color=#000000}Чего тебе?\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}What now?\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6034
+    old "{color=#000000}Ты что-то хотела?\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Did you want something?\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6034
+    old "{color=#000000}И тебе привет, Аяно.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Hello to you too, Ayano.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6111
+    old "{color=#000000}Оказывается за время общения со мной ты поднабралась интеллекта, это лестно. Твои слова удовлетворили мое любопытство.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}It turns out that during your communication with me you have gained intelligence, this is flattering. Your words satisfied my curiosity.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6111
+    old "{color=#000000}И то верно...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}That's true...\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6111
+    old "{color=#000000}Очевидно.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Obviously.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6131
+    old "{color=#000000}Там и посмотрим. Будет возможность – помогу, не будет – не помогу.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}We'll see. If there is an opportunity, I will help, if there is no opportunity, I will not help.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6175
+    old "{color=#000000}Увидим.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}We'll see.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6297
+    old "{color=#000000}Для вашего дуэта - идеально. Считай, что обе сделаете нечто запоминающееся... В плохом смысле этого слово. Что-то вроде андеграундных рэп трэков.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Perfect for your duet. Consider that both of you will do something memorable... In the bad sense of the word. Something like underground rap tracks.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6297
+    old "{color=#000000}Ну, это хоть что-то, поэтому... Я не могу сказать о ней ничего, кроме как... Это девушка. \n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Well, that's at least something, so... I can't say anything about her other than... She's a girl. \n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6297
+    old "{color=#000000}Не думаешь, что тебе лучше самой узнать о ней вживую?\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Don't you think it's better for you to find out about her in person?\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6438
+    old "{color=#000000}Нет, просто эта комната не совсем подходит под твой характер. Тут не хватает...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}No, this room just doesn't quite suit your personality. What's missing here is...\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6438
+    old "{color=#000000}Не волнуйся, где-где, а в женских комнатах я был часто...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Don't worry, I was in women's rooms often...\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6438
+    old "{color=#000000}Живешь в свинарнике.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}You live in a pigsty.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6438
+    old "{color=#000000}Такой тупой вопрос был ожидаем от тебя.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Such a stupid question was expected from you.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6538
+    old "{color=#000000}Нет, но тебе лучше всего сейчас ответить: ты хороша в вокале или этот предмет простая развлекуха для тебя?\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}No, but it’s best for you to answer now: are you good at vocals or is this subject just fun for you?\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6538
+    old "{color=#000000}Нет, это просто шутка. Не обращай внимания.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}No, it's just a joke. Do not pay attention.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6538
+    old "{color=#000000}Забудь, эта информация мне просто не нужна.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Forget it, I just don't need this information.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6538
+    old "{color=#000000}Да, сон вышел крайне херовым.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Yes, the dream turned out to be extremely bad.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6640
+    old "{color=#000000}Слабовато для более массовой сцены, но неплохой уровень для клубов и подобных фестивалей.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}A little weak for a more mainstream scene, but a good level for clubs and similar festivals.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6640
+    old "{color=#000000}Вышло отлично.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}It turned out great.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6640
+    old "{color=#000000}Есть куда стремиться.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}There is room for improvement.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6640
+    old "{color=#000000}Было ужасно. У меня чуть уши не завяли...\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}It was terrible. My ears almost withered...\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6697
+    old "{color=#000000}Поп-музыка явно не для меня.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Pop music is clearly not for me.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6697
+    old "{color=#000000}Было прекрасно.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}It was wonderful.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6697
+    old "{color=#000000}Есть некоторые проблемы, как и шансы. Думаю, что если даже и не на голосе или песне, то на внешности уж точно притянете к себе внимание.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}There are some challenges, as are the odds. I think that even if not with a voice or song, then with your appearance you will certainly attract attention.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6697
+    old "{color=#000000}Дерьмо.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Shit.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6899
+    old "{color=#000000}Решил лично посмотреть, как проходят ваши репетиции.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I decided to personally see how your rehearsals are going.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6899
+    old "{color=#000000}Сложно сказать. Но вообще мне стало просто скучно, и я решил посмотреть ваши репитиции.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Hard to tell. But in general, I just got bored, and I decided to watch your rehearsals.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6899
+    old "{color=#000000}Решил просто проведать тебя.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I decided to just check on you.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+
+    # game/act.rpy:6899
+    old "{color=#000000}Захотелось встретиться с тобой.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I wanted to meet you.\n{size=21}{i}0 energy{/i}{/size}{/color}"
+# TODO: Translation updated at 2024-07-25 11:16
+
+# game/act.rpy:805
+translate english otv_5_in_new_ivent_we1_bce7f176:
+
+    # "Подсказка: в клуб оккультизма все еще можно будет вступить через студенческий совет или с помощью чит-кодов, если будет такое желание."
+    "Hint: you can still join the occult club through the student council or using cheat codes, if you wish."

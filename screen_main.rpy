@@ -91,7 +91,7 @@ translate english strings:
 
     # game/screen_main.rpy:462
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Уткнулся в школьный учебник,{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Looked at school textbook,{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Looked at academy textbook,{/font}{/size}{/color}"
 
     # game/screen_main.rpy:463
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}изучая его от корки до корки{/font}{/size}{/color}"
@@ -99,7 +99,7 @@ translate english strings:
 
     # game/screen_main.rpy:465
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Уткнулась в школьный учебник,{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Looked at school textbook,{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Looked at academy textbook,{/font}{/size}{/color}"
 
     # game/screen_main.rpy:469
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Уткнулся в роман, изучая{/font}{/size}{/color}"
@@ -115,7 +115,7 @@ translate english strings:
 
     # game/screen_main.rpy:475
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Пялится в свой смартфон, не{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Staring at his smartphone, not paying{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Staring at smartphone, not paying{/font}{/size}{/color}"
 
     # game/screen_main.rpy:476
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}обращая внимание на все вокруг{/font}{/size}{/color}"
@@ -230,7 +230,7 @@ translate english strings:
 
     # game/screen_main.rpy:541
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Спит на парте, не обращая внимание{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}He sleeps on the desk, not paying attention{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sleeps on the desk, not paying attention{/font}{/size}{/color}"
 
     # game/screen_main.rpy:542
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}на то, что происходит вокруг{/font}{/size}{/color}"
@@ -242,7 +242,7 @@ translate english strings:
 
     # game/screen_main.rpy:546
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}С видной грустью смотрит в окно{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}With visible sadness, he looks out{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}With visible sadness, looks out{/font}{/size}{/color}"
 
     # game/screen_main.rpy:547
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}и наблюдает за чем-то{/font}{/size}{/color}"
@@ -258,7 +258,7 @@ translate english strings:
 
     # game/screen_main.rpy:552
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Читает свои записи в тетради{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Reads his notes in a notebook{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Reads notes in a notebook{/font}{/size}{/color}"
 
     # game/screen_main.rpy:554
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Рисует в тетради какие-то{/font}{/size}{/color}"
@@ -266,7 +266,7 @@ translate english strings:
 
     # game/screen_main.rpy:555
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}каракули{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}his notebook{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}notebook{/font}{/size}{/color}"
 
     # game/screen_main.rpy:557
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Дежурит в классе{/font}{/size}{/color}"
@@ -325,12 +325,12 @@ translate english strings:
     new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Looks from the roof at the students{/font}{/size}{/color}"
 
     # game/screen_main.rpy:579
-    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}ворот школы школьников{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}passing by the school gates{/font}{/size}{/color}"
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}ворот академии школьников{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}passing by the academy gates{/font}{/size}{/color}"
 
     # game/screen_main.rpy:581
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Расслабившись, выкуривает{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Relaxed, he smokes a{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Relaxed, smokes a{/font}{/size}{/color}"
 
     # game/screen_main.rpy:582
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}сигарету{/font}{/size}{/color}"
@@ -378,7 +378,7 @@ translate english strings:
 
     # game/screen_main.rpy:600
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Топчется на одном месте,{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}He stands in one place, not{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Stands in one place, not{/font}{/size}{/color}"
 
     # game/screen_main.rpy:601
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}не выпуская телефон из рук{/font}{/size}{/color}"
@@ -386,7 +386,7 @@ translate english strings:
 
     # game/screen_main.rpy:603
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Мирно сидит и ожидает своего{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}He sits peacefully and waits for his{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sits peacefully and waits for his{/font}{/size}{/color}"
 
     # game/screen_main.rpy:604
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}заказа{/font}{/size}{/color}"
@@ -402,7 +402,7 @@ translate english strings:
 
     # game/screen_main.rpy:609
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Трапезничает, не обращая{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}He eats without paying attention{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Eats without paying attention{/font}{/size}{/color}"
 
     # game/screen_main.rpy:610
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}внимания ни на что вокруг себя{/font}{/size}{/color}"
@@ -410,7 +410,7 @@ translate english strings:
 
     # game/screen_main.rpy:612
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Сидит с учебником в руках, мирно{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}He sits with a textbook in his hands,{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sits with a textbook in his hands,{/font}{/size}{/color}"
 
     # game/screen_main.rpy:613
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}попивая горячий кофе{/font}{/size}{/color}"
@@ -576,3 +576,112 @@ translate english strings:
     # game/screen_main.rpy:665
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}минет от [npc_name1] [npc_fam1]{/font}{/size}{/color}"
     new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}secluded place [npc_name1] [npc_fam1]{/font}{/size}{/color}"
+# TODO: Translation updated at 2022-07-13 21:26
+
+translate english strings:
+
+    # game/screen_main.rpy:437
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Ничем не занята.{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Not busy with anything.{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:439
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Ничем не занят.{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Not busy with anything.{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:672
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}???{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}???{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:677
+    old "{color=#282828}{size=20}{font=gui/fonts/alegreya.ttf}Персонаж не занят{/font}{/size}{/color}"
+    new "{color=#282828}{size=20}{font=gui/fonts/alegreya.ttf}Сharacter not busy{/font}{/size}{/color}"
+
+# TODO: Translation updated at 2022-07-14 20:51
+
+translate english strings:
+
+    # game/screen_main.rpy:672
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Поминает вас плохим словом{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Remembers you with a bad word{/font}{/size}{/color}"
+# TODO: Translation updated at 2022-10-04 21:20
+
+translate english strings:
+
+    # game/screen_main.rpy:660
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Дает себя облапать{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Lets himself be groped{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:663
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Лапает [npc_name1] [npc_fam1]{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Groping [npc_name1] [npc_fam1]{/font}{/size}{/color}"
+# TODO: Translation updated at 2022-11-03 21:12
+
+translate english strings:
+
+    # game/screen_main.rpy:659
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Мастурбирует [npc_name1]{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Masturbating [npc_name1]{/font}{/size}{/color}"
+# TODO: Translation updated at 2023-07-06 21:48
+
+translate english strings:
+
+    # game/screen_main.rpy:668
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Целуется с{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Kissing with{/font}{/size}{/color}"
+
+# TODO: Translation updated at 2023-08-13 10:08
+
+translate english strings:
+
+    # game/screen_main.rpy:446
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Прилюдно оскорбляет{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Publicly insults{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:447
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}[npc_name1] [npc_fam1]{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}[npc_name1] [npc_fam1]{/size}{/color}"
+
+    # game/screen_main.rpy:449
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Терпит оскорбления от{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Receives insults from{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:654
+    old "{color=#282828}{size=20}{font=gui/fonts/alegreya.ttf}[activity]{/font}{/size}{/color}"
+    new "{color=#282828}{size=20}{font=gui/fonts/alegreya.ttf}[activity]{/font}{/size}{/color}"
+
+# TODO: Translation updated at 2023-08-14 06:35
+
+translate english strings:
+
+    # game/screen_main.rpy:648
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Сидит в туалетной кабинке{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sitting in a toilet cubicle{/font}{/size}{/color}"
+# TODO: Translation updated at 2023-10-04 14:43
+
+translate english strings:
+
+    # game/screen_main.rpy:648
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Трахается с{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Have sex with{/font}{/size}{/color}"
+# TODO: Translation updated at 2024-04-13 00:53
+
+translate english strings:
+
+    # game/screen_main.rpy:649
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Стоит в очереди{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Standing in line{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:650
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}на кассу кинотеатра{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}at the ticket office{/font}{/size}{/color}"
+# TODO: Translation updated at 2024-05-27 09:23
+
+translate english strings:
+
+    # game/screen_main.rpy:420
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}заключил в объятия [name_npc]{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}hug to [name_npc]{/font}{/size}{/color}"
+
+    # game/screen_main.rpy:422
+    old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}заключила в объятия [name_npc]{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}hug to [name_npc]{/font}{/size}{/color}"

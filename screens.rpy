@@ -144,7 +144,7 @@ translate english strings:
 
     # game/screens.rpy:719
     old "Настройки"
-    new "Settings"
+    new "   Settings"
 
     # game/screens.rpy:730
     old "Режим экрана"
@@ -615,7 +615,7 @@ translate english strings:
 
     # game/screens.rpy:976
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Девушки будут носить только школьную форму и купальник]{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Girls will only wear school uniforms and swimsuits]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Girls will only wear academy uniforms and swimsuits]{/color}{/size}{/font}"
 
     # game/screens.rpy:977
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}(Значительно влияет на производительность){/color}{/size}{/font}"
@@ -737,7 +737,7 @@ translate english strings:
 
     # game/screens.rpy:223
     old "Открыть логи"
-    new "Open logs"
+    new "History"
 
     # game/screens.rpy:228
     old "Скрыть окно"
@@ -877,3 +877,286 @@ translate english strings:
     # game/screens.rpy:1691
     old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(М - мужской, F - женский){/color}{/size}{/font}"
     new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(М - male, F - female){/color}{/size}{/font}"
+# TODO: Translation updated at 2022-09-26 00:09
+
+translate english strings:
+
+    # game/screens.rpy:1175
+    old "Страница [preferences_page]/3"
+    new "Page [preferences_page]/3"
+
+    # game/screens.rpy:1242
+    old "{font=gui/fonts/calibri.ttf}{size=40}{color=#282828}Сложная{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=40}{color=#282828}Hard{/color}{/size}{/font}"
+
+    # game/screens.rpy:1244
+    old "{font=gui/fonts/calibri.ttf}{size=40}{color=#b38c6c}Сложная{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=40}{color=#b38c6c}Hard{/color}{/size}{/font}"
+
+    # game/screens.rpy:1247
+    old "{font=gui/fonts/calibri.ttf}{size=40}{color=#282828}Средняя{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=40}{color=#282828}Medium{/color}{/size}{/font}"
+
+    # game/screens.rpy:1249
+    old "{font=gui/fonts/calibri.ttf}{size=40}{color=#b38c6c}Средняя{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=40}{color=#b38c6c}Medium{/color}{/size}{/font}"
+
+    # game/screens.rpy:1252
+    old "{font=gui/fonts/calibri.ttf}{size=40}{color=#282828}Легкая{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=40}{color=#282828}Easy{/color}{/size}{/font}"
+
+    # game/screens.rpy:1254
+    old "{font=gui/fonts/calibri.ttf}{size=40}{color=#b38c6c}Легкая{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=40}{color=#b38c6c}Easy{/color}{/size}{/font}"
+
+    # game/screens.rpy:1257
+    old "{font=gui/fonts/calibri_bold.ttf}{size=40}{color=#282828}СЛОЖНОСТЬ{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri_bold.ttf}{size=40}{color=#282828}DIFFICULT{/color}{/size}{/font}"
+
+    # game/screens.rpy:1259
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}Описание сложности:{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}Description of difficult:{/color}{/size}{/font}"
+
+    # game/screens.rpy:1266
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Рандомизированные НПС сильнее устают\nот общения с вашим персонажем\n- Замедленное получение опыта\n- Тратится одна единица энергии каждый\nчас внутриигрового времени\n- Тратится одна единица сытости каждый\nчас внутриигрового времени\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Relationships with randomized NPCs are\nmore difficult to improve\n- Randomized NPCs get more tired of\ncommunicating with your character \n- Delayed gaining experience \n- One unit of energy is spent every hour of\nin-game time \n- One unit of satiety is spent every hour of\nin-game time \n- Reduced chances of different interactions \n- A significant chance of exclusion from the\nacademy for absenteeism and poor grades{/color}{/size}{/font}"
+
+    # game/screens.rpy:1270
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Стандартная сложность, на которой\nраньше была игра. Есть возможность\nисключения со академии, сытость, энергия и\nдругие показатели, за которыми нужно\nследить."
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- The standard difficulty that the game used\nto be on. There is a possibility of exclusion\nfrom academy, more is spent satiety, energy\nand other indicators that need to be\nmonitored."
+
+    # game/screens.rpy:1274
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Отключена сытость\n- Вашего персонажа больше не могут\nисключить с академии за оценки\n- Опыт получается быстрее\n- Легче прокачиваются отношения с\nрандомизированными НПС\n- Рандомизированные НПС меньше устают\nот разговоров с вашим персонажем\n- Повышенные шансы на разные\nвзаимодействия"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Satiety is disabled \n- Your character can no longer be excluded\nfrom the academy for grades \n- Experience turns out faster\n- Relationships with randomized NPCs are\nimprove easier\n- Randomized NPCs get less tired of talking\nwith your character \n- Increased chances of different interactions"
+# TODO: Translation updated at 2022-10-03 19:32
+
+translate english strings:
+
+    # game/screens.rpy:1274
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}\n- Минимум энергии - 0\n- Отключена сытость\n- Вашего персонажа больше не могут\nисключить с академии за оценки\n- Опыт получается быстрее\n- Легче прокачиваются отношения с\nрандомизированными НПС\n- Рандомизированные НПС меньше устают\nот разговоров с вашим персонажем\n- Повышенные шансы на разные\nвзаимодействия"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Minimum energy - 0\n- Satiety is disabled \n- Your character can no longer be excluded\nfrom the academy for grades \n- Experience turns out faster\n- Relationships with randomized NPCs are\nimprove easier\n- Randomized NPCs get less tired of talking\nwith your character \n- Increased chances of different interactions"
+# TODO: Translation updated at 2022-10-04 21:20
+
+translate english strings:
+
+    # game/screens.rpy:1274
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}\n- При покупке новой квартиры не нужно\nплатить ренту\n- Минимум энергии - 0\n- Отключена сытость\n- Вашего персонажа больше не могут\nисключить с академии за оценки\n- Опыт получается быстрее\n- Легче прокачиваются отношения с\nрандомизированными НПС\n- Рандомизированные НПС меньше устают\nот разговоров с вашим персонажем\n- Повышенные шансы на разные\nвзаимодействия"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- When buying a new apartment, you do\nnot need to pay rent\n- Minimum energy - 0\n- Satiety is disabled \n- Your character can no longer be excluded\nfrom the academy for grades \n- Experience turns out faster\n- Relationships with randomized NPCs are\nimprove easier\n- Randomized NPCs get less tired of talking\nwith your character \n- Increased chances of different interactions"
+# TODO: Translation updated at 2022-10-10 15:42
+
+translate english strings:
+
+    # game/screens.rpy:1266
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Урон конечностям наносится в\nзадуманном размере, а их\nвосстанавливание занимает больше\nвремени.\n- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Рандомизированные НПС сильнее устают\nот общения с вашим персонажем\n- Замедленное получение опыта\n- Тратится одна единица энергии и\nсытости каждый час внутриигрового времени\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Урон конечностям наносится в\nзадуманном размере, а их\nвосстанавливание занимает больше\nвремени.\n- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Рандомизированные НПС сильнее устают\nот общения с вашим персонажем\n- Замедленное получение опыта\n- Тратится одна единица энергии и\nсытости каждый час внутриигрового времени\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки{/color}{/size}{/font}"
+
+    # game/screens.rpy:1270
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Восстановление конечностей\nпроисходит гораздо быстрее, а\nурона им наносится меньше\n- Стандартная сложность, на которой\nраньше была игра. Есть возможность\nисключения со академии, сытость, энергия и\nдругие показатели, за которыми нужно\nследить."
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- The recovery of limbs is much faster, and\nless damage is inflicted on them\n- The standard difficulty that the game used\nto be on. There is a possibility of exclusion\nfrom academy, satiety, energy and other\nindicators that need to be monitored."
+
+    # game/screens.rpy:1274
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Все конечности имеют прочность,\nкоторая не опускается ниже 100.\n- При покупке новой квартиры не нужно\nплатить ренту\n- Минимум энергии - 0\n- Отключена сытость\n- Вашего персонажа больше не могут\nисключить с академии за оценки\n- Опыт получается быстрее\n- Легче прокачиваются отношения с\nрандомизированными НПС\n- Рандомизированные НПС меньше устают\nот разговоров с вашим персонажем\n- Повышенные шансы на разные\nвзаимодействия"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- All limbs have health, which does not fall\nbelow 100.\n- When buying a new apartment, you do not\nneed to pay rent \n- Minimum energy - 0\n- Satiety is disabled \n- Your character can no longer be excluded\nfrom the academy for grades \n- Experience turns out faster \n- It is easier to improve relationships\nwith randomized NPCs \n- Randomized NPCs are less tired of dialoge\nwith your character \n- Increased chances of different \n interactions"
+
+# TODO: Translation updated at 2022-10-12 23:02
+
+translate english strings:
+
+    # game/screens.rpy:1267
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- В случае, если ваша сытость ниже нуля,\nваши атрибуты могут снижаться.\n- Урон конечностям наносится в\nзадуманном размере, а их\nвосстанавливание занимает больше\nвремени.\n- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Рандомизированные НПС сильнее устают\nот общения с вашим персонажем\n- Замедленное получение опыта\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- If your satiety is below zero, your attributes may decrease.\n- Damage to the limbs is inflicted in a deliberate size, and their restoration takes more time.\n- Relationships are more difficult to pump\n with randomized NPCs \n- Randomized NPCs get more tired\ of dialoge with your character \n- Delayed gaining experience \n- Reduced chances of different\n interactions \n- A significant chance of exclusion from \pakademy for partying and poor grades{/color}{/size}{/font}"
+
+# TODO: Translation updated at 2022-10-14 14:26
+
+translate english strings:
+
+    # game/screens.rpy:1267
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- В случае, если ваша энергия равна -40\nединицам, ваш персонаж может\nвыключиться на пару часов.\n- В случае, если ваша сытость ниже нуля,\nваши атрибуты могут снижаться.\n- Урон конечностям наносится в\nзадуманном размере, а их\nвосстанавливание занимает больше\nвремени.\n- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- If your energy is equal to -40 units, your\ncharacter can switch off for a couple of hours.\n- If your satiety is below zero, your attributes\nmay decrease.\n- Damage to the limbs is inflicted in a\ndeliberate size, and their restoration takes\nmore time.\n- Relationships are more difficult to improve\n with randomized NPCs \n- Reduced chances of different\n interactions \n- A significant chance of exclusion from\nakademy for absenteeism and poor grades{/color}{/size}{/font}"
+# TODO: Translation updated at 2022-11-10 16:41
+
+translate english strings:
+
+    # game/screens.rpy:1306
+    old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Netorare – поджанр хентая, в котором персонаж изменяет своему партнёру. В этом режиме ваша девушка, если такое возможно, имеет шанс изменять вам с другим парнем из академии, который по тем или иным причинам приглянулся ей больше вас, но при этом она не хочет разрывать отношения с вами."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Netorare – a hentai subgenre in which a character cheats on his partner. In this mode, your girlfriend, if possible, has a chance to cheat on you with another guy from academy, who for one reason or another liked her more than you, but she does not want to break off relations with you."
+# TODO: Translation updated at 2022-11-27 08:38
+
+translate english strings:
+
+    # game/screens.rpy:1318
+    old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Кнопка, отвечающая за включение/выключение крови и синяков от драк, мордобоев, издевательств и других вещей. Кроме того, данная кнопка отключает кровь при потери девственности у рандомизированных НПС."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}The button responsible for turning on/off blood and bruises from fights, bruises, bullying and other things. In addition, this button turns off the blood in case of loss of virginity in randomized NPCs."
+# TODO: Translation updated at 2022-12-12 15:19
+
+translate english strings:
+
+    # game/screens.rpy:1950
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Персонаж застрял{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}The character is stuck{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-01-26 12:37
+
+translate english strings:
+
+    # game/screens.rpy:926
+    old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5}\nВерсия игры:{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5} [version_game_slot]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5}\nGame Version:{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5} [version_game_slot]{/color}{/size}{/font}"
+
+    # game/screens.rpy:1368
+    old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Кнопка, отвечающая за включение/выключение тату и пирсинга у рандомизированных НПС."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}The button responsible for turning on/off tattoos and piercings in randomized NPCs."
+
+    # game/screens.rpy:1989
+    old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Подтверждение начала драк{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Confirmation of the beginning of fights{/color}{/size}{/font}"
+
+    # game/screens.rpy:1990
+    old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}с рандомизированными НПС{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}with randomized NPCs{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-04-12 21:32
+
+translate english strings:
+
+    # game/screens.rpy:1869
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Озвучка текста{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Text-to-speech{/color}{/size}{/font}"
+
+# TODO: Translation updated at 2023-06-29 07:41
+
+# game/screens.rpy:775
+translate english after_load_3cd0cbda:
+
+    # "Данное сохранение было сделано на более старой версии игры. Мы не рекомендуем продолжать играть на нем, так как могут возникнуть баги и исключения."
+    "This saving was done on an older version of the game. We do not recommend continuing to play on it, as bugs and exceptions may occur."
+
+# game/screens.rpy:776
+translate english after_load_c6cb5f0c:
+
+    # "Предупрежден значит вооружен, верно же?"
+    "Forewarned means armed, right?"
+
+translate english strings:
+
+    # game/screens.rpy:933
+    old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5}\nВерсия игры:{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=30}{color=#ff0000} [version_game_slot]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5}\nVersion game:{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=30}{color=#ff0000} [version_game_slot]{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-07-03 00:52
+
+translate english strings:
+
+    # game/screens.rpy:887
+    old "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}Новое облачное сохранение{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}New Cloud Saving{/color}{/size}{/font}"
+
+    # game/screens.rpy:1074
+    old "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}Облако{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}Cloud{/color}{/size}{/font}"
+
+    # game/screens.rpy:1160
+    old "{font=gui/fonts/alegreya.ttf}{size=38}{color=#ffffff}{#file_time}Облачное сохранение [i] {/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}{#file_time} от %H:%M - %d.%m.%Y{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=38}{color=#ffffff}{#file_time}Cloud save [i] {/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}{#file_time} от %H:%M - %d.%m.%Y{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-08-13 10:08
+
+translate english strings:
+
+    # game/screens.rpy:2058
+    old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Включена ли интеграция с дискордом?{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Enable integration to discord??{/color}{/size}{/font}"
+
+    # game/screens.rpy:2059
+    old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(Работает только на ПК){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(It working only PC devices){/color}{/size}{/font}"
+# TODO: Translation updated at 2023-09-14 18:39
+
+translate english strings:
+
+    # game/screens.rpy:2199
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Быстрое подключение{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Fast connection{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-10-04 14:43
+
+translate english strings:
+
+    # game/screens.rpy:204
+    old "Биография"
+    new "Biography"
+# TODO: Translation updated at 2023-11-04 14:14
+
+translate english strings:
+
+    # game/screens.rpy:2326
+    old "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}Очищение памяти{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}RAM clear function{/color}{/size}{/font}"
+
+    # game/screens.rpy:2327
+    old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[При включении этой функции игровая память будет пытаться,{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[If this function will be enable, it will reduce the number of{/color}{/size}{/font}"
+
+    # game/screens.rpy:2328
+    old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}что уменьшит количество вылетов, но при этом увеличит нагрузку{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}crash of the game, but increase load your device{/color}{/size}{/font}"
+
+    # game/screens.rpy:2329
+    old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}в определенные игровые моменты.]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}in certain moment of the game.]{/color}{/size}{/font}"
+
+    # game/screens.rpy:2330
+    old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}(Влияет на производительность){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}(Affects performance){/color}{/size}{/font}"
+# TODO: Translation updated at 2024-03-14 15:03
+
+translate english strings:
+
+    # game/screens.rpy:2354
+    old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Включена ли консоль{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Is the console turned on?{/color}{/size}{/font}"
+
+    # game/screens.rpy:2355
+    old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(доступно только на ПК устройствах){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(only available on PC devices){/color}{/size}{/font}"
+# TODO: Translation updated at 2024-04-04 00:10
+
+translate english strings:
+
+    # game/screens.rpy:2356
+    old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Ускорены ли анимации интерфейса{/color}{/size}{/font}"
+    new ""
+
+    # game/screens.rpy:2357
+    old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(включение/отключение анимаций нового интерфейса){/color}{/size}{/font}"
+    new ""
+
+# TODO: Translation updated at 2024-05-03 21:37
+
+translate english strings:
+
+    # game/screens.rpy:2276
+    old "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}Ограниченное кэшировние (эксп.){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}Limited caching (exp.)"
+
+    # game/screens.rpy:2277
+    old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Сильно ограничивает кэширование игры, из-за чего игра{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Severely limits the caching of the game, which is why the game"
+
+    # game/screens.rpy:2278
+    old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}потребляет значительно меньше оперативной памяти, предотвращая{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}consumes significantly less RAM, preventing"
+
+    # game/screens.rpy:2279
+    old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}внезапные вылеты на слабых/средних/определенных устройствах.]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}sudden crashes on weak/medium/specific devices.]"
+
+    # game/screens.rpy:2373
+    old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Очистить постоянные данные{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Clear persistent data"
+
+    # game/screens.rpy:2374
+    old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(перезагрузит игру){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(restart the game)"
+# TODO: Translation updated at 2024-05-27 09:23
+
+translate english strings:
+
+    # game/screens.rpy:1462
+    old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Кнопка, включающая/выключающая возможность забеременеть для рандомизированных НПС женского пола."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}A button that enables/disables the possibility of getting pregnant for randomized female NPCs."

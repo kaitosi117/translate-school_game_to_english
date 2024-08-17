@@ -369,8 +369,8 @@ translate english shopping_joob_142e9c4d:
 # game/joob.rpy:304
 translate english shopping_joob_88c8be84:
 
-    # adm_magazine "Я вас понял. Приходите, когда окончите школу."
-    adm_magazine "I understand. Come back when you finish school."
+    # adm_magazine "Я вас понял. Приходите, когда окончите академию."
+    adm_magazine "I understand. Come back when you finish academy."
 
 # game/joob.rpy:305
 translate english shopping_joob_7ade2a0a:
@@ -599,8 +599,8 @@ translate english shopping_joob_142e9c4d_1:
 # game/joob.rpy:218
 translate english shopping_joob_88c8be84_1:
 
-    # adm_magazine "Я вас понял. Приходите, когда окончите школу."
-    adm_magazine "I understand you. Come back when you finish school."
+    # adm_magazine "Я вас понял. Приходите, когда окончите академию."
+    adm_magazine "I understand you. Come back when you finish academy."
 
 # game/joob.rpy:219
 translate english shopping_joob_7ade2a0a_1:
@@ -736,3 +736,330 @@ translate english magazine_game_over_073d39ea:
 
     # "Кроме того, ваш работодатель, видя вашу работу и мотивацию к ней, сильно разочаровался... Теперь вы благородно носите звание менеджера."
     "In addition, your employer, seeing your work and motivation for it, was very disappointed... Now you nobly bear the title of manager."
+# TODO: Translation updated at 2022-10-27 15:15
+
+# game/joob.rpy:44
+translate english magazine_game_3b58043b:
+
+    # "Пропустить мини-игру?"
+    "Skip the mini-game?"
+# TODO: Translation updated at 2023-04-12 21:32
+
+# game/joob.rpy:320
+translate english magazine_game_over_4b7007c1:
+
+    # "Кроме того, ваш работодатель, видя ваши старания, даже решил повысить вас! Теперь вы благородно носите звание младшего менеджера!"
+    "In addition, your employer, seeing your efforts, even decided to promote you! Now you nobly bear the title of junior manager!"
+
+# game/joob.rpy:324
+translate english magazine_game_over_636b2417:
+
+    # "Кроме того, ваш работодатель, видя ваши старания, даже решил повысить вас! Теперь вы благородно носите звание старшего менеджера!"
+    "In addition, your employer, seeing your efforts, even decided to promote you! Now you nobly carry the title of senior manager!"
+
+# game/joob.rpy:326
+translate english magazine_game_over_f850648b:
+
+    # "Кроме того, ваш работодатель, видя ваши старания, даже решил повысить вас! Теперь вы благородно носите звание администратора!"
+    "In addition, your employer, seeing your efforts, even decided to promote you! Now you nobly bear the title of administrator!"
+
+# game/joob.rpy:339
+translate english magazine_game_over_af23d928:
+
+    # "Кроме того, ваш работодатель, видя вашу работу и мотивацию к ней, сильно разочаровался... Теперь вы благородно носите звание младшего менеджера."
+    "In addition, your employer, seeing your work and motivation for it, was very disappointed... Now you nobly carry the title of junior manager."
+
+# game/joob.rpy:343
+translate english magazine_game_over_ee524390:
+
+    # "Кроме того, ваш работодатель, видя вашу работу и мотивацию к ней, сильно разочаровался... Теперь вы благородно носите звание старшего менеджера."
+    "In addition, your employer, seeing your work and motivation for it, was very disappointed... Now you nobly carry the title of senior manager."
+
+# game/joob.rpy:345
+translate english magazine_game_over_b4b0d306:
+
+    # "Кроме того, ваш работодатель, видя вашу работу и мотивацию к ней, сильно разочаровался... Теперь вы благородно носите звание администратора."
+    "In addition, your employer, seeing your work and motivation for it, was very disappointed... Now you nobly carry the title of administrator."
+
+# TODO: Translation updated at 2023-05-24 14:12
+
+translate english strings:
+
+    # game/joob.rpy:45
+    old "{color=#000000}Всегда не пропускать"
+    new "{color=#000000}Always do not skip"
+# TODO: Translation updated at 2023-07-28 11:45
+
+# game/joob.rpy:44
+translate english magazine_game_d23da176:
+
+    # "Пропустить мини-игру? Если вы будете пропускать мини-игру, ваш персонаж не сможет получить некоторые внутриигровые ивенты..."
+    "Skip mini-game? If you skip mini-game, your character can't receive some events."
+# TODO: Translation updated at 2023-11-27 14:45
+
+# game/joob.rpy:443
+translate english shopping_joob_48fb23c9:
+
+    # adm_magazine "Хорошо, я понял. Почему вы выбрали именно эту вакансию?"
+    adm_magazine "Okay, I get it. Why did you choose this particular job?"
+
+# game/joob.rpy:466
+translate english shopping_joob_942a887f:
+
+    # adm_magazine "И как же вы собрались устроиться на работу, будучи без резюме, опыта и креативности?"
+    adm_magazine "And how are you going to get a job without a resume, experience or creativity?"
+
+# game/joob.rpy:474
+translate english shopping_joob_74c1c501:
+
+    # adm_magazine "Я вас понял. Приходите, когда окончите академию."
+    adm_magazine "I understand. Come back when you finish academy."
+
+# game/joob.rpy:487
+translate english shopping_joob_942a887f_1:
+
+    # adm_magazine "И как же вы собрались устроиться на работу, будучи без резюме, опыта и креативности?"
+    adm_magazine "And how are you going to get a job without a resume, experience or creativity?"
+
+# game/joob.rpy:494
+translate english shopping_joob_74c1c501_1:
+
+    # adm_magazine "Я вас понял. Приходите, когда окончите академию."
+    adm_magazine "I understand. Come back when you finish academy."
+# TODO: Translation updated at 2024-02-12 15:42
+
+# game/joob.rpy:273
+translate english magazine_game_over_6f8f4082:
+
+    # "Уходя с работы, вы чувствуете небольшую усталость, но в то же время вы довольны собой. За ваши старания вы получаете [money_joob] кредитов c учетом премии."
+    "When you leave work, you feel a little tired, but at the same time you are happy with yourself. For your efforts, you receive [money_joob] credits, including bonuses."
+
+# TODO: Translation updated at 2024-07-25 11:16
+
+# game/joob.rpy:434
+translate english shopping_joob_7c6c59c1:
+
+    # glgg "Верно, я пришла по объявлению."
+    glgg "That's right, I came by the ad."
+
+# game/joob.rpy:462
+translate english respond_for_one_in_working_b86f635b:
+
+    # adm_magazine "Креативность точно не ваш конек. Ладно, хорошо, сколько вам лет?"
+    adm_magazine "Creativity is definitely not your thing. Okay, well, how old are you?"
+
+# game/joob.rpy:463
+translate english respond_for_one_in_working_c24acb8b:
+
+    # glgg "Я школьн..."
+    glgg "I'm stude..."
+
+# game/joob.rpy:465
+translate english respond_for_one_in_working_942a887f:
+
+    # adm_magazine "И как же вы собрались устроиться на работу, будучи без резюме, опыта и креативности?"
+    adm_magazine "And how are you going to get a job, being without a resume, experience and creativity?"
+
+# game/joob.rpy:472
+translate english respond_for_one_in_working_142e9c4d:
+
+    # "Сказав это, вы буквально поставили крест на данной работе, что и говорил грозный взгляд работодателя."
+    "Having said that, you literally put an end to this job, which was what the formidable look of the employer said."
+
+# game/joob.rpy:474
+translate english respond_for_one_in_working_74c1c501:
+
+    # adm_magazine "Я вас понял. Приходите, когда окончите академию."
+    adm_magazine "I understood you. Come back when you graduate from the academy."
+
+# game/joob.rpy:476
+translate english respond_for_one_in_working_7ade2a0a:
+
+    # "Решив все же не усугублять ситуацию, вы вышли из кабинета без работы, униженным, так еще и без гроша в кармане."
+    "Having decided not to aggravate the situation, you left the office without a job, humiliated, and also penniless."
+
+# game/joob.rpy:478
+translate english respond_for_one_in_working_c0e579f2:
+
+    # "Решив все же не усугублять ситуацию, вы вышли из кабинета без работы, униженной, так еще и без гроша в кармане."
+    "Having decided not to aggravate the situation, you left the office without a job, humiliated, and also penniless."
+
+# game/joob.rpy:487
+translate english respond_for_one_in_working_f2626511:
+
+    # adm_magazine "Судя по размеру кошелька в кармане, вы мне чего-то не договариваете... Ладно, хорошо, сколько вам лет?"
+    adm_magazine "Judging by the size of the wallet in your pocket, there's something you're not telling me... Okay, well, how old are you?"
+
+# game/joob.rpy:488
+translate english respond_for_one_in_working_c24acb8b_1:
+
+    # glgg "Я школьн..."
+    glgg "I'm stude..."
+
+# game/joob.rpy:490
+translate english respond_for_one_in_working_942a887f_1:
+
+    # adm_magazine "И как же вы собрались устроиться на работу, будучи без резюме, опыта и креативности?"
+    adm_magazine "And how are you going to get a job, being without a resume, experience and creativity?"
+
+# game/joob.rpy:499
+translate english respond_for_one_in_working_e873ad51:
+
+    # "После вашего ответа вы заметили небольшую искорку любопытства в глазах у мужчины, который встал со своего уже насиженного места, прихватив с собой анкету со стола. Подойдя к вам, он протянул бумажку, которую вы сразу же взяли."
+    "After your answer, you noticed a small spark of curiosity in the eyes of the man who got up from his already familiar place, taking the questionnaire with him from the table. When he came up to you, he handed you a piece of paper, which you immediately took."
+
+# game/joob.rpy:500
+translate english respond_for_one_in_working_18a7e3e0:
+
+    # adm_magazine "Знаешь, я всегда ценил честность в людях. За всю мою карьеру лишь единицы говорили подобное, когда же другая часть кичилась одними и теми же качествами, которыми, как ни странно, не обладал никто. Мой управленческий опыт говорит, что ты меня уж точно не подведешь!"
+    adm_magazine "You know, I've always appreciated honesty in people. In my entire career, only a few people have said this, when the other part boasted the same qualities that, oddly enough, no one possessed. My managerial experience says that you certainly won't let me down!"
+
+# game/joob.rpy:501
+translate english respond_for_one_in_working_d4898887:
+
+    # "Грубо и достаточно сильно похлопав вас по плечу несколько раз, ваш новый работодатель присел на диван напротив и с интересом наблюдал за вашими действиями."
+    "After roughly and quite forcefully patting you on the shoulder several times, your new employer sat down on the sofa opposite and watched your actions with interest."
+
+# game/joob.rpy:502
+translate english respond_for_one_in_working_6c576a5b:
+
+    # glgg "Можно поподробнее узнать о вакансии?"
+    glgg "Can I find out more about the vacancy?"
+
+# game/joob.rpy:504
+translate english respond_for_one_in_working_fbbae9d4:
+
+    # adm_magazine "Конечно! Если говорить коротко и понятно, то нам нужен сортировщик товаров. Работа непыльная и, соответственно, низкооплачиваемая: 350-450 кредитов за один рабочий день в зависимости от выполненной работы."
+    adm_magazine "Of course! To put it briefly and clearly, we need a goods sorter. The work is dusty and, accordingly, low-paid: 350-450 credits per working day, depending on the work performed."
+
+# game/joob.rpy:505
+translate english respond_for_one_in_working_f6cdded4:
+
+    # adm_magazine "Есть карьерный рост до менеджера, который получает уже фиксированный процент от продаж, как заработную плату."
+    adm_magazine "There is a career path to a manager who already receives a fixed percentage of sales as a salary."
+
+# game/joob.rpy:506
+translate english respond_for_one_in_working_1095e05a:
+
+    # adm_magazine "График прост до безобразия: работать нужно всю неделю по 4 часа, кроме воскресенья. Как плюс, он еще и полностью свободный, то есть работай хоть ночью, хоть утром, хоть днем."
+    adm_magazine "The schedule is outrageously simple: you need to work all week for 4 hours, except Sundays. As a plus, he is also completely free, that is, work even at night, even in the morning, even in the afternoon."
+
+# game/joob.rpy:508
+translate english respond_for_one_in_working_0a994909:
+
+    # adm_magazine "Главное, чтобы ты отсортировал за эти 4 часа весь товар: просрочку убрал с витрин, новый продукт поставил сзади старого, ну и дальше, думаю, ты понял. Обычные приемчики супермаркетов и гипермаркетов."
+    adm_magazine "The main thing is that you sort out all the goods in these 4 hours: the delay was removed from the windows, the new product was put behind the old one, and then, I think you understand. The usual tricks of supermarkets and hypermarkets."
+
+# game/joob.rpy:510
+translate english respond_for_one_in_working_8f9c7352:
+
+    # adm_magazine "Главное, чтобы ты отсортировала за эти 4 часа весь товар: просрочку убрала с витрин, новый продукт поставила сзади старого, ну и дальше, думаю, ты поняла. Обычные приемчики супермаркетов и гипермаркетов."
+    adm_magazine "The main thing is that you sort out all the goods in these 4 hours: you removed the overdue items from the windows, put the new product behind the old one, and then, I think you understand. The usual tricks of supermarkets and hypermarkets."
+
+# game/joob.rpy:520
+translate english respond_for_one_in_working_f7c7a22d:
+
+    # adm_magazine "Отлично! Я в тебе и не сомневался! Заполни анкету, я поставлю штамп и считай, что ты уже работник этого магазина."
+    adm_magazine "Great! I never doubted you! Fill out the form, I will stamp it and consider that you are already an employee of this store."
+
+# game/joob.rpy:522
+translate english respond_for_one_in_working_dd218f24:
+
+    # adm_magazine "Отлично! Я в тебе и не сомневался! Заполни анкету, я поставлю штамп и считай, что ты уже работница этого магазина."
+    adm_magazine "Great! I never doubted you! Fill out the form, I will stamp it and consider that you are already an employee of this store."
+
+# game/joob.rpy:523
+translate english respond_for_one_in_working_2278e70d:
+
+    # "Глянув на анкету, вы увидели обыденную бюрократическую форму, куда нужно записать свое имя, адрес, телефон. Озадаченно пожав плечами и взяв с рюкзака ручку, быстрыми движениями была подписана вся информация и поставлена роспись в конце."
+    "Looking at the questionnaire, you saw an ordinary bureaucratic form where you need to write down your name, address, and phone number. With a puzzled shrug and taking a pen from his backpack, all the information was signed with quick movements and a painting was put at the end."
+
+# game/joob.rpy:526
+translate english respond_for_one_in_working_327b2851:
+
+    # adm_magazine "А ты достаточно быстро все сделал."
+    adm_magazine "And you did it fast enough."
+
+# game/joob.rpy:528
+translate english respond_for_one_in_working_bc433d62:
+
+    # adm_magazine "А ты достаточно быстро все сделала."
+    adm_magazine "And you did it fast enough."
+
+# game/joob.rpy:529
+translate english respond_for_one_in_working_cc0638b1:
+
+    # "Взяв уже заполненную анкету в руки, мужчина перечитал все и довольно улыбнулся."
+    "Taking the already completed questionnaire in his hands, the man reread everything and smiled contentedly."
+
+# game/joob.rpy:532
+translate english respond_for_one_in_working_e2089c38:
+
+    # adm_magazine "Ты принят. Твой рабочий день начинается прямо сейчас."
+    adm_magazine "You're accepted. Your work day starts right now."
+
+# game/joob.rpy:534
+translate english respond_for_one_in_working_ba5b34e7:
+
+    # adm_magazine "Ты принята. Твой рабочий день начинается прямо сейчас."
+    adm_magazine "You're accepted. Your work day starts right now."
+
+# game/joob.rpy:554
+translate english respond_for_one_in_working_0d7c10f0:
+
+    # "Проведя вас в глубь магазина, ваш новый работодатель начал бегло объяснять суть и задачу вашей работы."
+    "After taking you to the back of the store, your new employer began to fluently explain the essence and purpose of your work."
+
+# game/joob.rpy:557
+translate english respond_for_one_in_working_51ab50c7:
+
+    # guide4 "Ух... Достаточно верный шаг: найти работу! С ней ты точно не будешь иметь проблем с деньгами!"
+    guide4 "Ooh... The right step is to find a job! You definitely won't have money problems with her!"
+
+# game/joob.rpy:558
+translate english respond_for_one_in_working_d229b842:
+
+    # guide10 "Ой... Опять я сказала лишнего! Я же здесь для того, чтобы объяснить тебе механику мини-игры!"
+    guide10 "Ouch... I said too much again! I'm here to explain the mechanics of the mini-game to you!"
+
+# game/joob.rpy:559
+translate english respond_for_one_in_working_86452ac6:
+
+    # guide1 "В общем, смотри! В разных частях экрана будут появляться разные иконки доступных товаров, на которые ты будешь тыкать. Одно нажатие даст тебе дополнительное время и очки победы, за которые ты сможешь чуть позже получить премиальные."
+    guide1 "Anyway, look! Different icons of available products will appear in different parts of the screen, which you will point at. One click will give you extra time and victory points, for which you can later receive bonuses."
+
+# game/joob.rpy:560
+translate english respond_for_one_in_working_3175ea0e:
+
+    # guide5 "Все просто, так ведь?"
+    guide5 "It's simple, isn't it?"
+
+# game/joob.rpy:561
+translate english respond_for_one_in_working_63595fe1:
+
+    # guide2 "Ох... Я забыла упомянуть про навыки! За каждый полностью отработанный день ты будешь получать прибавку к навыку!"
+    guide2 "Oh... I forgot to mention the skills! For every full day you work, you will receive a skill boost!"
+
+# game/joob.rpy:562
+translate english respond_for_one_in_working_b360084a:
+
+    # guide1 "За каждый уровень навыка ты будешь получать не только прибавку к премиальным, но и небольшие постоянные бусты к атрибутам!"
+    guide1 "For each skill level, you will receive not only an increase in bonuses, but also small permanent attribute boosts!"
+
+# game/joob.rpy:563
+translate english respond_for_one_in_working_abac4b15:
+
+    # guide1 "Неплохо, да?"
+    guide1 "Not bad, huh?"
+
+# game/joob.rpy:564
+translate english respond_for_one_in_working_d7e9bd21:
+
+    # guide5 "Хоп, мне пора помогать другим игрокам! Удачи тебе, новоиспеченный работничек!"
+    guide5 "Well, it's time for me to help other players! Good luck to you, new employee!"
+
+translate english strings:
+
+    # game/joob.rpy:437
+    old "{color=#000000}Я целеустремленная и всегда добиваюсь своего. Думаю, что эта вакансия раскроет весь мой потенциал.\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}I am single-minded and always get my way. I think this job will unlock my full potential.\n{size=21}{i}0 energy{/i}{/size}{/color}"

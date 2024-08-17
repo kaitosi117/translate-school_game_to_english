@@ -14,10 +14,6 @@ translate english strings:
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Прогресс 0/0{/color}{/size}{/font}"
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Progress 0/0{/color}{/size}{/font}"
 
-    # game/items_backpack.rpy:54
-    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить школу в будние дни.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the school on weekdays.{/color}{/size}{/font}"
-
     # game/items_backpack.rpy:57
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}У вас нет заданий, выданных\nданным персонажем.{/color}{/size}{/font}"
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}You don't have any tasks assigned\nby this character.{/color}{/size}{/font}"
@@ -35,8 +31,8 @@ translate english strings:
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Progress [number_occult_club]/5{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:64
-    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пригласите 5 учеников школы в\nклуб оккультизма.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Invite 5 school students\nto the occult club.{/color}{/size}{/font}"
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пригласите 5 учеников академии в\nклуб оккультизма.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Invite 5 academy students\nto the occult club.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:67
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подписать анкету в инвентаре, чтобы\nвступить в клуб оккультизма.{/color}{/size}{/font}"
@@ -44,7 +40,7 @@ translate english strings:
 
     # game/items_backpack.rpy:70
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить комнату школьного клуба и\nпоговорить с Аяно.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the school club room and\ntalk to Ayano.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the academy club room and\ntalk to Ayano.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:73
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Прогресс [ayano_contact]/40{/color}{/size}{/font}"
@@ -95,8 +91,8 @@ translate english strings:
     new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#b0b0b0}President of the student Council.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:100
-    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить студенческий совет\nв школе.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the student Council\nat the school.{/color}{/size}{/font}"
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить студенческий совет\nв академии.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the student Council\nat the academy.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:107
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить кабинет студенческого\nсовета.{/color}{/size}{/font}"
@@ -107,8 +103,8 @@ translate english strings:
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Progress [student_soviet_g]/5{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:110
-    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Проагитировать 5 учеников школы\nза Юки Ооту.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Agitate 5 school students\nfor Yuki Oota.{/color}{/size}{/font}"
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Проагитировать 5 учеников академии\nза Юки Ооту.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Agitate 5 academy students\nfor Yuki Oota.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:115
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить кабинет студенческого совета.{/color}{/size}{/font}"
@@ -123,8 +119,8 @@ translate english strings:
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Skip 10 lessons.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:123
-    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Прогуляться по школе в ожидании\nвызова в кабинет студенческого совета.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Walk around the school while waiting for\na call to the student Council office..{/color}{/size}{/font}"
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Прогуляться по академии в ожидании\nвызова в кабинет студенческого совета.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Walk around the academy while waiting for\na call to the student Council office..{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:125
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Прогресс [absenteeism]/25{/color}{/size}{/font}"
@@ -212,7 +208,7 @@ translate english strings:
 
     # game/items_backpack.rpy:239
     old "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}Сменить стандартную школьную форму.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}Change the standard school uniform.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}Change the standard academy uniform.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:245
     old "{font=gui/fonts/alegreya.ttf}{size=36}{color=#282828}«Первое готовое блюдо»{/color}{/size}{/font}"
@@ -930,7 +926,7 @@ translate english strings:
 
     # game/items_backpack.rpy:198
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пойти в школьный бассейн во время занятий.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the school pool during class.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the academy pool during class.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:204
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Поставить видеокамеру в подсобке\nи/или поговорить с девушкой.{/color}{/size}{/font}"
@@ -985,7 +981,7 @@ translate english strings:
 
     # game/items_backpack.rpy:198
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пойти в школьный бассейн во время\nзанятий.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the school pool during class.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the academy pool during class.{/color}{/size}{/font}"
 # TODO: Translation updated at 2020-11-26 18:50
 
 translate english strings:
@@ -1070,8 +1066,8 @@ translate english strings:
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}To go to class.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:206
-    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Идти в школу в промежутке между\n7:00 и 12:00.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to school between\n7:00 and 12:00.{/color}{/size}{/font}"
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Идти в академию в промежутке между\n7:00 и 12:00.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to academy between\n7:00 and 12:00.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:209
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить кабинет клуба\nжурналистики.{/color}{/size}{/font}"
@@ -1354,11 +1350,11 @@ translate english strings:
 
     # game/items_backpack.rpy:427
     old "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}Поднять навыки программирования до{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}Поднять навыки программирования до{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}Raise programming skills to{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:428
     old "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}доступного максимума.{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}доступного максимума.{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}available maximum.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:434
     old "{font=gui/fonts/calibri.ttf}{size=33}{color=#282828}«Я тебе похож на собаку?»{/color}{/size}{/font}"
@@ -1378,7 +1374,7 @@ translate english strings:
 
     # game/items_backpack.rpy:443
     old "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}Сменить стандартную школьную форму.{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}Change the standard school uniform.{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}Change the standard academy uniform.{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:449
     old "{font=gui/fonts/calibri.ttf}{size=33}{color=#282828}«Первое готовое блюдо»{/color}{/size}{/font}"
@@ -1554,7 +1550,7 @@ translate english strings:
 
     # game/items_backpack.rpy:570
     old "{font=gui/fonts/calibri.ttf}{size=33}{color=#282828}«Я... Заместитель?»{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=33}{color=#282828}«I'm ... the deputy?»{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=33}{color=#282828}«I'm ... The deputy?»{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:571
     old "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}Получить возможность управлять{/color}{/size}{/font}"
@@ -2100,10 +2096,6 @@ translate english strings:
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подождать вызова в студенческий\nсовет.{/color}{/size}{/font}"
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for a call to the student\ncouncil.{/color}{/size}{/font}"
 
-    # game/items_backpack.rpy:281
-    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Перемотать время на 60 минут\nв школе.{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Rewind time to 60 minutes\nat school.{/color}{/size}{/font}"
-
     # game/items_backpack.rpy:284
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Разобраться с Мейко Тсукаса, что\nнаходится в клубе оккультизма.{/color}{/size}{/font}"
     new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Deal with Meiko Tsukasa, who is\nin the occult club.{/color}{/size}{/font}"
@@ -2184,7 +2176,7 @@ translate english strings:
     new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You show extremely stunning results in sex! To cum several times for sexual intercourse is very easy for you and just. However, it's better not to overdo it once again...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The ability to cum more in time, a sexual intercourse with randomized NPCs by 20 percent."
 
     # game/items_backpack.rpy:1334
-    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С детства ваша обучаемость удивляла, а к юношеству она достигла своего пика. Как ни странно, но сейчас она и вовсе пугает... Смотря на вас, возникает ощущение, что вам хватит одного лишь взгляда, чтобы чему-то научиться.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Каждый раз, когда вы успешно засыпаете, а также общаетесь с рандомизированным НПС, вам выдаются очки опыта. (Намного меньше, нежели за обучение в школе.)"
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С детства ваша обучаемость удивляла, а к юношеству она достигла своего пика. Как ни странно, но сейчас она и вовсе пугает... Смотря на вас, возникает ощущение, что вам хватит одного лишь взгляда, чтобы чему-то научиться.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Каждый раз, когда вы успешно засыпаете, а также общаетесь с рандомизированным НПС, вам выдаются очки опыта. (Намного меньше, нежели за обучение в академии.)"
     new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since being childhood, your learning ability has surprised, and by adolescence it has reached its peak. Oddly enough, but now she is completely frightening... Looking at you, there is a feeling that just one glance is enough for you to learn something.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Every time you successfully fall asleep, as well as communicate with a randomized NPC, you are given experience points. (Much less than in education to the school)"
 
     # game/items_backpack.rpy:1341
@@ -2193,7 +2185,7 @@ translate english strings:
 
     # game/items_backpack.rpy:1348
     old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С самого детства вам казалось, что природа обделила вас внешностью, но ровно тогда же вам сказали, что главное в мужчинах - юмор. После этого вы начали практиковаться в шутках... К сожалению, из-за этого ваша внешность действительно стала хуже, однако, разговаривать лучше за все время практики вы все же научились.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Общение с рандомизированными НПС становится на 20 процентов успешнее.\n{color=ab4040}- Модификатор привлекательности падает на 30 очков."
-    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since childhood, it seemed to you that nature deprived you of appearance, but exactly at the same time you were told that the main thing in men is humor. After that, you started practicing jokes... Unfortunately, because of this, your appearance has really become worse, however, you have learned to talk better speaking for all the time of practice.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Communication with randomized NPCs becomes 20 percent more successful.\n{color=ab4040}- The attractiveness modifier drops by 30 units."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since childhood, it seemed to you that nature deprived you of appearance, but exactly at the same time you were told that the main thing in men is humor. After that, you started practicing jokes... Unfortunately, because of this, your appearance has really become worse, however, you have learned to talk better speaking for all the time of practice.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Communication with randomized NPCs becomes 20 percent more successful.\n{color=ab4040}- The attractiveness modifier drops by 30 units."
 
     # game/items_backpack.rpy:1357
     old "{font=gui/fonts/calibri_bold.ttf}{color=505050}{size=24}Цена: {size=26}{color=e3a042}3{font=gui/fonts/calibri.ttf}{size=24}{color=505050} очка прокачки"
@@ -2299,8 +2291,8 @@ translate english strings:
     new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}When the sun's rays fall on you, your energy rises strangely with some chance. That is a rather strange phenomenon, but you have noticed it since childhood. Oddly enough, this ability has a flip side of the coin: at night, your energy can also disappear. You're starting to yawn constantly, even if you slept during the day...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Between 07:00 and 19:00, your energy can rise by one unit with a 50 percent chance.\n{color=ab4040}- Between 20:00 and 06:00, your energy can drop by one unit with a 50 percent chance."
 
     # game/items_backpack.rpy:1616
-    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С юношества вы странным образом замечали, что весь материал, который преподают вам в школе, анализируется и запоминается во сне. Кроме того, тогда же и растут ваши мышцы, улучшается ловкость и координация... Несомненно, это нормальное явление, но странность заключается в том, что вы для этого ничего не делаете. Буквально ничего... \n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ко все атрибутам, имеющие очки для прокачки, будут добавляться эти самые очки прокачки после каждого сна у вас в квартире."
-    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since you were young, you noticed that all the information received at school was analyzed and remembered in a dream. In addition, at the same time your muscles grow, dexterity and coordination improve... Undoubtedly, this is a normal phenomenon, but the strangeness lies in the fact that you do nothing for this. Literally nothing... \n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- To all attributes that have improvement points, additional improvement points will be added after each sleep in your apartment."
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С юношества вы странным образом замечали, что весь материал, который преподают вам в академии, анализируется и запоминается во сне. Кроме того, тогда же и растут ваши мышцы, улучшается ловкость и координация... Несомненно, это нормальное явление, но странность заключается в том, что вы для этого ничего не делаете. Буквально ничего... \n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ко все атрибутам, имеющие очки для прокачки, будут добавляться эти самые очки прокачки после каждого сна у вас в квартире."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since you were young, you noticed that all the information received at academy was analyzed and remembered in a dream. In addition, at the same time your muscles grow, dexterity and coordination improve... Undoubtedly, this is a normal phenomenon, but the strangeness lies in the fact that you do nothing for this. Literally nothing... \n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- To all attributes that have improvement points, additional improvement points will be added after each sleep in your apartment."
 
     # game/items_backpack.rpy:1629
     old "{font=gui/fonts/calibri_bold.ttf}{color=505050}{size=24}Цена: {size=26}{color=e3a042}[info]{font=gui/fonts/calibri.ttf}{size=24}{color=505050} очка прокачки"
@@ -2437,11 +2429,11 @@ translate english strings:
 
     # game/items_backpack.rpy:276
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Быть в пятницу вечером в\nлокациях учебного заведения{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Be at school on\nFriday night{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Be at academy on\nFriday night{/color}{/size}{/font}"
 
     # game/items_backpack.rpy:279
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подойти к бассейну в\\учебном заведении в урочное время{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the swimming pool\\at the educational institution during school hours{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the swimming pool\\at the educational institution during academy hours{/color}{/size}{/font}"
 
 # TODO: Translation updated at 2022-06-14 23:16
 
@@ -2489,3 +2481,1169 @@ translate english strings:
     # game/items_backpack.rpy:883
     old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Главы клуба оккультизма.{/color}{/size}{/font}"
     new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Heads of the Occult Club.{/color}{/size}{/font}"
+# TODO: Translation updated at 2022-07-04 15:58
+
+translate english strings:
+
+    # game/items_backpack.rpy:114
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться вызова в кабинет\nдстуденческого совета.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for a call to the office\nof the student council.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:117
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться события в клубе\nоккультизма.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the event in the club\noccultism.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1698
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Прогульщик{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Truant{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1700
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Прогульщик{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Truant{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1863
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С самого раннего детства вы не любили учиться настолько, что всегда находили какие-либо причины не заниматься тем, что вам не нравится.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Если вы прогуляете занятие в академии, ваше отсутствие могут просто не заметить с 20 процентным шансом."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since early childhood, you have disliked studying so much that you have always found some reason not to do what you don't like.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- If you skip a class at the academy, your absence may simply not be noticed with a 20 percent chance."
+# TODO: Translation updated at 2022-07-13 21:26
+
+translate english strings:
+
+    # game/items_backpack.rpy:930
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Оценки: ужасные [[[evaluations]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Grades: terrible [[[evaluations]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:932
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Оценки: плохие [[[evaluations]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Grades: bad[[[evaluations]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:934
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Оценки: средние [[[evaluations]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Grades: moderate [[[evaluations]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:936
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Оценки: хорошие [[[evaluations]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Grades: good [[[evaluations]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:938
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Оценки: отличные [[[evaluations]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Grades: excellent [[[evaluations]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1721
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Профессиональный хулиган{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Professional bully{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1723
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Профессиональный хулиган{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Professional bully{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1893
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы - давний хулиган со стажем, который знает толк в извращениях... Но самое главное, что вы понимаете - как не попадаться на глаза другим, чтобы не принести вред своей деятельностью вашей академической успеваемости.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- К вашим академическим оценкам прибавляется число, равное вашему авторитету на постоянной основе. Каждое новое очко авторитета будет увеличивать вашу успеваемость, а каждое потерянное же наоборот, уменьшать."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You are an old bully with experience who knows a lot about perversions... But the most important thing is that you understand how not to catch the eye of others so as not to harm your academic performance with your activities.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- A number equal to your standing authority is added to your academic grades. Each new credibility point will increase your performance, and each lost one, on the contrary, will decrease."
+# TODO: Translation updated at 2022-07-27 10:07
+
+translate english strings:
+
+    # game/items_backpack.rpy:282
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Ждать новых обновлений.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for new updates.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:285
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пригласить Мейко на свидание\nс помощью телефона в выходные{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Invite Meiko on a date use\nyour phone on the weekend{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:291
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подойти к бассейну в\nучебном заведении в урочное время\nчерез неделю.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the pool at the\neducational institution at the\nappointed time in a week.{/color}{/size}{/font}"
+# TODO: Translation updated at 2022-08-15 11:31
+
+translate english strings:
+
+    # game/items_backpack.rpy:123
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Поговорить с Хитоми в клубе\nжурналистики и хулиганами\nна заброшенном заводе{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Talk to Hitomi at the journalism\nclub and the hooligans at\nthe abandoned factory{/color}{/size}{/font}"
+# TODO: Translation updated at 2022-08-24 17:58
+
+translate english strings:
+
+    # game/items_backpack.rpy:1753
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Талант к обучению{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Talent for learning{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1755
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Талант к обучению{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Talent for learning{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1776
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Маркетолог{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Marketing specialist{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1778
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Маркетолог{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Marketing specialist{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1955
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Как ни странно, но вы были уже рождены талантливым. Вы все впитываете, как губка, а любой материал, озвученный где-либо, вы запоминаете на раз два. Это ли не чудо?\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- К полученному опыту будет прибавляться 10 процентов."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Oddly enough, but you were already born talented. You absorb everything like a sponge, and you memorize any material voiced anywhere. Isn't this a miracle?\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- 10 percent will be added to the experience gained."
+
+    # game/items_backpack.rpy:1962
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}У вас есть особенные навыки к общению с людьми, да и если так призадуматься, вы найдете к любому нужный подход... Является ли это нужным умением? Несомненно. Но из-за слишком сильной назойливости можно получить и в нос...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Рандомизированные НПС устают от диалогов с вами на 15 процентов меньше."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You have special skills to communicate with people, and if you think about it, you will find the right approach to anyone... Is this a necessary skill? Undoubtedly. But because of too much importunity, you can get in the nose...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Randomized NPCs get tired of dialogues with you by 15 percent less."
+# TODO: Translation updated at 2022-09-05 10:50
+
+translate english strings:
+
+    # game/items_backpack.rpy:132
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подойти в кабинет\nстуденческого совета.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the student\ncouncil office.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:135
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подойти в кабинет\nклуб вокала.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the office\nvocal club..{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:297
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Позвонить Хитоми и\nпригласить ее на свидание..{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Call Hitomi and\nsk her out..{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1817
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Эксгибиционист{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Exhibitionist{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:1819
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Эксгибиционист{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Exhibitionist{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2010
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Любовь к эксгибиционизму - то, что при вас было всегда... Лишь сейчас вы раскрыли эти особенности своего характера и решили воспользоваться ими на полную.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Вы можете ходить в обнаженном виде и в нижнем белье."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}The love of exhibitionism is something that you have always had... Only now have you revealed these features of your character and decided to take full advantage of them.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- You can walk around in the nude and in your underwear."
+# TODO: Translation updated at 2022-09-14 12:04
+
+translate english strings:
+
+    # game/items_backpack.rpy:1322
+    old "{size=30}{color=#505050}ИНТЕЛЛЕКТ{/color}{/size}"
+    new "{size=30}{color=#505050}iNTELLIGENCE{/color}{/size}"
+
+    # game/items_backpack.rpy:1334
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} с помощью посещениия занятий в академии, обучения в библиотеке, выполнения домашней работы в библиотеке или дома, во время ивентов.\n\n{size=26}Нужно для:{size=24} более быстрого прокачивания атрибутов, быстрой прокачки уровня (дается больше очков опыта за любое действие в процентном соотношении), выборов в ивентах.{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} by attending classes at academy, studying in the library, doing homework in the library or at home, during events.\n\n{size=26}It is necessary for:{size=24} faster improving of attributes, faster leveling (more experience points are given for any action as a percentage), elections in events.{/color}{/size}"
+
+    # game/items_backpack.rpy:1338
+    old "{size=30}{color=#505050}СИЛА{/color}{/size}"
+    new "{size=30}{color=#505050}FORCES{/color}{/size}"
+
+    # game/items_backpack.rpy:1350
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} с помощью отжимания в вашей квартире, при драках, подработка в магазине, во время ивентов.\n\n{size=26}Нужно для:{size=24} драк, грузоподъемности, выборов в ивентах, запугиваний, результатов некоторых ивентов.{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} with the help of push-ups in your apartment, during fights, part-time work in the store, during events.\n\n{size=26}It is necessary for:{size=24} fights, lifting capacity, elections in events, intimidation, the results of some events.{/color}{/size}"
+
+    # game/items_backpack.rpy:1354
+    old "{size=30}{color=#505050}ВЫНОСЛИВОСТЬ{/color}{/size}"
+    new "{size=30}{color=#505050}STAMINA{/color}{/size}"
+
+    # game/items_backpack.rpy:1366
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} с помощью отжимания в вашей квартире, бега в парке, плавания на пляже и бассейне, при драках, подработка в магазине, во время ивентов.\n\n{size=26}Нужно для:{size=24} драк, грузоподъемности, длительность секса с рандомизированными НПС, выборов в ивентах, запугиваний, результатов некоторых ивентов.{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} with the help of push-ups in your apartment, running in the park, swimming on the beach and pool, during fights, part-time work in the store, during events.\n\n{size=26}It is necessary for:{size=24} fights, carrying capacity, duration of sex with randomized NPCs, elections in events, intimidation, the results of some events.{/color}{/size}"
+
+    # game/items_backpack.rpy:1370
+    old "{size=30}{color=#505050}ЛОВКОСТЬ{/color}{/size}"
+    new "{size=30}{color=#505050}DEXTERITY{/color}{/size}"
+
+    # game/items_backpack.rpy:1382
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} с помощью бега в парке, плавания на пляже и бассейне, при драках, подработка в магазине, во время ивентов.\n\n{size=26}Нужно для:{size=24} драк, выборов в ивентах, запугиваний, результатов некоторых ивентов.{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} with the help of running in the park, swimming on the beach and pool, during fights, part-time work in the store, during events.\n\n{size=26}It is necessary for:{size=24} fights, elections in events, intimidation, the results of some events.{/color}{/size}"
+
+    # game/items_backpack.rpy:1386
+    old "{size=30}{color=#505050}КРАСНОРЕЧИЕ{/color}{/size}"
+    new "{size=30}{color=#505050}ELOQUENCE{/color}{/size}"
+
+    # game/items_backpack.rpy:1398
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} общаться с рандомизированными НПС, во время ивентов.\n\n{size=26}Нужно для:{size=24} повышение отношений с рандомизированными НПС выше, они с большей вероятностью соглашаются контактировать с вами, меньше устают от диалогов. Кроме того, красноречие влияет на результаты некоторых ивентов и выборы.{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} communicate with randomized NPCs, during events.\n\n{size=26}It is necessary for:{size=24} the increase in relations with randomized NPCs is higher, they are more likely to agree to contact you, less tired of dialogues. In addition, eloquence affects the results of some events and elections.{/color}{/size}"
+
+    # game/items_backpack.rpy:1402
+    old "{size=30}{color=#505050}ХИТРОУМИЕ{/color}{/size}"
+    new "{size=30}{color=#505050}CUNNINGNESS{/color}{/size}"
+
+    # game/items_backpack.rpy:1414
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} во время ивентов, зависит от атрибута интеллекта и красноречия.\n\n{size=26}Нужно для:{size=24} выборов в ивентах, более быстрой прокачки опыта (из-за этого атрибута требуется меньше опыта, чтобы прокачать уровень).{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} during events, depends on the attribute of intelligence and eloquence.\n\n{size=26}It is necessary for:{size=24} elections in events, faster experience leveling (because of this attribute, less experience is required to level up).{/color}{/size}"
+
+    # game/items_backpack.rpy:1418
+    old "{size=30}{color=#505050}АВТОРИТЕТ{/color}{/size}"
+    new "{size=30}{color=#505050}AUTHORITY{/color}{/size}"
+
+    # game/items_backpack.rpy:1430
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} драться, издеваться над рандомизированными НПС, вести себя, как хулиган. Также может прокачаться от ивентов.\n\n{size=26}Нужно для:{size=24} агрессивные действия проходят с большей вероятностью, есть варианты в ивентах, требующие авторитета, а также дается постоянный бонус к отношению с коммуной хулиганов.{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} fight, mock randomized NPCs, behave like a bully. It can also be pumped from events.\n\n{size=26}It is necessary for:{size=24} aggressive actions are more likely to take place, there are options in events that require authority, and a permanent bonus is also given to the relationship with the community of hooligans.{/color}{/size}"
+
+    # game/items_backpack.rpy:1434
+    old "{size=30}{color=#505050}УДАЧА{/color}{/size}"
+    new "{size=30}{color=#505050}LUCKY{/color}{/size}"
+
+    # game/items_backpack.rpy:1446
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} молиться в храме, бросать монетку в фонтан парка, подработка в храме, прокачивать перки.\n\n{size=26}Нужно для:{size=24} влияет практически на все в игре: с некоторым шансом, который зависит от показателя удачи, может даться х2 опыта, дается больше денег за работу, меньший шанс, что узнают о ваших изменах, меньший шанс, что хулиганы будут вас грабить и т.д...{/color}{/size}"
+    new "{size=26}{color=#505050}You can imroving:{size=24} praying in the temple, throwing a coin into the fountain of the park, part-time work in the temple, pumping perks.\n\n{size=26}It is necessary for:{size=24} it affects almost everything in the game: with some chance, which depends on the luck indicator, x2 experience may be given, more money is given for work, less chance that girls will find out about your infidelities, less chance that hooligans will rob you, etc...{/color}{/size}"
+
+    # game/items_backpack.rpy:2031
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Прохвост{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Scoundrel{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2033
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Прохвост{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Scoundrel{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2054
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Взломанная база данных{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Hacked database{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2056
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Взломанная база данных{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Hacked database{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2077
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Консервативный инвестор{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Conservative Investor{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2079
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Консервативный инвестор{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Conservative Investor{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2116
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Сигареты - самый лучший способ расслабиться после стрессовых ситуаций. Именно это вы поняли, постоянно выкуривая каждую новую никотиновую палочку смерти. В конце концов, злоупотребляя этим, ваш уровень расслабления стал в разы выше, а ваши мышцы странным образом восстанавливаются после каждой выкуренной сигареты... Магия!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Сигареты восстанавливают в три раза больше энергии.\n{color=ab4040}- Вы становитесь зависимым от курения сигарет."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Cigarettes are the best way to relax after stressful situations. That's what you realized, constantly smoking out each new nicotine stick of death. In the end, abusing it, your level of relaxation has become many times higher, and your muscles are strangely restored after each cigarette smoked... Magic!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Cigarettes restore three times more energy.\n{color=ab4040}- You become addicted to smoking cigarettes."
+
+    # game/items_backpack.rpy:2123
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Репутации и деньги - пыль, которую можно приумножить, если знать, когда вложиться... К счастью, вы вложились в правильное русло и теперь получаете свои дивиденды в виде небольшой прибавки к заработной плате, а ваши коллеги то и дело засматриваются на вас в немом вопросе о вашем благосостоянии... Правда консервативные методы сохранения капитала не для вас. Вы - агрессивны. Даже слишком...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Заработная плата в продуктовом магазине поднимается на 20 процентов.\n- В зависимости от вашей удачи ваша репутация может повысится на определенное значение каждую новую смену.\n{color=ab4040}- Вклады в банке дают меньше на один процент прибыли."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Reputations and money are dust that can be multiplied if you know when to invest... Fortunately, you have invested in the right direction and now you receive your dividends in the form of a small increase in wages, and your colleagues keep staring at you in a dumb question about your well-being... True, conservative methods of capital preservation are not for you. You are aggressive.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Wages in the grocery store are rising by 20 percent.\n- Depending on your luck, your reputation may increase by a certain value each new shift.\n{color=ab4040}- Deposits in the bank give less than one percent profit."
+
+    # game/items_backpack.rpy:2137
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С детства ваша обучаемость удивляла, а к юношеству она достигла своего пика. Как ни странно, но сейчас она и вовсе пугает... Смотря на вас, возникает ощущение, что вам хватит одного лишь взгляда, чтобы чему-то научиться.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Каждый раз, когда вы успешно засыпаете, а также общаетесь с рандомизированным НПС, вам выдаются очки опыта. (Намного меньше, нежели за обучение в академии.)\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Каждый внутриигровой час дается одна единица опыта с 50 процентным шансом. Кроме того, от показателя атрибута удачи может даться не единица опыта, а две единицы."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since childhood, your learning ability has been surprising, and by adolescence it has reached its peak. Oddly enough, but now she is completely frightening... Looking at you, there is a feeling that just one glance is enough for you to learn something.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Every time you successfully fall asleep, as well as communicate with a randomized NPC, you are given experience points. (Much less than academy fees.)\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40} - Each in-game hour is given one unit of experience with a 50 percent chance. In addition, from the luck attribute indicator, not one unit of experience can be given, but two units."
+
+    # game/items_backpack.rpy:2249
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы - давний хулиган со стажем, который знает толк в извращениях... Но самое главное, что вы понимаете - как не попадаться на глаза другим, чтобы не принести вред своей деятельностью вашей академической успеваемости.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- К вашим академическим оценкам прибавляется число, равное вашему авторитету на постоянной основе. Каждое новое очко авторитета будет увеличивать вашу успеваемость, а каждое потерянное же наоборот, уменьшать.\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Хулиганская репутация значительно увеличивается."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You are a long-time bully with experience who knows a lot about perversions... But the most important thing that you understand is how not to catch the eye of others, so as not to harm your academic performance with your activities.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- A number equal to your authority is added to your academic grades on an ongoing basis. Each new authority point will increase your academic performance, and each lost one, on the contrary, will decrease.\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Hooligan reputation increases significantly."
+
+    # game/items_backpack.rpy:2277
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С помощью определенных сетей вы заставили ваших ровесников верить в то, что может быть значительной неправдой... А ведь всего-то было достаточно распустить немного слухов.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Отношения со всеми рандомизированными НПС с высокой внушаемостью будут увеличены. Единоразовый эффект."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}With the help of certain networks, you have forced your peers to believe in what may be a significant untruth... But it was just enough to spread a few rumors.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Relationships with all randomized NPCs with high suggestibility will be increased. One-time effect."
+
+    # game/items_backpack.rpy:2284
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы совершенно случайно узнали об уязвимости местной базы данных в академии и решили воспользоваться своим шансом, дабы скорректировать свои оценки... В этом же нет ничего плохого, правда?\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Единовременно дает +500 баллв к общей академической успеваемости."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You accidentally found out about the vulnerability of the local database at the academy and decided to take your chance in order to adjust your grades... There's nothing wrong with that, right?\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Gives +500 points to the overall academic performance."
+
+    # game/items_backpack.rpy:2291
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы всегда были слишком консервативны в своих выборах, поэтому застрахованные государством банковские вклады - ваше все. Даже если они дают не такой уж и большой процент.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Процент банковского вклада выше на два процента."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You have always been too conservative in your elections, so government-insured bank deposits are your everything. Even if they do not give such a large percentage.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The percentage of the bank deposit is two percent higher."
+# TODO: Translation updated at 2022-09-26 00:09
+
+translate english strings:
+
+    # game/items_backpack.rpy:910
+    old "Ненавистный"
+    new "Hateful"
+
+    # game/items_backpack.rpy:910
+    old "Раздражающий"
+    new "Annoying"
+
+    # game/items_backpack.rpy:910
+    old "Кто ты?"
+    new "Who are you?"
+
+    # game/items_backpack.rpy:910
+    old "Неизвестный"
+    new "Unknown"
+
+    # game/items_backpack.rpy:910
+    old "Хороший парень"
+    new "Good guy"
+
+    # game/items_backpack.rpy:910
+    old "Немного известный"
+    new "A little famous"
+
+    # game/items_backpack.rpy:910
+    old "Знаменитость"
+    new "Celebrity"
+
+    # game/items_backpack.rpy:910
+    old "Местный идол"
+    new "Local idol"
+
+    # game/items_backpack.rpy:958
+    old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}Кандидат на пост главы студенческого совета.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}Candidate for the post of head of the Student Council.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1006
+    old "{u}{font=gui/fonts/alegreya.ttf}{size=32}{color=#282828}Репутация организаций:{/color}{/size}{/font}{/u}"
+    new "{u}{font=gui/fonts/alegreya.ttf}{size=32}{color=#282828}Reputation of organizations:{/color}{/size}{/font}{/u}"
+
+    # game/items_backpack.rpy:1019
+    old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Репутация у хулиганов: [reputationt_name] [[[reputationt_hooligansqs]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Reputation of hooligans: [reputationt_name] [[[reputationt_hooligansqs]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1020
+    old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Репутация у ровесников: [reputation_student_name] [[[reputation_student]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Reputation among peers: [reputation_student_name] [[[reputation_student]]{/color}{/size}{/font}"
+# TODO: Translation updated at 2022-10-02 21:28
+
+translate english strings:
+
+    # game/items_backpack.rpy:2155
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Преодолевая пределы{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Overcoming the Limits{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2157
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Преодолевая пределы{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Overcoming the Limits{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2376
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы, как герой одноименного аниме, преодолели все свои пределы и теперь у вас есть возможность стать еще сильнее!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Максимальное значение атрибутов становится не 100, а 120."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You, as the hero of the anime of the same name, have overcome all your limits and now you have the opportunity to become even stronger!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The maximum value of attributes becomes 120 instead of 100."
+# TODO: Translation updated at 2022-10-10 15:42
+
+translate english strings:
+
+    # game/items_backpack.rpy:117
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться события в клубе\nоккультизма. {size=24}(будь в локации клуба){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the event at the\noccult club. {size=24}(be in the location of the club){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:141
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить академию в будние дни.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the academy on weekdays.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:151
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пригласите 5 учеников в\nклуб оккультизма.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Invite 5 students to\nthe Occult club.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:157
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить комнату клуба оккультизма и\nпоговорить с Аяно.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the Occult club room and\ntalk to Ayano.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:180
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Узнать Аяно Ёшиду получше.\n{size=24}(улучшай с ней отношения){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Get to know Ayano Yoshida better.\n{size=24}(improve your relationship with her){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:182
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Поговорить с Аяно Ёшида об Юки\nОоте {size=24}(используй меню отношений с ней){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Talk to Ayano Yoshida about\nYuki Oota\n{size=24}(use the relationship menu with her){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:184
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Продолжать развивать клуб\nоккультизма\n{size=24}(улучшай популярность клуба оккультизма){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Continue to develop the\nOccult Club\n{size=24}(improve the popularity of the occult club){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:189
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Кажется, что единственный\nвариант был потерян...\n{size=24}(невозможно продолжать сюжет дальше){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}It seems that the only\noption has been lost...\n{size=24}(it is impossible to continue the plot further){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:191
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Познакомиться с Сузуки Мацуи\n{size=24}(продавщица продуктового магазина){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Meet Suzuki Matsui\n{size=24}(grocery store clerk){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:195
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить дом Аяно Ёшида\n{size=24}(отображается метка на карте){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the house of Ayano\nYoshida\n{size=24}(the placemark is displayed on the map){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:198
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Ждать начала выступления\n{size=24}(мотай время по 60 минут){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the start of the performance\n{size=24}(wind the time for 60 minutes){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:204
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Вернуться за желаемым на\nследующий день {size=24}(метка с домом Аяно Ёшида){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Come back for what you\nwant the next day {size=24}(the label with the house of Ayano Yoshida){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:206
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}У вас появилась возможность\nвстречаться с Аяно! {size=24}(опционально){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}You have the opportunity to\nmeet Ayano! {size=24}(optional){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:220
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить студенческий совет\nв академии.\n{size=24}(подлокация академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the student council\nat the Academy.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:226
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Проагитировать 5 учеников академии\nза Юки Ооту.\n{size=24}(используй меню взаимодействия с РНПС){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}To agitate 5 students of the\nacademy for Yuki Oota.\n{size=24}(use the interaction menu with RNPCs){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:231
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить кабинет студенческого совета.\n{size=24}(подлокация академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the Student Council office.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:248
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Набрать 400 очков популярности\nдля клуба оккультизма.\n{size=24}(используй меню управления клубом){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Score 400 Popularity points\nfor the Occult Club.\n{size=24}(use the club management menu){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:257
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться звонка Юки Ооты в\nвыходные между 16:00 и 20:00.\n{size=24}(мотай время по 60 минут){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for Yuki Oota's call on\nthe weekend between 16:00 and 20:00.\n{size=24}(wind the time for 60 minutes){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:260
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить кабинет студенческого совета.\n{size=24}(подлокация в академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the Student Council office.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:263
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пойти на урок.\n{size=24}(урочное время: 8:00, 10:00, 12:00, 14:00){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to lecture hall .\n{size=24}(time limit: 8:00, 10:00, 12:00, 14:00){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:266
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Идти в академию в промежутке между\n7:00 и 12:00.\n{size=24}(с некоторым шансом будет ивент){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the academy between 7:00\nand 12:00.\n{size=24}(with some chance there will be an event){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:269
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить кабинет клуба\nжурналистики.\n{size=24}(подлокация в академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the cabinet of\nthe journalism club.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:277
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подождать, пока Хитоми\nпозвонит вам сама.\n{size=24}(неделя, мотать время по 60 минут){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for Hitomi to call\nyou herself.\n{size=24}(a week, to wind the time for 60 minutes){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:279
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подойти к Аяно и \nпоговорить с ней насчет Юки.\n{size=24}(используй меню взаимодействия с Аяно){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go up to Ayano and talk\nto her about Yuki.\n{size=24}(use the interaction menu with Ayano){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:281
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться собрания\nстуденческого совета.\n{size=24}(пятница, может не выпасть с первого раза.){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the student\ncouncil meeting.\n{size=24}(Friday, may not fall out the first time.){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:285
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Ждать звонка Юки в\nпятницу между 16:00 и 20:00.\n{size=24}(мотай время по 60 минут){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for Yuki's call on\nFriday between 16:00 and 20:00.\n{size=24}(wind the time for 60 minutes){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:287
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Идти в клуб журналистики.\n{size=24}(подлокация в академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the journalism club.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:289
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Ждать звонка Юки Ооты.\n{size=24}(мотай время по 60 минут){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for Yuki Oota's call.\n{size=24}(wind the time for 60 minutes){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:291
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Идти в кабинет студенческого\nсовета в 16:00 в пятницу.\n{size=24}(подлокация в академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the student council\noffice at 16:00 on Friday.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:339
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Идти в клуб оккультизма.\n{size=24}(подлокация в академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the Occult club.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:353
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подождать последствий ваших\nдействий.\n{size=24}(в подлокациях академии){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the consequences of\nyour actions.\n{size=24}(the academy's sublocation){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:356
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Перемотать время на 60 минут\nв академии.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Rewind the time by 60 minutes\nat the academy.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1463
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} с помощью бега в парке, плавания на пляже и бассейне, при драках, подработка в магазине, во время ивентов.\n\n{size=26}Нужно для:{size=24} драк, в процентном соотношении тратится меньше энергии и сытости (максимум 40 процентов), выборов в ивентах, запугиваний, результатов некоторых ивентов.{/color}{/size}"
+    new "{size=26}{color=#505050}You can improve:{size=24} with the help of running in the park, swimming on the beach and pool, during fights, part-time work in the store, during events.\n\n{size=26}It is necessary for:{size=24} fights, as a percentage, less energy and satiety is spent (maximum 40 percent), elections in events, intimidation, the results of some events.{/color}{/size}"
+
+    # game/items_backpack.rpy:2204
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Местный переговорщик{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Local negotiator{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2206
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Местный переговорщик{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Local negotiator{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2227
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Бесконечная энергия{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Infinite energy{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2229
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Бесконечная энергия{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Infinite energy{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2250
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Убитый желудок{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}A dead stomach{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2252
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Убитый желудок{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}A dead stomach{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2478
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваше умение вести переговоры с продавцами достигли всех возможных высот, поэтому вам могут найти нужный продукт даже где-то в закромах...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Продуктов в продуктовый магазин завозят в 2 раза больше."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your ability to negotiate with sellers has reached all possible heights, so you can find the right product even somewhere in the bins...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Products are delivered to the grocery store 2 times more."
+
+    # game/items_backpack.rpy:2485
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С самого раннего детства вы научились правильно экономить свою энергию и энергетические запасы. Правильный шаг, правильный поворот туловища - абсолютно каждое ваше движение идеально и экономно.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ваша энергия на любое действие потребляет на 15 процентов меньше."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since early childhood, you have learned how to properly save your energy and energy reserves. The right step, the right turn of the torso - absolutely every movement of yours is perfect and economical.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Your energy for any action consumes 15 percent less."
+
+    # game/items_backpack.rpy:2492
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваш желудок был настолько убит неправильной пищей, что вы почти не испытываете голода... Конечно, в этом мало чего хорошего, однако, все равно есть свои плюсы.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ваша сытость убывает на любое действие на 15 процентов меньше."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your stomach has been so killed by the wrong food that you almost don't feel hungry... Of course, there is little good in this, however, there are still advantages.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Your satiety decreases for any action by 15 percent less."
+
+# TODO: Translation updated at 2022-10-12 23:02
+
+translate english strings:
+
+    # game/items_backpack.rpy:2312
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Ускоренный метаболизм{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Accelerated metabolism{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2314
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Ускоренный метаболизм{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Accelerated metabolism{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2336
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Бесконечная кладезь{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}An endless storehouse{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2338
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Бесконечная кладезь{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}An endless storehouse{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2360
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Титановый скелет{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Titanium Skeleton{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2362
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Титановый скелет{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Titanium Skeleton{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2609
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Казалось бы, прекрасная способность есть и не толстеть, но не для бедного студента... Вы больше едите и можете сохранять больше энергии для каких-либо действий, однако, лучше не переусердствовать...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Максимум энергии повышается на 30 единиц.\n{color=ab4040}- Сытость тратится на 20 процентов быстрее."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}It would seem that a wonderful ability to eat and not get fat, but not for a poor student... You eat more and can save more energy for any action, however, it is better not to overdo it...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The maximum energy increases by 30 units.\n{color=ab4040}- Satiety is spent 20 percent faster."
+
+    # game/items_backpack.rpy:2616
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы можете объедаться до небывалых масштабов! Как ни странно, но это ваша способность. Отягащающая и иногда заставляющая задуматься о смысле жизни.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Максимум сытости повышается на 100 единиц.\n{color=ab4040}- Энергия тратится на 20 процентов бысрее."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You can overeat to an unprecedented scale! Oddly enough, this is your ability. Burdensome and sometimes makes you think about the meaning of life.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The maximum satiety increases by 100 units.\n{color=ab4040}- Energy is spent 20 percent faster."
+
+    # game/items_backpack.rpy:2623
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваша костная масса всегда была выше нормы. Наверное, именно поэтому вы никогда и ничего не ломали, как бы не пытались... Ну, или просто недостаточно пытались.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ваши конечности получают на 25 процентов меньше урона от активностей."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your bone mass has always been above normal. That's probably why you've never broken anything, no matter how hard you try... Well, or they just didn't try enough.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Your limbs take 25 percent less damage from activities."
+# TODO: Translation updated at 2022-11-03 21:12
+
+translate english strings:
+
+    # game/items_backpack.rpy:2387
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Прирожденный сортировщик{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}A born sorter{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2389
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Прирожденный сортировщик{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}A born sorter{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2411
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Ищейка{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Bloodhound{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2413
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Ищейка{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Bloodhound{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2435
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Мастер регенерации{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Master regeneration{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2437
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Мастер регенерации{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Master regeneration{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2459
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Альтруист{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Altruist{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2461
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Альтруист{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Altruist{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2483
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Стальная кожа{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Steel skin{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2485
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Стальная кожа{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Steel skin{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2753
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы всегда обладали крайне высоким уровнем внимательности и ловкостью рук, что делало вас отличным сортировщиком товаров. К счастью, эти навыки вам явно пригодились...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Показатель статуса до премии двигается в два раза быстрее в мини-игре."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You have always had an extremely high level of attentiveness and sleight of hand, which made you an excellent sorter of goods. Fortunately, these skills are clearly useful to you...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The status indicator before the bonus moves twice as fast in the mini-game."
+
+    # game/items_backpack.rpy:2760
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Кого бы вы не искали, вы всегда его найдете. Это давалось вам с ходу еще с самого раннего детства.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Поиск рандомизированных НПС с помощью функции найти персонажа работает с куда большей вероятностью."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Whoever you are looking for, you will always find him. It was given to you on the move from the earliest childhood.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The search for randomized NPCs using the find a character function is much more likely to work."
+
+    # game/items_backpack.rpy:2767
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Как ни странно, но ваши раны и другие повреждения заживают даже слишком быстро... И это в действительности удивительно.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Восстановление конечностей происходит в 1.5 раз быстрее."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Oddly enough, but your wounds and other injuries heal even too quickly... And this is really amazing.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Limb recovery is 1.5 times faster."
+
+    # game/items_backpack.rpy:2774
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Все ваши намерения чисты, отчего эффективность ваших подарков в значительной степени увеличивается. Ну, или вам так просто кажется...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Эффективность подарков рандомизированным НПС увеличивается в два раза."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}All your intentions are pure, which is why the effectiveness of your gifts is greatly increased. Well, or it just seems that way to you...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The effectiveness of gifts to randomized NPCs is doubled."
+
+    # game/items_backpack.rpy:2781
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ужасно толстая и крепкая кожа позволяет вам излишний раз не волноваться о повреждении кожных покровов. Конечно, это не так уж эффективно в разрезе от драк, но хоть что-то...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Урон по вашему персонажу в драках снижается на 20 процентов."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Terribly thick and strong skin allows you not to worry too much about damage to the skin. Of course, this is not so effective in the context of fights, but at least something...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Damage to your character in fights is reduced by 20 percent."
+# TODO: Translation updated at 2022-11-10 16:41
+
+translate english strings:
+
+    # game/items_backpack.rpy:1507
+    old "{size=25}{color=#505050}СЕКСУАЛЬНЫЙ ОПЫТ{/color}{/size}"
+    new "{size=25}{color=#505050}SEXUAL EXPERIENCE{/color}{/size}"
+
+    # game/items_backpack.rpy:1519
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} при сексе с рандомизированными НПС.\n\n{size=26}Нужно для:{size=24} контроля эякуляции в сцене секса с рандомизированными НПС, влияет на некоторые события в сценах с РНПС.{/color}{/size}"
+    new "{size=26}{color=#505050}You can improve:{size=24} when having sex with randomized NPCs.\n\n{size=26}It is necessary for:{size=24} control of ejaculation in a sex scene with randomized NPCs, affects some events in scenes with RNPS.{/color}{/size}"
+
+    # game/items_backpack.rpy:1523
+    old "{size=28}{color=#505050}КАРТЕЖНЫЙ ОПЫТ{/color}{/size}"
+    new "{size=28}{color=#505050}GAMBLING EXPERIENCE{/color}{/size}"
+
+    # game/items_backpack.rpy:1535
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} при игре в карты с рандомизированными НПС.\n\n{size=26}Нужно для:{size=24} дается больше очков для победы в игре в карты.{/color}{/size}"
+    new "{size=26}{color=#505050}You can improve:{size=24} when playing cards with randomized NPCs.\n\n{size=26}It is necessary for:{size=24} more points are given to win the card game.{/color}{/size}"
+
+    # game/items_backpack.rpy:1539
+    old "{size=30}{color=#505050}БОЕВОЙ ОПЫТ{/color}{/size}"
+    new "{size=30}{color=#505050}COMBAT EXPERIENCE{/color}{/size}"
+
+    # game/items_backpack.rpy:1551
+    old "{size=26}{color=#505050}Можно прокачивать:{size=24} при драках с рандомизированными НПС.\n\n{size=26}Нужно для:{size=24} дается больше очков здоровья в драках.{/color}{/size}"
+    new "{size=26}{color=#505050}You can improve:{size=24} when fighting with randomized NPCs.\n\n{size=26}It is necessary for:{size=24} more health points are given in fights.{/color}{/size}"
+
+    # game/items_backpack.rpy:1555
+    old "{size=24}{color=#505050}                 МОД.\nПРИВЛЕКАТЕЛЬНОСТИ{/color}{/size}"
+    new "{size=24}{color=#505050}                 MOD.\nATTRACTIVENESS{/color}{/size}"
+
+    # game/items_backpack.rpy:1567
+    old "{size=26}{color=#505050}\nМожно прокачивать:{size=24} при драках с рандомизированными НПС.\n\n{size=26}Нужно для:{size=24} дается больше очков здоровья в драках.{/color}{/size}"
+    new "{size=26}{color=#505050}\nYou can improve:{size=24} when fighting with randomized NPCs.\n\n{size=26}It is necessary for:{size=24} more health points are given in fights.{/color}{/size}"
+
+    # game/items_backpack.rpy:1571
+    old "{size=24}{color=#505050}              НАВЫКИ\nПРОГРАММИРОВАНИЯ{/color}{/size}"
+    new "{size=24}{color=#505050}              SKILLS\nPROGRAMMING{/color}{/size}"
+
+    # game/items_backpack.rpy:1583
+    old "{size=26}{color=#505050}\nМожно прокачивать:{size=24} при обучении программированию за ПК.\n\n{size=26}Нужно для:{size=24} быстрее выполняются заказы на фрилансе.{/color}{/size}"
+    new "{size=26}{color=#505050}\nYou can improve:{size=24} when learning programming on a PC.\n\n{size=26}It is necessary for:{size=24} freelance orders are executed faster.{/color}{/size}"
+
+    # game/items_backpack.rpy:1587
+    old "{size=24}{color=#505050}ФИЗИЧЕСКАЯ\nПОДГОТОВКА{/color}{/size}"
+    new "{size=24}{color=#505050}PHYSICAL\nRPEPARATION{/color}{/size}"
+
+    # game/items_backpack.rpy:1599
+    old "{size=26}{color=#505050}\nМожно прокачивать:{size=24} общий показатель физический атрибутов силы, ловкости и выносливости.\n\n{size=26}Нужно для:{size=24} ивентов.{/color}{/size}"
+    new "{size=26}{color=#505050}\nYou can improve:{size=24} the general indicator of the physical attributes of strength, agility and endurance.\n\n{size=26}It is necessary for:{size=24} events.{/color}{/size}"
+
+    # game/items_backpack.rpy:2569
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Быстрое насыщение{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Fast saturation{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2571
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Быстрое насыщение{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Fast saturation{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2593
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Гениальность{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Genius{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2595
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Гениальность{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Genius{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2617
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Торгаш{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Huckster{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2619
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Торгаш{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Huckster{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2641
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Мул{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}The Mule{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2643
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Мул{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}The Mule{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2946
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}За время своей небольшой и недолгой жизни вы научились поглащать из пищи все полезные микро и макро элементы. Вот это да!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Любая пища восстанавливает вашему персонажу на 35 процентов больше сытости."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}During your short and short life, you have learned to absorb all the useful micro and macro elements from food. Wow!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Any food restores 35 percent more satiety to your character."
+
+    # game/items_backpack.rpy:2953
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваша обучаемость находится на прекрасном уровне! Похоже, что вы можете поглащать информацию за информацией без каких-либо проблем.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Атрибуты прокачиваются на 50 процентов быстрее."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your learning ability is at an excellent level! It looks like you can absorb information after information without any problems.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Attributes are pumped 50 percent faster."
+
+    # game/items_backpack.rpy:2960
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Умение торговать - ваше все. Однако, все еще не слишком понятно, как у вас получается получать скидки в продуктовых магазинах...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Все товары в продуктовом магазине и магазине одежды стоят на 25 процентов дешевле."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}The ability to trade is your everything. However, it is still not too clear how you manage to get discounts in grocery stores...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- All products in the grocery store and clothing store are 25 percent cheaper."
+
+    # game/items_backpack.rpy:2967
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваш хребет настолько крепок, что, казалось бы, вы можете перетащить тонну на нем. Однако, проверять это все же не стоит...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Максимально переносимый вес больше на 8 кг."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your spine is so strong that it would seem you can drag a ton on it. However, it is still not worth checking...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The maximum portable weight is more than 8 kg."
+
+# TODO: Translation updated at 2022-11-13 21:02
+
+translate english strings:
+
+    # game/items_backpack.rpy:1022
+    old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Репутация у хулиганов: [reputationt_name!t] [[[reputationt_hooligansqs]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Reputation of hooligans: [reputationt_name!t] [[[reputationt_hooligansqs]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1023
+    old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Репутация у ровесников: [reputation_student_name!t] [[[reputation_student]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Reputation among peers: [reputation_student_name!t] [[[reputation_student]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:2665
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Хороший доктор{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}A good doctor{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2667
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Хороший доктор{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}A good doctor{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2998
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваши врачебные навыки находятся на абсолютно прекрасном уровне. Можно даже сказать, что вы можете вылечить практически все, что угодно.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Аптечки лечат не 25 единиц здоровья конечности, а 40"
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your medical skills are at an absolutely excellent level. You can even say that you can cure almost anything.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- First aid kits treat not 25 units of limb health, but 40"
+# TODO: Translation updated at 2022-11-15 15:40
+
+translate english strings:
+
+    # game/items_backpack.rpy:2689
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Скандалист{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}The Brawler{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2691
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Скандалист{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}The Brawler{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2713
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Здесь и сейчас{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Here and now{/size}{/color}"
+
+    # game/items_backpack.rpy:2715
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Здесь и сейчас{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Here and now{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2737
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Необучаемый{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Untrained{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2739
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Необучаемый{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Untrained{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2761
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Врачеватель{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}The Healer{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2763
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Врачеватель{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}The Healer{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:3094
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваши врачебные навыки находятся на абсолютно прекрасном уровне. Можно даже сказать, что вы можете вылечить практически все, что угодно.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Аптечки лечат не 25 единиц здоровья конечности, а 40 единиц."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your medical skills are at an absolutely excellent level. You can even say that you can cure almost anything.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- First aid kits treat not 25 units of limb health, but 40 units."
+
+    # game/items_backpack.rpy:3101
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваше постоянное желание драться и изучать что-то новое принесло свои плоды - вы начали понимать, как драться, на чисто интуитивном уровне. К сожалению для ваших противников...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Вашему персонажу дается 40 очков боевого опыта перманентно."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your constant desire to fight and learn something new has borne fruit - you have begun to understand how to fight, on a purely intuitive level. Unfortunately for your opponents...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Your character is given 40 combat experience points permanently."
+
+    # game/items_backpack.rpy:3108
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Резкое просвещение ударило вам в голову. Да, и такое бывает!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ваш уровень повышается на две единицы."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}A sharp enlightenment has hit you in the head. Yes, and it happens!\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Your level increases by two units."
+
+    # game/items_backpack.rpy:3115
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Однажды вам на голову упал кирпич. Это в значительной степени повлияло на ваши интеллектуальные способности, но даже в этом есть плюсы - вам добавились некоторые знания из-за этого странного события. Этот перк можно выбрать только до пятого уровня.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ваш уровень повышается на четырнадцать единицы.\n{color=ab4040}- Вашему персонажу дается на 50 процентов меньше опыта от любой деятельности."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}One day a brick fell on your head. This has greatly affected your intellectual abilities, but even in this there are advantages - you have added some knowledge because of this strange event. This perk can only be selected up to the fifth level.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Your level increases by fourteen units.\n{color=ab4040}- Your character is given 50 percent less experience from any activity."
+
+    # game/items_backpack.rpy:3122
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Умение пользоваться аптечкой или перекисью водорода - всегда полезное умение, тем более для человека, который постоянно активничает.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Ваш персонаж сможет лечить конечности с помощью аптечки."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}The ability to use a first aid kit or hydrogen peroxide is always a useful skill, especially for a person who is constantly active.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Your character will be able to treat limbs with a first aid kit."
+# TODO: Translation updated at 2022-11-27 08:38
+
+translate english strings:
+
+    # game/items_backpack.rpy:1281
+    old "{size=28}{color=#505050}[cooking]{/color}{/size}"
+    new "{size=28}{color=#505050}[cooking]{/color}{/size}"
+
+    # game/items_backpack.rpy:1291
+    old "{size=28}{color=#505050}Кулинарный опыт{/color}{/size}"
+    new "{size=28}{color=#505050}Culinary experience{/color}{/size}"
+# TODO: Translation updated at 2022-12-12 15:19
+
+translate english strings:
+
+    # game/items_backpack.rpy:1569
+    old "{size=26}{color=#505050}Зависит от:{size=24} уровня красноречия, особенностей внешности.\n\n{size=26}Нужно для:{size=24} дается больше очков отношений при общении, РНПС согласны взимодействовать с вами гораздо охотнее.{/color}{/size}"
+    new "{size=26}{color=#505050}Depends on:{size=24} the level of eloquence, features of appearance.\n\n{size=26}It is necessary for:{size=24} more relationship points are given when communicating, RNPCs agree to cooperate with you much more willingly.{/color}{/size}"
+
+    # game/items_backpack.rpy:2787
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Опытный{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Experienced{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2789
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Опытный{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Experienced{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2811
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Разработчик ИИ{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}AI Developer{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2813
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Разработчик ИИ{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}AI Developer{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:3179
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Опыт в дарении подарков подсказывает вам, что понравится вашему собеседнику, а что нет. Полезная возможность для потенциального пикапера...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- При дарении подарков будет отображаться, сколько отношений они будут давать."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Experience in giving gifts tells you what your interlocutor will like and what will not. A useful opportunity for a potential pick-up truck...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- When giving gifts, it will display how many relationships they will give."
+
+    # game/items_backpack.rpy:3186
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Долгое время разрабатывая ИИ, вы в своем познании настолько преисполнились, что знаете все шансы на успешный диалог и взаимодействия с людьми.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Некоторые взаимодействия в меню взаимодействия с РНПС будет иметь процент шанса на успешность."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Having been developing AI for a long time, you are so filled with your knowledge that you know all the chances for a successful dialogue and interaction with people.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Some interactions in the interaction menu with the RNPCs will have a percentage chance of success."
+
+# TODO: Translation updated at 2022-12-20 21:14
+
+translate english strings:
+
+    # game/items_backpack.rpy:2835
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Быстрое восстановление{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Fast recovery{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2837
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Быстрое восстановление{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Fast recovery{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2859
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Готовые домашние задания{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Completed homework{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2861
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Готовые домашние задания{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Completed homework{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:3241
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Ваши мышцы очень быстро восстанавливаются, поэтому для их нагрузки нужно немного больше усилий... Впрочем, вы явно не против таких раскладов.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Вы можете заниматься бегом в парке и отжиматься в два раза больше доступного."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Your muscles recover very quickly, so you need a little more effort to load them... However, you obviously do not mind such layouts.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- You can run in the park and do push-ups twice as much as available."
+
+    # game/items_backpack.rpy:3248
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Вы настолько преисполнились в своем сознании, что без особых проблем можете воспользоваться сайтами с готовыми домашними заданиями, чтобы сэкономить свое время на этои ужасном деле...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Вы сможете выполнять домашние задания со сто процентной вероятностью."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}You are so filled in your mind that you can use websites with ready-made homework without any problems to save your time on this terrible business...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- You will be able to do your homework with a hundred percent probability."
+# TODO: Translation updated at 2022-12-28 00:41
+
+translate english strings:
+
+    # game/items_backpack.rpy:2883
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Постоянный беглец{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Permanent fugitive{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2885
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Постоянный беглец{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Permanent fugitive{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:3279
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Проблемы с хулиганами заставили вас приспособиться ко всей этой жизни, и вы нвчали намного чаще пользоваться ногами. К счастью, не для излишнего применения насилия.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Шанс сбежать из драки выше на 45 процентов."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Problems with bullies forced you to adapt to this whole life, and you began to use your legs much more often. Fortunately, not for excessive use of violence.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- The chance to escape from a fight is 45 percent higher."
+# TODO: Translation updated at 2023-01-26 12:37
+
+translate english strings:
+
+    # game/items_backpack.rpy:1005
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер члена: очень маленький{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Penis size: very small{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1007
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер члена: маленький{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Penis size: small{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1009
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер члена: средний{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Penis size: medium{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1011
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер члена: большой{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Penis size: large{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:2943
+    old "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Превозмогающий{/font}{/size}{/color}"
+    new "{color=#ffffff}{size=28}{font=gui/fonts/alegreya.ttf}Overpowering{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:2945
+    old "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Превозмогающий{/font}{/size}{/color}"
+    new "{color=#282828}{size=28}{font=gui/fonts/alegreya.ttf}Overpowering{/font}{/size}{/color}"
+
+    # game/items_backpack.rpy:3346
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Отравление, побои после драк - абсолютно любая активность, вызывающая период восстановления, занимает у вас гораздо меньше времени. Благо, что эта особенность у вас была в крови еще давно...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Восстановление от отравлений и после драк занимает в два раза меньше времени."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Poisoning, beatings after fights - absolutely any activity that causes a recovery period takes you much less time. Fortunately, you had this feature in your blood for a long time...\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Recovery from poisoning and after fights takes two times less time."
+# TODO: Translation updated at 2023-02-14 10:42
+
+translate english strings:
+
+    # game/items_backpack.rpy:114
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться вызова в кабинет\nдстуденческого совета. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for a call to the office\nstudent council. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:117
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться события в клубе\nоккультизма. {size=24}(будь в локации клуба ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the event in the club\noccultism. {size=24}(be in the location of the club ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:123
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Поговорить с Хитоми в клубе\nжурналистики и хулиганами\nна заброшенном заводе ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Talk to Hitomi at the club\njournalism and bullies\nat an abandoned factory ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:132
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подойти в кабинет\nстуденческого совета. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Come to the office\nstudent council. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:135
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подойти в кабинет\nклуб вокала. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Come to the office\nvocal club. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:138
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Ждать новых обновлений. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for new updates. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:141
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить академию в будние дни. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the Academy on weekdays. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:144
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}У вас нет заданий, выданных\nданным персонажем. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}You have no tasks issued\nby this character. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:148
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетите клуб оккультизма,\nчтобы сдать задание. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the Occult Club,\nto pass the task. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:151
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пригласите 5 учеников в\nклуб оккультизма. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Invite 5 students to\nthe occult club. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:154
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Подписать анкету в инвентаре, чтобы\nвступить в клуб оккультизма. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Sign the questionnaire in the inventory\nto join the occult club. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:157
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить комнату клуба оккультизма и\nпоговорить с Аяно. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the Occult club room and\ntalk to Ayano. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:163
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Узнать Аяно Ёшиду получше. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Get to know Ayano Yoshida better. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:168
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Вернуться обратно в клубную\nкомнату и поговорить с Аяно. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go back to the club\nroom and talk to Ayano. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:174
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Познакомиться с Юки Оотой,\nвыполнив ее первое задание. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Meet Yuki Oota,\nhaving completed her first task. ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:180
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Узнать Аяно Ёшиду получше.\n{size=24}(улучшай с ней отношения ID: [[[ayano_quest]]){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Get to know Ayano Yoshida better.\n{size=24}(improve your relationship with her ID: [[[ayano_quest]]){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:182
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Поговорить с Аяно Ёшида об Юки\nОоте {size=24}(используй меню отношений с ней ID: [[[ayano_quest]]){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Talk to Ayano Yoshida about Yuki\nOota {size=24}(use the relationship menu with her ID: [[[ayano_quest]]){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:184
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Продолжать развивать клуб\nоккультизма\n{size=24}(улучшай популярность клуба оккультизма ID: [[[ayano_quest]]){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Continue to develop the club\noccultism\n{size=24}(improve the popularity of the occult club ID: [[[ayano_quest]]){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:187
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Попросить Сузуки Мацуи вам\nпомочь ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Ask Suzuki Matsui for you\nto help ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:191
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Познакомиться с Сузуки Мацуи\n{size=24}(продавщица продуктового магазина ID: [[[ayano_quest]]){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Meet Suzuki Matsui\n{size=24}(grocery store clerk ID: [[[ayano_quest]]){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:193
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Сообщить Аяно Ёшида о том, что вы\nнашли ей напарника ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Inform Ayano Yoshida that you\nfound her a partner ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:195
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Посетить дом Аяно Ёшида\n{size=24}(отображается метка на карте ID: [[[ayano_quest]]){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Visit the house of Ayano Yoshida\n{size=24}(the placemark is displayed on the map ID: [[[ayano_quest]]){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:198
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Ждать начала выступления\n{size=24}(мотай время по 60 минут) ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the start of the performance\n{size=24}(wind the time for 60 minutes) ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:200
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Договориться с Юки о выдаче\nпомещения ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Negotiate with Yuki about the issue\npremises ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:204
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Вернуться за желаемым на\nследующий день {size=24}(метка с домом Аяно Ёшида ID: [[[ayano_quest]]){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go back for the desired on\nthe next day {size=24}(the label with the house of Ayano Yoshida ID: [[[ayano_quest]]){/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:206
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}У вас появилась возможность\nвстречаться с Аяно! {size=24}(опционально) ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}You have an opportunity\ndating ayano! {size=24}(optional) ID: [[[ayano_quest]]{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:208
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться Аяно у себя дома\nв выходные дни ID: [[[ayano_quest]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for Ayano at home\non weekends ID: [[[ayano_quest]]{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-02-24 11:29
+
+translate english strings:
+
+    # game/items_backpack.rpy:189
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пойти в парк в 21:00."
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to the park in 21:00."
+
+    # game/items_backpack.rpy:191
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Пойти на работу в продуктовый магазин в любое время."
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Go to work at the grocery store at any time."
+# TODO: Translation updated at 2023-06-14 12:02
+
+translate english strings:
+
+    # game/items_backpack.rpy:2916
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}С детства ваша обучаемость удивляла, а к юношеству она достигла своего пика. Как ни странно, но сейчас она и вовсе пугает... Смотря на вас, возникает ощущение, что вам хватит одного лишь взгляда, чтобы чему-то научиться.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Каждый раз, когда вы успешно засыпаете, а также общаетесь с рандомизированным НПС, вам выдаются очки опыта. (Намного меньше, нежели за обучение в академии.)\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Каждый внутриигровой час дается две единицы опыта с 50 процентным шансом. Кроме того, от показателя атрибута удачи может даться не единица опыта, а три единицы."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}Since childhood, your learning ability has been surprising, and by adolescence it has reached its peak. Oddly enough, but now she is completely frightening... Looking at you, there is a feeling that just one glance is enough for you to learn something.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Every time you successfully fall asleep, as well as communicate with a randomized NPC, you are given experience points. ((Much less than academy fees.)\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40} - Each in-game hour is given two units of experience with a 50 percent chance. In addition, from the luck attribute indicator, not one unit of experience can be given, but three units."
+
+    # game/items_backpack.rpy:3014
+    old "{size=30}{font=gui/fonts/calibri_bold.ttf}Описание:\n{font=gui/fonts/calibri.ttf}{size=24}Перечитав множество литературы о гаремах, вы преисполнились в своем сознании и начали понимать, как работает женская ревновсть. Естественно, что это понимание привело вас к главному дзену - возможности избегать проблем с нею.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Бонус:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Рандомизированные НПС, с которыми встречается ваш персонаж, не могут более ревновать его вне зависимости от количество РНПС, с которыми у него есть отношения.\nВаш персонаж не может быть во френдзоне у рандомизированных НПС."
+    new "{size=30}{font=gui/fonts/calibri_bold.ttf}Description:\n{font=gui/fonts/calibri.ttf}{size=24}After rereading a lot of literature about harems, you were filled in your mind and began to understand how female jealousy works. Naturally, this understanding led you to the main zen - the ability to avoid problems with it.\n\n\n{size=30}{font=gui/fonts/calibri_bold.ttf}Bonus:\n{size=24}{font=gui/fonts/calibri.ttf}{color=7fab40}- Randomized NPCs that your character meets can no longer be jealous of him, regardless of the number of RNPCs with whom he has a relationship.Your character cannot be in the friend zone of randomized NPCs."
+# TODO: Translation updated at 2023-06-29 10:41
+
+translate english strings:
+
+    # game/items_backpack.rpy:1022
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер груди: маленький{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Breast size: Small{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1024
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер груди: очень маленький{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Breast size: very small{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1026
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер груди: средний{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Breast Size: Medium{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:1028
+    old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Размер груди: большой{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Breast Size: Large{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-07-06 21:48
+
+translate english strings:
+
+    # game/items_backpack.rpy:114
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться вызова в кабинет\nстуденческого совета. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for a call to the\nstudent council office. ID: [[[new_line_ayanp]]{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-07-09 11:39
+
+translate english strings:
+
+    # game/items_backpack.rpy:120
+    old "Первой букве"
+    new "The first letter"
+
+    # game/items_backpack.rpy:122
+    old "Последней букве"
+    new "The last letter"
+
+    # game/items_backpack.rpy:124
+    old "Идентификатору"
+    new "ID"
+
+    # game/items_backpack.rpy:126
+    old "Идентификатору реверс"
+    new "ID reverse"
+
+    # game/items_backpack.rpy:128
+    old "Полу персонажа [[М-Ж]"
+    new "Gender character [[M-F]"
+
+    # game/items_backpack.rpy:130
+    old "Полу персонажа [[Ж-М]"
+    new "Gender character [[F-M]"
+
+    # game/items_backpack.rpy:132
+    old "По отношениям"
+    new "By relationship"
+
+    # game/items_backpack.rpy:134
+    old "По отношениям реверс"
+    new "By relationship reverse"
+
+    # game/items_backpack.rpy:183
+    old "Местоположение: [location_npc]."
+    new "Location: [location_npc]."
+
+    # game/items_backpack.rpy:184
+    old "Отношения: [contact_npc]."
+    new "Relationships: [contact_npc]."
+
+    # game/items_backpack.rpy:185
+    old "Привязанность: [love_npc]."
+    new "Attachment: [love_npc]."
+
+    # game/items_backpack.rpy:186
+    old "Страх: [fear_npc]."
+    new "Fear: [fear_npc]."
+# TODO: Translation updated at 2023-07-09 11:54
+
+translate english strings:
+
+    # game/items_backpack.rpy:225
+    old "Состоит в классе 3-[class_npc], [age_npc] [choic!t]."
+    new "In the class 3-[class_npc], [age_npc] [choic!t]."
+# TODO: Translation updated at 2023-07-28 11:45
+
+translate english strings:
+
+    # game/items_backpack.rpy:356
+    old "Первой букве [diary_variable]"
+    new "The first letter [diary_variable]"
+
+    # game/items_backpack.rpy:414
+    old "Состоит в классе 3-[class_npc], [age_npc] [choic!t] [npc_id] [npc_id10]."
+    new ""
+
+    # game/items_backpack.rpy:442
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться вызова в кабинет\nстуденческого совета.{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the call to the office\nof the student council.{/color}{/size}{/font}"
+
+    # game/items_backpack.rpy:445
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Дождаться события в клубе\nоккультизма. {size=24}(будь в локации клуба{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Wait for the event in the club\noccultism. {size=24}(be in the club location{/color}{/size}{/font}"
+# TODO: Translation updated at 2023-08-29 10:38
+
+translate english strings:
+
+    # game/items_backpack.rpy:990
+    old "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}200 единиц.{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=24}{color=#505050}200 unit.{/color}{/size}{/font}"
+# TODO: Translation updated at 2024-03-15 19:34
+
+translate english strings:
+
+    # game/items_backpack.rpy:1762
+    old "{font=gui/fonts/calibri_bold.ttf}{color=505050}{size=24}Цена: {size=26}{color=e3a042}[info!t]{font=gui/fonts/calibri.ttf}{size=24}{color=505050} очка прокачки"
+    new "{font=gui/fonts/calibri_bold.ttf}{color=505050}{size=24}Price: {size=26}{color=e3a042}[info!t]{font=gui/fonts/calibri.ttf}{size=24}{color=505050} points"
+
+# TODO: Translation updated at 2024-05-03 21:37
+
+translate english strings:
+
+    # game/items_backpack.rpy:250
+    old "{size=24}{color=#505050}ФЕРТИЛЬНОСТЬ{/color}{/size}"
+    new "{size=24}{color=#505050}FERTILITY{/color}{/size}"
+
+    # game/items_backpack.rpy:262
+    old "{size=26}{color=#505050}\nМожно прокачивать:{size=24} повышая значения физических атрибутов вашего персонажа.\n\n{size=26}Нужно для:{size=24} оплодотворения.{/color}{/size}"
+    new "{size=26}{color=#505050}\nCan up:{size=24} by increasing the values of your character's physical attributes.\n\n{size=26}It is necessary for:{size=24} fertilization.{/color}{/size}"
+
+    # game/items_backpack.rpy:1594
+    old "{size=28}{color=#505050}Фертильность{/color}{/size}"
+    new "{size=28}{color=#505050}Fertility{/color}{/size}"
+
+# TODO: Translation updated at 2024-06-01 21:48
+
+translate english strings:
+
+    # game/items_backpack.rpy:503
+    old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Прогресс "
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#87ac5f}Progress "
+
+    # game/items_backpack.rpy:503
+    old "/5{/color}{/size}{/font}"
+    new "/5{/color}{/size}{/font}"
+

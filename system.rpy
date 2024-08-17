@@ -189,8 +189,8 @@ translate english fist_punch_46983b77:
 # game/system.rpy:223
 translate english fist_punch_8d075095:
 
-    # x3 "Мы эту школу держим!"
-    x3 "We keep this school!"
+    # x3 "Мы эту академию держим!"
+    x3 "We keep this academy!"
 
 # game/system.rpy:224
 translate english fist_punch_cf87d0a8:
@@ -219,7 +219,7 @@ translate english fist_punch_232dfc99:
 # game/system.rpy:230
 translate english fist_punch_0261affb:
 
-    # x3 "We keep this school!"
+    # x3 "We keep this academy!"
     x3 ""
 
 # game/system.rpy:231
@@ -321,8 +321,8 @@ translate english fist_punch_46983b77_1:
 # game/system.rpy:278
 translate english fist_punch_8d075095_1:
 
-    # x3 "Мы эту школу держим!"
-    x3 "We keep this school!"
+    # x3 "Мы эту академию держим!"
+    x3 "We keep this academy!"
 
 # game/system.rpy:279
 translate english fist_punch_cf87d0a8_1:
@@ -351,7 +351,7 @@ translate english fist_punch_232dfc99_1:
 # game/system.rpy:285
 translate english fist_punch_0261affb_1:
 
-    # x3 "We keep this school!"
+    # x3 "We keep this academy!"
     x3 ""
 
 # game/system.rpy:286
@@ -700,7 +700,7 @@ translate english call_hover_5e60a568:
 translate english call_hover_42de007d:
 
     # "Присев на пол, близ девушки, вы даже и не заметили, как она вскоре подвинулась поближе к вам, чуть ли не садясь на колени. Увлеченно играя в игру, гостья постоянно ерзала пятой точкой по полу до тех пор, пока и вовсе не ретировалась на ваши ноги, используя те как стулья. Картина маслом: вместо удобной кровати особь женского пола выбирает место, которое попросту не предназначено для сидения на нем..."
-    "Sitting on the floor next to the girl , you did not even notice how she soon moved closer to you , almost sitting on her knees. Enthusiastically playing the game, the guest constantly fidgeted with her fifth point on the floor until she retreated to your feet, using them as chairs . Oil painting: instead of a comfortable bed , a female chooses a place that is simply not intended for sitting on it ..."
+    "Sitting on the floor next to the girl , you did not even notice how she soon moved closer to you , almost sitting on her knees. Enthusiastically playing the game, the guest constantly fidgeted with her butt on the floor until she retreated to your feet, using them as chairs . Oil painting: instead of a comfortable bed , a female chooses a place that is simply not intended for sitting on it ..."
 
 # game/system.rpy:1123
 translate english call_hover_fd13a67e:
@@ -819,15 +819,15 @@ translate english strings:
     new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in class now, but\nI may be leaving soon.{/font}{/size}{/color}"
 
     # game/system.rpy:752
-    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас у входа школы, но,\nвозможно скоро уйду оттуда.{/font}{/size}{/color}"
-    new "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}I'm at the school entrance now\n, but I may be leaving soon.{/font}{/size}{/color}"
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас у входа академии, но,\nвозможно скоро уйду оттуда.{/font}{/size}{/color}"
+    new "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}I'm at the academy entrance now\n, but I may be leaving soon.{/font}{/size}{/color}"
 
     # game/system.rpy:757
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в школьном коридоре,\nно, возможно скоро уйду оттуда.{/font}{/size}{/color}"
-    new "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}I'm in the school hallway right\nnow, but I might be leaving soon.{/font}{/size}{/color}"
+    new "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}I'm in the academy hallway right\nnow, but I might be leaving soon.{/font}{/size}{/color}"
 
     # game/system.rpy:762
-    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас на крыше школы, но,\nвозможно скоро уйду оттуда.{/font}{/size}{/color}"
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас на крыше академии, но,\nвозможно скоро уйду оттуда.{/font}{/size}{/color}"
     new "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}I'm on the roof of the school\nnow, but I may be leaving soon.{/font}{/size}{/color}"
 
     # game/system.rpy:767
@@ -868,14 +868,14 @@ translate english strings:
 
     # game/system.rpy:816
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в школьном коридоре.\nМожет, давай встретимся?{/font}{/size}{/color}"
-    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the school hallway right\nnow. Сan we meet?{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the academy hallway right\nnow. Сan we meet?{/font}{/size}{/color}"
 
     # game/system.rpy:822
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в классе.\nМожет, давай встретимся?{/font}{/size}{/color}"
     new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in class now.\nСan we meet?{/font}{/size}{/color}"
 
     # game/system.rpy:828
-    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас на крыше школы.\nМожет, давай встретимся?{/font}{/size}{/color}"
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас на крыше академии.\nМожет, давай встретимся?{/font}{/size}{/color}"
     new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm on the roof of the\nschool now. Can we meet?{/font}{/size}{/color}"
 
     # game/system.rpy:834
@@ -1427,7 +1427,7 @@ translate english strings:
 
     # game/system.rpy:1065
     old "{/u}, по всей видимости поняла, что вы хотите честного исхода драки и, потихоньку отряхиваясь, встала на ноги, а после и в стойку."
-    new "{/u}, who recently fell on the fifth point, apparently realized that you want a fair outcome of the fight and, slowly shaking herself off, got to her feet."
+    new "{/u}, who recently fell on the butt, apparently realized that you want a fair outcome of the fight and, slowly shaking herself off, got to her feet."
 # TODO: Translation updated at 2020-12-26 04:39
 
 translate english strings:
@@ -1472,7 +1472,7 @@ translate english strings:
     new ""
 
     # game/system.rpy:1140
-    old "{/u}, who recently fell on the fifth point, apparently realized that you want a fair outcome of the fight and, slowly shaking herself off, got to my feet."
+    old "{/u}, who recently fell on the butt, apparently realized that you want a fair outcome of the fight and, slowly shaking herself off, got to my feet."
     new ""
 
     # game/system.rpy:1301
@@ -1742,10 +1742,10 @@ translate english strings:
 
     # game/system.rpy:2522
     old "{font=gui/fonts/alegreyar.ttf}•{/font}  Запутавшись в ногах, ваш противник упал на пятую точку... Конечно, не самый лучший исход для него, но тем не менее за то время, пока он вставал, вы успели восстановить немного сил."
-    new "{font=gui/fonts/alegreyar.ttf}•{/font}  Entangled in the legs, your opponent fell to the fifth point... Of course, this is not the best outcome for him, but nevertheless, during the time he got up, you managed to regain some strength."
+    new "{font=gui/fonts/alegreyar.ttf}•{/font}  Entangled in the legs, your opponent fell to the butt... Of course, this is not the best outcome for him, but nevertheless, during the time he got up, you managed to regain some strength."
 
     # game/system.rpy:2526
-    old "{font=gui/fonts/alegreyar.ttf}•{/font}  Entangled in the legs, your opponent fell to the fifth point... Of course, this is not the best outcome for him, but nevertheless, during the time he got up, you managed to regain some strength."
+    old "{font=gui/fonts/alegreyar.ttf}•{/font}  Entangled in the legs, your opponent fell to the butt... Of course, this is not the best outcome for him, but nevertheless, during the time he got up, you managed to regain some strength."
     new ""
 
     # game/system.rpy:3979
@@ -1783,11 +1783,11 @@ translate english strings:
 
     # game/system.rpy:4111
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в школьной библиотеке, но,\nвозможно скоро уйду оттуда.{/font}{/size}{/color}"
-    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the school library right now,\nbut I may be leaving soon..{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the academy library right now,\nbut I may be leaving soon..{/font}{/size}{/color}"
 
     # game/system.rpy:4116
     old "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}Я сейчас в школьной библиотеке, но,\nвозможно скоро уйду оттуда.{/font}{/size}{/color}"
-    new "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}I'm in the school library right now,\nbut I may be leaving soon..{/font}{/size}{/color}"
+    new "{color=#282828}{size=24}{font=gui/fonts/alegreya.ttf}I'm in the academy library right now,\nbut I may be leaving soon..{/font}{/size}{/color}"
 
     # game/system.rpy:4121
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в кафе, но,\nвозможно скоро уйду оттуда.{/font}{/size}{/color}"
@@ -1811,7 +1811,7 @@ translate english strings:
 
     # game/system.rpy:4166
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в школьном коридоре.\nМожет, встретимся?{/font}{/size}{/color}"
-    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the school hallway right now.\nCan we meet?{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the academy hallway right now.\nCan we meet?{/font}{/size}{/color}"
 
     # game/system.rpy:4172
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в классе 1-1.\nМожет, встретимся?{/font}{/size}{/color}"
@@ -1826,8 +1826,8 @@ translate english strings:
     new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in class 1-3 right now.\nCan we meet?{/font}{/size}{/color}"
 
     # game/system.rpy:4190
-    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас на крыше школы.\nМожет, встретимся?{/font}{/size}{/color}"
-    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm on the roof of the school right now.\nCan we meet?{/font}{/size}{/color}"
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас на крыше академии.\nМожет, встретимся?{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm on the roof of the academy right now.\nCan we meet?{/font}{/size}{/color}"
 
     # game/system.rpy:4196
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас на пляже.\nМожет, встретимся?{/font}{/size}{/color}"
@@ -1867,7 +1867,7 @@ translate english strings:
 
     # game/system.rpy:4250
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в школьной библиотеке.\nМожет, встретимся?{/font}{/size}{/color}"
-    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the school library right now.\nCan we meet?{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm in the academy library right now.\nCan we meet?{/font}{/size}{/color}"
 
     # game/system.rpy:4256
     old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в подсобке клуба оккультизма.\nМожет, встретимся?{/font}{/size}{/color}"
@@ -1965,3 +1965,221 @@ translate english strings:
     old "acconnect_sqlate, fast and powerful cutting."
     new ""
 
+# TODO: Translation updated at 2022-07-27 10:07
+
+translate english strings:
+
+    # game/system.rpy:3996
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Мейко Тсукаса{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Meiko Tsukasa{/font}{/size}{/color}"
+# TODO: Translation updated at 2022-10-02 21:28
+
+translate english strings:
+
+    # game/system.rpy:4671
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Отношения: {color=#99b537}[contact_npc]{color=#4a5375} ед.{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Relationships: {color=#99b537}[contact_npc]{color=#4a5375} un.{/color}{/size}{/font}"
+
+    # game/system.rpy:4672
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Привязанность: {color=#bb5d94}[love_npc]{color=#4a5375} ед.{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Attachment: {color=#bb5d94}[love_npc]{color=#4a5375} un.{/color}{/size}{/font}"
+
+    # game/system.rpy:4673
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Страх: {color=#bb5d94}[fear_npc]{color=#4a5375} ед.{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Fear: {color=#bb5d94}[fear_npc]{color=#4a5375} un.{/color}{/size}{/font}"
+
+    # game/system.rpy:4674
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Этап: {color=#a08e7d}[name_tap!t]{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Stage: {color=#a08e7d}[name_tap!t]{/color}{/size}{/font}"
+
+    # game/system.rpy:4675
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Модификатор: {color=#bb5d94}[mod]{color=#a08e7d}%{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Modifier: {color=#bb5d94}[mod]{color=#a08e7d}%{/color}{/size}{/font}"
+
+    # game/system.rpy:4676
+    old "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Усталость: {color=#bb5d94}[dialogue_fatigue]{color=#a08e7d}%{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#4a5375}Fatigue: {color=#bb5d94}[dialogue_fatigue]{color=#a08e7d}%{/color}{/size}{/font}"
+
+    # game/system.rpy:4935
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}Позвонить{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}To call{/color}{/size}{/font}"
+
+    # game/system.rpy:4937
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}Позвонить{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}To call{/color}{/size}{/font}"
+
+    # game/system.rpy:4939
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}Отправить сообщение{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}Send a message{/color}{/size}{/font}"
+
+    # game/system.rpy:4941
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}Отправить сообщение{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}Send a message{/color}{/size}{/font}"
+
+    # game/system.rpy:4943
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}Удалить контакт{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}Delete a contact{/color}{/size}{/font}"
+
+    # game/system.rpy:4945
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}Удалить контакт{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}Delete a contact{/color}{/size}{/font}"
+
+    # game/system.rpy:4947
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}Назад{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#ffffff}Back{/color}{/size}{/font}"
+
+    # game/system.rpy:4949
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}Назад{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#505050}Back{/color}{/size}{/font}"
+# TODO: Translation updated at 2022-11-13 21:02
+
+translate english strings:
+
+    # game/system.rpy:4093
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Азуми Ёшида{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Azumi Yoshida{/font}{/size}{/color}"
+# TODO: Translation updated at 2022-11-27 08:38
+
+translate english strings:
+
+    # game/system.rpy:3018
+    old "{font=gui/fonts/alegreyar.ttf}•{/font}  Увидев направление удара своего противника, вы резко сменили защищаемую часть тела, благодаря своему боевому опыту."
+    new "{font=gui/fonts/alegreyar.ttf}•{/font}  When you saw the direction of your opponent's strike, you abruptly changed the protected part of the body, thanks to your combat experience."
+# TODO: Translation updated at 2023-01-26 12:37
+
+# game/system.rpy:18
+translate english start3_2918de4d:
+
+    # "Вы уверены в том, что стоит начать драку?"
+    "Are you sure it's worth starting a fight?"
+# TODO: Translation updated at 2023-03-16 20:49
+
+translate english strings:
+
+    # game/system.rpy:3697
+    old "Пнуть слабака"
+    new ""
+
+    # game/system.rpy:3697
+    old "Уйти"
+    new ""
+
+    # game/system.rpy:3713
+    old "Kick the wimp"
+    new ""
+
+    # game/system.rpy:3713
+    old "Help rise"
+    new ""
+# TODO: Translation updated at 2023-11-13 18:21
+
+# game/system.rpy:4744
+translate english call_hover_suzuki_2cc1a7ae:
+
+    # "Но, к сожалению, вам даже не ответили... Впрочем, это было ожидаемым исходом, учитывая, что вы сделали за все время с ней."
+    "But, unfortunately, you didn't even get an answer... However, it was an expected outcome, considering what you've done all the time with her."
+
+# game/system.rpy:4747
+translate english call_hover_suzuki_0695a574:
+
+    # "Глянув на экран разблокировки своего старенького телефона, вас охватило внезапное желание позвонить Сузуки, но потом вы вспомнили, что живете прямо с ней и в этом нет смысла..."
+    "Glancing at the unlock screen of your old phone, you were seized with a sudden desire to call Suzuki, but then you remembered that you live right with her and there is no point in it..."
+
+# game/system.rpy:4751
+translate english call_hover_suzuki_eda89004_1:
+
+    # "Исполняя свое хотение, вы поднесли к уху свой мобильник, из которого звучал привычный и монотонный гудок, длившийся несоизмеримо долго по вашим меркам: целую минуту!"
+    "Fulfilling your desire, you brought your mobile phone to your ear, from which the usual and monotonous beep sounded, which lasted disproportionately long by your standards: a whole minute!"
+
+# game/system.rpy:4757
+translate english call_hover_suzuki_cc3c3aba_2:
+
+    # "Глянув на экран разблокировки своего старенького телефона, вас охватило внезапное желание позвонить Сузуки, услышать ее голос и, возможно, даже встретиться."
+    "Glancing at the unlock screen of your old phone, you were seized with a sudden desire to call Suzuki, hear her voice and, perhaps, even meet."
+# TODO: Translation updated at 2024-02-15 14:21
+
+# game/system.rpy:4134
+translate english sms_activity_f0ff49f3:
+
+    # "Прождав три минуты и не получив никакого ответа от потенциального собеседника, который очевидно спал в это время, вы просто тяжело вздохнули, поняв, что вам никто отвечать не собирается. К сожалению..."
+    "After waiting three minutes and not receiving any response from the potential interlocutor, who was obviously sleeping at that time, you simply sighed heavily, realizing that no one was going to answer you. Unfortunately..."
+
+# game/system.rpy:4136
+translate english sms_activity_a4292cf8:
+
+    # "Присев на ближайшее место, где вообще можно удобно попереписываться, вы начали свое несложное дело."
+    "Sitting down at the nearest place where you can generally correspond comfortably, you began your simple task."
+
+# game/system.rpy:4137
+translate english sms_activity_f63ced31:
+
+    # "Конечно же, сначало все началось со стандартного приветствия, но после вы начали обсуждать все возможные темы на свете, начиная от занятий в академии и заканчивая местным хулиганьем."
+    "Of course, at first it all started with a standard greeting, but after that you began to discuss every possible topic in the world, from classes at the academy to the local hooligan."
+
+# game/system.rpy:4138
+translate english sms_activity_6540177b:
+
+    # "Длилось это недолго, в перерывах между наблюдением за происходящим вокруг вас, но в достаточно интересной и непринужденной манере."
+    "It didn’t last long, in between watching what was happening around you, but in a rather interesting and relaxed manner."
+
+# game/system.rpy:4139
+translate english sms_activity_009b42f3:
+
+    # "Не сказать, что это полезное времяпрепровождение, но за 30 минут активной переписки вы значительно улучшили свои отношения с собеседником, а также немного отдохнули, восстановив свои силы."
+    "Not to say that this is a useful pastime, but in 30 minutes of active correspondence you have significantly improved your relationship with your interlocutor, and also rested a little, regaining your strength."
+
+# game/system.rpy:4145
+translate english sms_activity_0fc8dc71:
+
+    # "Прождав три минуты и не получив никакого ответа от сидящего в онлайне собеседника, вы просто тяжело вздохнули, поняв, что вам никто отвечать не собирается. К сожалению..."
+    "After waiting three minutes and not receiving any response from your online interlocutor, you simply sighed heavily, realizing that no one was going to answer you. Unfortunately..."
+
+translate english strings:
+
+    # game/system.rpy:4021
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в месте «[location_npc]».{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm currently in the location «[location_npc]».{/font}{/size}{/color}"
+
+    # game/system.rpy:4043
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Я сейчас в месте\n«[location_npc]».\nМожет, встретимся?{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}I'm currently in the location\n«[location_npc]».\nMaybe we can meet?{/font}{/size}{/color}"
+
+    # game/system.rpy:4047
+    old "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}Без проблем! Сейчас приду к\nтебе.{/font}{/size}{/color}"
+    new "{color=#282828}{size=25}{font=gui/fonts/alegreya.ttf}No problem! I'll come to\nyou now.{/font}{/size}{/color}"
+
+    # game/system.rpy:4104
+    old "{color=505050}{size=30}{font=gui/fonts/alegreya.ttf}Попросить подойти к вам{/font}{/size}{/color}"
+    new "{color=505050}{size=30}{font=gui/fonts/alegreya.ttf}Ask to come to you{/font}{/size}{/color}"
+
+    # game/system.rpy:4107
+    old "{color=ffffff}{size=30}{font=gui/fonts/alegreya.ttf}Попросить подойти к вам{/font}{/size}{/color}"
+    new "{color=ffffff}{size=30}{font=gui/fonts/alegreya.ttf}Ask to come to you{/font}{/size}{/color}"
+
+    # game/system.rpy:4122
+    old "{color=505050}{size=30}{font=gui/fonts/alegreya.ttf}Попереписываться{/font}{/size}{/color}"
+    new "{color=505050}{size=30}{font=gui/fonts/alegreya.ttf}Chat{/font}{/size}{/color}"
+
+    # game/system.rpy:4125
+    old "{color=ffffff}{size=30}{font=gui/fonts/alegreya.ttf}Попереписываться{/font}{/size}{/color}"
+    new "{color=ffffff}{size=30}{font=gui/fonts/alegreya.ttf}Chat{/font}{/size}{/color}"
+
+# TODO: Translation updated at 2024-02-24 21:09
+
+translate english strings:
+
+    # game/system.rpy:4592
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Позвонить{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Call{/color}{/size}{/font}"
+
+    # game/system.rpy:4596
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Отправить сообщение{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Send a message{/color}{/size}{/font}"
+
+    # game/system.rpy:4600
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Удалить контакт{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Delete contact{/color}{/size}{/font}"
+
+    # game/system.rpy:4604
+    old "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Назад{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=30}{color=#000000}Back{/color}{/size}{/font}"

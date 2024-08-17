@@ -140,3 +140,10 @@ translate english strings:
     # game/ivent_club_occult.rpy:88
     old "{color=#000000}Перк [name_npc213123] - [perk_name!t]"
     new "{color=#000000}Perk [name_npc213123] - [perk_name!t]"
+# TODO: Translation updated at 2024-07-25 11:16
+
+translate english strings:
+
+    # game/ivent_club_occult.rpy:122
+    old "{color=#000000}Конечно!\nПерк [name_npc213123] - [perk_name!t]\n{size=21}{i}0 энергии{/i}{/size}{/color}"
+    new "{color=#000000}Of course!\nPerk of [name_npc213123] - [perk_name!t]\n{size=21}{i}0 energy{/i}{/size}{/color}"
