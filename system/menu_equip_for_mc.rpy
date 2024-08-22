@@ -57,7 +57,7 @@ translate english ecgibitionism_glgg_label_44647fe2:
 translate english tattoss_and_piercing_done_273ba273:
 
     # "Пирсинг/тату будет стоить 1.000 кредитов. Согласны ли вы на его добавление во внешность персонажа?"
-    "Piercing/tattoo will cost 1,000 credits. Do you want to add it to the character's appearance?"
+    "Piercing/tattoo will cost 1,000 credits. Do you wish to add it to the character's appearance?"
 
 # game/system/menu_equip_for_mc.rpy:530
 translate english tattoss_and_piercing_donesadazx_0f694093:
@@ -356,7 +356,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Небольшая головная боль - следствие вашей погруженности в книжную историю. Можно сказать, что все нормально, если бы не физические ощущения в организме..."
-    new "A slight headache is a consequence of your immersion in book history. You could say that everything is fine, if it wasn't for the physical sensations in your body..."
+    new "As a consequence of your immersion in book history, you seem to have gotten a mild headache. You could say that everything is fine, if it wasn't for the physical sensations in your body..."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- -10% к показателям физических атрибутов."

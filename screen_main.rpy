@@ -362,7 +362,7 @@ translate english strings:
 
     # game/screen_main.rpy:594
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Сидит на свободной лавочке и{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sitting on a vacant bench and{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sitting on a bench and{/font}{/size}{/color}"
 
     # game/screen_main.rpy:595
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}читает книгу{/font}{/size}{/color}"
@@ -655,7 +655,7 @@ translate english strings:
 
     # game/screen_main.rpy:648
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Сидит в туалетной кабинке{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sitting in a toilet cubicle{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}Sitting in a toilet stall{/font}{/size}{/color}"
 # TODO: Translation updated at 2023-10-04 14:43
 
 translate english strings:
