@@ -1120,23 +1120,23 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3627
     old "Редактор персонажа"
-    new "Editor main character"
+    new "Player Character editor"
 
     # game/system/editor_main_character.rpy:3628
     old "Редактирование игрового персонажа"
-    new "Editing a game character"
+    new "Player Character editing"
 
     # game/system/editor_main_character.rpy:3695
     old "В какой семье вырос главный герой?"
-    new "Which family born your character?"
+    new "What kind of family was your character born into?"
 
     # game/system/editor_main_character.rpy:3697
     old "Семья академиков"
-    new "Family of scientists"
+    new "Family of academics"
 
     # game/system/editor_main_character.rpy:3698
-    old "Семья, отдавшая всю себя науке. Ваш отец и\nмать - ученые, старающиеся на благо\nобщества. Они купили вам собственную\nквартиру в надежде, что вы будете и дальше\nгрызть гранит науки."
-    new "It is family gave their whole effort to science.\nYour father and mother are scientists working for\nsociety. They bought you an apartment in the\nhope that you would continue their family\nmatter."
+    old "Семья, отдавшая всю себя науке. Ваш отец и мать -\nученые, старающиеся на благо\nобщества. Они купили вам собственную\nквартиру в надежде, что вы будете и дальше\nгрызть гранит науки."
+    new "A family that gave it their all to science.\nYour parents are scientists working for the good of society.\nThey bought you an apartment in the\nhope that you will follow in their footsteps."
 
     # game/system/editor_main_character.rpy:3701
     old "Обычная семья"
@@ -1144,23 +1144,23 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3702
     old "Ничем непримечательная семья, где есть отец,\nмать и, конечно же, вы - единственный сын,\nкоторый был переведен в академию, куда\nдавно хотел поступить."
-    new "It is an ordinary family where there is a father, a\nmother, and obviously you, the sole son. You\nhave been transferred to the academy, where\nyou long ago wished to enroll."
+    new "An ordinary family with a father, a\nmother, and obviously you, the only son. You\nwere transferred to the academy that\nyou wanted to enroll in for a while."
 
     # game/system/editor_main_character.rpy:3705
     old "Зажиточная семья"
-    new "Rich of family"
+    new "Wealthy family"
 
     # game/system/editor_main_character.rpy:3706
     old "Семья, имеющая огромное материальное\nсостояние, а также связи, с помощью которых\nвас все же смогли пропихнуть в академию,\nкуда вы уже давно хотели поступить..."
-    new "It is family has a big material degree and also has\ninfluence in the city. Thanks to it, you reached\nthe academy, where you long ago wished to\nenroll."
+    new "A family of significant financial status with a lot of connections,\nthanks to which you were transferred to\nthe academy that you've been meaning to\nenroll in for a while."
 
     # game/system/editor_main_character.rpy:3709
     old "Бедная семья"
     new "Poor family"
 
     # game/system/editor_main_character.rpy:3710
-    old "Неполная семья, погрязшая в долгах и кредитах.\nК сожалению, вы были чрезвычайно\nагрессивными со своими сверстниками,\nно успешно поступили в академию, хоть и\nза деньги..."
-    new "It is incomplete family have many debts and\ncredits. Unfortunately, you were very\naggressive toward your peers, but anyway, you\nsuccessfully enrolled in the academy, although\nfor money..."
+    old "Неполная семья, погрязшая в долгах и кредитах.\nК сожалению, вы были чрезвычайно\nагрессивными со своими сверстниками,\nно успешно поступили в академию, хоть и за деньги..."
+    new "A single-parent family with many\ndebts. Unfortunately, you were very\naggressive towards your peers, but still managed to successfully\nenroll in the academy, even if you had\nto pay..."
 
     # game/system/editor_main_character.rpy:3754
     old "Ст. [page2_sa1]/2"
@@ -1176,7 +1176,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3762
     old "Спортивный"
-    new "Sport"
+    new "Athletic"
 
     # game/system/editor_main_character.rpy:3764
     old "Сбалансированный"
@@ -1184,15 +1184,15 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3768
     old "Особая черта"
-    new "Features of your character"
+    new "Special trait"
 
     # game/system/editor_main_character.rpy:3783
     old "Ловкие руки"
-    new "Agility of hand"
+    new "Sleight of hand"
 
     # game/system/editor_main_character.rpy:3795
     old "Толстый кошелек"
-    new "Big wallet"
+    new "Fat wallet"
 
     # game/system/editor_main_character.rpy:3807
     old "Кулинарный опыт"
@@ -1200,15 +1200,15 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3819
     old "Прилежный ученик"
-    new "A diligent student"
+    new "Diligent student"
 
     # game/system/editor_main_character.rpy:3831
     old "Новая квартира"
-    new "New apartament"
+    new "New apartment"
 
     # game/system/editor_main_character.rpy:3846
     old "Фамильный амулет"
-    new "The family amulet"
+    new "Family amulet"
 
     # game/system/editor_main_character.rpy:3858
     old "Дамский угодник"
@@ -1216,23 +1216,23 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3861
     old "Причина перевода"
-    new "Reason enroll"
+    new "Transfer reason"
 
     # game/system/editor_main_character.rpy:3876
     old "Проблемы с хулиганами"
-    new "Problems with hooligans"
+    new "Bullying problems"
 
     # game/system/editor_main_character.rpy:3888
     old "Новые знания и опыт"
-    new "New expirience"
+    new "New knowledge and experience"
 
     # game/system/editor_main_character.rpy:3900
     old "Новые девушки - новые лица"
-    new "New girls is new targets"
+    new "New girls - new faces"
 
     # game/system/editor_main_character.rpy:3912
     old "Я был изгоем в предыдущей академии"
-    new "I was an outcast in my previous academy"
+    new "I was an outcast"
 
     # game/system/editor_main_character.rpy:3924
     old "Меня выгнали из прошлой академии"
@@ -1240,35 +1240,35 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3939
     old "На то нет никаких особо причин"
-    new "No matter. Reasons for it just nothing."
+    new "No reason in particular"
 
     # game/system/editor_main_character.rpy:3971
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- В начале игры у вас на 7000 кредитов больше.\n- В самом начале игры прибавка к атрибуту удачи в виде 40 единиц.\n- Любой вид заработка вашего персонажа будет снижен на 10 процентов.\n- Будут получены начальные предметы, которые можно использовать для большего заработка денег."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- In the beginning game, you have, 7000 more credits than you could have had.\n- In the beginning game, your attribute Lucky gains 40 units.\n- Any type of earnings reduced by 10 percent.\n- Your character received the beginning items, which you can use to earn more money."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- You have 7000 more credits from the start.\n- Gain +40 luck at start.\n- Any type of income is reduced by 10 percent.\n- Your character will receive items that can be used for increased income"
 
     # game/system/editor_main_character.rpy:3973
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=23}{color=fff}- Появляется возможность раздевать девушек прямо на улице.\n- Появляется возможность кражи денег у НПС.\n- +50 к картежному опыту в начале игры.\n- На 1 возможный предмет за ход/драку можно использовать больше.\n- Возможность заниматься сексом с НПС дольше на 30 процентов.\n- Будут получены начальные предметы, которые можно использовать для драк.\n- С самого начала игры будут иметься игральные карты."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=23}{color=fff}- Your character receives the opportunity to undress girls straight on the street.\n- Your character could steal money on RNPCs.\n- You have one  more item for the fight, which your character can use there.\n- Your character can have sex with RNPCs longer on more 30 procents\n- Your character gains items, which it can use to fight.\n- In the beginning, you can have a game cards for playing blackjack."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=23}{color=fff}- Your character gains the ability to undress girls publicly.\n- Your character gains the ability to steal money from RNPCs.\n- Gain +50 card experience at start\n- You can use 1 more item per turn in a fight.\n- Your character can have sex with RNPCs for 30 percent longer.\n- Your character receives starting items that can be used in a fighting.\n- You get a deck of playing cards from the start."
 
     # game/system/editor_main_character.rpy:3975
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- В начале игры вы знаете все доступные рецепты для приготовления пищи.\n- Прибавка в виде 500 очков к скиллу готовки.\n- С самого начала игры холодильник будет набит большим количеством еды."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- In the beginning game, you know all the available receipts for cooking.\n- Gained 500 units in the skill of cooking.\n- In the beginning game, your fridge has more food."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- You know all available recipes from the beginning of the game.\n- Gain +500 cooking skill.\n- Your fridge has more food from the start."
 
     # game/system/editor_main_character.rpy:3977
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=21}{color=fff}- Дается на 15 процентов больше очков опыта при любом действии.\n- Требуется на 10 процентов меньше очков опыта для повышения уровня\n- Диалоги с вами утомляют рандомизированных НПС на 10 процентов больше.\n- С самого начала уровень вашего персонажа равен 10 единицам.\n- Выдается перк врачеватель.\n- Ваша вера в потусторонних существ была потеряна еще очень давно, отчего вам не дается удача за мольбы в храме, а также при кидании монетки в фонтан."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- You have 15 percent more experience points for any action.\n- You need 10 percent fewer experience points to level up.\n- Dialogue with your character on the side of RNPCs makes them less fatigued.\n- In the beginning of the game, your character level is 10.\n- Gain features doctor.\n- Your confidence in otherworldly creatures has been lost long ago, so you don't have an increased lucky attribute for praying in a temple or dropping money in a fountain."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- Gain 15 percent more experience from any action.\n- You require 10 percent fewer experience points to level up.\n- RNPCs get tired of talking to your character 10 percent faster\n- Your character level is 10 from the very beginning of the game.\n- Gain the doctor perk.\n- Your faith in otherworldly forces has been lost long ago, so you cannot gain luck attribute from praying at the temple and tossing coins into the fountain."
 
     # game/system/editor_main_character.rpy:3979
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- С самого начала игры вы будете жить в новой квартире, но при этом ивентов с риелтором у вас не будет.\n- С самого начала игры у вас будет копилка.\n- С самого начала игры у вас будет игровая консоль.\n- С самого начала игры у вас будет игровая клавиатура, из-за которой фриланс заказы выполняются на 20 процентов быстрее.\n- С самого начала игры у вас будет хорошая кровать, приносящая на 25 процентов энергии больше за сон."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- From the very beginning of the game, you will live in a new apartment, but you will not have events with a realtor.\n- From the very beginning of the game, you will have a piggy bank.\n- From the very beginning of the game, you will have a game console.\n- From the very beginning of the game, you will have a gaming keyboard, due to which freelance orders are completed 20 percent faster.\n- From the very beginning of the game, you will have a good bed that brings 25 percent more energy per sleep."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- You start the game in a new apartment, but you will not have any realtor events.\n- Get a piggy bank from the start.\n- Get a game console from the start.\n- Get a gaming keyboard from the start, allowing you to complete freelance orders 20 percent faster.\n- Get a good bed from the start, increasing energy restored from sleeping by 25 percent."
 
     # game/system/editor_main_character.rpy:3981
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- В вашем инвентаре с самого начала игры будет странный амулет, дающий значительную прибавку к атрибутам.\n- Ваша вера в потусторонних существ очень сильна, отчего вам иногда очки, полученные за мольбы в храме и монетку в фонтане, даются в два раза больше.\n- Дается на 10 процентов меньше очков опыта при любом действии.\n- Требуется на 10 процентов больше очков опыта для повышения уровня."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- In your inventory from the very beginning of the game there will be a strange amulet that gives a significant increase in attributes.\n- Your faith in otherworldly beings is very strong, which is why you sometimes get twice as many points for prayers in the temple and a coin in the fountain.\n- Gain 10 percent less experience points for any action.\n- Requires 10 percent more experience points to level up."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- At the beginning of the game, you will receive a strange amulet that gives you a significant increase to attributes.\n- Your faith in otherworldly powers is very strong, which is why you sometimes get twice as many points from praying at the temple and tossing coins in the fountain.\n- Gain 10 percent less experience from any action.\n- Leveling up requires 10 percent more experience."
 
     # game/system/editor_main_character.rpy:3983
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=20}{color=fff}- Все ваши диалоги и взаимодействия с женским полом эффективнее на 30 процентов.\n- Атрибут красноречия прокачивается на 20 процентов быстрее.\n- К модификатору привлекательности будет дан бонус в 100 единиц.\n- +50 к сексуальному опыту в начале игры.\n- Диалоги с вами утомляют рандомизированных НПС на 10 процентов меньше.\n- Требуется на 30 процентов больше очков опыта для повышения уровня.\n- В начале игры в вашем инвентаре будет вибратор, афродизиак, снотворное, таблетки для потенции и кофеин."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=23}{color=fff}- All your dialogues and interactions with the female sex are 30 percent more effective.\n- The eloquence attribute is pumped up 20 percent faster.\n- A bonus of 100 units will be given to the attractiveness modifier.\n- +50 to sexual experience at the beginning of the game.\n- Dialogues with you tire randomized NPCs 10 percent less.\n- Requires 30 percent more experience points to level up.\n- At the beginning of the game, you will have a vibrator, aphrodisiac, sleeping pill, potency pills and caffeine in your inventory."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=23}{color=fff}- All your dialogues and interactions with the opposite sex are 30 percent more effective.\n- Speech attribute is leveled 20 percent faster.\n- Gain +100 attractiveness.\n- +50 to sexual experience from the beginning of the game.\n- RNPCs get tired of talking to you 10 percent slower.\n- You require 30 percent more experience to level up.\n- Start with a vibrator, aphrodisiac, sleeping pills, potency pills and caffeine in your inventory."
 # TODO: Translation updated at 2023-09-14 18:39
 
 translate english strings:
@@ -1287,11 +1287,11 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4160
     old "Сила"
-    new "Force"
+    new "Strength"
 
     # game/system/editor_main_character.rpy:4163
     old "Ловкость"
-    new "Dexterity"
+    new "Agility"
 
     # game/system/editor_main_character.rpy:4166
     old "Выносливость"
@@ -1303,7 +1303,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4172
     old "Красноречие"
-    new "Eloquence"
+    new "Speech"
 
     # game/system/editor_main_character.rpy:4175
     old "Хитроумие"
@@ -1315,7 +1315,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4184
     old "Развращенность"
-    new "Depravity"
+    new "Promiscuity"
 
     # game/system/editor_main_character.rpy:4190
     old "Атрибуты"
@@ -1327,39 +1327,39 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4231
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Сила - ваша смертоность в драках. Чем выше показатель этого атрибута, тем больше урон от ударов и выше шанс критического удара с нокдауном. Кроме того, показатель силы влияет на грузоподъемность, успех угроз, шантажа, а также некоторых игровых событий, к которым, кроме всего прочего, могут добавиться новые выборы. Кроме того, этот атрибут влияет на внешний вид вашего персонажа."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Strength is your lethality in fights. The higher the score of this attribute, the greater the damage from hits and the higher the chance of a critical hit with a knockdown. In addition, the strength indicator affects the carrying capacity, the success of threats, blackmail, as well as some game events, to which, among other things, new elections can be added. Additionally, this attribute affects your character's appearance."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Strength determines how lethal you are in a fight. It affects damage, crit. chance and knockdown chance. In addition, it affects your carry capacity, the success chance of threats and blackmail, and can even unlock new options in certain game events. It also affects the character's appearance modifier."
 
     # game/system/editor_main_character.rpy:4233
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Ловкость используется в драках. Чем выше ее показатель, тем больше очков действий у вашего персонажа. Также этот атрибут влияет на шанс критического удара, нокдауна и на успешность некоторых игровых событий. Кроме того, этот атрибут влияет на внешний вид вашего персонажа."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Dexterity is used in fights. The higher its score, the more action points your character has. This attribute also affects the chance of a critical hit, knockdown, and the success of some game events. Additionally, this attribute affects your character's appearance."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Agility is used in fights. It affects the amount of action points available per turn, crit. chance, knockdown chance, and the chance of success in some game events. It also affects the character's appearance modifier."
 
     # game/system/editor_main_character.rpy:4235
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Выносливость - лучший друг любого любителя драк и активностей! У вас будет больше энергии для разных действий, очков здоровья для драк, большая сопротивляемость к критическим ударам, нокдаунам и травмам, а также порезам. Кроме того, выносливость повышает грузоподъемность вашего персонажа. Кроме того, этот атрибут влияет на внешний вид вашего персонажа."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Endurance is the best friend of any lover of fights and activities! You will have more energy for different actions, health points for fights, greater resistance to critical hits, knockdowns and injuries, as well as cuts. Additionally, Stamina increases your character's carrying capacity. Additionally, this attribute affects your character's appearance."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Endurance is the best friend of any fighter! It increases the energy pool used for different action and affects your health points in fights, resistance to critical hits, knockdowns and injuries. Additionally, it affects your carry capacity and appearance modifier."
 
     # game/system/editor_main_character.rpy:4237
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Интеллект влияет на обучаемость. Чем он выше, тем быстрее прокачиваются ваши атрибуты внутриигровыми путями, а также уровень, за который можно взять перки. Также интеллект влияет на некоторые игровые события и в некоторые из них добавляет эксклюзивные выборы, которые могут хорошо вам помочь в дальнейшем."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Intelligence affects learning ability. The higher it is, the faster your attributes are upgraded through in-game paths, as well as the level at which you can take perks. Intelligence also affects some game events and adds exclusive choices to some of them, which can help you well in the future."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Intelligence affects your learning ability. It increases the rate at which your attributes and level grow. Intelligence also affects some game events and adds exclusive choices to some of them."
 
     # game/system/editor_main_character.rpy:4239
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Красноречие - идеальный атрибут для любого ловеласа. Чем он выше, тем быстрее вы прокачаете отношения с любым персонажем, тем медленней выбранный персонаж устает от диалогов с вами. Кроме того, у вас будет больше простора для действий, ведь почти в каждом сюжетном событии есть выбор, требующий красноречия."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Eloquence is an ideal attribute for any ladies' man. The higher it is, the faster you will improve your relationship with any character, the slower the chosen character gets tired of dialogues with you. In addition, you will have more room for action, since almost every story event has a choice that requires eloquence."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Speech is just the attribute any Ladies' man needs. It increases how fast you improve relations with characters and slows the rate at which they get tired of talking to you. It will benefit you greatly in story events, since almost all of them have speech checks."
 
     # game/system/editor_main_character.rpy:4241
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Хитроумие влияет лишь на одно - на успех некоторых событий. Качать его, если вы впервые играете в School Game, нежелательно. Кроме того, это единственный атрибут, который напрямую зависит от величины интеллекта и красноречия."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Cunning affects only one thing - the success of certain events. It is not advisable to download it if you are playing School Game for the first time. In addition, this is the only attribute that directly depends on the magnitude of intelligence and eloquence."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Cunning affects only one thing - the chance of success in certain events. It is ill-advised to put your points into it if you are playing School Game for the first time. In addition, this is the only attribute that is directly affected by your intelligence and speech attributes."
 
     # game/system/editor_main_character.rpy:4243
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Авторитет - ваша способность давить на людей одним лишь своим видом. Данный атрибут не используется нигде, кроме одной системы: чем ваш авторитет больше, тем с большей вероятностью вы сможете запугать, избить или же забрать деньги своей цели без каких-либо последствий."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Authority is your ability to put pressure on people with just your appearance. This attribute is not used anywhere except in one system: the greater your authority, the more likely you are to intimidate, beat or take money from your target without any consequences."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Authority is your ability to put pressure on people with just your presence. It affects your chance to successfully intimidate, beat or take money from your target without any consequences."
 
     # game/system/editor_main_character.rpy:4245
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Удача притягивает к себе деньги. Огромное количество денег. Чем она больше, тем за каждое действие, приносящее доход, вы будете получать еще больше дохода. Кроме того, благодаря удачи вы сможете скрывать разные свои пакости, с некоторым шансом удваивать получаемый опыт, а также получать другие привилегии... Фортуна на вашей стороне."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Luck attracts money. A huge amount of money. The higher it is, the more income you will receive for every income-generating action. In addition, thanks to luck, you will be able to hide your various dirty tricks, with a certain chance of doubling the experience gained, as well as receiving other privileges... Fortune is on your side."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Luck attracts money. A lot of money. It affects the amount of income you receive. It also allows you to get away with mischief, gives you a chance to double received experience, and other such priveleges... Fortune is on your side."
 
     # game/system/editor_main_character.rpy:4247
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Развращенность влияет на одежду вашего персонажа, когда он является девушкой. (На мужского персонажа этот параметр никак не влияет)"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Depravity affects your character's clothing when they are female. (This parameter has no effect on the male character)"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Promiscuity affects female characters' clothing. (This attribute has no effect on the male character)"
 
     # game/system/editor_main_character.rpy:4264
     old "Настроить прическу"
@@ -1379,7 +1379,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4301
     old "– Базовая причёская"
-    new "– Basic hairstyle"
+    new "– Base hairstyle"
 
     # game/system/editor_main_character.rpy:4356
     old "– Длина причёски"
@@ -1391,7 +1391,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4432
     old "- Рост"
-    new "- Hight"
+    new "- Height"
 
     # game/system/editor_main_character.rpy:4453
     old "– Размер члена"
@@ -1431,15 +1431,15 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4616
     old "– Школьная форма"
-    new "- School uniform"
+    new "- Academy uniform"
 
     # game/system/editor_main_character.rpy:4628
     old "– Повседневная одежда"
-    new "- Casual wear"
+    new "- Everyday wear"
 
     # game/system/editor_main_character.rpy:4638
     old "– Повседневная одежда 1"
-    new "– Casual wear 1"
+    new "– Everyday wear 1"
 
     # game/system/editor_main_character.rpy:4647
     old "– Лосины и черный топ"
@@ -1455,7 +1455,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4711
     old "Большое значение может снизить производительность\nна слабых устройствах и привести к вылетам игры."
-    new "A large value can reduce performance\non weak devices and lead to game crashes."
+    new "Higher values can reduce performance\non weak devices and cause crashes."
 
     # game/system/editor_main_character.rpy:4712
     old "Количество студентов"
@@ -1463,7 +1463,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4716
     old "Соотношение полов"
-    new "Sex ratio"
+    new "Gender ratio"
 
     # game/system/editor_main_character.rpy:4717
     old "Какой пол среди студентов преобладает?"
@@ -1475,11 +1475,11 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4738
     old "Среднее значение атрибутов"
-    new "Average Attribute Value"
+    new "Average attribute value"
 
     # game/system/editor_main_character.rpy:4752
     old "Влияет на успешность некоторых действий персонажей, на\nих возможности и частично на их поведение."
-    new "Affects the success of certain actions of the characters, their\ncapabilities and partly their behavior."
+    new "Affects the success chance of certain actions, their\ncapabilities and their behavior to an extent."
 
     # game/system/editor_main_character.rpy:4756
     old "Имена студентов"
@@ -1511,7 +1511,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:4832
     old "Частота, с которой студенты будут перемещаться по\nлокациям."
-    new "The frequency with which students will move around\nlocations."
+    new "How frequently students move around\nlocations."
 # TODO: Translation updated at 2023-10-04 14:43
 
 translate english strings:
@@ -1552,43 +1552,43 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:5295
     old "РНПС без гетерохромии"
-    new "RNPC without heterochromia"
+    new "RNPCs without heterochromia"
 
     # game/system/editor_main_character.rpy:5317
     old "Все РНПС девственники"
-    new "All RNPC are virgins"
+    new "All RNPCs are virgins"
 
     # game/system/editor_main_character.rpy:5339
     old "Все РНПС пошлые"
-    new "All RNPC are vulgar"
+    new "All RNPCs are vulgar"
 
     # game/system/editor_main_character.rpy:5363
     old "Все РНПС не пошлые"
-    new "All RNPC are not vulgar"
+    new "All RNPCs are not vulgar"
 
     # game/system/editor_main_character.rpy:5385
     old "Все РНПС общительные"
-    new "All RNPC are sociable"
+    new "All RNPCs are sociable"
 
     # game/system/editor_main_character.rpy:5407
     old "Все РНПС не общительные"
-    new "All RNPC are not sociable"
+    new "All RNPCs are unsociable"
 
     # game/system/editor_main_character.rpy:5429
     old "Все РНПС романтичные"
-    new "All RNPC are romantic"
+    new "All RNPCs are romantic"
 
     # game/system/editor_main_character.rpy:5451
     old "Все РНПС не романтичные"
-    new "All RNPC are not romantic"
+    new "All RNPCs are aromantic"
 
     # game/system/editor_main_character.rpy:5475
     old "Все РНПС криминальные"
-    new "All RNPC are criminal"
+    new "All RNPCs are criminal"
 
     # game/system/editor_main_character.rpy:5497
     old "Все РНПС не криминальные"
-    new "All RNPC are not criminal"
+    new "All RNPCs are lawful"
 
     # game/system/editor_main_character.rpy:5519
     old "Много хулиганов"
@@ -1600,7 +1600,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:5563
     old "Много драк вокруг"
-    new "Lots of fights around"
+    new "Lots of fights"
 
     # game/system/editor_main_character.rpy:5587
     old "Все имеют бисексуальность"
@@ -1612,7 +1612,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:5631
     old "Все РНПС носят гачи костюмы"
-    new "All RNPC wear gachi suits"
+    new "All RNPCs wear gachi suits"
 
     # game/system/editor_main_character.rpy:5650
     old "Размер груди"
@@ -1620,7 +1620,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:5664
     old "Характеры"
-    new "Characters"
+    new "Personalities"
 
     # game/system/editor_main_character.rpy:5678
     old "Клубы"
@@ -1644,7 +1644,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:5798
     old "Вы можете выбрать те или иные пункты, которые не\nбудут учитываться при генерации студентов."
-    new "You can select certain items that will not be\ntaken into account when generating students."
+    new "You can select options that will not be\ntaken into account when generating students."
 
     # game/system/editor_main_character.rpy:5799
     old "Ст. [page2_sa3]/4"
@@ -1662,14 +1662,14 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:835
     old "Данная функция доступна только при подписке уровня Best Friend ($10) и выше."
-    new "This feature is only available with a Best Friend subscription ($10) and above."
+    new "This feature is only available starting from Best Friend subscription. ($10)"
 # TODO: Translation updated at 2024-02-12 15:42
 
 translate english strings:
 
     # game/system/editor_main_character.rpy:887
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 к атрибуту интеллекта\n- 2000 кредитов к начальному капиталу"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to the intelligence attribute\n- 2000 credits to the initial capital"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to intelligence attribute\n- 2000 starting money"
 
     # game/system/editor_main_character.rpy:889
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Никаких бонусов и дебаффов."
@@ -1677,11 +1677,11 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:891
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 5 к атрибуту интеллекта\n+ 3000 кредитов к начальному капиталу"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 5 to the intelligence attribute\n+ 3000 credits to the initial capital"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 5 to intelligence attribute\n+ 3000 starting money"
 
     # game/system/editor_main_character.rpy:893
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 к атрибуту силы\n+ 5 к атрибуту ловкости\n+ 5 к атрибуту выносливости\n- 3000 кредитов к начальному капиталу"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to the strength attribute\n+ 5 to the agility attribute\n+ 5 to the endurance attribute\n- 3000 credits to the initial capital"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to strength attribute\n+ 5 to agility attribute\n+ 5 to endurance attribute\n- 3000 starting money"
 
     # game/system/editor_main_character.rpy:1150
     old "Новые девушки"
@@ -1689,63 +1689,63 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:1152
     old "Изгой в академии"
-    new "Outcast at the academy"
+    new "Academy outcast"
 
     # game/system/editor_main_character.rpy:1154
     old "Меня выгнали из академии"
-    new "I was kicked out of the academy"
+    new "I was kicked out"
 
     # game/system/editor_main_character.rpy:1156
     old "На то нет никаких причин"
-    new "There's no reason for that"
+    new "No reason in particular"
 
     # game/system/editor_main_character.rpy:1158
     old "Интеллектуальный класс"
-    new "Intellectual class"
+    new "Intellectual preference"
 
     # game/system/editor_main_character.rpy:1160
     old "Спортивный класс"
-    new "Sports class"
+    new "Athletic preference"
 
     # game/system/editor_main_character.rpy:1162
     old "Сбалансированный класс"
-    new "Balanced class"
+    new "Balanced preference"
 
     # game/system/editor_main_character.rpy:1190
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 7 к атрибуту интеллекта\n- 5 к атрибуту ловкости\n- 5 к атрибуту выносливости\n- 5 к атрибуту силы"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 7 to the intelligence attribute\n- 5 to the agility attribute\n- 5 to the endurance attribute\n- 5 to the strength attribute"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 7 to intelligence attribute\n- 5 to agility attribute\n- 5 to endurance attribute\n- 5 to strength attribute"
 
     # game/system/editor_main_character.rpy:1192
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 3 к атрибуту интеллекта"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+3 to intelligence attribute"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 3 to intelligence attribute"
 
     # game/system/editor_main_character.rpy:1194
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 10 к атрибуту красноречия"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 10 to the eloquence attribute"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 10 to speech attribute"
 
     # game/system/editor_main_character.rpy:1196
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 10 к атрибуту интеллекта\n- 10 к атрибуту красноречия"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 10 to the intelligence attribute\n- 10 to the eloquence attribute"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 10 to intelligence attribute\n- 10 to speech attribute"
 
     # game/system/editor_main_character.rpy:1198
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 7 к атрибуту интеллекта\n+ 5 к атрибуту ловкости\n+ 5 к атрибуту выносливости\n+ 5 к атрибуту силы"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 7 to the intelligence attribute\n+ 5 to the agility attribute\n+ 5 to the endurance attribute\n+ 5 to the strength attribute"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 7 to intelligence attribute\n+ 5 to agility attribute\n+ 5 to endurance attribute\n+ 5 to strength attribute"
 
     # game/system/editor_main_character.rpy:1200
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 к атрибуту интеллекта\n+ 5 к атрибуту ловкости\n+ 5 к атрибуту выносливости\n+ 5 к атрибуту силы\n+ 5 к атрибуту красноречия\n+ 20 к атрибуту удачи\n+ 20 к атрибуту авторитета\n+ 10 к атрибуту хитроумия"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to the intelligence attribute\n+ 5 to the agility attribute\n+ 5 to the endurance attribute\n+ 5 to the strength attribute\n+ 5 to the eloquence attribute\n+ 20 to the luck attribute\n+ 20 to the authority attribute\n+ 10 to the cunning attribute"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to intelligence attribute\n+ 5 to agility attribute\n+ 5 to endurance attribute\n+ 5 to strength attribute\n+ 5 to speech attribute\n+ 20 to luck attribute\n+ 20 to authority attribute\n+ 10 cunning attribute"
 
     # game/system/editor_main_character.rpy:1202
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Класс с уклоном на физику, математику и другие точные науки. Больше обычных занятий, практически нет занятий физической культуры, из-за чего могут быть некоторые ограничения в прокачке вашего персонажа в физическом плане."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}A class with an emphasis on physics, mathematics and other exact sciences. There are more regular classes, there are practically no physical education classes, which is why there may be some restrictions in leveling up your character physically."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}A class with an emphasis on physics, mathematics and other sciences. There are more regular classes, and almost no physical education classes, which may hinder your character's physical development."
 
     # game/system/editor_main_character.rpy:1204
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Класс с уклоном на спортивные успехи. Больше занятий физической культуры, практически нет занятий, связанных с точными науками, из-за чего могут быть некоторые проблемы в прокачке атрибута интеллекта вашего персонажа."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}A class with a focus on sports success. There are more physical education classes, there are practically no classes related to the exact sciences, which is why there may be some problems in leveling up your character’s intelligence attribute."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}A class with a focus on athletics. There are more physical education classes and almost no science classes, which may hinder your character's mental development."
 
     # game/system/editor_main_character.rpy:1206
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Сбалансированный класс без каких-либо перегибов. Есть и уроки физической культуры, и точные науки, из-за чего ваш персонаж может развиваться более равномерно."
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}A balanced class without any excesses. There are also lessons in physical education and science, so your character can develop more evenly."
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}A balanced class without a focus. Equal amount of physical education and science classes, allowing your character to develop evenly."
 # TODO: Translation updated at 2024-04-24 17:47
 
 translate english strings:
@@ -1756,29 +1756,29 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:600
     old "Персонаж женского пола находится\nв разработке, поэтому ему\nнедоступны некоторые функции и\nосновной сюжет игры.\n\nТакже при игре за такого персонажа\nмогут возникать ошибки."
-    new "The female character is\nin development, so some functions and\nthe main plot of the game\nare not available.\n\nAlso, errors may occur when playing as such a character."
+    new "The female player character is\nin development. As such, certain features and\nthe the main plot\nare not available.\n\nIt may also result in more errors."
 # TODO: Translation updated at 2024-05-03 21:37
 
 translate english strings:
 
     # game/system/editor_main_character.rpy:549
     old "Данная функция находится в разработке и доступна только при подписке уровня Best Friend ($10) и выше, а также бета-тестерам."
-    new "This feature is in development and is only available to Best Friend ($10) or higher subscriptions and to beta testers."
+    new "This feature is in development and only available starting from Best Friend ($10) subscription level and to beta testers."
 # TODO: Translation updated at 2024-07-25 11:16
 
 translate english strings:
 
     # game/system/editor_main_character.rpy:577
     old "При игре за персонажа женского\nпола игра не будет иметь\nкакого-либо сюжета. Игра будет\nстроиться только как песочница.\n\nКроме того, игра за девушку может\nиметь некоторые ошибки, при\nкоторых к вам будут обращаться,\nкак к парню."
-    new "When playing as a female character,\nthe game will not have any plot.\nThe game will be built\nonly as a sandbox.\n\nIn addition, playing as a girl may have\nsome mistakes in which you will be\ntreated as a guy."
+    new "When playing as a female character,\nthe game will not have any plot.\nOnly the sandox elements\nwill be playable.\n\nIn addition, the game may sometimes\n refer to you as male."
 
     # game/system/editor_main_character.rpy:703
     old "Ничем непримечательная семья, где есть отец,\nмать и, конечно же, вы - единственная дочь,\nкоторая была переведена в академию, куда\nдавно хотела поступить."
-    new "An unremarkable family, where there is a\nfather, a mother and, of course, you are the\nonly daughter who was transferred to the\nacademy, where she wanted to enroll for a long time."
+    new "An ordinary family with a father, a\nmother, and obviously you, the only daughter. You\nwere transferred to the academy that\nyou wanted to enroll in for a while."
 
     # game/system/editor_main_character.rpy:713
     old "Неполная семья, погрязшая в долгах и кредитах.\nК сожалению, вы были чрезвычайно\nагрессивной со своими сверстниками,\nно успешно поступили в академию, хоть и\nза деньги..."
-    new "An incomplete family mired in debt and loans.\nUnfortunately, you were extremely\naggressive with your peers, but you\nsuccessfully entered the academy, albeit\nfor money..."
+    new "A single-parent family with many\ndebts. Unfortunately, you were very\naggressive towards your peers, but still managed to successfully\nenroll in the academy, even if you had\nto pay..."
 
     # game/system/editor_main_character.rpy:858
     old "Прилежная ученица"
@@ -1794,7 +1794,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:960
     old "Я была изгоем в предыдущей академии"
-    new "I was an outsider."
+    new "I was an outcast."
 
     # game/system/editor_main_character.rpy:1023
     old "Новые парни"
