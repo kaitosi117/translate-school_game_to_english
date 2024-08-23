@@ -8,7 +8,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:72
     old "Повседневная"
-    new "Casual set"
+    new "Everyday set"
 
     # game/system/menu_equip_for_mc.rpy:79
     old "Внешний вид"
@@ -24,7 +24,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:121
     old "Открыть меню перков"
-    new "Open the perks menu"
+    new "Open perks menu"
 
     # game/system/menu_equip_for_mc.rpy:126
     old "Открыть общую статистику"
@@ -57,75 +57,75 @@ translate english ecgibitionism_glgg_label_44647fe2:
 translate english tattoss_and_piercing_done_273ba273:
 
     # "Пирсинг/тату будет стоить 1.000 кредитов. Согласны ли вы на его добавление во внешность персонажа?"
-    "Piercing/tattoo will cost 1,000 credits. Do you agree to add it to the character's appearance?"
+    "Piercing/tattoo will cost 1,000 credits. Do you wish to add it to the character's appearance?"
 
 # game/system/menu_equip_for_mc.rpy:530
 translate english tattoss_and_piercing_donesadazx_0f694093:
 
     # "Ваших средств не хватает, чтобы набить татуировку/сделать пирсинг."
-    "Your funds are not enough to get a tattoo/ piercing."
+    "You do not have enough funds to get a tattoo/piercing."
 
 translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:216
     old "– Тату на груди"
-    new "– Tattoo on the chest"
+    new "– Chest tattoo"
 
     # game/system/menu_equip_for_mc.rpy:229
     old "– Тату на левой ноге 1"
-    new "– Tattoo on the left leg 1"
+    new "– Left leg tattoo 1"
 
     # game/system/menu_equip_for_mc.rpy:242
     old "– Тату на левой ноге 2"
-    new "– Tattoo on the left leg 2"
+    new "– Left leg tattoo 2"
 
     # game/system/menu_equip_for_mc.rpy:255
     old "– Тату на шее"
-    new "– Tattoo on the neck"
+    new "– Neck tattoo"
 
     # game/system/menu_equip_for_mc.rpy:268
     old "– Тату на правой руке 1"
-    new "– Tattoo on the right hand 1"
+    new "– Right arm tattoo 1"
 
     # game/system/menu_equip_for_mc.rpy:281
     old "– Тату на правой руке 2"
-    new "– Tattoo on the right hand 2"
+    new "– Right arm tattoo 2"
 
     # game/system/menu_equip_for_mc.rpy:294
     old "– Тату на правой руке 3"
-    new "– Tattoo on the right hand 3"
+    new "– Right arm tattoo 3"
 
     # game/system/menu_equip_for_mc.rpy:307
     old "– Тату на правой ноге"
-    new "– Tattoo on the right leg"
+    new "– Right leg tattoo"
 
     # game/system/menu_equip_for_mc.rpy:325
     old "– Цепь на губе"
-    new "– Chain on the lip"
+    new "– Chain lip piercing"
 
     # game/system/menu_equip_for_mc.rpy:338
     old "– Пирсинг на ключице"
-    new "– Piercing on the collarbone"
+    new "– Collarbone piercing"
 
     # game/system/menu_equip_for_mc.rpy:351
     old "– Пирсинг на лбу"
-    new "– Piercing on the forehead"
+    new "– Forehead piercing"
 
     # game/system/menu_equip_for_mc.rpy:364
     old "– Пирсинг на левой брови 1"
-    new "– Piercing on the left eyebrow 1"
+    new "– Left eyebrow piercing 1"
 
     # game/system/menu_equip_for_mc.rpy:377
     old "– Пирсинг на левой брови 2"
-    new "– Piercing on the left eyebrow 2"
+    new "– Left eyebrow piercing 2"
 
     # game/system/menu_equip_for_mc.rpy:390
     old "– Пирсинг левом ухе 1"
-    new "– Piercing of the left ear 1"
+    new "– Left ear piercing 1"
 
     # game/system/menu_equip_for_mc.rpy:403
     old "– Пирсинг левом ухе 2"
-    new "– Piercing of the left ear 2"
+    new "– Left ear piercing 2"
 
     # game/system/menu_equip_for_mc.rpy:416
     old "– Пирсинг в носу 1"
@@ -141,11 +141,11 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:455
     old "– Пирсинг в правой брови"
-    new "– Piercing in the right eyebrow"
+    new "– Right eyebrow piercing"
 
     # game/system/menu_equip_for_mc.rpy:516
     old "{color=#000000}Оставить пирсинг/тату.\n{size=21}{i}30 минут\n1.000 кредитов{/i}{/size}"
-    new "{color=#000000}Leave a piercing/tattoo.\n{size=21}{i}30 minutes\n1.000 credits{/i}{/size}"
+    new "{color=#000000}Leave piercing/tattoo.\n{size=21}{i}30 minutes\n1.000 credits{/i}{/size}"
 
     # game/system/menu_equip_for_mc.rpy:516
     old "{color=#000000}Убрать пирсинг/тату.\n{size=21}{i}0 энергии{/i}{/size}"
@@ -156,27 +156,27 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:320
     old "– Тату на лице 1"
-    new "– Tattoo on the face 1"
+    new "– Face tattoo 1"
 
     # game/system/menu_equip_for_mc.rpy:333
     old "– Тату на лице 2"
-    new "– Tattoo on the face 2"
+    new "– Face tattoo 2"
 
     # game/system/menu_equip_for_mc.rpy:346
     old "– Тату на лице 3"
-    new "– Tattoo on the face 3"
+    new "– Face tattoo 3"
 
     # game/system/menu_equip_for_mc.rpy:359
     old "– Тату на лице 4"
-    new "– Tattoo on the face 4"
+    new "– Face tattoo 4"
 
     # game/system/menu_equip_for_mc.rpy:372
     old "– Тату на лице 5"
-    new "– Tattoo on the face 5"
+    new "– Face tattoo 5"
 
     # game/system/menu_equip_for_mc.rpy:385
     old "– Тату на лице 6"
-    new "– Tattoo on the face 6"
+    new "– Face tattoo 6"
 # TODO: Translation updated at 2022-10-10 15:42
 
 translate english strings:
@@ -187,7 +187,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:195
     old "НУЖНО ЛЕЧЕНИЕ"
-    new "NEED A HEAL"
+    new "HEALING REQUIRED"
 
     # game/system/menu_equip_for_mc.rpy:199
     old "ПР. РУКА"
@@ -214,7 +214,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:222
     old "Повседневная 2"
-    new "Casual 2"
+    new "Everyday 2"
 
     # game/system/menu_equip_for_mc.rpy:224
     old "Гачи"
@@ -225,11 +225,11 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Надеты очки"
-    new "Glasses are on"
+    new "Wearing glasses"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "На вас надеты очки, которые вы получили от странной девушки... Как ни странно, они рабочие и дают возможность видеть сквозь одежду."
-    new "You are wearing glasses that you received from a strange girl... Strangely enough, they are workers and make it possible to see through clothes."
+    new "You are wearing glasses that you received from a strange girl... Weirdly enough, they work and give you the ability to see through clothes."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- Позволяет видеть сквозь одежду"
@@ -241,27 +241,27 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- 50% к модификатору внешности вашего персонажа."
-    new "- 50% to your character's appearance modifier."
+    new "- +50% to appearance modifier."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Чистое тело"
-    new "A clean body"
+    new "Clean body"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Чистое тело - залог внимания со стороны противоположного пола. Нет, это дейсвительно помогает!"
-    new "A clean body is the key to attention from the opposite sex. No, it really helps!"
+    new "A clean body is the key to attracting attention from the opposite sex. No, it really helps!"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- 40% к модификатору внешности вашего персонажа."
-    new "- 40% to your character's appearance modifier."
+    new "+40% to appearance modifier"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Небольшой загар"
-    new "A little tan"
+    new "Light tan"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Ваша кожа стала чуть темнее и начало привлекать больше внимания. Как это работает? Понятия не имею, но работает."
-    new "Your skin has become a little darker and has started to attract more attention. How does it work? I have no idea, but it works."
+    new "Your skin has gotten a little darker and has started to attract more attention. How does it work? No idea, but it works"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Зелье берсеркера"
@@ -269,11 +269,11 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Странное зелье, из-за которого ваши вены вздулись, а вы стали больше обычного."
-    new "A strange potion that caused your veins to swell and you to become bigger than usual."
+    new "A strange potion that made you bigger and caused your veins to swell."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +60 к физическим атрибутам вне зависимости от вашего максимального доступного показателя атрибутов."
-    new "- +60 physical attributes regardless of your maximum available attribute score."
+    new "- +60 to physical attributes regardless of your maximum available attribute score."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Превышая лимиты"
@@ -281,11 +281,11 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Внезапно к вам пришло озарение, которое помогает не хуже любой фармакологии..."
-    new "Suddenly, you have an epiphany that helps as well as any pharmacology..."
+    new "Suddenly, you have an epiphany that helps no less than any medication..."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20 единиц к максимально доступному показателю всех ваших атрибутов."
-    new "- +20 units to the maximum available indicator of all your attributes."
+    new "- +20 to maximum score of all attributes."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Операция"
@@ -293,23 +293,23 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Операция по улучшению физического состояния, которуюю вы прошли успешно. Вы чувствуете, как ваши генетические пределы уходят на последний план."
-    new "An operation to improve your physical condition, which you have successfully completed. You feel like your genetic limits are receding into the background."
+    new "You have successfully undergone an operation to improve your physical condition. You can feel your genetic limitations fading away."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20 единиц к максимально доступному показателю всех ваших физических атрибутов."
-    new "- +20 units to the maximum available indicator of all your physical attributes."
+    new "- +20 to maximum physical attribute score."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Странная таблетка"
-    new "A strange pill"
+    new "Strange pill"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Таблетка, из-за которой вы чувствуете, как ваши генетические пределы уходят на последний план."
-    new "A pill that makes you feel like your genetic limits are fading into the background."
+    new "A pill that makes you feel like your genetic limits are fading away."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +4 единицы к максимально доступному показателю всех ваших физических атрибутов за каждую используемую таблетку. Максимум таблеток для использования - 5. Использовано: [anabolic_for_cap_muscles_affect]."
-    new "- +4 units to the maximum available indicator of all your physical attributes for each tablet used. The maximum number of tablets to use is 5. Used: [anabolic_for_cap_muscles_affect]."
+    new "- +4 to maximum physical attribute score for each pill taken. The maximum number of pills that can be used is 5. Used: [anabolic_for_cap_muscles_affect]."
 
     # game/system/menu_equip_for_mc.rpy:489
     old "Голова"
@@ -317,11 +317,11 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:511
     old "Правая рука"
-    new "Right hand"
+    new "Right arm"
 
     # game/system/menu_equip_for_mc.rpy:533
     old "Левая рука"
-    new "Left hand"
+    new "Left arm"
 
     # game/system/menu_equip_for_mc.rpy:555
     old "Тело"
@@ -344,11 +344,11 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Внезапный прилив мотивации дает вам заряд бодрости. Ощущения, будто вы можете все."
-    new "A sudden surge of motivation gives you a boost of energy. Feeling like you can do anything."
+    new "A sudden surge of motivation gives you an energy boost. You feel like you can do anything."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута удачи и красноречия."
-    new "- +20% to the attribute indicator of luck and eloquence."
+    new "- +20% to luck and speech attributes."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Книжный червь"
@@ -356,11 +356,11 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Небольшая головная боль - следствие вашей погруженности в книжную историю. Можно сказать, что все нормально, если бы не физические ощущения в организме..."
-    new "A slight headache is a consequence of your immersion in book history. We can say that everything is fine, if not for the physical sensations in the body..."
+    new "As a consequence of your immersion in book history, you seem to have gotten a mild headache. You could say that everything is fine, if it wasn't for the physical sensations in your body..."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- -10% к показателям физических атрибутов."
-    new "- -10% to indicators of physical attributes."
+    new "- -10% to all physical attributes."
 
     # game/system/menu_equip_for_mc.rpy:604
     old "Левая нога"
@@ -375,7 +375,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута авторитета."
-    new "- +20% to authority attribute score."
+    new "- +20% to authority attribute."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Фильм (сил.)"
@@ -383,7 +383,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута силы."
-    new "- +20% to strength attribute score."
+    new "- +20% to strength attribute."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Фильм (лв.)"
@@ -391,7 +391,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута ловкости."
-    new "- +20% to agility attribute score."
+    new "- +20% to agility attribute."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Фильм (уд.)"
@@ -399,7 +399,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута удачи."
-    new "- +20% to luck attribute score."
+    new "- +20% to luck attribute."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Фильм (вын.)"
@@ -407,7 +407,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута выносливости."
-    new "- +20% to endurance attribute score."
+    new "- +20% to endurance attribute."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Фильм (инт.)"
@@ -415,7 +415,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута интеллекта."
-    new "- +20% to intelligence attribute score."
+    new "- +20% to intelligence attribute."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Фильм (хтр.)"
@@ -423,7 +423,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута хитроумия."
-    new "- +20% to cunning attribute score."
+    new "- +20% to cunning attribute."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Фильм (крс.)"
@@ -431,7 +431,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- +20% к показателю атрибута красноречия."
-    new "- +20% to eloquence attribute score."
+    new "- +20% to speech attribute."
 # TODO: Translation updated at 2024-05-12 19:28
 
 translate english strings:
@@ -446,7 +446,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- Минус к показателям физических атрибутов."
-    new "- Minus to indicators of physical attributes."
+    new "- Reduction of physical attributes."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Поврежденная конечность"
@@ -454,16 +454,16 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Небольшая головная и мышечная боль после драки. Возможно, следует немного восстановить свои конечности?"
-    new "Slight headache and muscle pain after a fight. Perhaps you should rehab your limbs a little?"
+    new "Slight headache and muscle pain after a fight. Perhaps you should let your limbs recover a little?"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Дебафф к атрибутам"
-    new "Debuff to attributes"
+    new "Attribute debuff"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Небольшая головная и мышечная боль."
-    new "Minor headache and muscle pain."
+    new "Slight headache and muscle pain."
 
     # game/system/menu_equip_for_mc.rpy:869
     old "Изменения во внешности вашего персонажа были изменены."
-    new "Changes to your character's appearance have been changed."
+    new "Changes to your character's appearance have been saved."
