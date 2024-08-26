@@ -2053,7 +2053,7 @@ translate english strings:
 
     # game/script.rpy:146
     old "ВЫБЕРИТЕ"
-    new "CHOICE"
+    new "CHOOSE YOUR"
 
     # game/script.rpy:147
     old "УРОВЕНЬ СЛОЖНОСТИ"
@@ -2077,15 +2077,15 @@ translate english strings:
 
     # game/script.rpy:163
     old "Легкий уровень сложности для\nначинающих. Отключены все\nусложняющие игру механики,\nневозможно проиграть.\n\n{size=27}- Все конечности имеют прочность,\nкоторая не опускается ниже 100.\n- При покупке новой квартиры не\nнужно платить ренту\n- Минимум энергии - 0\n- Отключена сытость\n- Вашего персонажа больше не могут\nисключить с академии за оценки\n- Опыт получается быстрее\n- Легче прокачиваются отношения с\nрандомизированными НПС\n- Рандомизированные НПС меньше\nустают от разговоров с вашим\nперсонажем\n- Повышенные шансы на разные\nвзаимодействия"
-    new "Easy difficulty level for beginners.\nAll the mechanics that complicate\nthe game are disabled, it is't\npossible to lose.\n\n{size=27}- All limbs have health, which does not fall\nbelow 100.\n- When buying a new apartment, you do\nnot have to pay rent \n- Minimum energy - 0\n- Satiety is disabled \n- Your character can no longer be\nexcluded from the academy for grades\n- The experience turns out faster\n- It is easier to improve relationships with \n randomized NPCs \n- Randomized NPCs are less affected by\ndialoge with your character \n- Increased chances of different\n interactions"
+    new "Easy difficulty level for beginners.\nAll the mechanics that complicate\nthe game are disabled, and it's\nimpossible to lose.\n\n{size=27}- Limb health cannot fall below 100.\n- You don't have to pay\nrent after buying a new apartment\n- Energy can't fall below 0\n- Satiety is disabled\n- Your character can't be expelled\nfrom the academy for poor grades\n- Faster experience gain\n- It's easier to improve relationships\nwith RNPCs\n- RNPCs get tired of\ntalking to your character slower\n- Increased chances of different\n interactions"
 
     # game/script.rpy:165
     old "Средний уровень\nсложности - прекрасная\nвозможность для тех, кто уже\nнемного познал игру и ее\nмеханики. Все еще отсутствуют\nнекоторые механики,\nусложняющие игру, но уже\nможно проиграть.\n\n{size=27}- Восстановление конечностей\nпроисходит гораздо быстрее, а\nурона им наносится меньше\n- Стандартная сложность, на которой\nраньше была игра. Есть возможность\nисключения со академии, сытость, энергия\nи другие показатели, за которыми\nнужно следить."
-    new "The medium level of complexity is\na great opportunity for those who\nhave already learned a lot about\nthe game and its mechanics.\nThere are still some mechanics\nmissing that complicate the game,\nbut it is already possible to lose.\n\n{size=27}- The recovery of limbs occurs much\nfaster, and is applied to them less \n- The standard difficulty on which the\ngame was earlier. There is a possibility\npisclusions from academy. There is satiety,\nenergy, and other indicators that \n should be monitored."
+    new "The medium difficulty level is\nsuitable for those who\nhave already learned a lot about\nthe game and its mechanics.\nSome of the harder mechanics\nare still missing,\nbut it is already possible to lose.\n\n{size=27}- Limbs recover much\nfaster and take less damage\n- This was the standard difficulty in earlier versions.\nIt is possible to be\nexpelled from the academy. You have to manage\nsatiety, energy and\nother similar stats."
 
     # game/script.rpy:167
     old "Тяжелый уровень сложности\nдля любителей хардкора. Здесь\nдаже можно стать бездомным...\n\n{size=27}- В случае, если ваша энергия равна -40\nединицам, ваш персонаж может\nвыключиться на пару часов.\n- В случае, если ваша сытость ниже нуля,\nваши атрибуты могут снижаться.\n- Урон конечностям наносится в\nзадуманном размере, а их\nвосстанавливание занимает больше\nвремени.\n- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки"
-    new "Hard difficulty level for hardcore\nfans. Here you can even become\nhomeless...\n\n{size=27} - If your energy is -40 units, your\ncharacter can turn off for a couple of\nhours.\n- If your satiety is below zero, your\nattributes may decrease.\n- Damage to the limbs is inflicted in a\ndeliberate size, and their restoration\ntakes more time.\n- Relationships are more difficult to\nimprove with randomized NPCs \n- Reduced chances of different\n interactions \n- A significant chance of exclusion from\nacademy for absenteeism and poor\ngrades."
+    new "Hard difficulty level for fans of\nhardcore. Here you can even become\nhomeless...\n\n{size=27} - If your energy falls below -40,\nyour character can\npass out for a couple of hours.\n- If your satiety is below zero, your\nattributes may decrease.\n- Limbs have default durability,\nand their recovery\ntakes longer\n- Relationships with RNPCs\nare harder to improve\n- Reduced chances of different\ninteractions \n- A significant chance of expulsion from\nacademy for skipping class\nand poor grades"
 # TODO: Translation updated at 2022-10-23 19:08
 
 # game/script.rpy:834

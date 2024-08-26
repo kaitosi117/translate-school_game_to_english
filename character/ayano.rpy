@@ -12702,7 +12702,7 @@ translate english strings:
 
     # game/character/ayano.rpy:12
     old "Ох... И не рановато ли ты зашел? Может, еще немного поспишь?"
-    new "Oh... And aren't you a little early? Maybe you get some more sleep?"
+    new "Oh... Aren't you a little early? Maybe you should get some more sleep?"
 
     # game/character/ayano.rpy:12
     old "Хе-хе, доброе тебе утро, игрок! Хорошо спалось?"
@@ -12714,7 +12714,7 @@ translate english strings:
 
     # game/character/ayano.rpy:12
     old "Вечер? Уже вечер? Хе-хе, хорошо у тебя прошел день, игрок?"
-    new "Evening? Is it evening already? He-he, did you have a good day, player?"
+    new "Evening? Is it evening already? Tee-hee, did you have a good day, player?"
 
     # game/character/ayano.rpy:12
     old "Смотри не заигрывайся! Как никак у тебя уже ночь!"
@@ -12722,26 +12722,26 @@ translate english strings:
 
     # game/character/ayano.rpy:12
     old "Ого, новичок? Заходи быстрее, я уже заждалась!"
-    new "Wow, newbie? Come in quickly, I've been waiting for you!"
+    new "Wow, a newbie? Come in quickly, I've been waiting for you!"
 # TODO: Translation updated at 2023-03-03 18:50
 
 translate english strings:
 
     # game/character/ayano.rpy:12
     old "Ого, новичок? Я надеюсь, что тебе понравится эта игра!"
-    new "Wow, newbie? I hope you enjoy this game!"
+    new "Wow, a newbie? I hope you enjoy this game!"
 
     # game/character/ayano.rpy:12
     old "Хе-хе! Это же новенький игрок! Эй, удачной тебе игры!"
-    new "He-he! This is a new player! Hey, have a good game!"
+    new "Tee-hee! A new player! Hey, have a good game!"
 
     # game/character/ayano.rpy:12
     old "Хм... Давно не виделись, правда же, дорогой игрок?"
-    new "Hm... Haven't seen you for a long time, haven't you, dear player?"
+    new "Hm... Haven't seen you in a while, dear player!"
 
     # game/character/ayano.rpy:12
     old "Хе-хе! Рада, что тебе понравилась эта игра! Приходи еще!"
-    new "He-he! I'm glad you liked this game! Come again!"
+    new "Tee-hee! I'm glad you liked this game! Come again!"
 
     # game/character/ayano.rpy:12
     old "Вот это да! Давно не виделись, правда же?"
@@ -12749,7 +12749,7 @@ translate english strings:
 
     # game/character/ayano.rpy:12
     old "Ого, ты вернулся? А я уже и не ждала тебя! Приходи почаще, я скучаю!"
-    new "Wow, are you back? Come more often, I miss you!"
+    new "Wow, are you back? I'd already stopped waiting! Come back more often, i miss you!"
 # TODO: Translation updated at 2023-03-24 13:16
 
 # game/character/ayano.rpy:6256

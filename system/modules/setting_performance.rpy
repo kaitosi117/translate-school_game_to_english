@@ -4,11 +4,11 @@ translate english strings:
 
     # game/system/modules/setting_performance.rpy:24
     old "Преднастройки"
-    new "Presets of performance"
+    new "Performance presets"
 
     # game/system/modules/setting_performance.rpy:25
     old "Вы можете изменить их позже в меню, в разделе настроек."
-    new "You can change it in the menu with settings after the generation of the session"
+    new "You can change these in the settings menu even after generating this session."
 
     # game/system/modules/setting_performance.rpy:27
     old "Максимальная\nпроизводительность"
@@ -40,12 +40,12 @@ translate english strings:
 
     # game/system/modules/setting_performance.rpy:47
     old "«Максимальная производительность» выставляет все настройки так,\nчтобы игра работала у вас максимально стабильно и с\nминимальным количеством подвисаний.\n{size=24}{color=#979baf}Рекомендуется для очень слабых компьютеров и смартфонов."
-    new "«Maximum performance» sets all settings like this, so that the\ngame works for you as stably as possible and with a minimum\nnumber of freeze.\n{size=24}{color=#979baf}It is recommended for very weak computers and smartphones."
+    new "«Maximum performance» configures the settings to\nmaximize stability and minimize stuttering.\n{size=24}{color=#979baf}Recommended for very weak computers and smartphones."
 
     # game/system/modules/setting_performance.rpy:48
     old "«Симуляция» – конфигурация настроек, нацеленная на баланс между\nпроизводительностью и качеством симуляции жизни города."
-    new "«Simulation» – a configuration of settings aimed at balancing\nperformance and the quality of simulation of city life."
+    new "«Simulation» is a balanced configuration of\nsettings aimed at balancing performance\nand the quality of the simulation."
 
     # game/system/modules/setting_performance.rpy:49
     old "«Полная симуляция» задействует макcимальное количество\nвычислительных способностей вашего устройства, чтобы выдавать\nболее точную симуляцию жизни города.\n{size=24}{color=#979baf}Не рекомендуется для очень слабых компьютеров и смартфонов."
-    new "«Full simulation» It uses the maximum amount of computing\nabilities of your device to produce a more accurate simulation\nof city life.\n{size=24}{color=#979baf}It isn't recommended for very weak computers and smartphones."
+    new "«Full simulation» uses the maximum computing\npower of your device to produce a more accurate simulation\nof city life.\n{size=24}{color=#979baf}Not recommended for very weak computers and smartphones."
