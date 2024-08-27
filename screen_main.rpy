@@ -567,7 +567,7 @@ translate english strings:
 
     # game/screen_main.rpy:662
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}минет [npc_name1] [npc_fam1]{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}secluded place [npc_name1] [npc_fam1]{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}secluded place to [npc_name1] [npc_fam1]{/font}{/size}{/color}"
 
     # game/screen_main.rpy:664
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}В укромном месте получает{/font}{/size}{/color}"
@@ -575,7 +575,7 @@ translate english strings:
 
     # game/screen_main.rpy:665
     old "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}минет от [npc_name1] [npc_fam1]{/font}{/size}{/color}"
-    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}secluded place [npc_name1] [npc_fam1]{/font}{/size}{/color}"
+    new "{color=#282828}{size=21}{font=gui/fonts/alegreya.ttf}secluded place from [npc_name1] [npc_fam1]{/font}{/size}{/color}"
 # TODO: Translation updated at 2022-07-13 21:26
 
 translate english strings:

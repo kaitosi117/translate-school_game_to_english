@@ -253,7 +253,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- 40% к модификатору внешности вашего персонажа."
-    new "+40% to appearance modifier"
+    new "- +40% to appearance modifier"
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Небольшой загар"
@@ -356,7 +356,7 @@ translate english strings:
 
     # game/system/menu_equip_for_mc.rpy:3
     old "Небольшая головная боль - следствие вашей погруженности в книжную историю. Можно сказать, что все нормально, если бы не физические ощущения в организме..."
-    new "As a consequence of your immersion in book history, you seem to have gotten a mild headache. You could say that everything is fine, if it wasn't for the physical sensations in your body..."
+    new "As a consequence of your immersion in book history, you seem to have gotten a mild headache. You could say that everything is fine, if it wasn't for the pain..."
 
     # game/system/menu_equip_for_mc.rpy:3
     old "- -10% к показателям физических атрибутов."

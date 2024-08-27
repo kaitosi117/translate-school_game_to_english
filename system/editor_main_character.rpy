@@ -1228,7 +1228,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:3900
     old "Новые девушки - новые лица"
-    new "New girls - new faces"
+    new "New girls - fresh faces"
 
     # game/system/editor_main_character.rpy:3912
     old "Я был изгоем в предыдущей академии"
@@ -1669,7 +1669,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:887
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 к атрибуту интеллекта\n- 2000 кредитов к начальному капиталу"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to intelligence attribute\n- 2000 starting money"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to intelligence attribute\n- 2000 starting funds"
 
     # game/system/editor_main_character.rpy:889
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}Никаких бонусов и дебаффов."
@@ -1677,11 +1677,11 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:891
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 5 к атрибуту интеллекта\n+ 3000 кредитов к начальному капиталу"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 5 to intelligence attribute\n+ 3000 starting money"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}- 5 to intelligence attribute\n+ 3000 starting funds"
 
     # game/system/editor_main_character.rpy:893
     old "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 к атрибуту силы\n+ 5 к атрибуту ловкости\n+ 5 к атрибуту выносливости\n- 3000 кредитов к начальному капиталу"
-    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to strength attribute\n+ 5 to agility attribute\n+ 5 to endurance attribute\n- 3000 starting money"
+    new "{font=gui/fonts/CeraPro-Bold.ttf}{size=24}{color=fff}+ 5 to strength attribute\n+ 5 to agility attribute\n+ 5 to endurance attribute\n- 3000 starting funds"
 
     # game/system/editor_main_character.rpy:1150
     old "Новые девушки"
@@ -1790,7 +1790,7 @@ translate english strings:
 
     # game/system/editor_main_character.rpy:945
     old "Новые парни - новые лица"
-    new "New guys - new faces"
+    new "New guys - fresh faces"
 
     # game/system/editor_main_character.rpy:960
     old "Я была изгоем в предыдущей академии"

@@ -434,11 +434,11 @@ translate english strings:
 
     # game/screens.rpy:326
     old "{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}Настройки{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}Setting{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}Settings{/color}{/size}{/font}"
 
     # game/screens.rpy:327
     old "{u}{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}Настройки{/color}{/size}{/font}{/u}"
-    new "{u}{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}Setting{/color}{/size}{/font}{/u}"
+    new "{u}{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}Settings{/color}{/size}{/font}{/u}"
 
     # game/screens.rpy:331
     old "{font=gui/fonts/alegreya.ttf}{size=40}{color=#ffffff}Главное меню{/color}{/size}{/font}"
@@ -473,7 +473,7 @@ translate english strings:
 
     # game/screens.rpy:802
     old "{font=gui/fonts/alegreya.ttf}{size=60}{color=#ffffff}настройки{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=60}{color=#ffffff}Setting{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=60}{color=#ffffff}Settings{/color}{/size}{/font}"
 
     # game/screens.rpy:807
     old "{i}{font=gui/fonts/alegreya.ttf}{size=50}{color=#505050}Звук{/color}{/size}{/font}{/i}{i}{font=gui/fonts/alegreya.ttf}{size=20}{color=#b4b4b4}: то, что ты можешь услышать!{/color}{/size}{/font}{/i}"
@@ -493,19 +493,19 @@ translate english strings:
 
     # game/screens.rpy:835
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#282828}Полноэкранный{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=20}{color=#787878}/Оконный{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#282828}Fullscreen{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=20}{color=#787878}/Window{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#282828}Fullscreen{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=20}{color=#787878}/Windowed{/color}{/size}{/font}"
 
     # game/screens.rpy:844
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#787878}Полноэкранный/{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=28}{color=#282828}Оконный{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#787878}Fullscreen/{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=28}{color=#282828}Window{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#787878}Fullscreen/{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=28}{color=#282828}Windowed{/color}{/size}{/font}"
 
     # game/screens.rpy:851
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Скорость{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Speed{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Text{/color}{/size}{/font}"
 
     # game/screens.rpy:852
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}текста{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}text{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}speed{/color}{/size}{/font}"
 
     # game/screens.rpy:853
     old "{font=gui/fonts/alegreya.ttf}{size=16}{color=#505050}Медл.{/color}{/size}{/font}"
@@ -551,15 +551,15 @@ translate english strings:
 
     # game/screens.rpy:808
     old "{i}{font=gui/fonts/alegreya.ttf}{size=50}{color=#505050}Функции{/color}{/size}{/font}{/i}{i}{font=gui/fonts/alegreya.ttf}{size=20}{color=#b4b4b4}: то, что может облегчить твою игру!{/color}{/size}{/font}{/i}"
-    new "{i}{font=gui/fonts/alegreya.ttf}{size=50}{color=#505050}Functions{/color}{/size}{/font}{/i}{i}{font=gui/fonts/alegreya.ttf}{size=20}{color=#b4b4b4}: this will make your game easier!{/color}{/size}{/font}{/i}"
+    new "{i}{font=gui/fonts/alegreya.ttf}{size=50}{color=#505050}Functions{/color}{/size}{/font}{/i}{i}{font=gui/fonts/alegreya.ttf}{size=15}{color=#b4b4b4}: this can make your game more convenient!{/color}{/size}{/font}{/i}"
 
     # game/screens.rpy:880
     old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Отказываться от диалогов с{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Refuse dialogs with{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Automatically refuse dialogue{/color}{/size}{/font}"
 
     # game/screens.rpy:881
     old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}рандомизированными НПС автоматически{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}randomized NPCs automatically{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}with RNPCs{/color}{/size}{/font}"
 
     # game/screens.rpy:898
     old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Не раздевать НПС при клике на них{/color}{/size}{/font}"
@@ -607,7 +607,7 @@ translate english strings:
 
     # game/screens.rpy:958
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}(очень сильно влияет на производительность){/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}(very much affects performance){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}(Significant performance impact){/color}{/size}{/font}"
 
     # game/screens.rpy:975
     old "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}Один костюм для рандомизированных НПС{/color}{/size}{/font}"
@@ -623,11 +623,11 @@ translate english strings:
 
     # game/screens.rpy:997
     old "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Процент активных рандомизированных НПС{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Percentage of active randomized NPCs{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=28}{color=#505050}Percentage of active RNPCs{/color}{/size}{/font}"
 
     # game/screens.rpy:998
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}(Влияет на производительность в зависимости от значения){/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}(Affects performance depending on the value){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}(Performance impact depends on the value){/color}{/size}{/font}"
 
     # game/screens.rpy:999
     old "{font=gui/fonts/alegreya.ttf}{size=34}{color=#505050}[procent_npc_generate]%{/color}{/size}{/font}"
@@ -639,11 +639,11 @@ translate english strings:
 
     # game/screens.rpy:942
     old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Одна инициация диалога со стороны{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}One initiation of a dialogue by a{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}One RNPC dialogue initiation{/color}{/size}{/font}"
 
     # game/screens.rpy:943
     old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}рандомизированного НПС за один акт{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}randomized NPC in one act{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}per act{/color}{/size}{/font}"
 # TODO: Translation updated at 2021-06-18 02:17
 
 translate english strings:
@@ -775,15 +775,15 @@ translate english strings:
 
     # game/screens.rpy:1184
     old "School Game – текстовая игра, представляющая из себя симулятор школьника."
-    new "School Game is a text game that is a simulator of a student."
+    new "School Game is a text-based academy student simulator."
 
     # game/screens.rpy:1196
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Размер{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Size{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Font{/color}{/size}{/font}"
 
     # game/screens.rpy:1197
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}шрифта{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}font{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}size{/color}{/size}{/font}"
 
     # game/screens.rpy:1215
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}обводки{/color}{/size}{/font}"
@@ -791,11 +791,11 @@ translate english strings:
 
     # game/screens.rpy:1232
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Отступ{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Space{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}Line{/color}{/size}{/font}"
 
     # game/screens.rpy:1233
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}строк{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}line{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}spacing{/color}{/size}{/font}"
 
     # game/screens.rpy:1543
     old "{font=gui/fonts/calibri.ttf}{size=26}{color=#282828}Пример{/color}{/size}{/font}"
@@ -811,26 +811,26 @@ translate english strings:
 
     # game/screens.rpy:1547
     old "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}Цвет{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}Color{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}Outline{/color}{/size}{/font}"
 
     # game/screens.rpy:1548
     old "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}текста{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}text{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}Text{/color}{/size}{/font}"
 
     # game/screens.rpy:1551
     old "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}обводки{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}outlne{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=22}{color=#282828}color{/color}{/size}{/font}"
 # TODO: Translation updated at 2022-04-04 02:41
 
 translate english strings:
 
     # game/screens.rpy:1708
     old "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Пропуск подтверждения{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Skipping confirmation{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=26}{color=#505050}Skip{/color}{/size}{/font}"
 
     # game/screens.rpy:1709
     old "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}на выход/смену сохранения{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}to exit/save change{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=24}{color=#505050}exit/save confirmation{/color}{/size}{/font}"
 # TODO: Translation updated at 2022-04-15 05:59
 
 translate english strings:
@@ -857,22 +857,22 @@ translate english strings:
 
     # game/screens.rpy:1838
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[При включении этой функции РНПС с четным ID будут активно{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[When this function is enabled, RNPs with an even ID will{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[When this function is enabled, RNPCs with an even ID are{/color}{/size}{/font}"
 
     # game/screens.rpy:1839
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}передвигаться только в четное время суток, а с нечетным ID,{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}be active move only at an even time of day, and with an{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}active only at even hours, and RNPCs with{/color}{/size}{/font}"
 
     # game/screens.rpy:1840
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}соответственно,только в нечетное время суток.]{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}odd ID, accordingly, only at odd times of the day.]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}odd IDs are only active at odd hours of the day.]{/color}{/size}{/font}"
 # TODO: Translation updated at 2022-05-28 04:21
 
 translate english strings:
 
     # game/screens.rpy:1690
     old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Показывать пол РНПС тэгом в его имени?{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Show the gender of the RNPCs tag in its name?{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Show RNPC gender in it's name as a tag?{/color}{/size}{/font}"
 
     # game/screens.rpy:1691
     old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(М - мужской, F - женский){/color}{/size}{/font}"
@@ -911,11 +911,11 @@ translate english strings:
 
     # game/screens.rpy:1257
     old "{font=gui/fonts/calibri_bold.ttf}{size=40}{color=#282828}СЛОЖНОСТЬ{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri_bold.ttf}{size=40}{color=#282828}DIFFICULT{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri_bold.ttf}{size=40}{color=#282828}DIFFICULTY{/color}{/size}{/font}"
 
     # game/screens.rpy:1259
     old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}Описание сложности:{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}Description of difficult:{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}Difficulty description:{/color}{/size}{/font}"
 
     # game/screens.rpy:1266
     old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Рандомизированные НПС сильнее устают\nот общения с вашим персонажем\n- Замедленное получение опыта\n- Тратится одна единица энергии каждый\nчас внутриигрового времени\n- Тратится одна единица сытости каждый\nчас внутриигрового времени\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки{/color}{/size}{/font}"
@@ -952,11 +952,11 @@ translate english strings:
 
     # game/screens.rpy:1270
     old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Восстановление конечностей\nпроисходит гораздо быстрее, а\nурона им наносится меньше\n- Стандартная сложность, на которой\nраньше была игра. Есть возможность\nисключения со академии, сытость, энергия и\nдругие показатели, за которыми нужно\nследить."
-    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- The recovery of limbs is much faster, and\nless damage is inflicted on them\n- The standard difficulty that the game used\nto be on. There is a possibility of exclusion\nfrom academy, satiety, energy and other\nindicators that need to be monitored."
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Limbs recover much\nfaster and take less damage\n- This was the standard difficulty\nin earlier versions. It is possible to be\nexpelled from the academy. You have to manage\nsatiety, energy and\nother similar stats."
 
     # game/screens.rpy:1274
     old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Все конечности имеют прочность,\nкоторая не опускается ниже 100.\n- При покупке новой квартиры не нужно\nплатить ренту\n- Минимум энергии - 0\n- Отключена сытость\n- Вашего персонажа больше не могут\nисключить с академии за оценки\n- Опыт получается быстрее\n- Легче прокачиваются отношения с\nрандомизированными НПС\n- Рандомизированные НПС меньше устают\nот разговоров с вашим персонажем\n- Повышенные шансы на разные\nвзаимодействия"
-    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- All limbs have health, which does not fall\nbelow 100.\n- When buying a new apartment, you do not\nneed to pay rent \n- Minimum energy - 0\n- Satiety is disabled \n- Your character can no longer be excluded\nfrom the academy for grades \n- Experience turns out faster \n- It is easier to improve relationships\nwith randomized NPCs \n- Randomized NPCs are less tired of dialoge\nwith your character \n- Increased chances of different \n interactions"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- Limb health cannot fall below 100.\n- You don't have to pay\nrent after buying a new apartment\n- Energy cannot fall below 0\n- Satiety is disabled \n- Your character can't be expelled\nfrom the academy for poor grades\n- Faster experience gain\n- It's easier to improve relationships\nwith RNPCs\n- RNPCs get tired of\ntalking to your character slower\n- Increased chances of different\ninteractions"
 
 # TODO: Translation updated at 2022-10-12 23:02
 
@@ -972,21 +972,21 @@ translate english strings:
 
     # game/screens.rpy:1267
     old "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- В случае, если ваша энергия равна -40\nединицам, ваш персонаж может\nвыключиться на пару часов.\n- В случае, если ваша сытость ниже нуля,\nваши атрибуты могут снижаться.\n- Урон конечностям наносится в\nзадуманном размере, а их\nвосстанавливание занимает больше\nвремени.\n- Сложнее прокачиваются отношения\nс рандомизированными НПС\n- Сниженные шансы на разные\nвзаимодействия\n- Существенный шанс исключения с\nакадемии за погулы и плохие оценки{/color}{/size}{/font}"
-    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- If your energy is equal to -40 units, your\ncharacter can switch off for a couple of hours.\n- If your satiety is below zero, your attributes\nmay decrease.\n- Damage to the limbs is inflicted in a\ndeliberate size, and their restoration takes\nmore time.\n- Relationships are more difficult to improve\n with randomized NPCs \n- Reduced chances of different\n interactions \n- A significant chance of exclusion from\nakademy for absenteeism and poor grades{/color}{/size}{/font}"
+    new "{font=gui/fonts/calibri.ttf}{size=28}{color=#282828}- If your energy falls below -40, your\ncharacter can pass out for a couple of hours\n- If your satiety is below zero, your attributes\nmay decrease\n- Limbs have default durability,\nand their recovery\ntakes longer\n- Relationships with RNPCs\nare harder to improve\n- Reduced chances of different\ninteractions\n- A significant chance of expulsion from\nacademy for skipping class\nand poor grades{/color}{/size}{/font}"
 # TODO: Translation updated at 2022-11-10 16:41
 
 translate english strings:
 
     # game/screens.rpy:1306
     old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Netorare – поджанр хентая, в котором персонаж изменяет своему партнёру. В этом режиме ваша девушка, если такое возможно, имеет шанс изменять вам с другим парнем из академии, который по тем или иным причинам приглянулся ей больше вас, но при этом она не хочет разрывать отношения с вами."
-    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Netorare – a hentai subgenre in which a character cheats on his partner. In this mode, your girlfriend, if possible, has a chance to cheat on you with another guy from academy, who for one reason or another liked her more than you, but she does not want to break off relations with you."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Netorare – a hentai subgenre in which a character cheats on their partner. If this is enabled, your partner, if possible, has a chance to cheat on you with someone else from the academy. This happens if they like someone more than you, but don't want to break up your relationship."
 # TODO: Translation updated at 2022-11-27 08:38
 
 translate english strings:
 
     # game/screens.rpy:1318
     old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Кнопка, отвечающая за включение/выключение крови и синяков от драк, мордобоев, издевательств и других вещей. Кроме того, данная кнопка отключает кровь при потери девственности у рандомизированных НПС."
-    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}The button responsible for turning on/off blood and bruises from fights, bruises, bullying and other things. In addition, this button turns off the blood in case of loss of virginity in randomized NPCs."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Enables/disables blood and bruises inflicted by various types of physical assault. It also disables the blood that appears when RNPCs lose their virginity."
 # TODO: Translation updated at 2022-12-12 15:19
 
 translate english strings:
@@ -1004,15 +1004,15 @@ translate english strings:
 
     # game/screens.rpy:1368
     old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Кнопка, отвечающая за включение/выключение тату и пирсинга у рандомизированных НПС."
-    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}The button responsible for turning on/off tattoos and piercings in randomized NPCs."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Enables/disables tattoos and piercings for RNPCs."
 
     # game/screens.rpy:1989
     old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Подтверждение начала драк{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Confirmation of the beginning of fights{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Confirmation for initiating fights{/color}{/size}{/font}"
 
     # game/screens.rpy:1990
     old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}с рандомизированными НПС{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}with randomized NPCs{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}with RNPCs{/color}{/size}{/font}"
 # TODO: Translation updated at 2023-04-12 21:32
 
 translate english strings:
@@ -1027,26 +1027,26 @@ translate english strings:
 translate english after_load_3cd0cbda:
 
     # "Данное сохранение было сделано на более старой версии игры. Мы не рекомендуем продолжать играть на нем, так как могут возникнуть баги и исключения."
-    "This saving was done on an older version of the game. We do not recommend continuing to play on it, as bugs and exceptions may occur."
+    "This save was created on an older version of the game. We do not recommend playing on it, as bugs and exceptions may occur."
 
 # game/screens.rpy:776
 translate english after_load_c6cb5f0c:
 
     # "Предупрежден значит вооружен, верно же?"
-    "Forewarned means armed, right?"
+    "Forewarned is forearmed, right?"
 
 translate english strings:
 
     # game/screens.rpy:933
     old "{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5}\nВерсия игры:{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=30}{color=#ff0000} [version_game_slot]{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5}\nVersion game:{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=30}{color=#ff0000} [version_game_slot]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=30}{color=#5683a5}\nGame version:{/color}{/size}{/font}{font=gui/fonts/alegreya.ttf}{size=30}{color=#ff0000} [version_game_slot]{/color}{/size}{/font}"
 # TODO: Translation updated at 2023-07-03 00:52
 
 translate english strings:
 
     # game/screens.rpy:887
     old "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}Новое облачное сохранение{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}New Cloud Saving{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}New Cloud Save{/color}{/size}{/font}"
 
     # game/screens.rpy:1074
     old "{font=gui/fonts/alegreya.ttf}{size=46}{color=#5683a5}Облако{/color}{/size}{/font}"
@@ -1061,11 +1061,11 @@ translate english strings:
 
     # game/screens.rpy:2058
     old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Включена ли интеграция с дискордом?{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Enable integration to discord??{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Enable discord integration?{/color}{/size}{/font}"
 
     # game/screens.rpy:2059
     old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(Работает только на ПК){/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(It working only PC devices){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(PC only){/color}{/size}{/font}"
 # TODO: Translation updated at 2023-09-14 18:39
 
 translate english strings:
@@ -1090,15 +1090,15 @@ translate english strings:
 
     # game/screens.rpy:2327
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[При включении этой функции игровая память будет пытаться,{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[If this function will be enable, it will reduce the number of{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[If this function is enabled, the number of{/color}{/size}{/font}"
 
     # game/screens.rpy:2328
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}что уменьшит количество вылетов, но при этом увеличит нагрузку{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}crash of the game, but increase load your device{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}crashes will be reduced, but the load on your device{/color}{/size}{/font}"
 
     # game/screens.rpy:2329
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}в определенные игровые моменты.]{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}in certain moment of the game.]{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}will increase in certain moments.]{/color}{/size}{/font}"
 
     # game/screens.rpy:2330
     old "{font=gui/fonts/alegreya.ttf}{size=22}{color=#505050}(Влияет на производительность){/color}{/size}{/font}"
@@ -1109,11 +1109,11 @@ translate english strings:
 
     # game/screens.rpy:2354
     old "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Включена ли консоль{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Is the console turned on?{/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=23}{color=#505050}Turn on console?{/color}{/size}{/font}"
 
     # game/screens.rpy:2355
     old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(доступно только на ПК устройствах){/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(only available on PC devices){/color}{/size}{/font}"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(PC only){/color}{/size}{/font}"
 # TODO: Translation updated at 2024-04-04 00:10
 
 translate english strings:
@@ -1136,11 +1136,11 @@ translate english strings:
 
     # game/screens.rpy:2277
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Сильно ограничивает кэширование игры, из-за чего игра{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Severely limits the caching of the game, which is why the game"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}[[Severely limits the caching of the game, making it"
 
     # game/screens.rpy:2278
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}потребляет значительно меньше оперативной памяти, предотвращая{/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}consumes significantly less RAM, preventing"
+    new "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}consume significantly less RAM, which prevents"
 
     # game/screens.rpy:2279
     old "{font=gui/fonts/alegreya.ttf}{size=20}{color=#505050}внезапные вылеты на слабых/средних/определенных устройствах.]{/color}{/size}{/font}"
@@ -1152,11 +1152,11 @@ translate english strings:
 
     # game/screens.rpy:2374
     old "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(перезагрузит игру){/color}{/size}{/font}"
-    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(restart the game)"
+    new "{font=gui/fonts/alegreya.ttf}{size=21}{color=#505050}(Forcefully restarts the game)"
 # TODO: Translation updated at 2024-05-27 09:23
 
 translate english strings:
 
     # game/screens.rpy:1462
     old "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Кнопка, включающая/выключающая возможность забеременеть для рандомизированных НПС женского пола."
-    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}A button that enables/disables the possibility of getting pregnant for randomized female NPCs."
+    new "{size=20}{color=434343}{font=gui/fonts/calibri.ttf}Enables/disables the possibility of getting pregnant for female RNPCs."
